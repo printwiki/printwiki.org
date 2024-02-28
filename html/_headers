@@ -1,0 +1,26 @@
+/*
+    Content-Type: text/html
+
+/static/*.css
+ ! Content-Type
+
+/static/*.png
+ ! Content-Type
+
+/static/*.ico
+ ! Content-Type
+
+/static/common.css
+    Content-Type: text/css
+
+/static/layout.css
+    Content-Type: text/css
+
+/static/style.css
+    Content-Type: text/css
+
+/static/favicon.ico
+    Content-Type: image/vnd.microsoft.icon
+
+/static/printwiki-logo.png
+    Content-Type: image/png

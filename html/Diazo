@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Diazo - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Diazo" class="currentChild" href="Diazo">Diazo</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In organic chemistry, the term for any compound or other material containing a diazo group, which basically consists of either bivalent :N=N: or bivalent =N=N (where <em>N</em> is the chemical element nitrogen, : denotes a single bond, and = denotes a double bond) bonded to one hydrocarbon group and one other element or group, such as C6H5N=NOH (benzenediazo hydroxide) and CH<sub>2</sub>=N=N (diazomethane). 
+</p>
+<p id="l3">
+The term <em>diazo</em> in platemaking and photography typically refers to a compound containing salts of diazonium, denoted by the general formula [Ar]N<sub>2</sub>X, where <em>Ar</em> represents an aryl group (any organic group created by the removal of a hydrogen atom from a hydrocarbon, such as phenyl, C6H5: , produced by the removal of a hydrogen atom from benzene, C6H6) and <em>X</em> represents a negatively-charged ion. One common diazonium salt is benzenediazonium chloride, C6H5N<sub>2</sub>Cl, which includes a diazo group, an aryl group (phenyl), and chlorine. The mixture of a diazonium salt with an azo dye, a dye made from organic compounds comprising an azo group (an organic molecule consisting of bivalent :N=N: joined to <em>two</em> hydrocarbon groups, such as azobenzene, C<sub>12</sub>H<sub>10</sub>N<sub>2</sub>) is sensitive to ultraviolet, violet, and blue light, and can be used effectively in light-sensitive coatings for <a title="Photolithographic" href="Photolithographic">photolithographic</a> printing plates. An advantage of diazo coatings is that they are not affected by changes in temperature or humidity, which allows them to have a shelf-life in excess of that possessed by other types of plates. (See <a title="Diazo Plate" href="Diazo_Plate">Diazo Plate</a> and <a title="Plate: Offset Lithography" class="nonexistent" href="http://printwiki.org/Plate:_Offset_Lithography">Plate: Offset Lithography</a>.) 
+</p>
+<p id="l5">
+'Diazo<em> emulsions are also used in the production of photosensitive stencils in <a title="Screen Printing" href="Screen_Printing">screen printing</a>, as an alternative to <a title="Bichromate" href="Bichromate">bichromate</a> emulsions. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

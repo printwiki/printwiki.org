@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>4-Bit Color - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="4-Bit Color" class="currentChild" href="4-Bit_Color">4-Bit Color</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+On a computer monitor, a color display in which each <a title="Pixel" href="Pixel">pixel</a> (or smallest point of <a title="Color" href="Color">color</a>) is described by 4 bits of information. (One <a title="Bit" href="Bit">bit</a> is either a 1 or a 0; 4-Bit color can be thought of as one of these two numbers taken to the fourth power; thus 2<sup>4</sup> = 16 possible colors.) The color of a pixel on a computer display is commonly expressed as some amount of <a title="Red, Green, and Blue" href="Red,_Green,_and_Blue">red, green, and blue</a>. Greater numbers of combinations of these amounts require more processing power on the part of the computer. At 4 bits per pixel, a total of 16 colors can be described and displayed. (Some programs allow you to specify which colors can be included in that palette.) See also <a title="1-Bit Color" href="1-Bit_Color">1-Bit Color</a>, <a title="8-Bit Color" href="8-Bit_Color">8-Bit Color</a>, <a title="16-Bit Color" href="16-Bit_Color">16-Bit Color</a>, <a title="24-Bit Color" href="24-Bit_Color">24-Bit Color</a>, and <a title="32-Bit Color" href="32-Bit_Color">32-Bit Color</a>. Computer monitors can also display <a title="1-Bit Color" href="1-Bit_Color">1-Bit color</a> (black and white, or any two colors). 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

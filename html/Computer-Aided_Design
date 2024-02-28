@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Computer-Aided Design - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Computer-Aided Design" class="currentChild" href="Computer-Aided_Design">Computer-Aided Design</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An acronym for computer-aided design (sometimes also called <em>computer-assisted design'). In graphics, CAD systems and software are special workstations and programs that aid in architectural, engineering, and scientific design by enabling a real-time link between the computer and designer-initiated input via a graphics tablet, a light pen, or a mouse. Depending on the specific CAD program, rendered objects can appear as <a title="wire-frame" class="nonexistent" href="http://printwiki.org/wire-frame">wire-frame</a> models, as shaded models, or as solid objects. 
+</p>
+<p id="l3">
+</em>CAD<em> is frequently used in conjunction with <a title="Computer-Aided Manufacturing" href="Computer-Aided_Manufacturing">computer-aided manufacturing</a> (collectively known as <a title="CAD/CAM" href="CAD/CAM">CAD/CAM</a>), a general category that involves the use of computers in design and manufacturing. Other related acronyms include <a title="CADAM" href="CADAM">CADAM</a> (computer-augmented design and manufacturing) and <a title="CADD" href="CADD">CADD</a> (computer-aided design and drafting). 
+</p>
+<p id="l5">
+Some of the specific functions of most CAD programs include: 
+</p>
+<p id="l7">
+</em>Wireframe<em> modeling, in which the object is represented as simply connected points in space. Often, wireframe representations are the most expedient model forms, as they require less processing power to change and manipulate. 
+</p>
+<p id="l9">
+<a title="Layering" href="Layering">Layering</a> is a means of dividing the drawing into color-coded layers, which can be turned off to reveal additional layers of the drawing. 
+</p>
+<p id="l11">
+<a title="Solids Modeling" href="Solids_Modeling">Solids modeling</a> involves the "filling in" of a wire-frame, and enables the designer to evaluate the physical characteristics of the object being designed, such as center of gravity, mass, etc. 
+</p>
+<p id="l13">
+<a title="User-defined view" class="nonexistent" href="http://printwiki.org/User-defined_view">User-defined view</a> senable the designer to "rotate" the object (either figuratively or literally) so as to see it from a variety of different directions. 
+</p>
+<p id="l15">
+<a title="Auto-Dimensioning" href="Auto-Dimensioning">Auto-dimensioning</a> allows the designer to change one particular dimension of the object while the computer will then alter all the other dimensions affected by the change. 
+</p>
+<p id="l17">
+<a title="Coordinate Tracking" href="Coordinate_Tracking">Coordinate tracking</a> keeps the designer apprised of where s/he is on the x, y, and z axes. 
+</p>
+<p id="l19">
+CAD data can be exchanged among different designers by means of the <a title="Initial Graphics Exchange Specification" href="Initial_Graphics_Exchange_Specification">Initial Graphics Exchange Specification</a>, a vendor-independent standard <a title="File Format" href="File_Format">file format</a> for CAD and CAD/CAM graphics. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

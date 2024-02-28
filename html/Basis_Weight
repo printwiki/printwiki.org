@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Basis Weight - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Basis Weight" class="currentChild" href="Basis_Weight">Basis Weight</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The weight (in pounds) of a <a title="Ream" href="Ream">ream</a> (500 sheets) of paper cut to the <a title="Basic Size" href="Basic_Size">basic size</a> for a particular <a title="Grade" href="Grade">grade</a> of paper. The basic size of <a title="Book Paper" href="Book_Paper">book paper</a> is 25 x 38. If 500 sheets weighs 70 pounds, then the basis weight is 70 pounds. Paper is commonly identified using basis weight: 20-pound <a title="Bond Paper" href="Bond_Paper">bond paper</a>, 80-pound <a title="Coated Paper" href="Coated_Paper">coated paper</a>, and so on. Size-and-weight tables, however, frequently give basis weight per thousand sheets. For example, a 25 x 38 70-pound book paper could be listed as "25 x 38—140M." The "M" signifies one thousand sheets, so to use the more conventional basis weight notation, the 140 should be halved, and it is then found that the basis weight (per 500 sheets) is 70 pounds. The basic size is not the same for all paper grades. Paperboards are commonly signified as pounds per 1,000 square feet. (See <a title="Basic Size" href="Basic_Size">Basic Size</a>.) 
+</p>
+<p id="l3">
+Basis weight is occasionally called <a title="Substance" href="Substance">substance</a>, or <a title="Substance Number" href="Substance_Number">substance number</a>. A 20-pound bond paper would then be "substance 20." The <a title="Nominal Weight" href="Nominal_Weight">nominal weight</a> is the basis weight specified when ordering paper, but can differ—usually within certain built-in and acceptable tolerances—from the basis weight of the paper actually delivered due to a host of papermaking variations, including <a title="Moisture Content" href="Moisture_Content">moisture content</a>. The <a title="Actual Basis Weight" href="Actual_Basis_Weight">actual basis weight</a>, or the weight measured under prevailing environmental conditions, may differ from the specified basis weight due to variations in the papermaking process and the effect of moisture content on paper weight. 
+</p>
+<p id="l5">
+In the metric system, used primarily outside the United States, basis weight is referred to as <a title="Grammage" href="Grammage">grammage</a> and is given in grams per square meter. Grammage exists independently of basic size. The metric system does utilize a basic size, which is called the <a title="A Series" href="A_Series">A series</a>. There is also a <a title="B Series" href="B_Series">B series</a> of intermediate sizes. (See <a title="Grammage" href="Grammage">Grammage</a>, <a title="A Series" href="A_Series">A Series</a> and <a title="B Series" href="B_Series">B Series</a>.) 
+</p>
+<p id="l7">
+The basis weight of a paper is determined by weighing a sample cut to the basic size for that grade on a "basis weight scale" that is designed to determine the weight of 500 sheets of the paper being measured. Basis weight strongly influences the strength properties of a paper, as well as such other properties as thickness, opacity, and runnability. (See <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

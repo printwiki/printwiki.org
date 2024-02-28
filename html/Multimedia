@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Multimedia - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Multimedia" class="currentChild" href="Multimedia">Multimedia</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A technology for creating interactive presentations which incorporate sound, graphics, video, and text, usually playable on a computer (albeit one with a certain set of minimum hardware requirements; see below), and distributed on a variety of computer storage media, most notably <a title="compact disc" class="nonexistent" href="http://printwiki.org/compact_disc">compact disc</a>s (such as <a title="CD-ROM" class="nonexistent" href="http://printwiki.org/CD-ROM">CD-ROM</a>s), <a title="videodisc" class="nonexistent" href="http://printwiki.org/videodisc">videodisc</a>s, and, increasingly, the <a title="Internet" href="Internet">Internet</a> and <a title="World Wide Web" class="nonexistent" href="http://printwiki.org/World_Wide_Web">World Wide Web</a>. 
+</p>
+<p id="l3">
+In the past, the term <em>multimedia</em> referred to a presentations involving one or more forms of audio visual presentation media, such as multiple slide projectors, film projectors, video cassette recorders, audio devices, or some combination of them. Today, it usually means an interactive presentation or production distributed digitally. 
+</p>
+<span id="head-db5beb2470f5b049d83a04e402194f0d0a340621"><h3 id="l7">MULTIMEDIA DESIGN AND PRODUCTION</h3></span>
+<p id="l9">
+There are a myriad of personnel, hardware, and software requirements for the design, production, and development of multimedia applications. 
+</p>
+<span id="head-87eecd772926ce1cbc819cb896cc79d9e11aa326"><h4 id="l13">Personnel</h4></span>
+<p id="l15">
+In many cases, such as short business presentations, one person can somewhat easily design and develop the entire production. In the case of a computer game or interactive encyclopedia, many different people with diverse skills need to be involved to produce a quality production. Although the specific personnel may vary according to the budget and scope of the project, multimedia development typically involves some combination of the following individuals: 
+</p>
+<p id="l17">
+'Project Manager'. In some ways, the project manager is much like the producer of a television program of motion picture. S/he is responsible for overseeing all the aspects of the production, coordinating designers, developers, writers, etc., as well as planning the budget and schedule, motivating team members, and all other day-to-day operations. 
+</p>
+<p id="l19">
+'Content Provider'. The content provider is essentially the "screenwriter" for the project, and is responsible for not only all the aspects of the production a traditional scriptwriter handles (such as character, linear action, point of view, dialogue, or whatever specific scripting requirements there are) but also generating the interactivity of the production. The content provider may generate completely original material or repurpose material from other media (such as books, movies, etc.). Often, several different writers will be responsible for different aspects of the scripting; content will be created by one person or group, and the results of that labor will be synthesized by another writer into text that actually appears on the screen. 
+</p>
+<p id="l21">
+'Designer'. There are two types of designers who work on multimedia projects: graphic designers and interface designers. A graphic designer is responsible for the look and feel of what is on the screen. How text is displayed (i.e., typeface, point size, etc.), the layout of text and graphics, the color scheme, button design, consistency of the design from screen to screen, etc., are all the purview of the graphic designer. The interface designer, on the other hand, needs his/her work to be completely invisible to the end-user. The interface is essentially how the user interacts with the production. The interface designer thus creates the "map" of the production, including navigation pathways, where a particular button sends the user, what screen comes after what, etc. The less obtrusive an interface is, the more successful it will be. These designers are often supplemented by an instructional designer, who ensures that the subject matter being presented (in the case of reference and educational productions) is clear and correct. 
+</p>
+<p id="l23">
+'Video Specialist'. In productions that involve digital video, a person (or a team) is responsible for the taping, the editing, the digitizing, and the compression of the video material. In some cases, where video is not an especially important part of a production, the videonspecialist can be one person with a video camera. In other cases, such as interactive movies and games, it may be an entire production crew, not unlike that which would be involved in the taping and editing of a television program. 
+</p>
+<p id="l25">
+'Audio Specialist'. Again, an audio specialist can be an individual or a team, but the responsibilities include the recording and editing of music, sound effects, dialogue, alert noises, etc. Or, in other words, the entire sonic feel of the presentation. An audio specialist may also be a musical composer and/or musician, providing original music for the project, or may contract original music from outside sources. S/he may also repupose and digitize music from other sources, as well. 
+</p>
+<p id="l27">
+'Programmer'. Also known as a developer, the programmer is responsible for writing the actual computer code that makes all the above aspects of the production work. This may involve either authoring using an authoring program (such as Macromedia Director) or writing actual code in a specific programming language such as C++. Without a skilled and talented programmer, all of the above elements are produced in vain. 
+</p>
+<p id="l29">
+The is a great deal of variation in multimedia production, and depending upon the requirements of the project, one person may fulfill some combination of the above. The project manager may also be the content provider; the video specialist may also do audio; the designer may do video, etc. It is rare for one person to handle all functions except in the simplest of productions, however. It should be pointed out as well that group dynamics can make or break a project, and it is up to the project manager to ensure that all team members are working together. 
+</p>
+<span id="head-b76ab65957a69ff57e8c72352794d437fd34c788"><h4 id="l33">Hardware</h4></span>
+<p id="l35">
+Like the individuals who comprise a production, all the hardware elements used in production and development must work with, not against, each other. Hardware changes almost weekly, with new machines coming out regularly, each new version more powerful than the next. 
+</p>
+<p id="l37">
+'Computer'. Although for some time the Apple <a title="Macintosh" href="Macintosh">Macintosh</a> was the only computer up to the task of multimedia production, that situation is changing rapidly. The Mac is still the machine of choice, but the <a title="IBM-Compatible Computer" href="IBM-Compatible_Computer">IBM-compatible computer</a> (running on the <a title="Windows" href="Windows">Windows</a> platform) is making strong inroads in multimedia production. Although the Macintosh inherently supports high-resolution graphics, audio, and (via the <a title="QuickTime" class="nonexistent" href="http://printwiki.org/QuickTime">QuickTime</a> system extension) digital video, the Windows-based computer, supplemented with a <a title="Super VGA" href="Super_VGA">Super VGA</a> monitor, a <a title="sound card" class="nonexistent" href="http://printwiki.org/sound_card">sound card</a>, and its own video extension, can be used just as readily. Increasingly, the trend is toward cross-platform development, and more and more programs (most notably the Macromedia Director authoring program) are making it a simple process to convert from the Mac to Windows. As far as specific system requirements go, there is a great deal of flexibility. The two most important system considerations are the <a title="Central Processing Unit" href="Central_Processing_Unit">central processing unit</a> of the computer, and the total amount of <a title="random access memory" class="nonexistent" href="http://printwiki.org/random_access_memory">random access memory</a>. Multimedia applications and the elements (graphics, sound, video) needed to produce them require a large amount of computing power and memory, as these files take up a great deal of memory. On the Macintosh side, a lot of multimedia was produced on pre-PowerMac machines, with 68040 <a title="microprocessor" class="nonexistent" href="http://printwiki.org/microprocessor">microprocessor</a>s running at speeds of only 33 <a title="megahertz" class="nonexistent" href="http://printwiki.org/megahertz">megahertz</a>. Now, with machines containing <a title="PowerPC" class="nonexistent" href="http://printwiki.org/PowerPC">PowerPC</a> chips boasting speeds of up to 200 MHz, it is becoming simpler and faster to produce even complicated productions. On the Windows side, a <a title="Multimedia Personal Computer" class="nonexistent" href="http://printwiki.org/Multimedia_Personal_Computer">Multimedia Personal Computer</a> with an Intel 80486 processor is fine for multimedia, but the <a title="Pentium" class="nonexistent" href="http://printwiki.org/Pentium">Pentium</a> series of processors works even better. As far as memory is concerned, it is difficult to get by with less than 24 <a title="megabyte" class="nonexistent" href="http://printwiki.org/megabyte">megabyte</a>s of RAM. Remember, you can never be too rich, too thin, or have too much RAM. 
+</p>
+<p id="l39">
+'Monitor'. The size of the monitor needed for multimedia is for the most part dependent upon how much scrolling the user likes to do. The de facto standard monitior size is 640 x 480 <a title="Pixel" href="Pixel">pixel</a>s, which is the resolution most commercially-available multimedia CD-ROMs shoot for. As for actual screen size, a 13-inch monitor will work fine, but larger monitors may require a video card to speed up screen redraws. Most RGM monitors will display up to <a title="24-Bit Color" href="24-Bit_Color">24-Bit color</a> (or over 16 million colors), but few authoring programs can effectively handle graphics with a <a title="Color Depth" href="Color_Depth">color depth</a> grerater than <a title="8-Bit Color" href="8-Bit_Color">8-Bit color</a>. What is typically done is to prepare graphics at 24-Bit then reduce them to 8-Bit using a customized color palette. It is becoming somewhat common, however, to keep the final color depth at 16-Bit, as more powerful processors can handle it and most monitors currently in use support it. 
+</p>
+<p id="l41">
+'Storage'. Multimedia files can be very large indeed, and there needs to be someplace to store it all. (Backing up files should always be done often.) In addition to the computer's internal <a title="Hard Disk" href="Hard_Disk">hard disk</a>, there is a wide variety of storage media available, both for temporary and permanent storage. The earlist mass storage devices were the <a title="SyQuest" href="SyQuest">SyQuest</a> and <a title="Bernoulli" class="nonexistent" href="http://printwiki.org/Bernoulli">Bernoulli</a> cartridge drives. Although the Bernoulli cartridges are no longer available, SyQuest cartridges are, with storage capacities in excess of 270 MB per cartridge. Iomega's <a title="Zip" class="nonexistent" href="http://printwiki.org/Zip">Zip</a> and <a title="Jaz" class="nonexistent" href="http://printwiki.org/Jaz">Jaz</a> disks are also inexpensive and popular, and provide a great deal of storage capacity. In addition, <a title="magneto-optical" class="nonexistent" href="http://printwiki.org/magneto-optical">magneto-optical</a> discs are also reliable and provide large amounts of storage space. For permanent storage, <a title="CD-R" class="nonexistent" href="http://printwiki.org/CD-R">CD-R</a> devices allow for the archiving of files on CD-ROM. 
+</p>
+<p id="l43">
+'Other Devices'. Depending upon the specific needs of a project, other devices may be required, primarily audio and video digitizing devices. Some computers—such as the AV series of Macintoshes—have built-in digitizers for both sound and video, but more often than not a high-quality digitizing board may be required. These devices allow an external audio of viudeo player (such as a CD player, a tape deck, a VCR, or videodisc player to be connected to the system. Audio and/or video can be captured directly from source material and edited in an audio or video editing program. (See <a title="Digital Audio" href="Digital_Audio">Digital Audio</a> and <a title="Digital Video" href="Digital_Video">Digital Video</a>.) 
+</p>
+<p id="l45">
+A <a title="Scanner" href="Scanner">scanner</a> may also be a requirement, if there are a lot of still images that need to be digitized. (See <a title="Scanner" href="Scanner">Scanner</a> and <a title="Scanning" href="Scanning">Scanning</a>.) Alternatives to the scanner are the Kodak <a title="Photo CD" href="Photo_CD">Photo CD</a> and a <a title="Digital Camera" href="Digital_Camera">digital camera</a>, which contain still images already in digital form. (See <a title="Photo CD" href="Photo_CD">Photo CD</a> and <a title="Digital Photography" href="Digital_Photography">Digital Photography</a>.) 
+</p>
+<p id="l47">
+Other devices that may or may not be required are speakers for higher audio output quality than can be provided by the built-in speaker, projectors and<a title="LCD Panel" href="LCD_Panel">LCD panel</a>s for the presentation of projects, a <a title="modem" class="nonexistent" href="http://printwiki.org/modem">modem</a> for the electronic transfer of files either over a <a title="Local Area Network" href="Local_Area_Network">local area network</a> or over the Internet, and a CD-ROM drive and/or recorder for <a title="Premastering" href="Premastering">premastering</a>, <a title="Mastering" href="Mastering">mastering</a>, or archiving. 
+</p>
+<p id="l49">
+<strong>Software</strong> 
+</p>
+<p id="l51">
+The software requirements for multimedia depend on the nature of the production, but the following list includes some of the most basic requirements. The specific software mentioned in the following section should not be construed as an endorsement, but rather as the most prevalent in the industry. 
+</p>
+<p id="l53">
+'Paint Programs'. These are <a title="Bit Map" href="Bit_Map">bit map</a>-based image manipulation programs which allow for the editing of digitized images as well as the creation of original bitmapped images. There are a whole host of paint programs on the market, but he most popular by far is Adobe Photoshop, the most recent version being 4.0, as of this writing. 
+</p>
+<p id="l55">
+'Drawing Programs'. These are <a title="Vector-Based Graphics" href="Vector-Based_Graphics">vector-based graphics</a> programs that allow for the creation of original <a title="Line Art" href="Line_Art">line art</a>. There are several popular progams, such as Adobe Illustrator, Macromedia FreeHand, and Corel Draw, to name but three. 
+</p>
+<p id="l57">
+'3D and CAD Drawing'. Three-dimensional modeling and drawing, as well as <a title="computer-aided drawing" class="nonexistent" href="http://printwiki.org/computer-aided_drawing">computer-aided drawing</a> are widely used in multimedia, usually to create simulated environments, objects, and "virtual" worlds. Some popular 3D modeling programs include Strata Studio, Infini-D, and others, while two popular CAD programs are Claris CAD and AutoCAD. 
+</p>
+<p id="l59">
+'Sound and Video Editing'. Digital audio can be captured by even as simple a program as SimpleText (on the Macintosh), but more advanced digital audio editing programs include Macromedia's SoundEdit 16, which supports CD-quality sound. Many audio programs also support <a title="Musical Instrument Digital Interface" class="nonexistent" href="http://printwiki.org/Musical_Instrument_Digital_Interface">Musical Instrument Digital Interface</a>, a standard for the digital simulation orf musical instruments. As for video, there are a wide variety of video capture and editing programs, which also support a host of <a title="Transition" href="Transition">transition</a>s, <a title="Chroma-Keying" href="Chroma-Keying">chroma-keying</a>, and other video effects. A popular one is Adobe Premiere. 
+</p>
+<p id="l61">
+There are other utilities and programs available for a variety of specialized puposes, such as <a title="Data Compression" href="Data_Compression">data compression</a>, as well as text editing and World Wide Web authoring and design. 
+</p>
+<p id="l63">
+'Authoring Software'. Authoring software falls in two basic categories: simple presentation tools and full-fledged authorware. Presentation tools, as the term implies, allopws for the simple combination of text, graphics, sound and video into slide shows. Screen-, card-, or page-based programs create a series of slides that can be flipped to in any order the creator desires, while icon-based programs lay out a presentation as a type of flowchart or map of navigational links. Full-fledged authoring programs are often time-based, which means that events are organized along a time line, or as a series of movie-like frames that can be played back at a rate set by the developer. The most flexible programs are those that require some degree of programming or scripting. Macromedia Director, to work to its full advantage, requires knowledge of its own scripting language called Lingo. The more that is programmed with Lingo, the more control the developer has over how things work. Writing the entire pdoduction in a programming language (such as <a title="C" class="nonexistent" href="http://printwiki.org/C">C</a> or <a title="C++" class="nonexistent" href="http://printwiki.org/C%2B%2B">C++</a> allows the greatest degree of control. 
+</p>
+<span id="head-0efdcbd05d5f93bbba0fef8e697c8cdbc270b908"><h3 id="l67">ELEMENTS OF MULTIMEDIA</h3></span>
+<p id="l69">
+As was mentioned earlier, multimedia is the combination of text, sound, images, and video into a single presentation. Let's look briefly at each of these elements of a multimedia presentation: 
+</p>
+<span id="head-c3328c39b0e29f78e9ff45db674248b1d245887d"><h4 id="l73">Text</h4></span>
+<p id="l75">
+The principles of typography and design do not change much when moving from the printed page to the computer screen. There are, however, some important differences. 
+</p>
+<p id="l77">
+One of the most significant aspects of typography in multimedia is legibility. Since the resolution of a computer monitor (72 <a title="Pixels Per Inch" href="Pixels_Per_Inch">pixels per inch</a>) is much less than that of a printed page (300:2400 ppi), fonts do not display as cleanly on screen as they do in print. Some fonts, though, do look better on screen than others, so the designer needs to evaluate each font on screen and ensure that it looks not only legible, but also is appropriate to the content. Italic type can be very hard to read on screen, and should be used sparingly. Too much text packed onto a single screen can be very hard to read, as can type that is too small. On screen type should rarely be less than 18:24 points, especially if the presentation is one that is going to be projected on a screen and be read from a distance. On the other hand, too little text on a screen may be easy to read, but may necessitate scrolling or the turning of "pages" by the user, which can get irritating. Various effects can be used to make text more readable, such as <a title="Anti-Aliasing" href="Anti-Aliasing">anti-aliasing</a> or drop shadows. When large blocks of text are used (as in an encyclopedia entry, for example), the font should be selected for legibility above aesthetics. Text is always harder to read on screen than on paper, so it should be made as easy as possible. 
+</p>
+<p id="l79">
+Text must also be used for navigation purposes. Although <a title="Icon" href="Icon">icon</a>s may be used to communicate some things (an arrow can be used to illustrate "go back" or "go forward"), sometimes there is no easy way to communicate something graphically. Short text lines (a word or two, or in other words a word or phrase about the length of a menu item) can be surrounded with a button-like background or frame, indicating that it is something to be clicked on. 
+</p>
+<p id="l81">
+Screen text can be enhanced by the use of a <a title="utility program" class="nonexistent" href="http://printwiki.org/utility_program">utility program</a> such as <a title="Adobe Type Manager" href="Adobe_Type_Manager">Adobe Type Manager</a>, which is used to improve the display of <a title="PostScript" href="PostScript">PostScript</a> fonts. 
+</p>
+<span id="head-acdac205f5e24cb75113c4b281a2c13f08b75159"><h4 id="l85">Audio</h4></span>
+<p id="l87">
+There are two ways of adding audio to a presentation. The first is by sampling a sound. A sound digitizer essentially receives an analog input (the sound wave as an electrical signal) and uses numbers (<a title="Bit" href="Bit">bit</a>s) to represent what the analog wave is doing at any given periodf of time (usually some fration of a second). These discrete digits approxinmate very closely the original sound wave. The drawback, however, is that sampled digital audio takes up a great deal of file space. (See <a title="Digital Audio" href="Digital_Audio">Digital Audio</a>.) 
+</p>
+<p id="l89">
+Another way of creating sound in multimedia is by <a title="MIDI" class="nonexistent" href="http://printwiki.org/MIDI">MIDI</a>, a standard way of using commands to describe various musical instruments and the notes they are supposed to play in digital form. So, for example, when the MIDI representation of a particular musical score is fed to a MIDI output device, the commands are used to recreate the sound of, say, a pipe organ playing "Louie, Louie." MIDI is not sound, but is merely the recipe for making a particular sound or series of sounds. MIDI as a result can resuit in file sizes that are 200:1000 times smaller than corresponding digital audio files. However, since the sound that is produced is a function of the MIDI playback device, a single file may sound different when transferred from one machine to another. MIDI also cannot be used to recreate human voices. (See <a title="Musical Instrument Digital Interface" class="nonexistent" href="http://printwiki.org/Musical_Instrument_Digital_Interface">Musical Instrument Digital Interface</a>.) 
+</p>
+<p id="l91">
+When audio needs to be imported into a multimedia authopring program, it is important to pay attention to the <a title="File Format" href="File_Format">file format</a> that the program needs a sound to be in. On the Macintosh, most authoring programs support <a title="AIFF" class="nonexistent" href="http://printwiki.org/AIFF">AIFF</a> sound files. Not all programs support MIDI, however. 
+</p>
+<span id="head-bc17c1f0179a888f2a7e8389f67d4f2cf5cf4531"><h4 id="l95">Video</h4></span>
+<p id="l97">
+Digital video is perhaps the most complex element of a multimedia application, especially as the means of capturing, editing, compressing, storing, and playing it are still being refined. The problem with digital video is the immense amount of memory it requires. For example, consider that a still, full-screen (i.e., 640 x 480 ppi) color image can require as much as 1 megabyte of memory to display. At the normal video display rate of 30 frames per second, that means the computer needs to display 30 still images per second, requiring 30 megabytes of memory every second, which doesn't even take into account ther audio portion opf a video signal. Even without audio, one minute of full-screen, full-motion video would require up to 1.8 <a title="Gigabyte" href="Gigabyte">gigabyte</a>s of memory. Since this is beyond the capacity of most computers, digital video is often compressed, and is rarely displayed at full-screen and with full-motion. (Often, however, full-screen, full-motion video can be ghenerated by means ogf a video compression board—such as an <a title="MPEG" class="nonexistent" href="http://printwiki.org/MPEG">MPEG</a> board—which can quickly compress and decompress video with a facility beyond what is capable with software alone.) After capture and eduring, video is oftren compressed by means of a <a title="codec" class="nonexistent" href="http://printwiki.org/codec">codec</a> (a shorthand term for <a title="compressor/decompressor" class="nonexistent" href="http://printwiki.org/compressor/decompressor">compressor/decompressor</a>), which looks for redundant information from frame to frame and saves it as a series of codes which function as a kind of shorthand. Upon playback, the computer needs to decode the shorthand and replace the missing information, usually "on-the-fly" during playback. Most digital video codecs are <a title="Lossy" href="Lossy">lossy</a>, meanbing some information is lost during compression. Some high-end compression systems are nearing <a title="Lossless" href="Lossless">lossless</a> compression. (See <a title="Data Compression" href="Data_Compression">Data Compression</a>.) To achieve a balance between what the computer can handle and what is aesthetically pleasing, sacrifices must be made. For example, often full-screen video is not possible, so a reduced image size is used. Or a full 30 frame per second rate is not possible, so the frame rate is reduced. See <a title="Digital Video" href="Digital_Video">Digital Video</a>. 
+</p>
+<span id="head-62afd21e88769f01ba1c9330803baad57564d6e9"><h4 id="l101">Animation</h4></span>
+<p id="l103">
+Like video, animation is a series of still images which, when viewed in rapid suiccession, produce the illusion of movement. Animation, however, can be produced somewhat simply in a good authoring program, and does not always require the high memory capacities of digital video. Animation has been traditionally produced by hand: a series of still images were drawn or painted on sheets of celluloid and photographed in succession (known as <a title="Frame Animation" href="Frame_Animation">frame animation</a>). Alternately, there is also what is known as <a title="Cast Animation" href="Cast_Animation">cast animation</a>, in which only certain elements are redrawn from frame to frame, while static portions of the image—such as a background—remain unchanged. Animation is often prepared by the prim ary animator as a series of <a title="Key Frame" href="Key_Frame">key frame</a>s, or frames that mark the beginning and end of a specific sequence. The process of <a title="inbetweening" class="nonexistent" href="http://printwiki.org/inbetweening">inbetweening</a> involves simply creating—either by computer or by the use of animation assistants—the intermediate frames that link the beginning and end of the sequence. 
+</p>
+<p id="l105">
+A variety of animation is known as <a title="Morphing" href="Morphing">morphing</a>, in which one image segues into another. This technique is often used in horror movies, and initially achieved widespread popularity in the Michael Jackson video "Black and White." (See <a title="Animation" href="Animation">Animation</a>.) 
+</p>
+<span id="head-9a307415718851b0161b3b5f066e23a40522990a"><h3 id="l109">DELIVERING MULTIMEDIA</h3></span>
+<p id="l111">
+Multimedia can be delivered in a variety of ways, depending upon the application and the desired end user. One means of delivery, for basic presentations and slide shows, is directly from a computer hard drive, the computer being hooked up to an LCD panel and projected onto a screen to a roomful of people. This is a common means of providing interactive audio visual material as a supplement to a corporate presentation. Another mans of delivery is an interactive <a title="point of information" class="nonexistent" href="http://printwiki.org/point_of_information">point of information</a> or <a title="Point of Sale" href="Point_of_Sale">point of sale</a>, usually comprising a kiosk in a public location, such as a sh opping mall, museum, etc., which allows users to view interactive presentations that provide information on exhibits and events, or information on items for purchase. 
+</p>
+<p id="l113">
+Although any computer storage medium can be used to deliver multimedia (even the <a title="floppy disk" class="nonexistent" href="http://printwiki.org/floppy_disk">floppy disk</a>, containing less than 2 megabytes, has been used as a delivery system for multimedia), the most common is the compact disc. The most common model for multimedia production involves a series of tests before actual mass production begins. After the initial development and production, a production is given an <a title="alpha test" class="nonexistent" href="http://printwiki.org/alpha_test">alpha test</a>, in which in-house personnel (and perhaps some outside individuals) are given copies. These individuals use the application as an end-user would, the goal being to find trouble spots which can range from content-based problems such as an unclear interface or navigation scheme to flaws (or <a title="Bug" href="Bug">bug</a>s) in the programmibng, causing unusual things to occur, which can include the benign (such as jumping to the wrong screen when a button is pressed) to the less benign (crashing the system). After all the problems discovered during the alpha test have purportedly been fixed, it is then prepared for <a title="beta test" class="nonexistent" href="http://printwiki.org/beta_test">beta test</a>ing, in which outside individuals are given copies and asked to report any problems. There may be several beta versions, depending upon the number and severity of problems. The production is then mass-produced and distributed. (See <a title="Compact Disc" class="nonexistent" href="http://printwiki.org/Compact_Disc">Compact Disc</a>.) 
+</p>
+<p id="l115">
+The Internet, especially the World Wide Web, is increasingly being used as a distribution medium for multimedia, and some major authopring programs now have plug-ins that facilitate the playback of interactive productions over the Internet. Although still in the early stages of development, the Internet (and, if <a title="Web TV" class="nonexistent" href="http://printwiki.org/Web_TV">Web TV</a> catches on, the home television) may become the primary means of multimedia distribution. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

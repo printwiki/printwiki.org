@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Letter Elements - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Letter Elements" class="currentChild" href="Letter_Elements">Letter Elements</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the various portions of a type character, which include: 
+</p>
+
+    <ul>
+
+<p id="l3">
+ The <a title="Apex" href="Apex">apex</a>The top junction of two stems, such as the point of the capital "A" or the center of the capital "W." The opposite of an apex—or the bottom junction of two stems—is the <a title="Vortex" href="Vortex">vortex</a>. The capital "W" has one apex and two vortex points. The inside of an apex or a vortex is known as a <a title="Crotch" href="Crotch">crotch</a>. 
+</p>
+
+    </ul>
+
+
+<p id="l5">
+The <a title="Counter" href="Counter">counter</a> is the fully or partially enclosed part of a letter, as in the lowercase "e," which has a full counter above and a partial counter below. The term <em>counter</em> refers to the space itself, while the term <a title="Bowl" href="Bowl">bowl</a> refers to the lines enclosing the counter. The proportion of the counter to the character is important to legibility. A complete bowl is formed by curved strokes only, and a modified bowl has the stem forming one of the sides. A <a title="Loop" href="Loop">loop</a> is a bowl that serves as a flourish, as in the descending part of some lowercase "g" characters. 
+</p>
+<p id="l7">
+The <a title="Stem" href="Stem">stem</a> is the main vertical stroke or principal stroke in an oblique character or face and is the dominant element in most characters. Elements that are perpendicular to the stem or connected to it or to other main parts of the letter include the <a title="Arm" href="Arm">arm</a> (a horizontal or diagonal stroke starting from the stem, as in the capital "E" or "F"), the <a title="Bar" href="Bar">bar</a> (an arm connected on both sides, as in the capital "H"), the <a title="Crossbar" href="Crossbar">crossbar</a> (a horizontal stroke that crosses through the stem, as in the lowercase "t"; the capital "T" stroke is more accurately two arms), the <a title="Ear" href="Ear">ear</a> (a short stroke extending from the bowl of a lowercase "g" or from the stem of a lowercase "r"), the <a title="Tail" href="Tail">tail</a> (a downward-sloping short stroke, ending free), the <a title="Beak" href="Beak">beak</a> (the outer portion of arms and serifs of the letters "E," "F," "G," "T," and "Z'), the <a title="Arc" href="Arc">arc</a> (any curved stroke that is not a bowl), and the <a title="Spine" href="Spine">spine</a> (the main curved arc section of the letter "S"). 
+</p>
+<p id="l9">
+A <a title="Terminal" href="Terminal">terminal</a> is a free-ending stroke of a letter, commonly with some kind of special treatment, which can be <em>acute</em> (having the angle of an acute <a title="Accent" href="Accent">accent</a>), <em>concave</em> (rounded out), <em>convex</em> (rounded in), <em>flared</em> (extended), <em>grave</em> (having the angle of a grave accent), <em>hook</em> (looped), <em>pointed</em> (coming to a point), <em>sheared</em> (sliced off), <em>straight</em> (even with the stroke itself), or <em>tapered</em> (graduated). A type of terminal is the <a title="Finial" href="Finial">finial</a>, a more decorative, alternative ending to a stroke, such as a <em>ball</em> (having a rounded shape), <em>barb</em> (the end of an arc), <em>beak</em> (commonly a half-serif"]), or a <em>swash</em> (a flourish). 
+</p>
+<p id="l11">
+The variations of these letter elements are what distinguish one typeface from another. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

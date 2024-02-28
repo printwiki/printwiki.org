@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Moisture Content - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Moisture Content" class="currentChild" href="Moisture_Content">Moisture Content</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The amount of water contained in paper expressed as a percentage of the paper's total weight. The primary constituents of paper, fibers of <a title="Cellulose" href="Cellulose">cellulose</a>, have a strong affinity for water, and will gain (or lose) it readily, depending on the amount of moisture in the air, or the <a title="Relative Humidity" href="Relative_Humidity">relative humidity</a> of the surrounding environment. This <a title="Hygroscopic" href="Hygroscopic">hygroscopic</a> characteristic of paper makes it dimensionally unstable, as the length and/or width of a paper can change depending on how much water the paper has gained or lost. The moisture content of paper also affects its various mechanical, surface, and electrical properties, and contributes to the qualities of <a title="Printability" href="Printability">printability</a> and <a title="Runnability" href="Runnability">runnability</a> in the various printing processes. 
+</p>
+<p id="l3">
+When cellulose fibers absorb water, they expand primarily in width, and only slightly in length, which means that paper has less dimensional stability <a title="against the grain" class="nonexistent" href="http://printwiki.org/against_the_grain">against the grain</a> than <a title="with the grain" class="nonexistent" href="http://printwiki.org/with_the_grain">with the grain</a>. This consideration affects whether <a title="Long-Grain" href="Long-Grain">long-grain</a> or <a title="Short-Grain" href="Short-Grain">short-grain</a> paper is required for a particular printing process (see <a title="Grain" href="Grain">Grain</a>.) For example, a 5% moisture gain will result in a 0.05% expansion with the grain, but a 0.23% expansion against the grain. (The percentage of a paper's expansion or reduction as a result of water gain or loss is called its <a title="Hygroexpansivity" href="Hygroexpansivity">hygroexpansivity</a>.) Dimensional changes, however, vary according to the degree of fiber <a title="Refining" href="Refining">refining</a> that has been done, and the amount of inorganic <a title="fillers" class="nonexistent" href="http://printwiki.org/fillers">fillers</a> that have been added. Fillers, being inorganic materials like <a title="Clay" href="Clay">clay</a> are resistant to the loss or gain of moisture and contribute to a paper's dimensional stability. Moisture loss or gain can also occur in varying degrees across the surface of a paper, depending upon which portions of the paper are exposed to the atmosphere. Paper sheets exhibiting <a title="Wavy Edges" href="Wavy_Edges">wavy edges</a> or paper rolls with baggy edges have gained moisture from the atmosphere, while paper sheets or paper rolls with tight edges have lost moisture to the atmosphere. Since paper is generally two-sided (i.e., having a <a title="Wire Side" href="Wire_Side">wire side</a> and a <a title="Felt Side" href="Felt_Side">felt side</a>), and the grain is more pronounced on the wire side, absorption of moisture will occur unevenly, and the paper will curl. (Generally, increased moisture content will cause a curl toward the felt side of the paper.) The moisture content of paper will also vary according to how is has been conditioned. (See <a title=" Hysteresis" class="nonexistent" href="_Hysteresis"> Hysteresis</a>.) 
+</p>
+<p id="l5">
+Dimensional changes usually cause the most problems in multi-color printing work, as dimensional changes that occur between passes through the press can result in misalignment of successive colors. For sheetfed offset paper, determining a paper's <a title="Equilibrium Moisture Content" href="Equilibrium_Moisture_Content">equilibrium moisture content</a> (its moisture content when equal with the relative humidity of the pressroom) or the <a title="Equilibrium Relative Humidity" href="Equilibrium_Relative_Humidity">equilibrium relative humidity</a> of the room (the relative humidity that is equal to the moisture content of the paper) is important. Generally speaking, paper should be printed when it is in equilibrium with the environment, but for multi-color work, the best results are obtained when the paper's moisture content is slightly higher than its equilibrium moisture content. The length of the paper's contact with the press <a title="Dampening System" href="Dampening_System">dampening system</a> (i.e., slower, sheetfed offset presses versus high-speed web offset presses) also affects its moisture content. The moisture content is less of a consideration with web paper than with sheet paper. But paper also tends to print better when its moisture content is on the high side. Low moisture content tends to produce hard, brittle papers that generate web breaks, don't provide a good printing cushion, and tend to crack when folded. However, coated papers with high moisture content tend to cause <a title="Blistering" href="Blistering">blistering</a> during <a title="Heatset Drying" href="Heatset_Drying">heatset drying</a>. (See <a title="Blister" href="Blister">Blister</a>.)  
+</p>
+<p id="l7">
+There are a variety of ways to determine a paper's moisture content. One method is the "oven-drying method," in which a sample is weighed, placed in an oven at 221ºF for an hour, and weighed again. The difference in weight divided by the original weight times one hundred is the percent moisture of the paper. Quick determinations of moisture content made during papermaking are accomplished with infrared or microwave sensors. Results from these sensors can be used to alter the moisture content of the paper if necessary. A moisture meter, containing sensors that use measures of electrical resistance or electrical holding power, can also be used to gauge moisture content of paper. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

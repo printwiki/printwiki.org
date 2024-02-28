@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Kerning - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Kerning" class="currentChild" href="Kerning">Kerning</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the reduction of letterspacing between certain character combinations in order to reduce the space between them, performed for aesthetic reasons. Typeset characters have specific width values and are positioned within an imaginary rectangle. For example, when a capital "W" is set next to a lowercase "a," the right side wall of "W" will touch the left side wall of the "a," but because of the shape of these two letters, a space will result. In the process of kerning, no matter what imaging technology is used, the space is reduced by "fooling" the typesetting machine. A certain number of units is subtracted from the width of the "W," the typesetter positioning system then moves fewer units than would normally be required, and the subsequent letter overlaps to visually reduce the intercharacter space. Most computer typesetting systems can kern over 200 character pairs automatically. This becomes an issue because after the 20 or so primary pairs have been kerned, further pairs are then limited to a hundred or so. And, if those hundred are kerned, another hundred should be kerned, due to the imbalance caused by some pairs kerned and some not kerned—thus creating a situation of inconsistency. If kerning cannot be performed infinitely, then it is perhaps more desirable to remain with the top 20. 
+</p>
+<p id="l3">
+Kerning is essentially an optical function, whereby the space between certain letter combinations is reduced until it looks right. Kerning can be described as <a title="Individual Negative Letterspacing" href="Individual_Negative_Letterspacing">individual negative letterspacing</a>; removing space from all characters is referred to as <a title="Universal Negative Letterspacing" href="Universal_Negative_Letterspacing">universal negative letterspacing</a>. A new concept known as <a title="Topographic Kerning" href="Topographic_Kerning">topographic kerning</a> defines characters not in terms of a rectangle, but in terms of the shape of each letter, resulting in the ability to kern on an almost infinite basis. 
+</p>
+<p id="l5">
+The top 20 <a title="Kern Pair" href="Kern_Pair">kern pair</a>s are: 
+</p>
+<p id="l7">
+1. Yo 
+</p>
+<p id="l9">
+2. We 
+</p>
+<p id="l11">
+3. To 
+</p>
+<p id="l13">
+4. Tr 
+</p>
+<p id="l15">
+5. Ta 
+</p>
+<p id="l17">
+6. Wo 
+</p>
+<p id="l19">
+7. Tu 
+</p>
+<p id="l21">
+8. Tw 
+</p>
+<p id="l23">
+9. Ya 
+</p>
+<p id="l25">
+10. Te 
+</p>
+<p id="l27">
+11. P. 
+</p>
+<p id="l29">
+12. Ty 
+</p>
+<p id="l31">
+13. Wa 
+</p>
+<p id="l33">
+14. yo 
+</p>
+<p id="l35">
+15. we 
+</p>
+<p id="l37">
+16. T. 
+</p>
+<p id="l39">
+17. Y. 
+</p>
+<p id="l41">
+18. TA 
+</p>
+<p id="l43">
+19. PA 
+</p>
+<p id="l45">
+20. WA 
+</p>
+<p id="l47">
+<a title="Font Metrics" href="Font_Metrics">Font metrics</a> is a related concept. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

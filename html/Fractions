@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Fractions - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Fractions" class="currentChild" href="Fractions">Fractions</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography not affected by the metric system and the decimalization of numbers, a numeric symbol indicating a portion of a whole number. A fraction is made up of a numerator, a denominator, and a dividing line. There are several ways of typesetting fractions: 
+</p>
+<p id="l3">
+<a title="Em Fraction" href="Em_Fraction">Em fraction</a>s are the most common form, each fraction on the <a title="Em" href="Em">em</a> width, with a diagonal stroke. Most devices have the G, H, and I as standard. In some desktop publishing programs, this can be a bit more difficult. 
+</p>
+<p id="l5">
+<a title="En Fraction" href="En_Fraction">En fraction</a>s are set on the <a title="En" href="En">en</a> width, with a horizontal stroke. They are used when a vast number of odd fractions—16ths, 32nds, etc.—are required. En fractions are also called <a title="Case Fraction" href="Case_Fraction">case fraction</a>s or <a title="Stack Fraction" href="Stack_Fraction">stack fraction</a>s. 
+</p>
+<p id="l7">
+<a title="Piece Fraction" href="Piece_Fraction">Piece fraction</a>s are en or em fractions with only the denominators. The numerators are "created" using special numerals, such as the <a title="Superior" href="Superior">superior</a>s, which are positioned with the denominator to form the full fraction. 
+</p>
+<p id="l9">
+<a title="Fake Fraction" href="Fake_Fraction">Fake fraction</a>s are fromed from the normal numerals separated by a slash, such as "1/4." When using fractions with whole numbers, a hyphen needs to be added to make "1 1/4" look like "1-1/4." These are used only if there is no alternative. 
+</p>
+<p id="l11">
+<a title="Decimal Fraction" href="Decimal_Fraction">Decimal fraction</a>s do away with the whole problem by expressing all fractions as their decimal counterparts, for example G = .25, and so on. 
+</p>
+<p id="l13">
+And, of course, there is the last resort of spelling the fraction out: G = "one quarter" or "one fourth." 
+</p>
+<p id="l15">
+Type-font suppliers often substitute fractions from one typeface for others that are closely related. It is important to ensure that the fractions fit with the typeface in both weight and design. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

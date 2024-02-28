@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>CIE Color Space - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="CIE Color Space" class="currentChild" href="CIE_Color_Space">CIE Color Space</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Color" href="Color">color</a> measurement, a color mapping system that uses three <a title="Tristimulus Values" href="Tristimulus_Values">tristimulus values</a> and plots them on x, y, and z axes to create a three-dimensional representation of a color. The <a title="CIELAB" href="CIELAB">CIELAB</a>, ["CIE L*a*b*, and <a title="CIELUV" href="CIELUV">CIELUV</a> systems utilize as these three values: a lightness or darkness value (denoted L or L*), a red:green value (denoted ± A, a*, or U), and a yellow:blue value (denoted ± B, b*, or V). A <a title="Colorimeter" href="Colorimeter">colorimeter</a> is used to measure each of these tristimulus values and the resulting plot of a particular color can be determined. 
+</p>
+<p id="l3">
+In 1931, the Commission Internationale de l'Eclairage assembled in Cambridge, England, to establish a world standard for the measurement of color. By that time, modern instrumentation had made it possible to measure with fair accuracy the wavelength of any particular colored light. The commission took as its model the principles established sixty years earlier by Scottish physicist James Maxwell; it selected three standard colors, a particular <a title="Red, Green, and Blue" href="Red,_Green,_and_Blue">red, green, and blue</a>, with which to generate a version of the <a title="Maxwell triangle" class="nonexistent" href="http://printwiki.org/Maxwell_triangle">Maxwell triangle</a>. The result was what is known as the <a title="CIE Chromaticity Diagram" href="CIE_Chromaticity_Diagram">CIE chromaticity diagram</a>, which became a standard in the lighting industry for measuring the color of light. In 1976, the CIE chart was revised to create a more even distribution of colors. The revised chart, now indicating colors in "uniform color space," is the current standard for measuring the color of light. 
+</p>
+<p id="l5">
+The diagram never defines white. Somewhere in the center of the diagram is the "<a title="white spot" class="nonexistent" href="http://printwiki.org/white_spot">white spot</a>," that point where light from the three sources blends to form white light. Sunlight is one spot on the diagram and incandescent light another. This point is not fixed, as it is in the Munsell model, and is useful in describing the color of light from various light sources without implying a deviation from some established norm. The absolute white in the Munsell model is also theoretical. 
+</p>
+<p id="l7">
+The CIE chromaticity diagram as a two-dimensional plot of hue and saturation characteristics, is a logical point for beginning computer color mixture. Values can be added to the chart by gradually reducing the intensity (brightness) of the light source until all light is removed and absolute black is achieved. The chromaticity chart becomes a three-dimensional color model: the CIE uniform color space. 
+</p>
+<p id="l9">
+The CIE system starts with the premise that the stimulus for color is provided by the proper combination of a light source, an object, and an observer. In 1931, the CIE introduced the element of standardization of source and observer, and the methodology to derive numbers that provide a measure of a color seen under a standard source of illumination by a <a title="Standard Observer" class="nonexistent" href="http://printwiki.org/Standard_Observer">Standard Observer</a>. In 1931, CIE recommended the use of standard sources a, b, and c, which were soon defined at standard illuminants when their spectral power distributions were measured. These sources and illuminants served the purposes of color technology well until the increased use of fluorescent whitening agents made it necessary to specify illuminants in the ultraviolet region more nearly representative of that in natural daylight. 
+</p>
+<p id="l11">
+The data representing the CIE standard observer is one of the most difficult concepts in the CIE system to understand. In an old experiment, light from a test lamp shines on a white screen and is viewed by an observer. A nearby part of the screen is illuminated by light from one or more of three lamps, equipped to give light of three widely different colors, such as red, green, and blue. These primary lights are arbitrarily selected but closely controlled. By adjusting the intensities of these lights, the observer can make their combined color on the screen match that of the test lamp. The amounts of the three primaries are three numbers describing the test color, called the tristimulus values of that color. Thus R, G, and B are the tristimulus values of the spectrum colors for this particular set of red, green, and blue primaries. In its 1931 recommendation, the CIE adopted the average R, G, and B data for a small number of observers as the experimental definition of the CIE 1931 standard observer. It was considered important to eliminate negative numbers among the tristimulus values. Therefore a mathematical transformation of the standard observer data was made, representing a change from the original red, green, and blue primaries to a new set, which cannot be produced by any real lamps, called the X, Y, and Z primaries. The tristimulus values of the equal-power spectrum colors in the CIE X, Y, Z system provide the definition of the 1931 CIE standard observer in its most used form. 
+</p>
+<p id="l13">
+In 1976, a linear adaptation of the color space was performed to try to scale color numerical differences to correspond more closely in the visual color differences. The result was the CIE Uniform Color Space, a chart which plots the available color gamut of what you can actually see and what machines can actually produce. 
+</p>
+<p id="l17">
+Chart tk 
+</p>
+<p id="l21">
+The CIE Uniform Color Space is associated with CIELUV color metrics. CIELUV is based on the theory that the eye and brain code colors into mutually exclusive opponent signals: light-dark, red-green, and yellow-blue. Red-green is plotted along the horizontal U axis, in the positive values denoting red and negative values denoting green. Yellow-blue values are plotted along the vertical V axis. Light-dark values are plotted along the L axis, they is located perpendicularly to the U, V plane. 
+</p>
+<p id="l23">
+While CIE uniform color spaces still present visual non-uniformities—a color that has the same coordinates may still not look like the same color—they are considered to be the best compromises available. They have been adopted by vendors as the basis for desktop color systems and for approaches to device-independent calibration. 
+</p>
+<p id="l25">
+(See also <a title="Color: Color Measurement Systems" class="nonexistent" href="http://printwiki.org/Color:_Color_Measurement_Systems">Color: Color Measurement Systems</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

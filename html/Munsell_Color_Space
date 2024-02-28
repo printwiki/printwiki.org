@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Munsell Color Space - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Munsell Color Space" class="currentChild" href="Munsell_Color_Space">Munsell Color Space</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A type of color model, or means of quantitatively and objectively classifying a perceived color, based on the tristimulus attributes of <a title="Hue" href="Hue">hue</a>, <a title="Value" href="Value">value</a>, and <a title="Chroma" href="Chroma">chroma</a>. 
+</p>
+<p id="l3">
+The Munsell color system was developed in 1905 by Alfred Munsell as a means of expressing relationships between colors. Munsell was looking for a way to move from one color to another through a path of orderly, progressive steps. The Munsell chart was developed through experiments in which subjects were asked to arrange color chip samples under conditions of constant illumination and surroundings. It consists of a color "tree" of these chips separated into "leaves" according to hue. Within each hue leaf, chips are arranged in a grid, with discernible progressions of chroma (<a title="Saturation" href="Saturation">saturation</a>) along the horizontal x axis and discernible progressions of value (<a title="Lightness" href="Lightness">lightness</a>) along the vertical y axis. Unlike the mathematically symmetrical grids of the typical lookup table, the resulting color space more closely captures the geometric irregularities of human visual perception. Each leaf is different because within different hues, the number of discernible colors varies with degrees of value and chroma. The Munsell system provides a straight-line progression of steps in equal increments along both chroma and value dimensions. This characteristic provides a natural foundation for color navigation. 
+</p>
+<p id="l5">
+Hue was defined by Munsell as a circle of hues. He chose to designate red, yellow, green, and purple as <a title="Primary Colors" href="Primary_Colors">primary colors</a>. These colors, together with their complements—yellow-red, green-yellow, blue-green, purple-blue, and red-purple—provide a ten-part division that reminds one of a decimal system. The hues are spaced equally around the hue circuit. By colormetric measurement they represent consistent steps of hue change in equal gradations. 
+</p>
+<p id="l7">
+Munsell called the second color dimension <em>value</em>, and it is similar to lightness, though related to pigment, not light. Black and white form the vertical axis of the color model. This axis extends from white, absolutely pure white (the presence of all color) on the top, to ideal black (the absence of all color) on the bottom. Although neither of these ideal poles is attainable in pigment, the steps between them are highly definable as grays. They are numbered from 1 to 10. 
+</p>
+<p id="l9">
+Chroma, Munsell's term for the third dimension of color is similar to saturation, though to Munsell it relates more to the amount of colorant present. It is in this definition of chroma that Munsell's color model differs substantially from all previous proposals. While the circle of hues includes all conceivable hues, and while the value axis is all-inclusive, Munsell realized that new colorants were constantly devised and chroma is therefore open-ended. 
+</p>
+<p id="l11">
+(See also <a title="Maxwell's Triangle" href="Maxwell's_Triangle">Maxwell's Triangle</a>, <a title="CIE Color Space" href="CIE_Color_Space">CIE Color Space</a>, and <a title="Color: Color Measurement" class="nonexistent" href="http://printwiki.org/Color:_Color_Measurement">Color: Color Measurement</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

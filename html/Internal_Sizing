@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Internal Sizing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Internal Sizing" class="currentChild" href="Internal_Sizing">Internal Sizing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Materials added to the papermaking <a title="Furnish" href="Furnish">furnish</a> at the beginning of the paper machine's <a title="Forming Section" href="Forming_Section">forming section</a> to improve the paper's resistance to water or other liquids. Substances used for internal sizing include <a title="Rosin" href="Rosin">rosin</a> and printer's <a title="Alum" href="Alum">alum</a>, which is short for aluminum sulfate (which helps the rosin adhere to the paper fibers). Rosin used for sizing is slightly acidic, so <a title="Alkaline Paper" href="Alkaline_Paper">alkaline paper</a> is sized using synthetic alkaline sizing agents. Although internal sizing is added to prevent water penetration, it does not make the paper waterproof. Internal sizing is also called <a title="beater sizing" class="nonexistent" href="http://printwiki.org/beater_sizing">beater sizing</a>, as it is often added in the <a title="Beater" href="Beater">beater</a>, a device used for paper pulp <a title="Refining" href="Refining">refining</a>. Papers that have a minimal amount of internal sizing are called <a title="Slack-Sized" href="Slack-Sized">slack-sized</a>, while papers that have a large amount of internal sizing are called <a title="Hard-Sized" href="Hard-Sized">hard-sized</a>. Paper destined for sheetfed offset printing need to be hard-sized in order to withstand repeated exposure to the press's water-based dampening system. Unsized papers used for paper towels, blotter papers, or other uses that require high levels of water absorbency are called <a title="Waterleaf" href="Waterleaf">waterleaf</a>.  
+</p>
+<p id="l3">
+There are a number of tests to determine the degree of a paper's internal sizing. (See <a title="Feathering Test" href="Feathering_Test">Feathering Test</a>, <a title="Contact Angle Method" href="Contact_Angle_Method">Contact Angle Method</a>, <a title="Dry Indicator Method" href="Dry_Indicator_Method">Dry Indicator Method</a>, <a title="Ink Flotation Method" href="Ink_Flotation_Method">Ink Flotation Method</a>, <a title="Curl Test Method" href="Curl_Test_Method">Curl Test Method</a>, <a title="Cobb Size Test" href="Cobb_Size_Test">Cobb Size Test</a>, and <a title="Water Immersion Method" class="nonexistent" href="http://printwiki.org/Water_Immersion_Method">Water Immersion Method</a>.) Internal sizing differs from <a title="External Sizing" href="External_Sizing">external sizing</a>, also called <a title="Surface Sizing" href="Surface_Sizing">surface sizing</a>. See <a title="Sizing" href="Sizing">Sizing</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>CPU Chip - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="CPU Chip" class="currentChild" href="CPU_Chip">CPU Chip</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The heart of a computer or computer-controlled device. The CPU chip (<a title="CPU" class="nonexistent" href="http://printwiki.org/CPU">CPU</a> stands for <a title="Central Processing Unit" href="Central_Processing_Unit">central processing unit</a>) is the determinant of what is known as the operating speed of the computer (measured—as of this writing—in <a title="megahertz" class="nonexistent" href="http://printwiki.org/megahertz">megahertz</a>). A CPU chip consists essentially of many tiny transistors, that repeatedly turn on and off, hence the <a title="binary digit" class="nonexistent" href="http://printwiki.org/binary_digit">binary digit</a>s that comprise the code that a computer understands include only 1 and 0 ("open" or "closed", "on" or "off"). Computer operating speeds—as of this writing—have hit the 132+ MHz range, with under 75 MHz becoming rarer and rarer. 
+</p>
+<p id="l3">
+Chip speeds are increasing at a dramatic pace. The chips utilized in some of the IBM PC's and compatibles on the market now (which commonly run the Windows or DOS operating system) include Intel's 80386, 80486, and Pentium chips, the Pentiums being the most rapid. The Apple Macintosh computers currently utilize Motorola's 68020, 68030, and 68040 (commonly described generally as 680X0) or, more and more commonly, the PowerPC chip, with ever-increasing speeds. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

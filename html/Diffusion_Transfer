@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Diffusion Transfer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Diffusion Transfer" class="currentChild" href="Diffusion_Transfer">Diffusion Transfer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An imaging system based on the use of chemicals to "diffuse" an image from one material to another. Essentially, an original image is first exposed by light to a negative in the usual manner, where the image areas on the original become transparent on the negative or, in other words, has not been converted to black metallic silver, as have the non-image areas. During development, the substrate to which the image will be diffused is placed against the emulsion side of the exposed negative. This transfer sheet contains a gelatin emulsion of silver sulfide or colloidal silver. As the negative develops, the unexposed and intact silver halide emulsion in the image areas of the negative diffuses into the emulsion of the copy paper where it converts those portions of the emulsion into black metallic silver. Where the negative has already had its silver halide emulsion converted to metallic silver (the non-image areas), there is no diffusion of chemicals to the copy paper emulsion. Thus, a negative image on the negative becomes a positive image on the copy paper. 
+</p>
+<p id="l3">
+Diffusion transfer, also known as <a title="Photomechanical Transfer" href="Photomechanical_Transfer">photomechanical transfer</a>, is also used in lithographic platemaking. Diffusion transfer is also the basis behind Polaroid film. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

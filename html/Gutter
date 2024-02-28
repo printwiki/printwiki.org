@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Gutter - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Gutter" class="currentChild" href="Gutter">Gutter</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+On a <a title="Screen Printing" href="Screen_Printing">screen printing</a> press, the taped interior edge of the screen fabric running parallel to the direction of the <a title="Squeegee" href="Squeegee">squeegee</a>. 
+</p>
+<p id="l3">
+In typography, the term <em>gutter</em> refers to the space between columns of type, usually determined by the number and width of columns and the overall width of the area to be filled. Sometimes a rule is used instead of blank space. When laying out pages, gutters should not be so narrow that columns run together. In these cases, the rule line is often used. With standard text type sizes, one pica is the standard gutter space (also called <a title="Column Space" href="Column_Space">column space</a>). For large type sizes, more gutter space should be used. For type set <a title="Ragged Right" href="Ragged_Right">ragged right</a>, a slightly smaller gutter space works better. Since almost all lines in ragged type are not in full line measure, a small amount of gutter space is "built in." The gutter is also referred to as the <a title="Column Gutter" href="Column_Gutter">column gutter</a>. 
+</p>
+<p id="l5">
+In a <a title="Two-Page Spread" href="Two-Page_Spread">two-page spread</a>, the gutter is the space between the two pages where the pages are attached to the spine or other binding. This gutter is also known as a <a title="Gutter Margin" href="Gutter_Margin">gutter margin</a>, <a title="Back Margin" href="Back_Margin">back margin</a>, or <a title="blind margin" class="nonexistent" href="http://printwiki.org/blind_margin">blind margin</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

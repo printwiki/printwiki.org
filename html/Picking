@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Picking - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Picking" class="currentChild" href="Picking">Picking</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Rupturing or other deformation of a paper's surface caused during ink transfer by the force of a sticky ink either separating the layers of a paper, forming a blister-like protrusion in the paper, or removing portions of the paper's <a title="Coating" href="Coating">coating</a>. Picking occurs when the force of an ink film exceeds the paper's <a title="Pick Resistance" href="Pick_Resistance">pick resistance</a>, or <a title="Surface Strength" href="Surface_Strength">surface strength</a>. (See <a title="Pick Resistance" href="Pick_Resistance">Pick Resistance</a>.) There are two forms of picking: <a title="Dry Picking" href="Dry_Picking">dry picking</a> happens when water is not present; <a title="Wet Picking" href="Wet_Picking">wet picking</a> is the result of decreased pick resistance stemming from exposure to moisture prior to printing. <a title="Tearing" href="Tearing">Tearing</a> is an extreme form of picking that rips off the paper surface, leaving a delaminated portion on the press sheet, and <a title="Splitting" href="Splitting">splitting</a> is the tearing off of large areas of the paper surface, which then stick to the blanket. Small particles that are picked out of the paper surface are called <a title="pickouts" class="nonexistent" href="http://printwiki.org/pickouts">pickouts</a>. Picking is also called <a title="Plucking" href="Plucking">plucking</a>. 
+</p>
+<p id="l3">
+<em>Picking</em> also describes a similar problem of <a title="Gravure" href="Gravure">gravure</a> printing in which bits of the substrate are transferred to the <a title="Impression Roller" href="Impression_Roller">impression roller</a> or other roller. 
+</p>
+<p id="l5">
+The term <em>picking</em> also refers to a printing problem occurring in multi-color flexographic printing in which the plates of successive colors remove bits of the first printed color, commonly caused by printing on still-wet ink. Flexographic picking can be alleviated by ensuring that the first down color has the most rapid drying time. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

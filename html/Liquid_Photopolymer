@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Liquid Photopolymer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Liquid Photopolymer" class="currentChild" href="Liquid_Photopolymer">Liquid Photopolymer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of two types of <a title="Photopolymer" href="Photopolymer">photopolymer</a> plates used in <a title="Flexography" href="Flexography">flexography</a>, in contrast to a <a title="Sheet Photopolymer" href="Sheet_Photopolymer">sheet photopolymer</a>. 
+</p>
+<p id="l3">
+A liquid photopolymer plate is made by placing the negative of the image to be engraved emulsion-side-up on the exposure unit, covered by a transparent sheet. A motorized roller evenly and uniformly spreads a liquid photopolymeric resin on top of the transparent cover sheet. It also adds a substrate sheet—or plate base—on top of the polymer, which has been treated to adhere to the liquid photopolymer. The liquid photopolymer is enhanced by exposing the base side of the plate to ultraviolet light, hardening the photopolymer on the reverse side of the plate. Increasing or decreasing the exposure time varies the depth of penetration into the photopolymer of the radiation which varies the ultimate relief height of the plate. (For example, the longer the exposure, the deeper the penetration, and the shallower the floor of the plate.) A second exposure to UV light from below (i.e., through the negative) hardens the photopolymer in the image areas of the plate, with the hardness of the photopolymer decreasing with decreasing exposure to radiation. The non-image areas are left unexposed, soft and soluble. The exposed plate is removed from the exposure unit, and the cover film peeled from the exposed plate surface. The exposed plate is then sent to a washout unit which removes the unhardened photopolymer from the plate surface, leaving the exposed image areas in relief. In some cases, the plates can be pre-washed by hand (using a squeegee or an automated device) to remove the unexposed photopolymer and allow it to be reused. (This process is called <a title="Resin Reclaim" href="Resin_Reclaim">resin reclaim</a>.) A mild detergent is applied to the plate in a washout unit to remove any residual unhardened resin. A final exposure to UV light further hardens the plate surface. Although liquid photopolymer plates are amber-colored (which is more effective for UV light transmission), it is sometimes desirable to dye the plates prior to mounting, which may aid in proofing, inspection, and mounting. Any water-soluble fabric or industrial dye can be used on flexographic plates. 
+</p>
+<p id="l5">
+Some liquid photopolymer plates, called <a title="Capped Plate" href="Capped_Plate">capped plate</a>s, are processed using two layers of differently-formulated photopolymers, which vary several plate characteristics, such as hardness, resilience, and image geometry, from the raised image areas to the plate floor. The advantages of capped plates include deeper reverse etch depth, less distortion, and wider impression latitude. 
+</p>
+<p id="l7">
+The composition of the liquid photopolymer can either be oil and water resistant or solvent resistant. The latter are the more compatible with highly volatile alcohol- or acetate-based solvent inks. 
+</p>
+<p id="l9">
+See also <a title="Sheet Photpolymer" class="nonexistent" href="http://printwiki.org/Sheet_Photpolymer">Sheet Photpolymer</a>, <a title="Plate: Flexography" class="nonexistent" href="http://printwiki.org/Plate:_Flexography">Plate: Flexography</a>, <a title="Photopolymer" href="Photopolymer">Photopolymer</a>, and <a title="Flexography" href="Flexography">Flexography</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

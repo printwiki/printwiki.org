@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Additive Color Theory - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Additive Color Theory" class="currentChild" href="Additive_Color_Theory">Additive Color Theory</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Color" href="Color">color</a>, intermediate colors created by mixing the <a title="Additive Color Primaries" href="Additive_Color_Primaries">additive color primaries</a>, or light having wavelengths that correspond to <a title="Red, Green, and Blue" href="Red,_Green,_and_Blue">red, green, and blue</a>. Each of these colors occupies about one-third of the visible spectrum of light; when mixed together in equal proportions, they form <a title="White Light" href="White_Light">white light</a>. (<a title="Subtractive Color Theory" href="Subtractive_Color_Theory">Subtractive color theory</a> involves the use of colorants rather than light which, although producing roughly the same effect, works on a very different principle; see <a title="Subtractive Color Theory" href="Subtractive_Color_Theory">Subtractive Color Theory</a>.) 
+</p>
+<p id="l3">
+Color television sets and computer monitors are two examples of displays that produce all the colors discernible to the human eye by means of additive colors. Varying the intensities of the three primaries produces all the shades in between. For example, red light plus green light (with no blue) produces yellow; red light plus blue light (with no green) produces magenta; blue light plus green light (with no red) produces cyan. 
+</p>
+<p id="l5">
+Different proportions also increase the range of colors that can be produced. For example, 2 parts red to 1 part green produces orange; 2 parts green to 1 part red produces chartreuse; 1 part blue to 1 part green to 4 parts red produces brown. These effects occur because light is essentially a wave, and different colors have different wavelengths. When lights possessing different wavelengths are combined with each other, the waves interfere with each other, crests and troughs (of the waves of light) enhancing and/or cancelling each other. The resultant combined wave will have a new wavelength, which will correspond to the new color. Colors can also be "cancelled out" by combining a color and its opposite hue in equal proportions. The opposite of red is cyan, the opposite of blue is yellow, and the opposite of green is magenta. 
+</p>
+<p id="l7">
+Color printing uses the subtractive colors. It is the difference between the additives and the subtractives which makes color reproduction from computer-generated originals difficult. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

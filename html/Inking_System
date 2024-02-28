@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Inking System - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Inking System" class="currentChild" href="Inking_System">Inking System</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The portion of a printing press responsible for transferring ink from the <a title="Ink Fountain" href="Ink_Fountain">ink fountain</a> to the printing plate. The nomenclature of the inking system depends on the type of printing process and press utilized. 
+</p>
+<span id="head-34b516e00180e85f2a2f1a656de9581cb2b7e1c2"><h4 id="l5">Offset Lithography</h4></span>
+<p id="l7">
+In offset lithographic presses, the inking system (also called the <a title="inker" class="nonexistent" href="http://printwiki.org/inker">inker</a>) consists of a train of at least ten (often more) rollers of various types, all leading back to an ink fountain, a pan or trough containing the ink. A <a title="Fountain Blade" href="Fountain_Blade">fountain blade</a> (which can be adjusted using manual or motorized <a title="Fountain Keys" href="Fountain_Keys">fountain keys</a>) forms a barrier between the pan of ink and the <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a>, and two <a title="fountain cheeks" class="nonexistent" href="http://printwiki.org/fountain_cheeks">fountain cheeks</a> form the sides of the ink pan, contacting the edge of the fountain roller and the fountain blade to keep undesired amounts of ink from flowing through the remaining system. 
+</p>
+<p id="l9">
+A <a title="Ductor Roller" href="Ductor_Roller">ductor roller</a>, the first roller in the <a title="Roller Train" href="Roller_Train">roller train</a>, alternately contacts the fountain roller and an <a title="Oscillator" href="Oscillator">oscillator</a> roller, transferring a set amount of ink. The timing of the action of the ductor roller can be set in relation to the rotation of the plate cylinder, the timing of the oscillator, or at some other rate. It is important to ensure that the ductor roller only contacts the oscillator when the <a title="Form Roller" href="Form_Roller">form roller</a>s (the ink rollers that directly contact the plate) are over the plate <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a>, especially during the vibration that results when the ductor first contacts the oscillator (called <a title="Ductor Shock" href="Ductor_Shock">ductor shock</a>). The ductor roller is a crucial linking roller from the fountain to the rest of the roller train, making its proper setting and maintenance of vital importance to print quality. (See <a title="Ductor Roller" href="Ductor_Roller">Ductor Roller</a>.) Some web presses use continuous rollers in place of ductors, which are covered with bristles or raised designs to help transfer predetermined anounts of ink. Some web presses also use an <a title="Aller Undulating Ductor Roller" href="Aller_Undulating_Ductor_Roller">Aller undulating ductor roller</a>, which is a segmented roller, each segment mounted off-center in relation to the others. Some segments thus are in contact with the foiuntain roller while others are in contact with the adjacent drum roller. After a set period of time, the segments switch positions. This helps with the lateral distribution of ink across the press. 
+</p>
+<p id="l11">
+An offset inking system contains several oscillator rollers (also called <a title="Drum" href="Drum">drum</a>s or <a title="Vibrator" href="Vibrator">vibrator</a>s) that move laterally, or at right angles to the rest of the roller train. Their purpose is to not only work the viscous ink and make it thinner and workable (see <a title="Thixotropy" href="Thixotropy">Thixotropy</a>), but also to ensure that faint images from the plate are not propagated through the inking system (see <a title="Mechanical Ghosting" href="Mechanical_Ghosting">Mechanical Ghosting</a>). Their lateral movement is typically set to the rate of plate cylinder revolution, but can be adjusted based on the <a title="Body" href="Body">body</a> of the ink. Too frequent oscillation can result in ink starvation on the plate (in some cases), while too seldom oscillation can cause overinking. Oscillators in contact with the <a title="Form Roller" href="Form_Roller">form roller</a>s should oscillate at the maximum rate possible. The oscillators are moved by gears and chains, and they move adjacent rollers in the train by movement against their surfaces. 
+</p>
+<p id="l13">
+There are also a variety of <a title="Intermediate Rollers" href="Intermediate_Rollers">intermediate rollers</a> occupying various positions within the roller train. These intermediate rollers are called <a title="Distributor" href="Distributor">distributor</a>s or <a title="rider" class="nonexistent" href="http://printwiki.org/rider">rider</a>s. Distributors typically sit between two other rollers, such as oscillators, and move by surface contact with the adjacent chain-and-gear-driven rollers. Distributor rollers are responsible for mixing the ink with small amounts of water to form a uniform emulsion. Riders are typically connected to only one other roller, such as an oscillator, and function solely to condition ink by sending it off on a kind of detour. Lithographic ink commonly attains a workable <a title="Viscosity" href="Viscosity">viscosity</a> only after extensive working. Riders also collect various types of paper and ink debris. Having the smallest diameter of all inking rollers, riders therefore have the greatest number of rotations per minute, and they move due to surface contact with adjacent oscillators. 
+</p>
+<p id="l15">
+A printing press can have up to four form rollers, which transfer ink from the roller train directly to the printing plate. The form rollers can be lifted from the plate either automatically (as when the press is idle) or manually, should the press operator desire it. When the form rollers are not contacting the plate, the ductor roller is lifted from the fountain roller, cutting off ink flow through the system. One specific problem with form rollers involves the brief period of time when the form rollers pass over the plate cylinder gap. As they are still in contact with the rest of the roller train and make one complete revolution, they can become overloaded with ink, and their first revolution over the returning plate deposits a greater than desirable thickness of ink, commonly ending with a streak. Varying the diameters of the form rollers can help alleviate the problem. Another problem involves mechanical ghosting. Mechanical ghosting can be avoided by properly-timed oscillators, or by use of an <a title="Oscillating Form Roller" href="Oscillating_Form_Roller">oscillating form roller</a>. The setting of the form rollers to the plate has important consequences for the resulting print. Too much pressure on the plate can cause <a title="Slurring" href="Slurring">slurring</a>, streaking (especially if the form rollers bounce at the end of the cylinder gap), and roller/plate wear and damage. The setting of the form rollers to the oscillators is also important (See <a title="Form Roller" href="Form_Roller">Form Roller</a>.) 
+</p>
+<p id="l17">
+Adjusting the amount of ink sent through the system can be done in two ways. The first is using the fountain keys to control the space between the fountain blade and the fountain roller, which controls the lateral distribution of ink through the system. These keys are usually adjusted based on the ink requirements of the particular plate. The second is by adjusting the <a title="Dwell" href="Dwell">dwell</a>, or the amount of time the ductor roller contacts the fountain roller. The rate at which the fountain roller turns is also significant, and is referred to as its sweep, or the distance it moves before being contacted by the ductor roller. In general, it is a good idea to let it rotate through a longer distance, and adjust the fountain keys so that there is a thinner film of ink on the fountain roller. This allows the ability to make quick adjustments if necessary. Especially when printing colors, the fountain roller's sweep should be as contant as possible. All these basic settings should be made during <a title="Makeready" href="Makeready">makeready</a>, with only intermittent fine-tuning needed during the pressrun. 
+</p>
+<p id="l19">
+Some <a title="Web Press" href="Web_Press">web press</a>es utilize variations on this basic theme, such as a cam or eccentric roller controlled by a lever that controls the amount of ink transferred to the fountain roller. Other web presses—such as those used for printing newspapers—borrow from <a title="Flexography" href="Flexography">flexography</a> the engraved <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a> to transfer a finely metered film of ink to the remainder of the roller train. 
+</p>
+<p id="l21">
+Various inking system and print quality problems can be caused by ink rollers that are out-of-round, due to either dropping them during cleaning (or other similarly-originating damage), or by excessive pressure from other rollers in the roller train. Out-of-round rollers tend to bump when contacting the plate, and cause streaking. Metal oscillating rollers made from steel can become susceptible to <a title="Roller Stripping" href="Roller_Stripping">roller stripping</a>, or a loss of ink affinity. Another serious problem with ink rollers is <a title="Glazing" href="Glazing">glazing</a> (also called <a title="Glazed Rollers" href="Glazed_Rollers">glazed rollers</a>). Glazing is an accumulation of dried ink <a title="Pigment" href="Pigment">pigment</a> and <a title="Vehicle" href="Vehicle">vehicle</a>, gum from the dampening system, and particles of paper <a title="Coating" href="Coating">coating</a> or fiber caused by the ramifications of press chemistry and inadequate cleaning. The result of glazing is that ink rollers become increasingly unable to effectively transfer ink to and from each other. Glazing also reduces roller friction, which manifests itself in skidding and streaking. Ink rollers are susciptible to various types of ink build-up (in addition to glazing), such as <a title="Ink Cuff" href="Ink_Cuff">ink cuff</a>s. The fountain blade can also become damaged, and bits of dried ink can collect under it, preventing the fountain keys from moving it properly. If the blade becomes worn or warped, controlling ink flow effectively becomes difficult. 
+</p>
+<p id="l23">
+The various characteristics of the rollers are important. A roller must be as close to perfectly round as possible. A roller's <a title="Total Indicated Runout" href="Total_Indicated_Runout">total indicated runout</a> is a measure of the difference in a roller's radius from its center to its surface. The maximum tolerance allowable for TIR is 0.0005 inch. A roller's hardness is measured using a <a title="Type-A Durometer" href="Type-A_Durometer">type-A durometer</a>, which measures the resilience of a surface from 0 (a very soft surface) to 100 (a very hard surface, such as cast iron). Rollers can increase in undesirable hardness with age, due to glazing. A roller whose hardness (also called its <a title="Durometer" href="Durometer">durometer</a>) exceeds certain preset tolerances causes problems such as mechanical ghosting, streaking, and other problems. (See <a title="Durometer" href="Durometer">Durometer</a>.) 
+</p>
+<p id="l25">
+Some offset lithographic inking systems also employ add-on devices, such as an <a title="Ink Agitator" href="Ink_Agitator">ink agitator</a> to automatically stir a viscous ink that gets thicker upon standing); a <a title="Fountain Splitter" href="Fountain_Splitter">fountain splitter</a> to enable the press to perform two-color <a title="spot-color printing" class="nonexistent" href="http://printwiki.org/spot-color_printing">spot-color printing</a> in one pass; a <a title="Hickey-Picking Roller" href="Hickey-Picking_Roller">hickey-picking roller</a> to remove dust and debris that can generate printing defects; an <a title="Ink Leveler" href="Ink_Leveler">ink leveler</a> to automatically keep the ink fountain replenished, and an <a title="Air Curtin" href="Air_Curtin">Air Curtin</a> to remove excess moisture from the inking system. 
+</p>
+<p id="l27">
+(See also the specific entry on <a title="Offset Lithography" href="Offset_Lithography">Offset Lithography</a>.) 
+</p>
+<span id="head-37405c46460c639438f636e429ae76a28ec7b730"><h4 id="l31">Letterpress</h4></span>
+<p id="l33">
+<a title="Letterpress" href="Letterpress">Letterpress</a> printing uses thick paste ink that is similar to lithographic ink, and consequently the thixotropic nature of much letterpress ink also requires the use of a long series of ink rollers to apply the proper force. A letterpress inking system consists of a <a title="Fountain" href="Fountain">fountain</a>, or pan, into which the ink is put. A <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> transfers a set amount of ink to a series of inking rollers (commonly three or four), which then transfers the ink to the <a title="Form Roller" href="Form_Roller">form roller</a>s (of which there are commonly three). The form rollers then transfer the ink to the flat typeform or curved printing plate, depending upon the press configuration. (See <a title="Letterpress" href="Letterpress">Letterpress</a>.) 
+</p>
+<span id="head-af4c32bf79ddce017f739ef4a4aebf68a8fedd8d"><h4 id="l37">Gravure</h4></span>
+<p id="l39">
+The inking system for gravure printing is perhaps the simplest, consisting of little more than an ink-filled trough that runs the width of the press, called the <a title="Ink Fountain" href="Ink_Fountain">ink fountain</a>. The image carrier, the <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>, is partially submerged in the pool of ink. As the cylinder rotates, ink fills the <a title="Cell" href="Cell">cell</a>s engraved on the surface of the cylinder. Excess ink is wiped from the surface of the cylinder by a <a title="Doctor Blade" href="Doctor_Blade">doctor blade</a> and the inked cells contact the substrate passing above them. A compressible <a title="Impression Roller" href="Impression_Roller">impression roller</a> forces the substrate down into the cells, where the ink is transferred by means of capillary action. The ink used in gravure printing is highly fluid liquid ink (in contrast to the thick, tacky paste ink used in offset lithography) and it is the high fluidity and low viscosity of the ink that makes the process work effectively. However, at high press speeds, heat generated by the friction of the impression roller pressing against the gravure cylinder can warm the ink, causing it to decrease in viscosity (i.e., become thinner) and can cause the ink to dry prematurely, producing <a title="Drying-In" href="Drying-In">drying-in</a>. This results in a loss of print density, particularly in the highlights. Often, ink in the fountain is kept cool, commonly using a chiller tube, a heat-exchange device, or chilled water. Gravure ink performs well at temperatures as high as 70:80ºF, but temperatures higher than that can result in decreased viscosity and too-rapid solvent evaporation. On the other hand, if the ink is chilled too much, viscosity can increase, requiring a greater concentration of solvent to thin it, resulting in weaker printing. Viscosity of gravure ink is important to measure and monitor (every 30 minutes is a good rule of thumb; some presses have automatic viscosity controls which make life simpler). A quick and easy means of doing so is the use of an <a title="Efflux Cup" href="Efflux_Cup">efflux cup</a>, which is a way of timing the rate at which a given quantity of ink flows through an opening of a given diameter. (See <a title="Efflux Cup" href="Efflux_Cup">Efflux Cup</a> and <a title="Viscosity" href="Viscosity">Viscosity</a>.) 
+</p>
+<p id="l41">
+There are a couple of variations on the gravure ink fountain. One configuration uses an absorbent rotating ink <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> located beneath and slightly off to one side of the gravure cylinder to absorb ink from a shallow fountain and squeeze it into the cylinder cells, ensuring that ink coverage is complete. Another configuration, commonly found on presses used to print packaging, uses a completely enclosed fountain that pumps ink from the reservoir through a wide nozzle onto the surface of the cylinder, which also ensures complete ink coverage. Some presses supplement the doctor blade with a pre-wiping blade that sloughs off a thick film of ink before the proper doctor blade wipes of the remaining thin film. 
+</p>
+<p id="l43">
+(See also the specific entry on <a title="Gravure" href="Gravure">Gravure</a>.) 
+</p>
+<span id="head-10565e679999eee011797096e4eddefc0895520f"><h4 id="l47">Flexography</h4></span>
+<p id="l49">
+There are many different flexographic press configurations, but there is a "standard" system that is used in many general applications. Essentially, a flexo inking system comprises an <a title="Ink Fountain" href="Ink_Fountain">ink fountain</a> or pan, in which the ink is stored. In many configurations, called "two-roll systems," a <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> rotates in the ink fountain, picking up a film of ink on its rubber-covered surface. The speed of rotation of the fountain roller—which is independent of the speed of the other rollers and cylinders in the press—is varied according to the application. The point of the fountain roll is to effectively deliver ink to the surface of the adjacent <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>. There is no set rule about the ratio of the rates of rotation between the fountain and anilox rollers. All that needs to be maintained is a supply—or pool—of ink over the nip between the two rollers. This will also depend on the direction the <a title="Web" href="Web">web</a> of substrate is moving: when the web is traveling through the press in the downward direction, the rollers are turning in such a way that the ink pool is on the nip at the top of the rollers; when the web is traveling in the up direction through the press, the roller are turning such that the pool is on the nip at the bottom of the rollers. Thus, in the latter configuration, gravity will keep the ink from collecting in as a high a volume as it will in the former configuration. As a result, on presses possessing a "bottom nip" the fountain roller needs to turn at a faster rate than it does on a "top nip" press. As long as the pool is thick enough, the fountain roller is turning at a sufficient rate. 
+</p>
+<p id="l51">
+Another factor in effective ink metering is the pressure between the fountain and anilox rollers. Some methods of fountain roller setting are performed mechanically, while more prevalent system use pneumatically or hydraulically set rollers. In mechanically-set rollers, the hardness—or <a title="Durometer" href="Durometer">durometer</a>—of the rubber becomes an issue, as softer rubber will carry more ink. Mechanically-set systems also have a tendency to vary in ink metering over the course of the run, as heat build-up causes rubber expansion. The important consideration, regardless of the type of roller setting, is consistency of the setting across the press throughout the run. Variations in ink metering will result in color changes on the printed substrate. Fountain rollers are also susceptible to <a title="Deflection" href="Deflection">deflection</a>, or a bowing due to increased pressure. This will result in more ink being transferred in the center than at the sides (a condition known as <a title="Flooding" href="Flooding">flooding</a>). One means of compensating for deflection and flooding is to attach the fountain roller at a skewed angle, so that more metering is done in the middle than at the ends. A number of different variables effect the proper skewing angle, such the respective roller diameters, ink viscosity, etc. 
+</p>
+<p id="l53">
+The anilox roller is a chrome-plated or ceramic-covered roller containing many pyramid-shaped cells embedded in its surface (other shapes can be used, as well). The function of the anilox roller is to deliver a predetermined amount of ink (ideally, just the ink contained in the cells) to the adjacent printing plate. Since all the cells are the same size, the ink capacity of the roller itself can be calculated. The total number of cells varies from roller to roller, depending on the application. The cells are engraved in a specially-treated copper or ceramic surface. Copper anilox rolls are commonly plated after engraving with a layer of chrome, to protect the cells against wear. When wear does occur, the cells lose their regions of greatest volume (i.e., the bases of pyramids) and the ink-carrying ability of the roller goes into sharp decline. (See <a title="Anilox Roller" href="Anilox_Roller">Anilox Roller</a>.) 
+</p>
+<p id="l55">
+There are a number of commonly-used alternative inking configurations on flexo presses. One of the most prevalent uses a reverse-angle <a title="Doctor Blade" href="Doctor_Blade">doctor blade</a> that scrapes the ink from the surface of the anilox roller. The doctor blade is most effective when contacting the roller at an angle of 30º from a line tangent to the point at which the blade contacts the surface. (The interior of the angle should also face <em>toward</em> the plate cylinder.) This is similar to the doctor blade system used in gravure inking systems. When using doctor blade systems, it is important that the anilox roller be manufactured specifically for use with a doctor blade, lest increased wear and roller damage occur. The <a title="Total Indicated Runout" href="Total_Indicated_Runout">total indicated runout</a> of the roller should also not exceed 0.0005 inch (although the tolerances are higher for shorter rollers and lower for longer rollers), or blade pressure and metering will not be consistent around the circumference of the roller. 
+</p>
+<p id="l57">
+A third, newer configuration is known as an <a title="Enclosed Inking System" href="Enclosed_Inking_System">enclosed inking system</a>, and utilizes an anilox roller in an eclosed cartridge, usually with one or two doctor blades. The anilox roller contacts an ink fountain at its rear. A doctor blade at the top of the fountain ensures that ink is metered correctly to the roller surface, while one at the bottom keeps a pool of ink in contact with the roller. Such enclosed systems are preferable when ink viscosity is overly crucial; reduced exposure to the atmosphere keeps viscosity more consistent than in open systems, as open systems tend to result in excessive evaporation of volatile ink solvents. 
+</p>
+<p id="l59">
+Flexo inks need to be fast-drying and, as a result, premature drying during press downtime is an issue. When the press has stopped, it is often necessary to keep the anilox and fountain rollers moving, to prevent drying. Thus, many presses allow the anilox roller to be separated from the plate cylinder. By the same token, the plate cylinder can also be separated from the impression cylinder and the web of substrate. In many cases, ink needs to be cleaned from the plate when the press is stopped, and if it remains in contact with the web, the drying ink can cause the plate to stick to the web, causing a web break when the press is restarted. 
+</p>
+<p id="l61">
+A flexographic inking system is sometimes known as an <a title="Anilox System" href="Anilox_System">anilox system</a>. (See also the specific entry on <a title="Flexography" href="Flexography">Flexography</a>.) 
+</p>
+<span id="head-6bc2caa0b3b9e08146621fb1c9b9231d5ad9d303"><h4 id="l65">Screen Printing</h4></span>
+<p id="l67">
+In its most basic form, the inking system for <a title="Screen Printing" href="Screen_Printing">screen printing</a> consists of little more than an informal reservoir of ink applied to any non-printing portion of the top of the printing screen. Prior to printing, the ink is distributed across the screen (especially over the stencil) either by the <a title="Squeegee" href="Squeegee">squeegee</a> or by automatic <a title="Flood Bar" href="Flood_Bar">flood bar</a>s. In some automated and semi-automated press configurations, ink is placed in a special <a title="Fountain" href="Fountain">fountain</a> and fed to the printing screen automatically. (See <a title="Screen Printing" href="Screen_Printing">Screen Printing</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

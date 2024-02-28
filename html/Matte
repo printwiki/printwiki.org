@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Matte - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Matte" class="currentChild" href="Matte">Matte</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Any surface characterized by a rough, dull, and/or unshiny appearance, produced by the surface reflecting more light back toward the eye. Colors printed on matte surfaces appear less dense. 
+</p>
+<p id="l3">
+In papermaking, <em>matte</em> refers to a paper surface that has a low level of <a title="Gloss" href="Gloss">gloss</a> and which does not appear shiny. Paper that has a high degree of gloss reflects the light rays that hit its surface back nearly all in the same direction, while paper that has a low degree of gloss reflects the light back more diffusely, or in different directions, which imparts a dull surface to the paper. Whether a paper's surface is glossy or matte is related to the paper's smoothness. Increasing <a title="Calendering" href="Calendering">calendering</a>, <a title="Supercalendering" href="Supercalendering">supercalendering</a>, or <a title="Coating" href="Coating">coating</a> tends to increase a paper's gloss. 
+</p>
+<p id="l5">
+A paper's level of gloss is measured using a <a title="Glossmeter" href="Glossmeter">glossmeter</a> and the value obtained is compared to a "perfect" gloss of 100 gloss units. Matte papers tend to register less than 20 gloss units. (See also <a title="Gloss" href="Gloss">Gloss</a>.) 
+</p>
+<p id="l7">
+In video and motion picture production, a <em>matte</em> is a means of producing composite pictures by <a title="Keying" href="Keying">keying</a> one video source over a second source. See <a title="Matting" href="Matting">Matting</a> and <a title="Chroma-Key" class="nonexistent" href="http://printwiki.org/Chroma-Key">Chroma-Key</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

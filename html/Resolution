@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Resolution - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Resolution" class="currentChild" href="Resolution">Resolution</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measure of the extent to which the human eye can distinguish between the smallest discrete parts of an image. In terms of human vision, though, this is more or less a subjective measurement, due to the variability among individuals in how well their eyes can resolve small images. A person's ability to perceive small images, as we are all aware, changes (and not for the better) as we get older. 
+</p>
+<p id="l3">
+In computer graphics and imaging, the term <em>resolution</em> can mean a variety of different things, depending on the image and which particular aspect of a graphics system one is talking about. 
+</p>
+<p id="l5">
+'Screen Resolution'. Screen resolution can refer to both the <a title="Color Depth" href="Color_Depth">color depth</a> (i.e., <a title="8-Bit Color" href="8-Bit_Color">8-Bit color</a> vs. <a title="24-Bit Color" href="24-Bit_Color">24-Bit color</a>, or the total number of colors that can be displayed) and intensity of the displayed image, or to the number of <a title="Pixel" href="Pixel">pixel</a>s displayed per unit of length. (Though not really a measure of resolution per se, a monitor's <a title="Dot Pitch" href="Dot_Pitch">dot pitch</a> is a measure of the diameter of one screen pixel. The smaller the dot pitch, the greater the resolution.) When describing <a title="Vector" href="Vector">vector</a> displays, <em>screen resolution</em> refers to the number of horizontal lines per inch. When describing <a title="Raster" href="Raster">raster</a> displays, <em>screen resolution</em> refers to the number of horizontal and vertical <a title="Pixel" href="Pixel">pixel</a>s that can be displayed (i.e., 640 x 480). 
+</p>
+<p id="l7">
+'Output Resolution'. Although <a title="Dots Per Inch" href="Dots_Per_Inch">dots per inch</a> is commonly used as a measure of output resolution, a more preferable measure is of the number of discernible line pairs per inch (or millimeter), as in many types of output the dots are deliberately made to overlap, skewing the "dots per inch" measurement. 
+</p>
+<p id="l9">
+In <a title="Desktop Publishing" href="Desktop_Publishing">desktop publishing</a>, "dots per inch" or, more correctly, <a title="Pixels Per Inch" href="Pixels_Per_Inch">pixels per inch</a> (to distinguish pixels from halftone dots), is the measurement of choice, and is the unit most often used in input and output device specifications. For example, a Macintosh monitor has a resolution of 72 ppi; a <a title="Laser Printer" href="Laser_Printer">laser printer</a> has a maximum resolution of 300:600 ppi; and an <a title="Imagesetter" href="Imagesetter">imagesetter</a> has a resolution of 1270:3386 ppi. On the input side of things, a desktop scanner has a resolution of 300:600 ppi, while a high-end <a title="Drum Scanner" href="Drum_Scanner">drum scanner</a> has a resolution of up to 10,000 ppi. Resolution, therefore, is a combination of both the input resolution and the total number of dots (actually, more correctly called <a title="Spot" href="Spot">spot</a>s, to, again, distinguish them from halftone dots, which are themselves composed of printer spots) that the output device can print per inch. 
+</p>
+<p id="l11">
+As a general rule, the higher the resolution the better, but there is a caveat. Although scanning an image at the highest resolution that the device will allow may seem like a good idea, it is in vain if the output device's resolution is lower. And since digital file size increases with increasing resolution, one may be doing oneself a disservice by scanning higher than one needs to, which will result in longer image processing time, larger file sizes, and more RAM needed to work with the image. (See <a title="Scanning" href="Scanning">Scanning</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

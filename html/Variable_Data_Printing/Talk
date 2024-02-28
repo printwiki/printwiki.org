@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Variable Data Printing/Talk - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Variable Data Printing" href="../Variable_Data_Printing">Variable Data Printing</a>/<a title="Variable Data Printing/Talk" class="currentChild" href="Talk">Talk</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Curiosity question - does PrintWiki want to get into listing some of the specific applications that people are using for variable data printing, or is the simple mention that they exist good enough? I think most of them are covered by the article as it stands, but I didn't know if more specific examples would be more useful.  &mdash;<a title="Users/PeterConsidine" href="../Users/PeterConsidine">PeterConsidine</a> 
+</p>
+<p id="l3">
+I wrote the original article, and didn't mention any specific VDP applications, due to the fact that I work for a VDP application software developer. I didn't want even the smallest whiff of bias to be attributable to my contributions. I think we have to be careful. If you mention one app, we're honor-bound to mention them all. Then we get into issues of precedence and pros/cons. &mdash;<a title="Users/ThomasGreer" href="../Users/ThomasGreer">ThomasGreer</a> 
+</p>
+<p id="l6">
+Inclusion of specific software applications is OK; these should go on their own page. I appreciate Thomas' concern for not introducing bias into an article. However I think as a subject matter expert in this area. it would be OK for him to at least create stub articles for specific VDP applications.  &mdash;<a title="Users/AdamDewitz" href="../Users/AdamDewitz">AdamDewitz</a> 
+</p>
+<p id="l9">
+There is a difference in my opinion of gratuitous outbound links directly to a product or service and listing them. Especially if a connection can be made between the poster and the commercial site.  As Adam suggested you can always take an extra few minutes to put together a brief stub page about a product. If it is a product you have a personal stake in, just make sure you keep it to the facts, and don't go overboard on how superior one product is to the other. For example a statement like "The mac is dominate platform for the DTP market" is fairly factual, but the statement "The mac is the best platform for the DTP market" is debatable and and clearly an opinion. Thanks for your comments, it's discussions like this that will make this site a solid reference in the future. &mdash;<a title="Users/MichaelWoods" href="../Users/MichaelWoods">MichaelWoods</a> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

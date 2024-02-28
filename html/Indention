@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Indention - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Indention" class="currentChild" href="Indention">Indention</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a form of placement for text and display showing the relation of items to one another. The simplest indent is the <a title="Paragraph Indent" href="Paragraph_Indent">paragraph indent</a>, which denotes the beginning of a text block. This indent should be proportional to the line length; if the line is under 24 picas, the paragraph indent should be 1 <a title="Em Space" href="Em_Space">em space</a>. If the line length is between 25 and 36 picas, the indent should be 1H em spaces. If the line length is 37 picas or greater, the indent should be 2 em spaces. However, since the size of an em space is based on the <a title="Point Size" href="Point_Size">point size</a>, indenting a larger head the same amount of space as smaller text beneath it will result in misalignment; the same point size needs to be selected for both indents. 
+</p>
+<p id="l3">
+A <a title="Hanging Indent" href="Hanging_Indent">hanging indent</a> is the reverse of a paragraph indent, with the first line to the full measure and subsequent lines in the paragraph indented. Both of these indents apply primarily to blocks of copy and may be indented from the left, right, or both margins. 
+</p>
+<p id="l5">
+'Indention<em> should not be confused with the word </em>indentation<em>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

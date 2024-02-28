@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Grade - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Grade" class="currentChild" href="Grade">Grade</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A method of categorizing different types of paper by size, weight, <a title="Pulp" href="Pulp">pulp</a> composition, manufacturing procedure, thickness, and end use. There are hundreds of different paper grades and sub-grades. See <a title="Bond Paper" href="Bond_Paper">Bond Paper</a>, <a title="Bristol Paper" href="Bristol_Paper">Bristol Paper</a>, <a title="Coated Paper" href="Coated_Paper">Coated Paper</a>, <a title="Cover Paper" href="Cover_Paper">Cover Paper</a>, <a title="Duplicator Paper" href="Duplicator_Paper">Duplicator Paper</a>, <a title="Imitation Parchment" href="Imitation_Parchment">Imitation Parchment</a>, <a title="Index Paper" href="Index_Paper">Index Paper</a>, <a title="Ledger Paper" href="Ledger_Paper">Ledger Paper</a>, <a title="Manifold Paper" href="Manifold_Paper">Manifold Paper</a>, <a title="Mimeograph Paper" href="Mimeograph_Paper">Mimeograph Paper</a>, <a title="Newsprint" href="Newsprint">Newsprint</a>, <a title="Offset Paper" href="Offset_Paper">Offset Paper</a>, <a title="Onionskin" href="Onionskin">Onionskin</a>, <a title="Safety Paper" href="Safety_Paper">Safety Paper</a>, <a title="Tag Paper" class="nonexistent" href="http://printwiki.org/Tag_Paper">Tag Paper</a>, <a title="Text Paper" href="Text_Paper">Text Paper</a>, and <a title="Wedding Paper" href="Wedding_Paper">Wedding Paper</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

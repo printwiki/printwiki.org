@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Forecasting - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Forecasting" class="currentChild" href="Forecasting">Forecasting</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Terms associated with forecasting include: 
+</p>
+<p id="l3">
+Descriptive statistics: Forecasting software often must be able to alculate the numerical values representing important features of a set of quantitative information, such as the arithmetic mean, range, standard deviation, ratio, percentage and rate of change. 
+</p>
+<p id="l5">
+Regression: Regression is a means for relating one variable to another. Multiple linear regression correlates a variable of interest (the dependent variable) to one or more indepedent variables. Among business applications, this type of program can be used to forecast sales and production levels. 
+</p>
+<p id="l7">
+Correlation analysis: A simple method of measuring the strength of a relaionship between two variables. 
+</p>
+<p id="l9">
+Moving averages: A forecasting technique, moving averages calculates a moving sequence of data to an arithmetic average. 
+</p>
+<p id="l11">
+Exponential smoothing: This is another forecasting technique, based on using weighted sums of past data to forecast a time series. 
+</p>
+<p id="l13">
+Census X-11: A sophisticated decomposition forecasting technique developed at the Department of Labor and used for monthly or quarterly data. 
+</p>
+<p id="l15">
+Box Jenkins: Combines tentative model identification, estimation and diagnostic checking. 
+</p>
+<p id="l17">
+Decomposition method: An approach to forecasting in which a time series consists of a number of unobservable components, such as trend, cycle, seasonality an irregularity. 
+</p>
+<p id="l19">
+Automatic forecasting: Refers to the software's ability to automatically analyze historical data and to apply the most effective forecasting methodology to the data. 
+</p>
+<p id="l21">
+Override automatic forecasting: When the user knows of certain influencing fctors that the software cannot take into account, overriding the automatic forecasting feature is then necessary to obtain the most accurate forecast. 
+</p>
+<p id="l23">
+Bar graph: A graph that illustrates numeric data as a set of evenly spaced bars. 
+</p>
+<p id="l25">
+Line graph: A graphic that represents numeric data as a set of points along a line. 
+</p>
+<p id="l27">
+Histograms: Histograms are graphical representations of a distribution function by means of rectangles. The width of the rectangle represents intervals into which the range of observed values is divided; the height represents the number of observations occurring in each interval. 
+</p>
+<p id="l29">
+Scatter plot: A diagram of corresponding pairs of points that depict a relationship. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

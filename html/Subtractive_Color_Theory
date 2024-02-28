@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Subtractive Color Theory - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Subtractive Color Theory" class="currentChild" href="Subtractive_Color_Theory">Subtractive Color Theory</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Color" href="Color">color</a>, the production of intermediate colors by mixing the <a title="Subtractive Color Primaries" href="Subtractive_Color_Primaries">subtractive color primaries</a>, or colorants that correspond to <a title="Cyan" href="Cyan">cyan</a>, <a title="Magenta" href="Magenta">magenta</a>, and <a title="Yellow" href="Yellow">yellow</a>. Colored substances differ from colored light in that it is their selective absorption of light of certain wavelengths that imparts their color. For example, a cyan pigment absorbs red light, so it appears blue-green; a magenta pigment absorbs green light, so it appears reddish; a yellow pigment absorbs blue light so it appears yellow. The combination of all three of these pigments tends to produce black, at least in theory. (<a title="Additive Color Theory" href="Additive_Color_Theory">Additive color theory</a> involves the use of light—rather than colorants—which, although producing roughly the same effect, works on a very different principle; see <a title="Additive Color Theory" href="Additive_Color_Theory">Additive Color Theory</a>.) 
+</p>
+<p id="l3">
+Inks, dyes, and other materials used in printing, for example, produce many of the colors discernible to the human eye by means of subtractive colors. Varying the amounts of the three primaries (and, in printing, the use of <a title="Black" href="Black">black</a>) produces all the shades in between. It should be noted, however, that the color a printed or dyed material is perceived as will depend upon the color of the light used to view it. Under normal white light, a yellow ink will look yellow, since the red, green, and blue light (or the <a title="Additive Color Primaries" href="Additive_Color_Primaries">additive color primaries</a>) are all present in equal proportion, and the blue light is being absorbed by the colorant, the light reflecting back consisting of red and green light, thus mixing to appear yellow. If the yellow ink were viewed using only a green light, it would appear green, since there is no blue light present, and only the green will be reflected back to the eye. 
+</p>
+<p id="l5">
+Color computer monitors display colors utilizing the additive colors, while inks to be printed utilize the subtractive colors. It is the difference between the additives and the subtractives which makes color reproduction originating on a computer screen difficult. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

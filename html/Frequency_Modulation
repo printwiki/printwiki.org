@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Frequency Modulation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Frequency Modulation" class="currentChild" href="Frequency_Modulation">Frequency Modulation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In communications, a type of <a title="Modulation" href="Modulation">modulation</a> of a signal in which the frequency of the carrier is varied with changes in the value of the signal it is carrying. In broadcasting (such as radio broadcasting), a particular sound emanating from a radio station is converted into electrical energy, which is referred to as its signal. This signal wave is overlayed on top of a radio wave, called a carrier wave. In FM broadcasting, the frequency of the carrier wave conforms to the changes in the frequency of the signal (or sound) being transmitted. <a title="AM" class="nonexistent" href="http://printwiki.org/AM">AM</a> broadcasting, as we are all aware, is subject to static, which occurs at the top and bottom of a wave cycle. In contrast, frequency modulation keeps the amplitude of the carrier wave constant, thus the tops and bottoms of the signal wave can be eliminated, which is why FM radio generally remains static free. 
+</p>
+<p id="l3">
+In data communications, a similar process of modulation is used to overlay a signal representing computer information onto a carrier wave (which is transmitted over a telephone line, rather than through the air). Frequency modulation is a similar means of varying the frequency of the carrier signal in accordance with changes in the data signal. 
+</p>
+<p id="l5">
+See <a title="Modulation" href="Modulation">Modulation</a>. See also <a title="Amplitude Modulation" href="Amplitude_Modulation">Amplitude Modulation</a>. 
+</p>
+<p id="l7">
+In <a title="Halftone" href="Halftone">halftone</a> photography, the term <em>frequency modulation</em> is used to refer to a halftoning technique (also known as <a title="Stochastic Screening" href="Stochastic_Screening">stochastic screening</a>) in which the sizes of the <a title="Halftone Dot" href="Halftone_Dot">halftone dot</a>s remain constant but theit distribution within an image is varied according to whether they correspond to <a title="Shadow" href="Shadow">shadow</a>s (lots of dots), <a title="Middle Tone" href="Middle_Tone">middle tone</a>s (a moderate amount of dots), or <a title="Highlight" href="Highlight">highlight</a>s (few dots). See <a title="Halftone" href="Halftone">Halftone</a> and <a title="Stochastic Screening" href="Stochastic_Screening">Stochastic Screening</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

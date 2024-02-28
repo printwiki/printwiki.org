@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Banding - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Banding" class="currentChild" href="Banding">Banding</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In printing, a press and printing problem of a <a title="Continuous-Flow Dampening System" href="Continuous-Flow_Dampening_System">continuous-flow dampening system</a> used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> characterized by fine dark and light bands or streaks on the chrome-plated <a title="Transfer Roller" href="Transfer_Roller">transfer roller</a> which transfer to the plate and, ultimately, to the print. Banding (also called <a title="Ridging" href="Ridging">ridging</a>) commonly occurs when a <a title="Fountain Solution" href="Fountain_Solution">fountain solution</a> containing an alcohol substitute is used with a metering roller possessing a hardness, or <a title="Durometer" href="Durometer">durometer</a>, of 25:30 (which is the normal durometer of rollers used with alcohol solutions). Banding is caused by the harder rollers being less water-receptive than softer ones, non-alcohol solutions having a harder time adhering to their surfaces. The solution is to use softer rollers, such those possessing a durometer of 18:22. Some roller manufacturers also produce textured, or grained, rollers which increase the amount of water that can adhere to their surfaces. (See <a title="Fountain Solution" href="Fountain_Solution">Fountain Solution</a> and <a title="Dampening System" href="Dampening_System">Dampening System</a>.) 
+</p>
+<p id="l3">
+In imaging, <em>banding</em> refers to a perceptible streakiness of <a title="Halftone Dot" href="Halftone_Dot">halftone dot</a>s, characterized by smooth gradations of dots separated by bands of dots of lighter or darker than desired density, caused by problems in <a title="Imagesetter" href="Imagesetter">imagesetter</a> film feeding problems, commonly oriented perpendicular to the direction of film travel. (See also <a title="Contouring" href="Contouring">Contouring</a>.) 
+</p>
+<p id="l5">
+In computer graphics, <em>banding</em> refers to the perceptible "steps" in a computer-generated gradation of <a title="Color" href="Color">color</a> or <a title="Gray Scale" href="Gray_Scale">gray scale</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Roller Setting - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Roller Setting" class="currentChild" href="Roller_Setting">Roller Setting</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The process of adjusting the pressure that one offset press ink or dampening roller generates on an adjacent roller or cylinder. The important rollers to set are the <a title="Ductor Roller" href="Ductor_Roller">ductor roller</a> to its adjacent <a title="Oscillator" href="Oscillator">oscillator</a>, a <a title="Form Roller" href="Form_Roller">form roller</a> to its adjacent oscillator, and a form roller to the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>. The amount of pressure that one roller exerts on another has serious consequences on the ultimate press performance and print quality. (See <a title="Ductor Roller" href="Ductor_Roller">Ductor Roller</a> and <a title="Form Roller" href="Form_Roller">Form Roller</a>.) The setting of rollers can be performed using a <a title="Strip Method" href="Strip_Method">strip method</a> and/or a <a title="Roller-Setting Gauge" href="Roller-Setting_Gauge">roller-setting gauge</a>. (See <a title="Strip Method" href="Strip_Method">Strip Method</a> and <a title="Roller-Setting Gauge" href="Roller-Setting_Gauge">Roller-Setting Gauge</a>.) The final setting can be tested and evaluated using the <a title="Picture Method" href="Picture_Method">picture method</a> or <a title="Ink Stripe Method" href="Ink_Stripe_Method">ink stripe method</a>. It is also somewhat common to gauge the roller setting by noting the degree of bounce made by the form rollers as they cross over the plate <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a>, although this bounce can be the result of a host of other factors, such as <a title="Play" href="Play">play</a>, roller wear, roller <a title="Durometer" href="Durometer">durometer</a>, and other varieties of damage to either the roller, their bearings, or their brackets. Another problem that may be noted at this time is <a title="Endplay" href="Endplay">endplay</a>, a lateral movement of the form rollers caused by an improper fit between the roller shaft and bracket. The lateral movement is commonly exacerbated by the movement of the oscillators. Endplay of less than 0.002 in. is acceptable, but beyond that can cause printing defects such as <a title="Slurring" href="Slurring">slurring</a>, streaking, and plate wear. 
+</p>
+<p id="l3">
+Another consideration with roller setting is the mechanical action that occurs at the nip of a hard, metal roller (such as an oscillator) and a rubber, resilient roller (such as a form roller). With increased pressure, the harder roller impresses itself into the softer one, making it out of round. On the press, this is beneficial, as it increases the shear forces on the ink which makes it thinner and more workable. The degree that an ink is worked at the nips of resilient and hard rollers is known as its <a title="work ratio" class="nonexistent" href="http://printwiki.org/work_ratio">work ratio</a>. Although a moderate work ratio is beneficial, an excessive amount reduces the workability of the ink. (See <a title="Work Ratio" class="nonexistent" href="http://printwiki.org/Work_Ratio">Work Ratio</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

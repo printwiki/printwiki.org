@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>QuickDraw - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="QuickDraw" class="currentChild" href="QuickDraw">QuickDraw</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A <a title="Page Description Language" href="Page_Description_Language">page description language</a> incorporated into the <a title="Macintosh Operating System" href="Macintosh_Operating_System">Macintosh operating system</a>, which is a useful part of many Macintosh applications. QuickDraw, although rarely used for high-quality output to an <a title="Imagesetter" href="Imagesetter">imagesetter</a>, is quick and adequate for daily office tasks, and many <a title="Laser Printer" href="Laser_Printer">laser printer</a>s are driven by QuickDraw commands. For high-quality output, however, QuickDraw files are converted (by QuickDraw itself) to <a title="PostScript" href="PostScript">PostScript</a> format. Color QuickDraw extensions allow for the support of <a title="32-Bit Color" href="32-Bit_Color">32-Bit color</a>. 
+</p>
+<p id="l3">
+Like PostScript, QuickDraw essentially converts page elements to mathematical formulas that describe lines and curves, and is used for two-dimensional text or images. Apple's latest version of QuickDraw—called QuickDraw 3D—allows for the rendering of three-dimensional images. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

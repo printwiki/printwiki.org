@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Photo CD - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Photo CD" class="currentChild" href="Photo_CD">Photo CD</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A <a title="compact disc" class="nonexistent" href="http://printwiki.org/compact_disc">compact disc</a> format designed for the archving and distribution of scanned photrographic images, developed by Kodak. 
+</p>
+<p id="l3">
+The Photo CD was originally intended as a consumer product that would allow Auntie Em to view family pictures on a television set. That idea didn't work out—Auntie Em went back to prints—but the underlying technology was sound and it found another application—digital prepress. Photo CD provides very fast image capture of film originals using a <a title="CCD" class="nonexistent" href="http://printwiki.org/CCD">CCD</a>-based scanner and the resulting image data is stored on a varoety of <a title="CD-ROM" class="nonexistent" href="http://printwiki.org/CD-ROM">CD-ROM</a>. Some of the images are stored in a color format for color television display. The concept was that color labs would deveop your film and then scan the negatives on a special scanner and convert the images into digital form. It was determined that consumers would probably want hard copy prints up to 8 x 10 inches. This would require sixteen times more data than was necessary for the television display format. Kodak faced a problem: to store the image at the highest <a title="Resolution" href="Resolution">resolution</a> (for prints) would slow down display of images at lower resolutions (for television). The answer was a file format called the Photo CD <a title="Image Pac" class="nonexistent" href="http://printwiki.org/Image_Pac">Image Pac</a> that stored one image in five (later six) different resolutions. The highest resolution handled photographic enlargements while the lowest resolution handled thumbnail views. The middle resolution—the "base resolution"—was used for the television display. 
+</p>
+<p id="l5">
+The Photo CD scanning system was designed for 35 mm slides and film negatives. Its digital images have a maximum resolution of 2,048 x 3,072 <a title="Pixel" href="Pixel">pixel</a>s. The "Pro" Photo CD system scans up to 4 x 5 at a maximum resolution of 4,096 x 6,144 pixels—which is now sufficient for prepress requirements that involve images. Instead of <a title="RGB" class="nonexistent" href="http://printwiki.org/RGB">RGB</a> files, Photo CD converts the scanned images into a device-independent color space called Photo <a title="YCC" href="YCC">YCC</a>. These files are called "digital originals" because they can be rendered for uses beyond printing where traditional scanning produces color-separated film specifically for <a title="CMYK" class="nonexistent" href="http://printwiki.org/CMYK">CMYK</a> printing. 
+</p>
+<p id="l7">
+Photo CD was initially considered an inexpensive approach to color scanning as publishers and others dreamed of scans for under one dollar. Even though color labs could sell Photo CD scans for less than a buck in some cases, quality was not what it should have been. Prepress services charged from three to eleven dollars per scan with lots of effort to reach the required quality level. 
+</p>
+<p id="l9">
+The Photo CD process creates digital "interpretations" of the original film images. To print them they must be converted from their YCC color space into CMYK, cropped, rotated, sized, adjusted, and sharpened—at additional time and cost. Kodak licensed its technology to high-end scanner suppliers to produce an "electronic job jacket" so that color separators could scan images and write them to the Print Photo CD as Photo CD Image Pacs. Users could import these images to their page layouts and return the final documents for printout, where they would be converted to CMYK using the layout's placement, cropping, rotation and sizing information. The write-once nature of <a title="compact disc" class="nonexistent" href="http://printwiki.org/compact_disc">compact disc</a>s will also provide for image and document archiving. 
+</p>
+<p id="l11">
+The Photo CD system has been widely accepted in desktop publishing and prepress applications since its launch in 1992. Dozens of popular software applications and operating systems enable users to work with the scanned film images that have been stored on Photo CD discs. Kodak intends to make these images even more accessible, allowing anyone with a desktop computer to read, write and use Photo CD images. Under a new open licensing policy, any software or platform developer can obtain a royalty-free patent license for encoding and decoding images in the Photo CD Image Pac format. The policy will enable people to read and write Photo CD images as easily as other common image formats, such as <a title="TIFF" class="nonexistent" href="http://printwiki.org/TIFF">TIFF</a> and <a title="JPEG" class="nonexistent" href="http://printwiki.org/JPEG">JPEG</a>, with the added benefit of cross-platform compatibility. A new, more flexible application strategy establishes two categories of Photo CD discs: Photo CD Master disks, which serve as digital negatives for images scanned from film (and include both Photo CD Master and Pro Photo CD Master formats), and Photo CD Portfolio II discs, which contain Photo CD Image Pac files and other digital content. The new Photo CD Portfolio II format provides a single disc type to meet the needs of customers in prepress, presentations, image archiving and other applications. 
+</p>
+<p id="l13">
+Kodak's new licensing policy recognizes the industry's need to have open access to a single, consistent means of representing digital images. Because the Photo CD Image Pac format offers a number of functional advantages the Image Pac format is becoming a basis for a universal digital imaging standard. The Image Pac format ensures that users can access their digital images at multiple levels of resolution (enabling them to select the quality and file size that is appropriate for their application). The design of the Image Pac format is platform-independent and ensures that users can work with the same image file on any number of computer platforms with no conversions required. As Kodak's new licensing strategy takes hold, users will be able to handle files in the Image Pac format like any other form of data, writing them to floppy disks, transmitting them over networks and storing them on CD-Recordable discs. Royalty-free licensing of the Photo CD Image Pac format will enable software developers to build into their applications the ability to read and write Image Pac format data files, and to play back prerecorded Photo CD Master and Photo CD Portfolio II discs. The Photo CD System Description, along with a royalty-free patent license to read and write Image Pac images, will be made available. 
+</p>
+<p id="l15">
+Kodak also demonstrated prototype software that will let people add color pictures to documents as easily as they cut-and-paste text. The software utility provides a direct link between the images on a Photo CD disc and any word processing or desktop publishing software that employs the Object Linking and Embedding II (<a title="OLE" class="nonexistent" href="http://printwiki.org/OLE">OLE</a> II) interface—such as Microsoft Word, other applications in the Microsoft Works integrated product bundle and WordPerfect software. Both Macintosh and Windows versions of the utility can also be written automatically onto Photo CD Master discs. When users insert their Photo CD disk into a CD-ROM drive, the utility will guide them through its use. Users will see a variety of layout templates for compound documents; they can use a supplied template, adjust it or create their own. To add pictures to a document, users highlight the area where they want the picture to appear, select an image from the clipboard and paste it in place with a click of the mouse. The software utility employs OLE II to provide "intelligent picture framing," which means it automatically selects the appropriate level of resolution from the Photo CD Image Pac file based on the size of the picture and the usage. A low-resolution version of the image would be selected for on-screen viewing, minimizing demands on the processor, while a higher-resolution version of the image would be selected for output to a color laser printer. For people who want to keep track of images for future use, the software utility also invites users to create a simple image database by naming their discs, and individual images, with descriptors of up to 64 characters each. 
+</p>
+<p id="l17">
+In another move to expand the use of Photo CD images, Kodak is streamlining the number of disk formats it offers to meet the needs of different applications. The two Master disc formats contain images that originated on film, scanned at high resolution using a Kodak Photo CD Imaging Workstation. Images on these discs serve as "digital negatives" that contain virtually all the information from the film original; they serve as a convenient, low-cost way for users to bring their own pictures into any computer imaging application. Photo CD Portfolio II discs provide desktop users a medium for the storage and distribution of images in the Photo CD format. Along with Photo CD Image Pac format files, users can write other data to the discs—such as CMYK image files for prepress applications, indexes and retrieval software or digital audio for a "still image multimedia" presentation. The Image Pac format files on Photo CD Portfolio II discs can differ from Photo CD Master disc images in two key ways: They don't necessarily originate on film, but instead can come from any digital source—such as <a title="Digital Camera" href="Digital_Camera">digital camera</a>s and scanners; and they don't necessarily contain all the resolution of Master or Pro Master disc images; the highest required resolution is 512 x 768 pixels, the "base" level needed for high-quality video display. Like Photo CD Master discs, however, the Image Pac format files on Photo CD Portfolio II discs offer a unique benefit not available on other media: these images can be viewed on television, as well as on computers. A number of low-cost consumer players let people view Photo CD images on television. 
+</p>
+<p id="l19">
+Kodak Build-It Photo CD Portfolio disc production software enables Macintosh and Windows NT users to author Photo CD Portfolio II discs right at their desktops. Targeting presentation and image archiving applications, Build-It software can be used to create on-disc multimedia programs and image catalogs. The software can convert images from many graphic image formats—such as bmp, tiff and pict files—to the Image Pac file format. Build-It software also will allow users to record data in the <a title="ISO 9660" class="nonexistent" href="http://printwiki.org/ISO_9660">ISO 9660</a> format, the standard for CD-ROMs. For these applications, Build-It software will write images, software, <a title="ASCII text" class="nonexistent" href="http://printwiki.org/ASCII_text">ASCII text</a> and other data files to a Writable CD disk. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

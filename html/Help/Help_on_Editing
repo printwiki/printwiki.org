@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help on Editing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help on Editing" class="currentChild" href="Help_on_Editing">Help on Editing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-c1bb273a69a87597ff4a70e8c857e0c40495a91a"><h3 id="l1">Page Editing</h3></span>
+<p id="l2">
+Editing a page is as simple as clicking on the "Edit" icon at the top of the screen or the edit link in the page footer. 
+</p>
+<p id="l4">
+There are many possible options for markup. For your convenience, there is a formatting toolbar, which works very much like a toolbar in a word processor. By highlighting text and clicking one of the buttons, such as Bold, the text will be surrounded by the appropriate markup to make it appear bold. 
+</p>
+<p id="l6">
+Always make sure you "Preview" before you "Save Changes", otherwise you might end up editing a page several times. 
+</p>
+<p id="l8">
+The following pages describe the elements (wiki markup) you can use to get special formatting effects: <br/>
+</p>
+
+        <ul>
+
+        <li>
+<p id="l9">
+ <a title="Help/Help on Formatting" href="Help_on_Formatting">Help on Formatting</a> - general text formatting rules <br/>
+</p>
+</li>
+        <li>
+<p id="l10">
+ <a title="Help/Help on Linking" href="Help_on_Linking">Help on Linking</a> - external hyperlinks and inline images <br/>
+</p>
+</li>
+        <li>
+<p id="l11">
+ <a title="Help/Help on Headlines" href="Help_on_Headlines">Help on Headlines</a> - section headings <br/>
+</p>
+</li>
+        <li>
+<p id="l12">
+ <a title="Help/Help on Lists" href="Help_on_Lists">Help on Lists</a> - lists and indented sections <br/>
+</p>
+</li>
+        <li>
+<p id="l13">
+ <a title="Help/Help on Tables" href="Help_on_Tables">Help on Tables</a> - tables <br/>
+</p>
+</li>
+        <li>
+<p id="l14">
+ <a title="Help/Help with Images" href="Help_with_Images">Help with Images</a> - images <br/>
+</p>
+</li>
+        <li>
+<p id="l15">
+ <a title="Help/Help with Macros" href="Help_with_Macros">Help with Macros</a> - macros are magic things <tt>[[LikeThis]]</tt> 
+</p>
+</li>
+
+        </ul>
+
+
+<p id="l17">
+To experiment with wiki markup, go to the <a title="Sandbox" href="../Sandbox">Sandbox</a> and then click on the Edit tab on the top of the page. Use your browser's "open a new window with this link" feature on the word "Wiki Sand Box", so you can keep the help pages open side-by-side to the editing window. 
+</p>
+<p id="l20">
+For a list of other Help topics, see the <a title="Help" href="../Help">Help Documentation</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

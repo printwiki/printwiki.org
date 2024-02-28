@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Color Mixing, Ink - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Color Mixing, Ink" class="currentChild" href="Color_Mixing,_Ink">Color Mixing, Ink</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The mixing of inks to match a particular <a title="Color" href="Color">color</a> for printing can either be done entirely by the ink manufacturer, primarily done by the manufacturer, with a modest amount of in-house adjustment, or completely performed in-house. When mixing colors in-house, base colors are matched according to <a title="Color Chart" href="Color_Chart">color chart</a>s and systems provided by ink manufacturers and other color experts. The important factor in color mixing is identifying in which particular color direction a base ink has to go to match the desired color. (For example, yellow ink can range from a greenish yellow to an orangish green; blue can range from purple to green; brown, commonly a dark orange, can either be reddish or yellowish; purple can range from red to blue; and green can range from blue to yellow.) It is also important for the ink mixer to keep on hand a sample of the mixed ink (in case more is needed), a detailed record of how the final color was arrived at, and a <a title="Press Proof" href="Press_Proof">press proof</a>, an example of how the color prints on the intended <a title="Substrate" href="Substrate">substrate</a>. There are three basic stages to color mixing: matching, mixing, and testing. 
+</p>
+<p id="l3">
+In matching a color, a color chart (such as a Munsell or Ostwald chart) will indicate the key color, or the color which will form the primary component of the ink mix. A small test sample should be mixed, and a dab of the final ink placed on the intended substrate, to ensure that the ink will retain its color after printing and drying. Careful measurements should be made throughout the test sample mixing, to ensure that when the time comes to make the final batch, the proportions of the mixed colors will produce the same result. 
+</p>
+<p id="l5">
+The primary ingredients for color mixing are: the strong base colors, white inks (<a title="transparent ink" class="nonexistent" href="http://printwiki.org/transparent_ink">transparent ink</a>s and <a title="opaque ink" class="nonexistent" href="http://printwiki.org/opaque_ink">opaque ink</a>s), black ink, and a neutral gray. By utilizing color charts, the three color measurements—<a title="Hue" href="Hue">hue</a> (the specific wavelength or <a title="Shade" href="Shade">shade</a> of the color), <a title="Value" href="Value">value</a> (its degree of darkness or lightness), and <a title="Chroma" href="Chroma">chroma</a> (its strength)—can be determined and each of these three color aspects can be adjusted by the color mixer. The hue can be adjusted by adding the color that will bring it back in the direction it needs to go. If a blue is too purple, yellow or green may need to be added. If the value is incorrect, the ink will need to be darkened or lightened, using either black (which has the tendency to dirty an ink, however) or a suitable dark color, or white or suitable light color. If the chroma is incorrect, adding neutral gray can help bring the color purity where it needs to go. Should too much gray be added, the original base color can be added to reverse the graying trend. Another important consideration in color mixing is to ensure that all the ingredients added are compatible chemically and mechanically: inks that dry by <a title="Evaporation" href="Evaporation">evaporation</a> should not be mixed with inks that dry by <a title="Oxidation" href="Oxidation">oxidation</a>, <a title="Heatset Ink" href="Heatset_Ink">heatset ink</a>s should not be mixed with <a title="Moisture-Set Ink" href="Moisture-Set_Ink">moisture-set ink</a>s, inks designed for letterpress printing should not be mixed with inks designed for offset lithography, and so forth. Some mixtures can also possess a lesser degree of <a title="Permanence" href="Permanence">permanence</a> than the constituent inks; a problem not typically noticed until well after the material is printed. For example, some types of yellow pigment will react with <a title="Iron Blue" href="Iron_Blue">iron blue</a>, causing the desired shade of green to become increasingly yellow over time. Incompatible inks may also become altered in other ways, such as in <a title="Body" href="Body">body</a> and <a title="Chemical Resistance" href="Chemical_Resistance">chemical resistance</a>. 
+</p>
+<p id="l7">
+Testing of the ink should check three aspects: accurate color, correct drying, and runnability congruent with the printing method to be used, the press speed at which it is to run, the substrate on which it is to be printed, and the desired end-use characteristics of the printed material. Testing can be accomplished by depositing a sample of the mixed ink on a sample of the actual stock to be used (inks will behave differently on different types of paper or other surfaces), either by dabbing a small bit of the ink on the substrate in a thickness approximating the intended thickness of the printed ink film (called <a title="Drawdown" href="Drawdown">drawdown</a>, <a title="Pat-Out" href="Pat-Out">pat-out</a>, or <a title="Roll-Out" href="Roll-Out">roll-out</a>), or on a proof-press of the intended printing process. Proper ink drying is commonly evaluated after an appropriate length of time (such as overnight), and the dried ink is examined for proper ink penetration (or <a title="Holdout" href="Holdout">holdout</a>), <a title="Gloss" href="Gloss">gloss</a>, <a title="Opacity" href="Opacity">opacity</a>, and color. 
+</p>
+<p id="l9">
+The testing procedures for mixed inks are not foolproof, and the only true way to accurately gauge an ink's performance is to actually duplicate the final print run in as exact a manner as possible. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

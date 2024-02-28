@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Impression Cylinder - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Impression Cylinder" class="currentChild" href="Impression_Cylinder">Impression Cylinder</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The part of an offset lithographic printing press which carries the paper or other <a title="Substrate" href="Substrate">substrate</a> through the printing unit and beneath the inked press blanket. The impression cylinder also provides a hard backing which allows the blanket to press a strong, solid impression on the paper. (Hence an impression cylinder is also known as a <a title="Back Cylinder" href="Back_Cylinder">back cylinder</a> or <a title="Backup Roll" href="Backup_Roll">backup roll</a>.) Like the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a> and <a title="Blanket Cylinder" href="Blanket_Cylinder">blanket cylinder</a>, the impression cylinder has a <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a> interrupting its circumference, in which is located the <a title="Gripper" href="Gripper">gripper</a>, a shaft containing fingers that grasp and hold the incoming sheet of paper and hold it in register under the blanket, before releasing the printed sheet to be sent to the <a title="Delivery Pile" href="Delivery_Pile">delivery pile</a>. 
+</p>
+<p id="l3">
+Unlike the plate and blanket cylinders, the surface of the impression cylinder possesses no <a title="Undercut" href="Undercut">undercut</a>, and the true diameter of the cylinder is equal to the diameter of the <a title="Bearer" href="Bearer">bearer</a>s of the other two cylinders. On the impression cylinder, it is the <em>bearers</em> that are undercut. 
+</p>
+<p id="l5">
+The position of the impression cylinder with respect to the blanket cylinder can be controlled in one of two ways. On some presses, the impression cylinder is mounted on eccentric bushings, an impression lever being used to shift the impression cylinder away from or toward the blanket. On other presses, it is the blanket cylinder that has the eccentric bushings, one set controlling the bearer pressure between the plate and blanket cylinders, and a second set controlling the distance between the blanket cylinder and the impression cylinder. 
+</p>
+<p id="l7">
+Controlling the distance between the impression and blanket cylinder bearers is set in much the same way as that between the plate and blanket cylinders in a <a title="Non-Bearer-Contact Press" href="Non-Bearer-Contact_Press">non-bearer-contact press</a>. The manufacturer's recommended gap between the bearers of the two cylinders is determined by feeler gauges that are inserted between the bearers on a properly packed press. 
+</p>
+<p id="l9">
+In some press configurations, a <a title="Common Impression Cylinder" href="Common_Impression_Cylinder">common impression cylinder</a> is used. A common impression cylinder is an impression cylinder that contacts more than one blanket, passing a single sheet beneath successive blankets, commonly used in multicolor printing. (See <a title="Blanket Cylinder" href="Blanket_Cylinder">Blanket Cylinder</a>, <a title="Plate Cylinder" href="Plate_Cylinder">Plate Cylinder</a>, and <a title="Offset Lithography: Printing Unit" class="nonexistent" href="http://printwiki.org/Offset_Lithography:_Printing_Unit">Offset Lithography: Printing Unit</a>.) 
+</p>
+<p id="l11">
+The term <em>impression cylinder</em> is also used to refer to a <a title="Gravure" href="Gravure">gravure</a> press's <a title="Impression Roller" href="Impression_Roller">impression roller</a>. See <a title="Impression Roller" href="Impression_Roller">Impression Roller</a>. 
+</p>
+<p id="l13">
+On a <a title="flexographic press" class="nonexistent" href="http://printwiki.org/flexographic_press">flexographic press</a>, an <em>impression cylinder</em> is used much the same way, as a hard backing for the substrate, which is also in contact with the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>. The flexo impression cylinder is smooth and highly polished, and its speed of rotation must be the same as that of the plate cylinder and the <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>, otherwise smearing and other printing defects can occur. As with other cylinders and rollers, the roundness of the impression cylinder is crucial. The <a title="Total Indicated Runout" href="Total_Indicated_Runout">total indicated runout</a> (a measure of a cylinder's <a title="Out-of-Roundness" href="Out-of-Roundness">out-of-roundness</a>) must not exceed 0.0005 inch, otherwise the cylinder will rotate with a slight or pronounced "bump" (depending on the degree of out-of-roundness), causing a variety of printing defects. Another aspect of the impression cylinder that must be checked is the extent to which it is parallel with the plate cylinder. Since the impression cylinder is commonly the only cylinder that cannot be moved within its support frames, all other cylinders and rollers must be set parallel to it, to ensure uniform printing pressure in the nip between the impression and plate cylinders. 
+</p>
+<p id="l15">
+Some flexographic presses replace the impression cylinder with an <a title="Impression Bar" href="Impression_Bar">impression bar</a> (also called a <a title="Tympan Bar" href="Tympan_Bar">tympan bar</a>). In some cases, porous substrates are printed, through which the ink seeps and collects on the impression cylinder. Ink build-up then can affect print quality, or damage the plate. Presses on which ink <a title="Strike-Through" href="Strike-Through">strike-through</a> is likely to be significant use a small-diameter (typically G:H steel rod as a firm backing for the substrate. Since the impression bar does not rotate, it is constantly wiped clean by the moving substrate. In some impression-bar configurations, a hollow bar is cooled with water or other means to prevent heat buildup and the consequent expansion of the metal. 
+</p>
+<p id="l17">
+Many flexo presses (in particular, multi-color ones) use a <a title="Common Impression Cylinder" href="Common_Impression_Cylinder">common impression cylinder</a>, a large-diameter impression cylinder surrounded by two to six plate cylinders. The substrate is carried around the impression cylinder where it contacts each printing unit in sequence, which lay down successive colors in essentially one pass. Such a press is known as a <a title="Central Impression Press" href="Central_Impression_Press">central impression press</a>. (See also <a title="Plate Cylinder: Flexography" class="nonexistent" href="http://printwiki.org/Plate_Cylinder:_Flexography">Plate Cylinder: Flexography</a> and <a title="Flexography: Press Configurations" class="nonexistent" href="http://printwiki.org/Flexography:_Press_Configurations">Flexography: Press Configurations</a>.) 
+</p>
+<p id="l19">
+An impression cylinder is also used for similar purposes in <a title="Rotary Press" href="Rotary_Press">rotary press</a>es and <a title="Flatbed Press" href="Flatbed_Press">flatbed press</a>es used in <a title="Letterpress" href="Letterpress">letterpress</a> printing. See <a title="Letterpress" href="Letterpress">Letterpress</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

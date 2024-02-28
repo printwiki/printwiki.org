@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Ultraviolet Curing Ink - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Ultraviolet Curing Ink" class="currentChild" href="Ultraviolet_Curing_Ink">Ultraviolet Curing Ink</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A type of radiation-curing ink that dries, or "sets," with the application of ultraviolet light. UV curing ink <a title="Vehicle" href="Vehicle">vehicle</a>s are composed of fluid oligomers (small <a title="Polymer" href="Polymer">polymer</a>s), <a title="Monomer" href="Monomer">monomer</a>s (light-weight molecules that bind together to form polymers), and initiators that, when exposed to ultraviolet radiation, release <a title="Free Radical" href="Free_Radical">free radical</a>s (extremely reactive atoms or molecules that can destabilize other atoms or molecules and start rapid chain reactions) that cause the <a title="Polymerization" href="Polymerization">polymerization</a> of the vehicle, which hardens to a dry ink film containing the <a title="Pigment" href="Pigment">pigment</a>. UV curing inks are designed to replace <a title="Heatset Ink" href="Heatset_Ink">heatset ink</a>s whose <a title="Solvent" href="Solvent">solvent</a>s emit potentially toxic gaseous emissions. However, UV curing inks are as much as three times the cost of regular heatset inks, and are used only in specialty printing, such as liquor cartons, cosmetic packaging, metal decoration, screen printing, and flexography. 
+</p>
+<p id="l3">
+The most common configuration of UV curing equipment is a mercury vapor lamp. Within a quartz glass tube containing charged mercury, energy is added, and the mercury is vaporized and ionized. As a result of the vaporization and ionization, the high-energy free-for-all of mercury atoms, ions, and free electrons results in excited states of many of the mercury atoms and ions. As they settle back down to their ground state, radiation is emitted. By controlling the pressure that exists in the lamp, the wavelength of the radiation that is emitted can be somewhat accurately controlled, the goal being of course to ensure that much of the radiation that is emitted falls in the ultraviolet portion of the spectrum, and at wavelengths that will be effective for ink curing. UV radiation with wavelengths of 365:366 nanometers provides the proper amount of penetration into the wet ink film to effect drying. (See <a title="Photo-Reactive Vehicle" href="Photo-Reactive_Vehicle">Photo-Reactive Vehicle</a>.) A newer variation of radiation curing inks, <a title="Electron Beam (EB) Curing Ink" class="nonexistent" href="http://printwiki.org/Electron_Beam_%28EB%29_Curing_Ink">Electron Beam (EB) Curing Ink</a>s, have some advantages over UV curing inks, but although the formulation of the inks is less expensive, the EB curing equipment is more expensive. (See ["Electron Beam [EB] Curing inks"].) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

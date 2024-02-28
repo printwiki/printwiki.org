@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Magazine - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Magazine" class="currentChild" href="Magazine">Magazine</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In publishing, any periodical, or regularly-published publication, containing a mix of staff-written or freelanced articles and features, usually pertaining to one particular subject. Magazines may be slick and colorful, or they can be black-and-white and less elaborate. They also usually contain some quantity of photographic content. Most magazines also obtain the bulk of their revenue from the selling of advertising space. The point at which a <a title="Newsletter" href="Newsletter">newsletter</a> becomes a magazine is blurry, but the latter tends to be less slickly and expensively produced, and relies less on advertising than subscription fees for revenue. 
+</p>
+<p id="l3">
+The word "magazine" itself dates from the Arabic word <em>makhazin</em> and the Italian word <em>magazzino</em>, both of which meant "storehouse." In English, the word "magazine" also had (and retains in many cases) this meaning. In seventeenth-century English, the word "magazine" was first used to refer to a publication that was a "storehouse of information." 
+</p>
+<p id="l5">
+The word <em>magazine</em> also refers to any container or device used to store objects or materials, as in an artillery magazine which holds ammunition. In <a title="hot-metal" class="nonexistent" href="http://printwiki.org/hot-metal">hot-metal</a> typesetting, the term also had this meaning, referring to a container in which the type matrices were sorted and stored. <a title="Typeface" href="Typeface">Typeface</a>s could be changed by removing one magazine and inserting another. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

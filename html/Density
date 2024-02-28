@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Density - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Density" class="currentChild" href="Density">Density</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In imaging and <a title="Color" href="Color">color</a>, the perceived darkness of a substance, material, or image caused by the absorption or reflection of light impinging on the material. Differences in density as related to color are also known as <a title="Gray Level" href="Gray_Level">gray level</a>s. As the density of a material increases, the amount of light that is absorbed by the material increases, while the amount of light reflected from or transmitted by the material decreases. The absorption of light is inversely proportional to the transmission or reflectance of light, according to the formula 
+</p>
+<p id="l5">
+Density = log<sub>10</sub>1/Transmittance = log<sub>10</sub>1/Reflectance 
+</p>
+<p id="l9">
+The term <em>density</em> also refers to the degree of blackness or darkness possessed by a type character, or to the number of characters per unit of <a title="Line Length" href="Line_Length">line length</a>. 
+</p>
+<p id="l11">
+The term <em>density</em> is also used to refer to the storage capacity of a magnetic storage medium, such as a floppy disk, referring to the amount of data that can be stored in a given surface area or per linear <a title="Track" href="Track">track</a> of the magnetic material. It also refers to the number of tracks the particular disk contains. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

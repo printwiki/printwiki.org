@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Blanket Cylinder - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Blanket Cylinder" class="currentChild" href="Blanket_Cylinder">Blanket Cylinder</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The part of an offset lithographic printing press containing a rubber blanket to which the inked image is transferred from the plate, and which then transfers the inked image to the paper or other <a title="Substrate" href="Substrate">substrate</a>. 
+</p>
+<p id="l3">
+The surface of the blanket cylinder of a sheetfed offset press is commonly not an unbroken one; there is a gap (called a <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a>) which occupies about 20% of its circumference. Somewhat like the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>, in whose cylinder gap lie the <a title="Plate Clamp" href="Plate_Clamp">plate clamp</a>s, the blanket cylinder has reels or bars to which the blanket is attached and pulled tightly over the metal surface of the cylinder. Each end of the cylinder has a metal ring called a <a title="Bearer" href="Bearer">bearer</a>, the diameter of which is the actual diameter of the cylinder, and of the gear that drives the cylinder. (Older presses utilize a <a title="Spur Gear" href="Spur_Gear">spur gear</a>—in which the teeth are cut straight across—while newer presses utilize a <a title="Helical Gear" href="Helical_Gear">helical gear</a>—in which the teeth are cut at an angle.) The gear on the blanket cylinder is in contact with and drives a similar gear on the plate cylinder. The bearers of each cylinder may or may not be in contact, but those that run out-of-contact need helical gears to minimize <a title="Play" href="Play">play</a> (undesired free movement of cylinder gears). The diameter (and thus the radius) of the main body of the cylinder where the blanket is attached is slightly less than that of the bearers. The difference in radius between the bearers and the main cylinder body is called the <a title="Undercut" href="Undercut">undercut</a>, and exists so as to provide space for blanket height adjustment, typically by means of <a title="Packing" href="Packing">packing</a> (paper, plastic or other material placed underneath the blanket to raise the printing surface). 
+</p>
+<p id="l5">
+The blanket cylinder is moveable, in that it can be brought in and out of contact with the plate cylinder and <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>. However, since the gears of each of these cylinders need to remain in contact, the blanket cylinder cannot be moved very far. This backing away of the blanket is necessary so as to allow the mounting and washing of plates without dirtying the blanket, or to allow the mounting and washing of the blanket without dirtying the plate or plate cylinder. The distance between the blanket and the impression cylinder is adjustable, so as to allow printing on a wide variety of substrate thicknesses. The blanket and impression cylinder can be brought out of contact with each other using an impression lever that shifts the impression cylinder's eccentric bushings. On some presses, however, the blanket cylinder is equipped with two sets of eccentric bushings, one set controlling the bearer pressure between the plate and blanket cylinders, the other set controlling the position of the blanket cylinder in relation to the impression cylinder. On presses with a single printing unit, the gear of the blanket cylinder is connected directly to the main motor of the press, and the blanket cylinder gear drives all the other cylinders. 
+</p>
+<p id="l7">
+As with inking and dampening rollers, the proper pressure that exists between cylinders is an important adjustment, and the adjustments vary slightly depending upon whether the plate and blanket cylinder bearers are in contact with each other or not. On a <a title="Bearer-Contact Press" href="Bearer-Contact_Press">bearer-contact press</a>, the bearers act as not only a means of ensuring the alignment of the two cylinders, they also act to reduce gear wear, as the perfect alignment of the bearers ensures proper gear meshing. Effective use of the bearers is only possible when the pressure that the bearers exert on each other is beyond that produced simply by the weight of the upper cylinder. In the process of <a title="Preloading" href="Preloading">preloading</a>, or the setting of the increased pressure between the bearers, proper pressure can be set as follows: With the plate and blanket set to the proper printing height, the blanket is slightly overpacked by about 0.003 inch, and thumbprints of ink are placed around both blanket cylinder bearers. With the press started up, and the impression pressure engaged, the cylinders are allowed to turn through several revolutions, and the press is stopped. If the inked thumbprints are transferred evenly and thickly, the cylinder setting is fine. If not, the pressures need to be adjusted. On a <a title="Non-Bearer-Contact Press" href="Non-Bearer-Contact_Press">non-bearer-contact press</a>, it is necessary to determine the manufacturer's recommendation of the proper gap between the bearers. Then, a small piece of metal with a thickness equal to the required width of the gap is obtained. The blanket is slightly overpacked, and the plate is packed to its correct printing height. The press is started, and the plate, blanket, and <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>s are rolled into position. (The blanket cylinder should be set to exert only a 0.004-inch <a title="Squeeze" href="Squeeze">squeeze</a> on the impression cylinder.) With the press stopped, the strips of metal are inserted between the plate and blanket cylinder bearers, and they should fit tightly, and be moveable with only a strong pull. If they are overly loose or require a great deal of force to move them, the cylinder settings need to be adjusted. 
+</p>
+<p id="l9">
+Maintenance of the blanket cylinder is a straightforward case of ensuring that the gears and bearers are free of paper debris, dried ink, gum from the dampening solution, and other detritus that can impede gear movement and/or cause gear damage. Lubrication on many presses is accomplished automatically. (See also <a title="Offset Lithography: Printing Unit" class="nonexistent" href="http://printwiki.org/Offset_Lithography:_Printing_Unit">Offset Lithography: Printing Unit</a>, <a title="Plate Cylinder" href="Plate_Cylinder">Plate Cylinder</a>, and <a title="Impression Cylinder" href="Impression_Cylinder">Impression Cylinder</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

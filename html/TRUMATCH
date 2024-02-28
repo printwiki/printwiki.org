@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>TRUMATCH - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="TRUMATCH" class="currentChild" href="TRUMATCH">TRUMATCH</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The brand-name for a popular <a title="Color Matching System" href="Color_Matching_System">color matching system</a>, designed specifically for digital prepress systems. Before digital halftoning, halftone screen percentages were only available in increments of 5%, which meant that each <a title="Process Color" href="Process_Color">process color</a> could only be specified to the nearest 5% (for example, you could specify 45% <a title="Cyan" href="Cyan">cyan</a>, but not 49% cyan). This limited somewhat the number of colors that could be reproduced, since all process colors are created by overprinting each of the <a title="CMYK" class="nonexistent" href="http://printwiki.org/CMYK">CMYK</a> inks at various percentages. Digital prepress and desktop color systems allow colors to be specified in 1% increments, which opens up the range of colors that can be produced. The TRUMATCH Swatching System facilitates this, by including digital samples of over 2,000 process colors, each sample including the CMYK percentages required to reproduce it. In addition, the TRUMATCH system organizes each color by <a title="Hue" href="Hue">hue</a>, or primary color component, then by <a title="Saturation" href="Saturation">saturation</a>, and then by <a title="Brightness" href="Brightness">brightness</a> (in other words, the <a title="HSB" class="nonexistent" href="http://printwiki.org/HSB">HSB</a> color model). The TRUMATCH system includes 50 hues, subdivided into 50 shades of each hue. 
+</p>
+<p id="l3">
+The TRUMATCH system is supported by most of the commonly-used <a title="page makeup program" class="nonexistent" href="http://printwiki.org/page_makeup_program">page makeup program</a>, such as <a title="QuarkXPress" href="QuarkXPress">QuarkXPress</a> and <a title="PageMaker" href="PageMaker">PageMaker</a>, as well as a variety of popular <a title="Drawing" href="Drawing">drawing</a> programs. TRUMATCH swatches are also available in book form. (See also <a title="PANTONE" href="PANTONE">PANTONE</a> and <a title="FOCOLTONE" href="FOCOLTONE">FOCOLTONE</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

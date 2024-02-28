@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help with Accounts - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help with Accounts" class="currentChild" href="Help_with_Accounts">Help with Accounts</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-550b1813cd3c819511c4480e0095156ab6eff036"><h2 id="l1">Making an Account</h2></span>
+<p id="l3">
+To create a new account, visit the <a title="User Settings" href="../User_Settings">User Settings</a> page. You will then need to provide some basic information, including your desired user name and a valid email address (for password recovery only). We strongly encourage people to use your own name (like BobSmith). That's it, you are now able to edit. 
+</p>
+<p id="l5">
+<strong>Your First Page</strong> <br/>Once you have an account, you should start by creating your user page. Visit the <a title="Users" href="http://printwiki.org/Users">Users page</a> and find for your User Name in the list of users. Follow the link and click on that link to create a new page, this will  take you to an empty page. 
+</p>
+<p id="l8">
+Once there, you can either click on 'create this page' for a blank page, or click on 'User Template' to create the page with some basic info filled in. Add some text to your new page, and click 'Save Changes' at the bottom of the page, and your user page will instantly be added to PrintWiki. 
+</p>
+<p id="l10">
+Then, you should check out the <a title="Help" href="../Help">Help</a> pages to get you going. 
+</p>
+<p id="l12">
+Thanks for joining PrintWiki and Happy editing! 
+</p>
+<p id="l14">
+<strong>Managing Your Account</strong> 
+</p>
+<p id="l16">
+You can manage your account on the <a title="User Preferences" href="../User_Preferences">User Preferences</a> page. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

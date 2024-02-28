@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Point Size - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Point Size" class="currentChild" href="Point_Size">Point Size</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a measure of the height of the characters of a font, measured in points. 
+</p>
+<p id="l3">
+The <a title="Point" href="Point">point</a> is the basic unit of measurement used in typography, and all other measurements derive from it. Historically, each individual size was referred to using a name not a number (such as Diamond, Brevier, Pica, Great Primer, etc.; only one of these names—<a title="Agate" href="Agate">agate</a>—is still used; see <a title="Agate" href="Agate">Agate</a>), but this became inadequate for quantitatively specifying type sizes above and below it. In the late nineteenth century, the <a title="Point System" href="Point_System">point system</a>—devised a century earlier by Pierre Fournier—was adopted by the printing industry. 
+</p>
+<p id="l5">
+The point is used to describe the difference in size among <a title="Typeface" href="Typeface">typeface</a>s, <a title="Leading" href="Leading">leading</a>, and other aspects of composition. It is not without its confusion, however. In the United States and Great Britain, the point is approximately one-seventy-second of an inch (.351 mm), or one-twelfth of a <a title="Pica" href="Pica">pica</a> and is called a <a title="Pica Point" href="Pica_Point">pica point</a>. In Europe, the point is a little bigger (.376 mm) and is called a <a title="Didot Point" href="Didot_Point">Didot point</a>. (There is also a third <a title="Point System" href="Point_System">point system</a>, used primarily in Belgium, called the Mediaan system, but is has largely fallen out of use; see <a title="Point System" href="Point_System">Point System</a>.) In both the American-British and the Didot systems, points have always been used to describe the length of one metal chunk of type. A 72-point "H," in metal type, is a character cast onto the top of a metal block, which carries the character through all the subsequent printing operations. The block's surface itself is exactly 72 points (or one inch) in height. However, the actual size of the letter that is printed will be slightly smaller than the overall size of the metal block that carries it. Thus, the point size refers to a specific dimension of the metal, not the letter, an important distinction due to the occasional appearance of <a title="Ascender" href="Ascender">ascender</a>s and <a title="Descender" href="Descender">descender</a>s, and if the type is to line up evenly and securely, the characters must be cast onto oversize metal blocks that are large enough to allow for these extremes of projection above and below the <a title="Baseline" href="Baseline">baseline</a>. Therefore, all the metal blocks end up being equal in height, this height being the determinant of the point size of the typeface. 
+</p>
+<p id="l7">
+Consequently, point size is merely an expression of the distance from ascender to descender, with a small amount of space allowed above and below to compensate for the metal block, and as such cannot describe the proportional relationship of a typeface's <a title="x-Height" href="x-Height">x-height</a> to its ascenders and descenders. 
+</p>
+<p id="l9">
+When specifying very small type, it is better to deal in round numbers than in fractions of inches or millimeters. In the United States, only pica points were used until about 1960, with the exception of some typefaces—such as Bauer, Bodoni, and the original Helveticas—which had been available in Didot points for quite some time. When typefaces from Europe began to be used in <a title="Linotype" href="Linotype">Linotype</a> and <a title="Monotype" href="Monotype">Monotype</a> systems, these faces were cut in Didot points. 
+</p>
+<p id="l11">
+So, a font of 24-point characters may have been adapted from <a title="Hot Type" href="Hot_Type">hot type</a> 24 pica points high, hot type 24 Didot points high, or from <a title="Photolettering" href="Photolettering">photolettering</a> that had some tenuous point designation. It may even have been designed originally for phototype, in which case the capital letters might have been 24 points high (pica <em>or</em> Didot). 
+</p>
+<p id="l13">
+In modern typesetting, the traditional point measurements associated with hot type are a hindrance. Type is no longer composed using metal slugs but appears directly on a sheet of film or paper, commonly produced digitally. A system could easily be employed using actual letter-image heights, which would be much simpler and more logical. 
+</p>
+<p id="l15">
+The term <a title="Photolettering" href="Photolettering">photolettering</a> originally referred to headline and display work. The master size on the photomatrix was usually one inch (72 points), and all enlargements and reductions modified this basic size. Thus, the concept of standard type sizes was lost, since one could specify any size necessary to fit a layout and the past increments—6, 7, 8, etc.—were rendered meaningless. 
+</p>
+<p id="l17">
+<a title="Phototypesetting" href="Phototypesetting">Phototypesetting</a> utilized three approaches for type sizing: 
+</p>
+<p id="l19">
+1. Each photomatrix had a different master size and characters were photographed at a 1:1 ratio. 
+</p>
+<p id="l21">
+2. The photomatrix had one master size (8-point, for example) and lenses enlarged or reduced the character image as necessary. 
+</p>
+<p id="l23">
+3. The were ranges of master sizes so that a photomatrix with the 8-point master would only be used for enlargement up to 12-point, and another photomatrix would have a master size of 12-point for enlargement up to 18-point, for example. 
+</p>
+<p id="l25">
+Some type suppliers made their master sizes all the same size and worked from constant-sized artwork. Thus, all typefaces would be 7 inches and reduced to the 8-point master size. In many cases, this effectively limited x-height variability; all sizes were then the same. 
+</p>
+<p id="l27">
+In more recent digitized typesetting, the image is not a photographic master. It is made up of thousands of dots, overlapping to create lines (called <a title="Raster" href="Raster">raster</a>s). Thus, the number of type sizes is increasing as technology changes the typesetting process. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

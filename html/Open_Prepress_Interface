@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Open Prepress Interface - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Open Prepress Interface" class="currentChild" href="Open_Prepress_Interface">Open Prepress Interface</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A workflow protocol developed by Aldus Corporation used in electronic prepress to link desktop publishing systems and high-end <a title="CEPS" class="nonexistent" href="http://printwiki.org/CEPS">CEPS</a>. Essentially, <a title="High-Resolution" href="High-Resolution">high-resolution</a> color images are stored on a central network server, to which all the workstations are connected. <a title="Low-Resolution" href="Low-Resolution">Low-resolution</a> files are sent by the server to individual computers working on page layout. The low-res images are imported into the page (in a kind of <a title="FPO" href="FPO">FPO</a> way), positioned, and comments sent back to the OPI server provide specific cropping, scaling, positioning, and color information about the image. The server's <a title="PostScript" href="PostScript">PostScript</a> driver inserts the proper instructions into the PostScript code. When the page is ultimately output to an <a title="Imagesetter" href="Imagesetter">imagesetter</a> connected to the network, the high-resolution image is swapped for the low-res one, and the indicated instructions as to cropping, etc., are executed. 
+</p>
+<p id="l3">
+OPI is useful for minimizing high-resolution-file travel on networks; their large file size can make traffic screech to a halt. And by utilizing only low-resolution viewfiles on workstations, processing speed is increased. The efficacy of OPI is contingent upon the use on the workstations of OPI-compatible software; many page layout programs are increasingly including support for OPI, although some OPI specifications for color separation haven't been effectively nailed down yet. Although OPI is often compared to <a title="DCS" class="nonexistent" href="http://printwiki.org/DCS">DCS</a>, the latter is strictly a color separation protocol, while the former is more of a workflow protocol. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

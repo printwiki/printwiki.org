@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PrintWiki/Policies/Deletion/Immediate - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../../../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../../../Front_Page" class="tab">Front Page</a><a href="../../../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PrintWiki" href="../../../PrintWiki">PrintWiki</a>/<a title="PrintWiki/Policies" href="../../Policies">Policies</a>/<a title="PrintWiki/Policies/Deletion" href="../Deletion">Deletion</a>/<a title="PrintWiki/Policies/Deletion/Immediate" class="currentChild" href="Immediate">Immediate</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-de4b09668c4525b656c1d71e29cdd6623029d693"><h2 id="l2">Immediate Deletion Policy</h2></span>
+<p id="l4">
+The "Immediate deletion" policy governs limited cases where PrintWiki administrators may delete pages immediately without debate or discussion. Immediate deletion is used in cases of utter rubbish, nonsense or pure vandalism. Non-admins can request deletion of a page by making a request on the article's Talk page or flagging it with the deletion flag macro <tt>[[deletion(immediate)]]</tt>. 
+</p>
+<span id="head-61454421f2a0061b8868238c0c914a76d1e04be6"><h3 id="l6">Immediate deletion criteria</h3></span>
+<p id="l8">
+Nonsense, gibberish, and incoherent pages with no meaningful content. 
+</p>
+<p id="l10">
+Test pages (Example: "Can I really edit this page?"). 
+</p>
+<p id="l12">
+Pure <a title="PrintWiki/Policies/Vandalism" href="../Vandalism">vandalism</a> 
+</p>
+<p id="l14">
+Recreation of deleted material. A substantially identical copy of a page that was deleted as a result of a discussion or action taken in accordance with the Proposed deletion policy. Before deleting again, the PrintWiki administrator should ensure that the material is substantially identical and not merely a new article on the same subject. 
+</p>
+<p id="l16">
+Author requests deletion. Any page in which deletion is requested by the original article author, provided the page's only substantial content was added by its author. 
+</p>
+<p id="l18">
+Talk pages of pages that do not exist, unless they contain deletion discussion that isn't archived elsewhere. Exceptions to this are Talk pages created in reaction to utter rubbish, nonsense, vandalized pages. 
+</p>
+<p id="l20">
+Blatant advertising. Article pages which exclusively promote a company, product, or service and which would need to be fundamentally rewritten in order to become encyclopedic. 
+</p>
+<p id="l22">
+Copyright infringement. Pages which are copies of copyrighted material. 
+</p>
+<p id="l24">
+For any articles that are not  Immediate deletion candidates, use <a title="PrintWiki/Policies/Deletion/Proposed" href="Proposed">Proposed Deletion</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../../../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../../../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

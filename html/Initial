@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Initial - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Initial" class="currentChild" href="Initial">Initial</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a large letter—typically the first letter of the first word of the line—placed at the beginning of a chapter, page or paragraph. The oldest style is the <a title="Sunken Initial" href="Sunken_Initial">sunken initial</a>, or <a title="Drop Cap" href="Drop_Cap">drop cap</a>, position, in which the initial letter is set down within the copy, not rising above the top line of the text. The second style is the <a title="Raised Initial" href="Raised_Initial">raised initial</a>, or <a title="Stickup Initial" href="Stickup_Initial">stickup initial</a>, in which the initial letter rests on the baseline of the first or subsequent line of text and rises above the top line of the text. The use of initial letters (or <a title="Initial Cap" href="Initial_Cap">initial cap</a>s) dates back to the artistic application of them in handwritten books. Early printed books, such as Gutenberg's 42-line Bible, had colorful initial caps drawn by hand. Today, initials are used primarily to break up the gray monotony of long text blocks or simply as decorative elements. 
+</p>
+<p id="l3">
+The most important aspect in the use of initial letters is their fit, or how they align with the rest of the text on the page. The space around the initial letter should be optically the same on the side as it is on the bottom. A raised initial letter must also rest on the <a title="Baseline" href="Baseline">baseline</a>, with <a title="Kerning" href="Kerning">kerning</a> applied where necessary. Raised letters may also be indented. If quotes are to be set (for example, if the initial letter is the beginning of a quote), they should be in a size between the text size and the initial letter size. They may even be eliminated (which is advisable). Traditionally, the first word following the initial is set in small caps or caps. Often, the lines of text adjacent to the cap are contoured to flow around the curves or strokes of the letter. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

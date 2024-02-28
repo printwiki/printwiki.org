@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Filler - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Filler" class="currentChild" href="Filler">Filler</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Inorganic, non-fibrous material added to paper <a title="Pulp" href="Pulp">pulp</a> prior to papermaking. Adding fillers to paper pulp is called <a title="Loading" href="Loading">loading</a>. The combination of pulp and filler is called the papermaking <a title="Furnish" href="Furnish">furnish</a>. 
+</p>
+<p id="l3">
+The basic constituent of paper is <a title="Cellulose" href="Cellulose">cellulose</a> fiber, but fillers are added to alter one or more of a paper's properties, depending on the desired end-use characteristics. Loading modifies such paper properties as texture, <a title="Opacity" href="Opacity">opacity</a>, <a title="Brightness" href="Brightness">brightness</a>, <a title="Basis Weight" href="Basis_Weight">basis weight</a>, <a title="Dimensional Stability" href="Dimensional_Stability">dimensional stability</a>, <a title="Ink Absorbency" href="Ink_Absorbency">ink absorbency</a>, and overall <a title="Printability" href="Printability">printability</a>. It is important for fillers to scatter light well to increase opacity, impart high brightness, be nonabrasive, and not be chemically reactive with either the printing system to be used or with any proximate end-use materials. 
+</p>
+<p id="l5">
+The most commonly used fillers are <a title="Clay" href="Clay">clay</a> and <a title="Titanium Dioxide" href="Titanium_Dioxide">titanium dioxide</a>, the latter of which is ideal for increasing opacity. <a title="Calcium Carbonate" href="Calcium_Carbonate">Calcium carbonate</a> is used in producing <a title="Alkaline Paper" href="Alkaline_Paper">alkaline paper</a>s. Other fillers that are used on occasion are talc, calcium sulfate, barium sulfate, hydrated alumina, silicas or silicate pigments, and zinc pigments. Fillers added for <a title="Internal Sizing" href="Internal_Sizing">internal sizing</a> include acid or alkaline <a title="Rosin" href="Rosin">rosin</a> and <a title="Alum" href="Alum">alum</a>. Gums, starches, and synthetic polymers are added to aid in sheet formation. Dyes and pigments are added to alter the color of a paper. In writing and printing papers, filler content can range from 5 to 30% of a paper's weight.  
+</p>
+<p id="l7">
+Although fillers primarily improve the optical properties of paper, it is not without compromising other properties. Increasing the amount of fillers in general increases brightness, dimensional stability, ink absorbency, opacity, and smoothness, but it can decrease a paper's strength and stress endurance. Fillers reduce paper <a title="Bulk" href="Bulk">bulk</a> and <a title="Stiffness" href="Stiffness">stiffness</a>, which may or may not be desirable. 
+</p>
+<p id="l9">
+Adding fillers is a function of the intended printing method and end-use requirements of the paper. (See also <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) 
+</p>
+<p id="l11">
+In typography, the term <em>filler</em> refers to any extraneous or less important material added to a page to fill out a short column. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Waterless Lithography - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Waterless Lithography" class="currentChild" href="Waterless_Lithography">Waterless Lithography</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A variety of <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> that eliminates the need for a <a title="Dampening System" href="Dampening_System">dampening system</a> by utilizing water-repellent <a title="Silicone" href="Silicone">silicone</a> rubber plates. 
+</p>
+<p id="l3">
+Waterless lithography is the descendent of an ill-fated printing process developed by 3M in the 1960s called <a title="Driography" href="Driography">driography</a>, a means of printing from dry lithographic plates. Plate sensitivity and ink performance difficulties (most of which are no longer problems thanks to modern temperature-control systems) doomed the process and it never caught on. In 1977, Japan's Toray Industries introduced a presensitized waterless offset plate which, after several refinements, became commercially viable. 
+</p>
+<p id="l5">
+The waterless lithographic plate comprises an aluminum base, covered with a primer layer, a photosensitive <a title="Photopolymer" href="Photopolymer">photopolymer</a> layer, a silicone rubber layer, and a final protective layer of transparent film. Waterless plates can either be <a title="Positive-Working" href="Positive-Working">positive-working</a> or <a title="Negative-Working" href="Negative-Working">negative-working</a>. During platemaking (utilizing a positive-working plate), a film positive is brought into contact with the plate and exposed to ultraviolet light, which fuses the silicone to the photopolymer in the non-image areas. During developing, the plastic protective layer is removedmand the silicone layer can be washed away from the plate in the image areas, revealing the photopolymer layer. In a negative-working waterless plate, the plate is exposed to a film negative. However, the plates are formulated such that the exposure to ultraviolet light weakens the bond between the silicone and photopolymer layers in the image areas. A post-exposure treatment (following removal of the protective film) strengthens the bond between the two layers in the unexposed non-image areas, and the silicone can then be washed off the plate in the image areas. Positive-working plates can achieve screen resolutions of up to 800 lines per inch, while negative-working plates can achieve up to 300 lines per inch. 
+</p>
+<p id="l7">
+One of the problems with waterless lithography is the necessity to carefully control the temperature on press; a 10ºF rise in ink temperature can result in <a title="Toning" href="Toning">toning</a>, or the appearance of ink in non-image areas of the plate. Temperature on waterless lithographic presses is commonly controlled in one of two ways: a special chilled ink <a title="Oscillator" href="Oscillator">oscillator</a> roller to which cooled water is pumped from a water chilling device attached to the press, and a less effective configuration that pumps the cooled water to the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>. (A water heating device can be substituted in these configurations, depending on the direction the temperature needs to go.) The inks themselves used in the process are specially formulated to resist changes in temperature and as a result tend to be more expensive than traditional offset inks. 
+</p>
+<p id="l9">
+A variety of press configurations exist to accommodate waterless lithography; conventional offset presses can be retrofitted to include the temperature control system necessary, and specifically manufactured waterless lithographic presses can also come with a dampening system, both systems providing the printer with the option to print wet or dry. 
+</p>
+<p id="l11">
+Although waterless lithography (also known as <em>waterless printing</em> and <a title="waterless offset" class="nonexistent" href="http://printwiki.org/waterless_offset">waterless offset</a>) boasts superior print quality, faster makeready, and the environmental benefits of not requiring an alcohol-based dampening solution, the expense of setting up the process, the strict temperature tolerances required, ink-viscosity problems, and toning have made many printers wary of the process. However, the process is still in its infancy and new technological developments are working to overcome its shortcomings. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Nebraska Scale - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Nebraska Scale" class="currentChild" href="Nebraska_Scale">Nebraska Scale</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In multimedia, a scale developed by the Nebraska Videodisc Design/Production Group to classify the level of <a title="interactivity" class="nonexistent" href="http://printwiki.org/interactivity">interactivity</a> of a multimedia production, <a title="videodisc" class="nonexistent" href="http://printwiki.org/videodisc">videodisc</a>, or other system. The scale runs as follows: 
+</p>
+<p id="l3">
+'Level 0'. A system in which productions possess a strictly linear narrative and no interactivity, such as a feature movie. 
+</p>
+<p id="l5">
+'Level 1'. A system allowing a small, limited amount of interactivity like basic fast forward and rewind capabilities or some individual frame selection, such as a <a title="level 1 videodisc" class="nonexistent" href="http://printwiki.org/level_1_videodisc">level 1 videodisc</a>. 
+</p>
+<p id="l7">
+'Level 2'. A system utilizing a <a title="microprocessor" class="nonexistent" href="http://printwiki.org/microprocessor">microprocessor</a> that allows increased interactivity by reading the program from a <a title="Hard Disk" href="Hard_Disk">hard disk</a> or other such storage medium. 
+</p>
+<p id="l9">
+'Level 3'. A system utilizing a complete <a title="Microcomputer" href="Microcomputer">microcomputer</a>, with the storage medium and the drive playing the production as separate entities (such as a CD-ROM drive connected to a personal computer). This allows unlimited interactivity. 
+</p>
+<p id="l11">
+'Level 4'. A system in which the drive, <a title="operating system" class="nonexistent" href="http://printwiki.org/operating_system">operating system</a>, and microprocessor are complete in one unit, the wnetire system being dedicated solely to interactive productions (such as Philips' <a title="CD-i" class="nonexistent" href="http://printwiki.org/CD-i">CD-i</a>). 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

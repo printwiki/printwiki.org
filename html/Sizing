@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Sizing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Sizing" class="currentChild" href="Sizing">Sizing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The application of various materials either to wet paper <a title="Pulp" href="Pulp">pulp</a> (called <a title="Internal Sizing" href="Internal_Sizing">internal sizing</a>) or to the surface of partially dried finished paper (called <a title="Surface Sizing" href="Surface_Sizing">surface sizing</a>) to provide a desired degree of resistance to water or other fluids and to increase surface strength. Papers that are unsized (called <a title="Waterleaf" href="Waterleaf">waterleaf</a>) readily absorb moisture, and are used for towel, tissue, and blotting papers. Internal sizing typically consists of an acid- or alkaline-based <a title="Rosin" href="Rosin">rosin</a> and papermaker's <a title="Alum" href="Alum">alum</a> (used to help the sizing adhere to the paper fibers) added to the papermaking <a title="Furnish" href="Furnish">furnish</a> during the <a title="Stock Preparation" href="Stock_Preparation">stock preparation</a> phase prior to its reaching the <a title="Forming Wire" href="Forming_Wire">forming wire</a> of the papermaking machine. (Sizing that is added during the <a title="Refining" href="Refining">refining</a> stage is sometimes called <a title="beater sizing" class="nonexistent" href="http://printwiki.org/beater_sizing">beater sizing</a>, after the vessel—the <a title="Beater" href="Beater">beater</a>—in which the process occurs.) Internal sizing does not make a paper waterproof, or increase its wet strength, but it does hinder the penetration of water through the paper and contributes greater <a title="Dimensional Stability" href="Dimensional_Stability">dimensional stability</a> to the paper. <a title="Slack-Sized" href="Slack-Sized">Slack-sized</a> paper has a minimal amount of internal sizing, while <a title="Hard-Sized" href="Hard-Sized">hard-sized</a> paper has a greater degree of internal sizing. Hard-sizing is used for papers that must withstand repeated exposure to offset press dampening systems without absorbing significant levels of moisture. Sizing is also added to prevent glues and other adhesives from penetrating the paper when applied to labels and packaging. 
+</p>
+<p id="l3">
+Surface sizing is added to partially dried paper on the <a title="Size Press" href="Size_Press">size press</a>, located near the end of the paper machine's <a title="Drying Section" href="Drying_Section">drying section</a>. Surface sizing typically consists of a starch solution added to the surface of the paper <a title="Web" href="Web">web</a> by rollers. Surface sizing is typically applied as a surface fiber sealant, improving strength and stress resistances, as well as impeding the penetration of ink far into the surface of the paper. Variations in the surface-sizing process and the materials used confer different advantages on the paper, such as increased water resistance and the ability to repel grease, oil, or other substances. 
+</p>
+<p id="l5">
+The use and degree of both internal and surface sizing varies according to paper type and the desired characteristics. Papers used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>, as well as bond and writing papers, and <a title="cover" class="nonexistent" href="http://printwiki.org/cover">cover</a>, <a title="Index" href="Index">index</a>, and <a title="bristol" class="nonexistent" href="http://printwiki.org/bristol">bristol</a> papers are both internally and externally sized. Papers used in high-speed <a title="Web Offset Lithography" href="Web_Offset_Lithography">web offset lithography</a> are usually not surface-sized but may be internally sized, while papers used in <a title="Letterpress" href="Letterpress">letterpress</a> printing don't need to be sized at all. 
+</p>
+<p id="l7">
+Measures of the degree of sizing are related to tests to determine water resistance. There are three basic groups of tests to measure the degree of sizing and water resistance: those that measure surface water absorption (see <a title="Feathering Test" href="Feathering_Test">Feathering Test</a> and <a title="Contact Angle Method" href="Contact_Angle_Method">Contact Angle Method</a>), those that determine how long it takes liquids to penetrate the paper (see <a title="Dry Indicator Test" class="nonexistent" href="http://printwiki.org/Dry_Indicator_Test">Dry Indicator Test</a>, <a title="Ink Flotation Method" href="Ink_Flotation_Method">Ink Flotation Method</a>, and <a title="Curl Test Method" href="Curl_Test_Method">Curl Test Method</a>), and those that determine how much liquid a quantity of paper can absorb in a set period of time (see <a title="Cobb Size Test" href="Cobb_Size_Test">Cobb Size Test</a> and <a title="Water Immersion Method" class="nonexistent" href="http://printwiki.org/Water_Immersion_Method">Water Immersion Method</a>).  
+</p>
+<p id="l9">
+See also <a title="Internal Sizing" href="Internal_Sizing">Internal Sizing</a> and <a title="Surface Sizing" href="Surface_Sizing">Surface Sizing</a>. 
+</p>
+<p id="l11">
+In graphics, layout, and graphic arts photography, <em>sizing</em> refers to the act of determining and indicating on original copy the amount or percentage of <a title="Enlargement" href="Enlargement">enlargement</a> or <a title="Reduction" href="Reduction">reduction</a> required. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

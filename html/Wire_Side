@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Wire Side - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Wire Side" class="currentChild" href="Wire_Side">Wire Side</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The side of a sheet or <a title="Web" href="Web">web</a> of paper that has formed in contact with the papermaking machine's <a title="Forming Wire" href="Forming_Wire">forming wire</a>, as opposed to that formed on the top side of the paper, called the <a title="Felt Side" href="Felt_Side">felt side</a>. As water drains down through the wire from the papermaking <a title="Furnish" href="Furnish">furnish</a>, small fibers (called <a title="Fines" href="Fines">fines</a>), <a title="fillers" class="nonexistent" href="http://printwiki.org/fillers">fillers</a>, and <a title="Sizing" href="Sizing">sizing</a> are lost through the mesh. Consequently, the wire side contains less fines, fillers, and sizing than the felt side. The paper's <a title="Grain" href="Grain">grain</a> is also more pronounced on the wire side. Since the wire side contains less filler, it is somewhat stronger than the felt side, and is often the preferred side for printing. Paper that is to be folded also resists cracking better when the wire side is on the outside of a fold. Since it also has less fines, many of which remain as loose particles on the felt side, printing on the wire side results in less piling of paper debris on the blanket. However, the felt side of paper is preferred for other applications, especially for writing with a pen and ink, as <a title="Feathering" href="Feathering">feathering</a> is minimal on the felt side. Letterheads are typically printed felt side up, and envelopes folded felt side out. A watermark will also read backwards from the wire side.  
+</p>
+<p id="l3">
+A paper's <a title="Two-Sidedness" href="Two-Sidedness">two-sidedness</a> is primarily caused by using a traditional single-wire <a title="Fourdrinier" href="Fourdrinier">fourdrinier</a> paper machine. The disparity between the two sides can be minimized by using a <a title="Twin-Wire Former" href="Twin-Wire_Former">twin-wire former</a> which sandwiches the papermaking furnish between two wires, imparting to the paper two wire sides. (See also <a title="Felt Side" href="Felt_Side">Felt Side</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

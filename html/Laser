@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Laser - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Laser" class="currentChild" href="Laser">Laser</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An acronym for <em>Light Amplification by Stimulated Emission of Radiation</em>. A laser is essentially a thin, intense beam of coherent light. It differs from light emitted by conventional light bulbs in that traditional light is in'coherent; light waves are radiated in all directions independently of each other, and the crests and troughs of the wave do not coincide with each other and therefore possess little energy. In a laser, all the light waves are emitted in the same direction and with their crests and troughs aligned with each other. The beam thus has a great deal of energy. The light rays, as they travel along the beam, are kept as close to being parallel with each other as possible and, as a result, the waves diverge very slightly. As an example, in 1962 a one-foot-wide laser beam was pointed at the moon and, when it reached the moon, illuminated a two-mile-wide area. An ordinary light beam making the same journey would cover a 25,000-mile-wide area. 
+</p>
+<p id="l3">
+Essentially, a laser is created by stimulating certain substances to emit light, which involves adding energy until the low-energy-level atoms have absorbed enough energy to trigger an emission of energy in the form of electromagnetic radiation—i.e., light. The first lasers utilized ruby crystal rods. Today's lasers utilize gases or liquids as the laser material. 
+</p>
+<p id="l5">
+Lasers have a wide range of uses in a variety of industries. In imaging and printing, fine beams of laser light are used to image light-sensitive printing plates and <a title="Imagesetter" href="Imagesetter">imagesetter</a> films, and lasers are used in computer <a title="Laser Printer" href="Laser_Printer">laser printer</a>s to expose a charged metal plate in regions corresponding to image areas, allowing toner to adhere to it and transfer to the paper passing beneath it. Lasers are also used in optical discs, such as audio CDs and CD-ROMs, to either write or read the tiny pits in the surface of the disc which can then be translated into digital or analog data. Lasers are also used for a variety of surgical procedures. 
+</p>
+<p id="l7">
+The laser was a successor to an earlier device called a <em>maser</em>, which stood for <em>Microwave Amplification by Stimulated Emission of Radiation</em>. Once, lasers were merely the stuff of science fiction; now most homes in the United States have at least one. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

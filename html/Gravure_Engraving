@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Gravure Engraving - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Gravure Engraving" class="currentChild" href="Gravure_Engraving">Gravure Engraving</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Collective term for the various means of engraving or etching the image onto the <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>. Gravure, unlike most other printing processes, prints from depressed, ink-filled cells produced on the surface of a copper-plated cylinder. The ink in the cells is then transferred to the desired <a title="Substrate" href="Substrate">substrate</a>. 
+</p>
+<p id="l3">
+There are four basic means of engraving the image into a gravure cylinder: 
+</p>
+<p id="l5">
+<strong>Diffusion-Etch Process</strong>. Also called <a title="Conventional Gravure Engraving" href="Conventional_Gravure_Engraving">conventional gravure engraving</a>, diffusion-etch is the oldest method of gravure cylinder engraving. It uses two film positives, one of which is a film positive of the image (solid areas, text, or continuous-tone, variable-density image) the other being a special gravure screen, containing between 100:200 lines per inch. The screen is used to "convert" the solid image into many tiny cells (similar to making a halftone from a continuous-tone photograph, for example), which are small squares oriented at a 45º angle to the direction of web travel through the press (diamonds, basically). The positive image and the screen are placed on top of a <a title="Carbon Tissue" href="Carbon_Tissue">carbon tissue</a>, a water-soluble paper covered with a light-sensitive gelatin <a title="Resist" href="Resist">resist</a>, and consecutively exposed to ultraviolet light. After exposure, the least exposed image areas are soft and soluble, while the most highly exposed non-image areas are hard and insoluble, and those mid-tone regions are slightly exposed and produce a slightly hard and insoluble emulsion. The carbon tissue is then adhered to the surface of the gravure cylinder, and developed. The cylinder with the developed resist is placed in an acid bath (commonly a ferric chloride etchant), where the etchant eats through the resist and into the copper at varying rates, depending on the hardness of the emulsion. In the highlight areas—those that have received the most exposure—the etchant eats through very slowly, so that in a given period of etching time the cells engraved into the copper are very shallow (and thus print the lightest), while in the shadows and solids—areas that have received the least exposure—the etchant eats through the resist and into the copper very quickly, so that the engraved cells are deeper (and thus print the darkest). The mid-tone regions—which have had varying degrees of exposure, spending on the density of the image—allow a moderate amount of etchant through, producing cells that are not as ldeep as shadows and not as shallow as highlights. Non-image areas possess the thickest portions of the emulsion and thus allow the copper surface to remain unetched. The time required for the completion of the etching process is about half an hour. 
+</p>
+<p id="l7">
+In the diffusion-etch process, all cells are the same size, and the thickness of the membrane between cells—called the <a title="Cell Wall" href="Cell_Wall">cell wall</a>—remains constant. The amount of light the resist received determines the depth of the cells; highlights and light areas produce shallow cells (which don't hold much ink) while the shadows and darker areas produce deeper cells (which hold more ink). A variation of this etching system is called a <a title="Two-Positive System" href="Two-Positive_System">two-positive system</a>, which operates the same basic way, but the gravure screen is replaced by a halftone screen made from continuous-tone illustration matter, while a standard gravure screen is used for solids and text matter. The advantage of this system is that the halftone screen allows the cells to vary in area, not just depth. This allows greater degrees of sharpness and detail. Another variation is known as <a title="Hard Dot Engraving" href="Hard_Dot_Engraving">Hard Dot Engraving</a> in which the depth of each cell is the same, but the area of each cell varies, depending upon whether it is a highlight or a solid. 
+</p>
+<p id="l9">
+<strong>Direct-Transfer Process</strong>. Also called the <a title="Single-Positive System" href="Single-Positive_System">Single-Positive System</a>, the direct transfer process is, like the diffusion-etch process, a chemical etching process. The primary difference is in the composition of the resist, which replaces the carbon tissue with high-contrast, high-resolution <a title="Photopolymer" href="Photopolymer">photopolymer</a> emulsions. The emulsion is applied (by a spray, ring coater, or other means) directly to the copper-plated surface of the gravure cylinder itself. A single screened positive is brought into contact with the emulsion on the cylinder and exposed to ultraviolet light. As in the diffusion-etch process, the exposed (non-image) areas become hard, while the unexposed (image) areas remain soft. A solvent is used to wash away the unexposed resist, and the photopolymeric resist produces cells that print with smoother edges than cells etched by electromechanical engraving. Etchant is applied, as before, and engraves cells at a rate that varies according to the thickness of the resist. The film positive is carried by clear mylar belts between the emulsion of the gravure cylinder and a mercury-vapor lamp, which enables the engraver to expose the resist in a circumferential fashion. The direct-transfer process is also quicker than the diffusion-etch process, taking only about 4:10 minutes to etch a cylinder. 
+</p>
+<p id="l11">
+Despite the quickness and ease of the previous forms of chemical engraving, they have been replaced for the most part by newer techniques, primarily by the <a title="electromechanical process" class="nonexistent" href="http://printwiki.org/electromechanical_process">electromechanical process</a>, while newer digital computer-to-laser systems are making inroads into the gravure engraving process. 
+</p>
+<p id="l13">
+<strong>Electromechanical Engraving</strong>. Electromechanical engraving uses an electronically-controlled diamond-stylus to cut the the cells into the surface of the gravure cylinder. The original copy is scanned into a computer and digitized. Each scanned and digitized image is converted to halftone-like dots, each having an electronic signal, ranging in intensity from 0:100%, depending upon the darkness or lightness of the image. (For this reason, early-generation electromechanical engraving devices couldn't scan in pre-screened images—such as halftones—or it would create its own dots on top of the already-existing dots, producing moiré patterns.) The image is then converted back into an analog signal which then drives the engraving head , telling it how deep to carve the cell on the cylinder. (Cell depth and cell area are varied simultanously by using a tapered engraving head.) The computer then controls the engraving head, which moves across and around the cylinder, engraving cells of varying depths. The thickness of the cell walls can also be varied; at 100% depth, the diamond-shaped cells interlock with those of the rows on either side of it, with just a tiny cell wall. At 10%, however, the cells are much reduced in size and there is a good deal of space between them. With computerized engraving, the angle of the cells themselves can be altered as well, by producing elongated or compressed diamond-shaped cells as necessary. Electromechanical engraving devices take much longer than chemical processes; on a 40-inch wide cylinder with a 30-inch circumference, there are over 25 million cells. At an average speed of 3,200 cells per second, it takes nearly 2H hours to engrave a single cylinder. 
+</p>
+<p id="l15">
+Electromechanical engraving is also referred to as <a title="EME" class="nonexistent" href="http://printwiki.org/EME">EME</a>. 
+</p>
+<p id="l17">
+<strong>Laser-Cutting Process</strong>. The most recent development in gravure engraving is the use of computer-directed lasers, which, like the electromechanical method, cut cells of varying depths and sizes. The original is scanned into a computer, the various image densities are determined, and lasers etch the cylinder. Due to the high light reflectance of copper, however, it is not particularly useful for laser etching. Consequently, other materials such as special alloys or plastics can be used to coat the cylinder. The real advantage of the laser processes is the speed; at 30,000 cells per second, the 40-inch wide, 30-inch circumference cylinder mentioned above would only take about 13 minutes. 
+</p>
+<p id="l19">
+Regardless of the system used (chemical engraving still has its adherents, but the increasing tendency toward computer-generated originals is making direct computer-to-cylinder processes more and more popular), after engraving the cylinder is electroplated with a layer of chrome, to offer protection against the abrasive action of the <a title="Doctor Blade" href="Doctor_Blade">doctor blade</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

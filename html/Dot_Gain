@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Dot Gain - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Dot Gain" class="currentChild" href="Dot_Gain">Dot Gain</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Dot gain refers to a characteristic of halftone printing whereby reflectance of the printed material is less than would be expected from the percentage area coverage of the dots set on film by the imagesetter, or the percentage area coverage expected from a digital code value in the digital representation of the image. 
+</p>
+<p id="l3">
+The major component of dot gain is <a title="Optical Dot Gain" href="Optical_Dot_Gain">Optical Dot Gain</a>, by which light scatters in the printing substrate. Dot gain may also be contributed by <a title="dot spreading" class="nonexistent" href="http://printwiki.org/dot_spreading">dot spreading</a>, <a title="Press Gain" href="Press_Gain">press gain</a>, <a title="Slurring" href="Slurring">slurring</a>, or <a title="Doubling" href="Doubling">doubling</a>.) 
+</p>
+<p id="l5">
+Dot gain is also called "tone value increase" (TVI). The term TVI is confusing because in domains other than printing - for example, in color science - value is zero at black, and increases towards white; what a printer calls "tone value increase" would be called,  by a color scientist, "tone value decrease"! 
+</p>
+<p id="l7">
+Dot gain is dependent upon many factors associated with the ink, the press, and the substrate being printed. 
+</p>
+<p id="l9">
+Some often-encountered dot gain percentages include: 
+</p>
+
+    <ul>
+
+    <li>
+<p id="l11">
+ coated sheetfed lithography at 150 lines per inch 15% 
+</p>
+</li>
+    <li class="gap">
+<p id="l13">
+ uncoated sheetfed offset lithography at 133 lines per inch 20% 
+</p>
+</li>
+    <li class="gap">
+<p id="l15">
+ coated web offset lithography at 133 lines per inch 22% 
+</p>
+</li>
+    <li class="gap">
+<p id="l17">
+ newsprint web offset lithography at 100 lines per inch 30% 
+</p>
+</li>
+</ul>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

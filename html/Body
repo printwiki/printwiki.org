@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Body - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Body" class="currentChild" href="Body">Body</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A general term describing the thickness, consistency, <a title="Viscosity" href="Viscosity">viscosity</a>, and stiffness of a printing ink. Inks run the gamut from very soft and fluid (such as inks used for the printing of <a title="Newsprint" href="Newsprint">newsprint</a>) to very thick and stiff (such as inks used in collotype). Some inks can possess a "false body," called <a title="Thixotropy" href="Thixotropy">thixotropy</a> or <a title="Dilatancy" href="Dilatancy">dilatancy</a>, or a consistency that changes, sometimes drastically, when under stress. The term <em>body</em> when applied to inks can also refer to the increased viscosity of an ink following the <a title="Polymerization" href="Polymerization">polymerization</a> of the ink <a title="Vehicle" href="Vehicle">vehicle</a> with the application of heat. 
+</p>
+<p id="l3">
+In typography, the term <em>body</em> is a shortened version of the term <a title="Body Text" href="Body_Text">body text</a>. See <a title="Body Text" href="Body_Text">Body Text</a>. Also in typography, the term <em>body</em> is a shortened version of the term <a title="Body Height" href="Body_Height">body height</a>, an alternate term for <a title="x-Height" href="x-Height">x-height</a>. See <a title="x-Height" href="x-Height">x-Height</a>. 
+</p>
+<p id="l5">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, the term <em>body</em> refers to the pages comprising the main text of a book, exclusive of <a title="end paper" class="nonexistent" href="http://printwiki.org/end_paper">end paper</a>s or covers. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

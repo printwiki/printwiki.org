@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Fixed Space - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Fixed Space" class="currentChild" href="Fixed_Space">Fixed Space</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a blank space of a fixed increment used where a constant-width blank space is required, since typographic word spaces vary in width according to the <a title="Justification" href="Justification">justification</a> needs of a line. 
+</p>
+<p id="l3">
+The most common widths are the <a title="Em Space" href="Em_Space">em space</a> (a square formed by the value of the <a title="Point Size" href="Point_Size">point size</a>; a 9-point em space will be 9 points wide no matter what the face), the <a title="En Space" href="En_Space">en space</a> (a size half that of the em), and the <a title="Thin Space" href="Thin_Space">thin space</a> (either G or N of an em). The <a title="Figure Space" href="Figure_Space">figure space</a> would have the same width as the numerals 1:0 and the dollar sign, although the en may be used for this in some systems. Some people occasionally confuse em and en spaces with caps M and N, which is no longer appropriate. If the fixed space requirement is a certain number of points, it may help to recall that the em is as wide as the point size. If two picas of horizontal space are required, two ems in 12-point (1 pica = 12 points) can be used. 
+</p>
+<p id="l5">
+In most type families, the em space is designed as a square of the point size. For example, in 12-point type, the em space would be 12 points wide by 12 points high. The en space would therefore be proportionately half as large and the thin space proportionately one-quarter or one-third as wide. <a title="Condensed" href="Condensed">Condensed</a> or <a title="Expanded" href="Expanded">expanded</a> type varies the widths of these spaces, however. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

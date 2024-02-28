@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Cell - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Cell" class="currentChild" href="Cell">Cell</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In digital prepress, shorthand term for <a title="Halftone Cell" href="Halftone_Cell">halftone cell</a>. See <a title="Halftone Cell" href="Halftone_Cell">Halftone Cell</a>. 
+</p>
+<p id="l3">
+In <a title="Gravure" href="Gravure">gravure</a> printing, the term <em>cell</em> refers to one of the many small depressions etched into the image carrier used in <a title="Gravure" href="Gravure">gravure</a> printing. A gravure image is composed of thousands or millions of tiny cells, the distribution and depth of which determine the density of the printed image. Cells can be etched into the <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a> in a variety of ways. See <a title="Gravure" href="Gravure">Gravure</a>, <a title="Gravure Cylinder" href="Gravure_Cylinder">Gravure Cylinder</a> and <a title="Gravure Engraving" href="Gravure_Engraving">Gravure Engraving</a>. 
+</p>
+<p id="l5">
+A <em>cell</em> is also one of the indentations engraved into the surface of an <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a> used in <a title="Flexographic" href="Flexographic">flexographic</a> press inking systems. See <a title="Anilox Roller" href="Anilox_Roller">Anilox Roller</a> and <a title="Inking System: Flexography" class="nonexistent" href="http://printwiki.org/Inking_System:_Flexography">Inking System: Flexography</a>. 
+</p>
+<p id="l7">
+In graphics and animation, the term <em>cell</em> refers to a sheet of <a title="Acetate" href="Acetate">acetate</a> or other transparent sheet on which a figure to be animated is drawn. Since each figure is on a transparent sheet, they can be animated separately from other figures, such as backgrounds. Animation in such a manner is known as <a title="Cast Animation" href="Cast_Animation">cast animation</a>. In this sense, <em>cell</em>—short for <em>celluloid</em>—is often spelled <a title="Cel" href="Cel">cel</a>. 
+</p>
+<p id="l9">
+In <a title="Scanning" href="Scanning">scanning</a>, the term <em>cell</em> is used to refer to any collection of <a title="Pixel" href="Pixel">pixel</a>s treated by the device as a single unit. Common cell sizes are 4 x 4 or 6 x 6. Larger cell sizes can include more gray levels. Analogous to a <a title="Halftone Cell" href="Halftone_Cell">halftone cell</a>. 
+</p>
+<p id="l11">
+In spreadsheet programs, a <em>cell</em> is a particular field in which information is placed. Cells can be identified by horizontal and vertical coordinates. 
+</p>
+<p id="l13">
+In telecommunications and networking, the term <em>cell</em> refers to a particular <a title="Packet" href="Packet">packet</a> of data used in <a title="cell switching" class="nonexistent" href="http://printwiki.org/cell_switching">cell switching</a> protocols. See <a title="Cell Switching" class="nonexistent" href="http://printwiki.org/Cell_Switching">Cell Switching</a>. 
+</p>
+<p id="l15">
+The term <em>cell</em> is also a shorthand term for <a title="Cellular" href="Cellular">cellular</a>, a technology used in mobile telephony. See <a title="Cellular" href="Cellular">Cellular</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Electroplating - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.cssprintwiki.org.s3.amazonaws.com//common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Electroplating" class="currentChild" href="Electroplating">Electroplating</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A means by which an ionized metal is transported through an <a title="Electrolyte" href="Electrolyte">electrolyte</a> and non-ionized metal is fused to another substance. The process of passing an electric current through an electrolyte (or a solution containing negatively- and/or positively-charged ions) is called <a title="Electrolysis" href="Electrolysis">electrolysis</a>. An electric current is passed through an electrolyte, resulting in negatively-charged ions migrating to the positive electrode (or the <a title="Anode" href="Anode">anode</a>) and positively-charged ions migrating to the negative electrode (or <a title="Cathode" href="Cathode">cathode</a>). Electroplating typically involves utilizing the metal to be plated as the anode, and the surface to which it is to be plated as the cathode. 
+</p>
+<p id="l3">
+In <a title="Gravure" href="Gravure">gravure</a> printing, electroplating is the means by which a <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a> is first coated with a layer of copper (which will be engraved with the cells transferring the image; see <a title="Gravure Engraving" href="Gravure_Engraving">Gravure Engraving</a>) and then by a thin protective layer of chrome. In a basic plating tank, the steel gravure cylinder acts as the cathode, and is attached to a rectifier that generates DC current and allows the cylinder to supply electrons. At the bottom of the tank is a thin, positively-charged anode, also attached to the rectifier, which imparts to it a positive charge by removing electrons. Charges can only be imparted to substances by adding or removing electrons, the negatively-charged particles. Although protons are positively-charged particles, they can only be added or removed in the processes of nuclear fusion and fission, respectively, techniques which are impractical for cost-effective electroplating. 
+</p>
+<p id="l5">
+The anode is commonly composed of the metal to be plated. The cathode and anode sit in an electrolytic bath, typically (in gravure cylinder plating) an acid copper electrolyte, comprising copper sulfate ions (Cu<sup>2+</sup> and SO<sub>4</sub><sup>2-</sup>) and sulfuric acid ions (2H3O<sup>+</sup> and SO<sub>4</sub><sup>2-</sup>). The copper of the anode is ionized by the application of the charge, and the positively-charged copper atoms are then attracted to the negatively-charged cathode. (When an atom is ionized, it has electrons either added or removed, depending upon the electron shell configuration of the atom. "Shells" can be thought of as concentric rings around the nucleus of an atom. Each shell can hold a certain number of electrons, and when the outermost shell is close to containing its full complement of electrons, it will accept electrons from other sources readily. When its outermost electron shell is nearly empty, it will readily give up electrons. This is the basis of most chemical reactions. When the outermost shell is full to capacity, it will not readily accept or give up electrons, and is said to be inert, such as the so-called noble gases.) The negatively-charged cathode provides the electrons needed by the copper ions to fill their outermost shells, and the copper "adheres" to the surface of the cylinder. 
+</p>
+<p id="l7">
+The amount of amperage needed to deposit a quantity of metal equal to its equivalent weight (in other words, the weight of the atom divided by its valence, or the amount of its charge) is the same for all elements, and has been determined to be 26.8 Ampere hours (Ah). To determine how much metal can be deposited at that amperage, the equivalent weight is divided by 26.8 Ah. Thus, for copper in an acid bath, the atomic weight is 63.6 and its valence is 2+, thus the equivalent weight (in grams) is 63.6 ÷ 2, or 31.8 grams. Dividing that by 26.8 Ah yields an electrochemical equivalent of 1.186 g/Ah, or how much material will be deposited per Ampere hour. 
+</p>
+<p id="l9">
+After the layer of copper is deposited and engraved, a very thin layer of chrome is deposited on top of the copper, as a means of affording the engraved surface a degree of protection from the abrasive effect of the <a title="Doctor Blade" href="Doctor_Blade">doctor blade</a> during printing. The process of chrome plating is similar in principle to copperplating, although the chrome material is not supplied through the anode, but is instead added to the solution in the form of chrome salts added to the tank at various intervals. The chrome-plating process is much less efficient than the copperplating process. 
+</p>
+<p id="l11">
+There are a number of variables that affect gravure cylinder plating, such as the composition of the electrolyte, polarization of the electrolyte (where charges cluster in specific regions in the plating tank, rather than distribute evenly throughout), the efficiency of the electrolyte (or how much of the electrical energy being applied to the system is being applied to the process of electroplating itself), the immersion factor of the cathodic cylinder (or how much of its surface area is immersed in the tank), the distance between the cathode and the anode, the temperature of the electrolyte, and the throwing power of the electrolyte (the ability to cover the cathode with copper evenly). An important factor in electroplating that has the potential to affect print quality is called <a title="Epitaxy" href="Epitaxy">epitaxy</a>, which is the tendency for the layer of the anodic substance to follow the surface contours of the cathode exactly. Metal deposited in a thick layer, however, has a levelling effect. This effect is negated when the deposited layer is not of sufficient thickness to compensate for any surface irregularities in the copper layer. 
+</p>
+<p id="l13">
+After plating, the cylinder undergoes polishing, cutting, and other processes to impart the desired degree of surface <a title="Roughness" href="Roughness">roughness</a> and <a title="Waviness" href="Waviness">waviness</a>, as well as the intended cylinder diameter and circumference. 
+</p>
+<p id="l15">
+Similar electroplating techniques are used to plate a thin layer of chrome to the surface of an engraved <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>, used in most <a title="Flexographic" href="Flexographic">flexographic</a> inking systems. See <a title="Anilox Roller" href="Anilox_Roller">Anilox Roller</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

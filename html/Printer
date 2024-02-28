@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Printer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Printer" class="currentChild" href="Printer">Printer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A person who is involved in the business of printing. Individuals who are involved in typesetting are sometimes called printers. 
+</p>
+<p id="l3">
+A device attached to a computer system which provides a printout of the contents of files. A printer might be thought of as a very elaborate, automatic typewriter. The various types of printers described below are not mutually exclusive; a printer may be both impact and proofing, or laser and electrostatic, for instance. 
+</p>
+<p id="l5">
+Character printer (page printer): A printer that produces one character image at a time. Characters may be printed left to right on each line, or in alternating directions on alternate lines. 
+</p>
+<p id="l7">
+Electrostatic printer (xerographic printer): A printer that uses electrostatic techniques to produce the final character image. 
+</p>
+<p id="l9">
+Impact printer: A printer that uses a physical mold for the character image, and impresses the image on the paper by striking a carbon or cloth ribbon against the paper with the character mold. The character masters may be on a daisywheel, a metal band, a ball, or some other carrier. 
+</p>
+<p id="l11">
+Ink jet printer: A printer that uses finely directed sprays of ink to produce the character image. 
+</p>
+<p id="l13">
+Laser printer: A printer that uses a laser to generate the character image. A laser printer is sometimes called an intelligent copier/printer, as it uses some of the same methods to produce the final image as does a copier. 
+</p>
+<p id="l15">
+Line printer: A printer that produces an entire line of characters at once. 
+</p>
+<p id="l17">
+Matrix printer: A printer that produces character images made up of patterns of dots rather than lines and strokes. 
+</p>
+<p id="l19">
+Proofing printer: A printer used with a typesetting computer to produce "proofs" or file contents before actual typesetting is done. 
+</p>
+<p id="l21">
+Thermal printer: A printer that uses heat-sensitive paper to carry the character image. 
+</p>
+<p id="l23">
+Wire printer: A printer that forms characters by the selection of solenoid operated matrix wires, which print the selected characters by impact against a ribbon. 
+</p>
+<p id="l25">
+Peripheral device that accepts output data from the microprocessor and prints characters on paper. Printers are defined as impact or nonimpact, depending on the means by which a character is formed on the paper. Impact printers trike the paper through a ribbon in a manner similar to a typewriter. Nonimpact printers form characters by various means such as heat, electrical charges or spraying ink. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Text Type - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Text Type" class="currentChild" href="Text_Type">Text Type</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, copy set as paragraphs in sizes between 6-point and 12-point; in other words, blocks of copy. Over 80% of the type that is set and read is text, and thus should follow certain rules for legibility based on <a title="Point Size" href="Point_Size">point size</a>, <a title="Leading" href="Leading">leading</a>, <a title="Typeface" href="Typeface">typeface</a>, format, intercharacter <a title="Spacing" href="Spacing">spacing</a>, and <a title="Line Length" href="Line_Length">line length</a>. The issues to be addressed are: 
+</p>
+<p id="l3">
+'Point size'. A determination of the most appropriate size is first necessary. Newspapers use 8- or 9-point type; books use 10- to 12-point; ads use 9- to 11-point. One particular issue involved with point size is the size of the space that needs to be filled. 
+</p>
+<p id="l5">
+'Typeface'. A determination of the typeface to be used is also necessary. The typeface should not only be one designed specifically for text (i.e., <a title="Serif" href="Serif">serif</a> faces are much more legible than <a title="Sans Serif" href="Sans_Serif">sans serif</a> faces when set as text) but should also be compatible with the content. For example, a slickly-designed, futuristic-looking face is inappropriate for, say, a history of tenth-century Italian monastaries. Also, depending on how much copy has to fit in how much space, the <a title="Alphabet Length" href="Alphabet_Length">alphabet length</a> of various faces may need to be compared. Some faces use larger characters (regardless of point size) than others. 
+</p>
+<p id="l7">
+'Leading'. A determination of the amount of line spacing is needed, based on the typeface and size to be used. Large <a title="x-Height" href="x-Height">x-height</a> faces need more leading; small x-height faces need less leading. 
+</p>
+<p id="l9">
+'Line Length'. The relationship between line length and point size needs to be recalled (see <a title="Line Length" href="Line_Length">Line Length</a>) and considered in relation to the typeface and point size chosen. So, for example, would two narrow columns be better than one wide one? 
+</p>
+<p id="l11">
+'Format'. A decision on whether the lines should be <a title="Ragged Right" href="Ragged_Right">ragged right</a> or <a title="Justified" href="Justified">justified</a> needs to be made. Ragged lines have consistent word spaces and are more legible, but in wider text blocks, justified lines would work as well. 
+</p>
+<p id="l13">
+'Intercharacter Spacing'. The level of negative letterspacing which would work best with the face and size in use needs to be determined. The design of the typeface has a significant effect on the use of tight spacing. 
+</p>
+<p id="l15">
+Decisions on the separation of paragraphs also need to be made. Paragraphs can be defined by indents at the start of each unit, additional line spacing between paragraphs, a combination of indent and spacing, or by initial capital letters. Which would be the most appropriate? 
+</p>
+<p id="l17">
+Many typeset documents also utilize extracts, quotes, and call-outs, which are copy blocks indented on one or both sides with or without additional line spacing to set the block apart from the rest of the text. How should these be handled? 
+</p>
+<p id="l19">
+When designing pages and text blocks, it should be recalled that white space, or nontype areas, is important for producing a balanced, legible page. The use of margins, gutters, space around heads and illustrations, and leading are areas where white space may be applied. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

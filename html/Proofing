@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Proofing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Proofing" class="currentChild" href="Proofing">Proofing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Prepress" href="Prepress">prepress</a>, the act of making a proof or <a title="Color Proof" href="Color_Proof">color proof</a>, either on a <a title="Proof Press" href="Proof_Press">proof press</a>, the actual press on which the job will be printed, on a variety of digital output devices, or other means. 
+</p>
+<p id="l3">
+There are several reasons for making proofs, not the least of which is to show the customer or client how the job was typeset and how the job will print. Proofs of text material are looked over by the typesetter and (in book publishing) proofreaders and the author, where <a title="Typographical Error" href="Typographical_Error">typographical error</a>s are flagged for later correction. At this stage, <a title="author alteration" class="nonexistent" href="http://printwiki.org/author_alteration">author alteration</a>s may also be indicated. The designer of the piece also examines the proofs to ensure that the <a title="type specification" class="nonexistent" href="http://printwiki.org/type_specification">type specification</a>s have been enacted properly. All the corrections from the various copies of the proofs are then collated into one set of master proofs which is then sent back to the typesetter for correction. In book publishing, there are usually three sets of proofs: the <a title="first-pass pages" class="nonexistent" href="http://printwiki.org/first-pass_pages">first-pass pages</a>, or the very first typeset pages; <a title="second-pass pages" class="nonexistent" href="http://printwiki.org/second-pass_pages">second-pass pages</a>, or the pages with the corrections indicated on the first-pass pages having been made, plus final pagination. These second-pass pages are rarely sent to an author, and in-house and freelance proofreaders go over them again, looking for typographical errors. These proofs are followed by <a title="reproduction proof" class="nonexistent" href="http://printwiki.org/reproduction_proof">reproduction proof</a>s (or <a title="repro" class="nonexistent" href="http://printwiki.org/repro">repro</a> for short) which are the camera-ready pages, gone over one last time for any egregious errors. <a title="Bluelines" class="nonexistent" href="http://printwiki.org/Bluelines">Bluelines</a> are also prepared prior to printing, as a means of checking the positioning of page elements, broken characters, and other non-content-related issues. 
+</p>
+<p id="l5">
+<a title="Color Proof" href="Color_Proof">Color proof</a>s are prepared photographically (see <a title="Overlay Color Proof" href="Overlay_Color_Proof">overlay color proof</a>s or <a title="Single-Sheet Color Proof" href="Single-Sheet_Color_Proof">single-sheet color proof</a>s) or digitally (see ["direct digital color proof [DDCP]"]) in order to show how the <a title="Color Separation" href="Color_Separation">color separation</a>s have been made and how accurate they have been. Color proofs can also be made on press, preferably using the inks and <a title="Substrate" href="Substrate">substrate</a> that will be used for the actual job. One set of these proofs constitutes the <a title="Contract Proof" href="Contract_Proof">contract proof</a> (or <a title="Color OK" href="Color_OK">color OK</a>), a color proof that is okayed by the customer and which serves as a master guide for the pressrun. A set of <a title="Progressive Proof" href="Progressive_Proof">progressive proof</a>s is also used to ensure that the colors conform precisely to the contract proof. (See <a title="Color Proofing" class="nonexistent" href="http://printwiki.org/Color_Proofing">Color Proofing</a>.) 
+</p>
+<p id="l7">
+The term <em>proofing</em> also refers to the act of <a title="Proofreading" href="Proofreading">proofreading</a>, or checking typed or typeset text for typographical errors or other mistakes. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

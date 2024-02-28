@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Surfactant - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Surfactant" class="currentChild" href="Surfactant">Surfactant</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An organic chemical added to an offset press <a title="Fountain Solution" href="Fountain_Solution">fountain solution</a> to reduce the surface tension of the solution and to better allow it to quickly form a thin film on, or "wet," the rollers and the plate. In fountain solutions containing alcohol, the alcohol itself acts as a surfactant, or surface-active agent, but in non-alcohol fountain solutions, the fluid replacing the alcohol needs to have its wetting properties supplemented. Surfactants gather at the interface between the fountain solution and the surrounding air (or ink) and insinuate themselves between the molecules of water, which have a high tendency to cohese and impart to water a high surface tension, which is undesirable for lithographic printing. The action of a surfactant can be illustrated by the example of a drop of water on a non-absorbent surface. The angle formed by a line drawn tangent to the point at which the drop contacts the surface and the surface (called the "contact angle") is typically greater than 90º. A surfactant added to the drop will reduce that contact angle to less than 90º, as the drop loses its sphericity and spreads out across the surface in a thinner film. 
+</p>
+<p id="l3">
+In high-speed presses, these air/ink-fountain solution interfaces are destroyed and reformed very quickly, and good surfactants must be able to diffuse to the new interfaces rapidly, in order to ensure that the fountain solution retains its ability to form a thin, continuous film. An excessive amount of surfactant in the solution, however, can cause excessive <a title="Emulsification" href="Emulsification">emulsification</a> of the ink, which generates its own variety of press and printing problems. (See <a title="Fountain Solution" href="Fountain_Solution">Fountain Solution</a>.) 
+</p>
+<p id="l5">
+There are a wide variety of surfactants available, which can be divided into several groups. An anionic surfactant contains electrically-polarized portions of molecules which carry a negative charge. These negative regions attract the positive charged regions of molecules in the substance to which the surfactant is added. All the portions of the molecules at the surface of the liquid, then, are negatively charged. The mutual repulsion of like-charged areas reduces the cohesion between molecules and reduces surface tension. (Common soap, whose cleaning ability is based on increased wetting of surfaces, is an anionic surfactant.) Cationic surfactants function essentially like anionic surfactants, except that the polar groupings in the surfactant are positively-charged, attracting the negatively-charged portions of molecules in the substance, and leaving positive charges at the surface. Amphoteric surfactants contain molecules with both positive and negative groupings and can behave anionically or cationically, depending upon the makeup of the substance to which it is added. Other, non-ionic surfactants may also be used, which operate by containing molecules having portions that are attracted to a particular compound in the substance, and portions that are repelled by the same substances. The mechanics are the same as those found with ionic surfactants. 
+</p>
+<p id="l7">
+Surfactants are also added to printing inks to reduce the tendency for <a title="Flocculation" href="Flocculation">flocculation</a> of the ink <a title="Pigment" href="Pigment">pigment</a> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

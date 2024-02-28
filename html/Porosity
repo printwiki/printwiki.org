@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Porosity - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Porosity" class="currentChild" href="Porosity">Porosity</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measure of the extent to which a paper surface will allow the penetration of a gas or liquid, such as air or ink, through its surface. The nature of paper is such that the bonding of the paper fibers produces many tiny air passages throughout the paper, which can either be completely submerged in the paper, extend from the surface down into the interior of the paper, or penetrate completely through the sheet. The porosity of a paper is a function of the various stages of the papermaking process. An increased level of fiber <a title="Refining" href="Refining">refining</a> causes the fibers to bond together more strongly and tightly, making the paper denser, and reducing the network of air passages and thus the porosity. <a title="Surface Sizing" href="Surface_Sizing">Surface sizing</a>, <a title="Coating" href="Coating">coating</a>, <a title="Calendering" href="Calendering">calendering</a> and <a title="Supercalendering" href="Supercalendering">supercalendering</a> all also work to seal and/or compress surface fibers, reducing the paper's porosity. 
+</p>
+<p id="l3">
+Different printing method require paper of differing porosities, as porosity affects how thoroughly and how quickly inks are absorbed into a paper, which occurs primarily by capillary action. Paper with high porosity increases <a title="Ink Absorbency" href="Ink_Absorbency">ink absorbency</a>, and in some printing processes can increase the risk of <a title="Show-Through" href="Show-Through">show-through</a> and/or <a title="Strike-Through" href="Strike-Through">strike-through</a>. Paper with low porosity increases <a title="Ink Holdout" href="Ink_Holdout">ink holdout</a>, and increases the risk of smudging during post-printing processes such as folding. The low porosity of coated papers is one of the causes of <a title="Blistering" href="Blistering">blistering</a> during <a title="Heatset Drying" href="Heatset_Drying">heatset drying</a>, as water quickly converted to water vapor inside the paper can't escape through the surface easily and ruptures the internal structure of the paper. High-speed web offset printing, such as the printing of newspapers, requires highly porous paper for rapid ink absorption, while sheetfed offset printing often requires non-porous papers so promote proper ink drying and to increase ink gloss. Low-porosity papers are also more likely to curl and have greater problems with <a title="Dimensional Stability" href="Dimensional_Stability">dimensional stability</a> as a result of changing <a title="Moisture Content" href="Moisture_Content">moisture content</a>. 
+</p>
+<p id="l5">
+Porosity of paper is measured quantitatively as either the length of time it takes for a quantity of air to pass through a paper sample, or the rate of the passage of air through a sample, using either a <a title="Gurley Densometer" href="Gurley_Densometer">Gurley densometer</a> (in the first case) or a <a title="Sheffield Porosimeter" href="Sheffield_Porosimeter">Sheffield porosimeter</a> (in the second case). 
+</p>
+<p id="l7">
+A paper's porosity is also related to other important paper properties, and changes in porosity effect changes in other characteristics, sometimes to their detriment. (See <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

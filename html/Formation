@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Formation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Formation" class="currentChild" href="Formation">Formation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Paper characteristic describing the uniformity of its structure, especially to the extent that it relates to paper <a title="Smoothness" href="Smoothness">smoothness</a>. When <a title="Cellulose" href="Cellulose">cellulose</a> fibers form the paper <a title="Web" href="Web">web</a> on the papermaking machine, non-uniform distribution generates "peaks" and "valleys" in the surface of the paper (visible as dark and light regions when the paper is held to the light). An excessive degree of non-uniformity is referred to as a <a title="Wild Formation" href="Wild_Formation">wild formation</a>, while a high degree of uniformity is referred to as a <a title="Close Formation" href="Close_Formation">close formation</a>. The degree of <a title="Wet Pressing" href="Wet_Pressing">wet pressing</a>, and such post-forming operations as <a title="Calendering" href="Calendering">calendering</a> and <a title="Supercalendering" href="Supercalendering">supercalendering</a> help even out these variations. A close or wild formation affects such other paper properties as <a title="Opacity" href="Opacity">opacity</a> (a wild formation results in variable degrees of opacity across a paper's surface) and surface levelness. It can also have deleterious effects on <a title="Ink Absorbency" href="Ink_Absorbency">ink absorbency</a> and can result in ink <a title="Show-Through" href="Show-Through">show-through</a> and incomplete ink transfer, especially in <a title="Letterpress" href="Letterpress">letterpress</a> and <a title="Gravure" href="Gravure">gravure</a> printing. (Wild formation doesn't typically cause problems in offset printing, due to the flexibility of the rubber blanket which can counteract the problems of inconsistent formation.) Prolonged fiber <a title="Refining" href="Refining">refining</a> also helps improve formation uniformity. Close formation, however, can also compromise other desired paper properties. (See <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

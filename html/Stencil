@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Stencil - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Stencil" class="currentChild" href="Stencil">Stencil</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Screen Printing" href="Screen_Printing">screen printing</a>, an emulsion—either cut by hand or etched photographically—attached to the bottom of a the <a title="Printing Screen" href="Printing_Screen">printing screen</a>. The stencil is open in the image areas, and hard and durable in the non-image areas. Consequently, ink can only be forced through the stencil in the open areas, where it then contacts the <a title="Substrate" href="Substrate">substrate</a>. There are two basic types of stencils used in screen printing, <a title="Hand-Cut Stencil" href="Hand-Cut_Stencil">hand-cut stencil</a>s and <a title="Photostencil" href="Photostencil">photostencil</a>s. A third type of stencilling is performed typically on art prints. Called <a title="Tusche-and-Glue" href="Tusche-and-Glue">tusche-and-glue</a>, it involves drawing the image directly onto the screen by hand. See <a title="Tusche-and-Glue" href="Tusche-and-Glue">Tusche-and-Glue</a>. 
+</p>
+<p id="l3">
+'Hand-Cut Stencils'. A <a title="Hand-Cut Stencil" href="Hand-Cut_Stencil">hand-cut stencil</a> is the oldest form stencil-making, involving as it does the manual cutting away of the image areas to be printed. Originally, thin sheets of paper were cut and attached to the bottom of the screen, then a variety of lacquers were experimented with. In the 1930s, it was discovered that if a coat of lacquer were spread on a hard surface, it would solidify and be able to be pulled off the surface as a single piece. The formation of this lacquer film, its application to a plastic support sheet, the cutting away of the image areas of the lacquer, the adhesion of the remaining lacquer to the screen, and, finally, the removal of the backing sheet, is still the basic process of hand-cut stencils. New formulations are being developed—such as water-soluble stencil emulsions—which serve the same ink-blocking purpose, but are easier to adhere and remove from the screen. The lacquer- or water-based emulsion is applied to the surface of a plastic sheet. With a <a title="Frisket Knife" href="Frisket_Knife">frisket knife</a>, <a title="Art Knife" href="Art_Knife">art knife</a>, or other form of sharp cutting implement, the image areas are cut out of the emulsion, though it is important that the plastic support sheet itself not be marked, cut, or embossed. The original can be a photographic tracing, or an original design. It is necessary to leave at least a two-inch margin on all four sides of the stencil, so as to ensure proper adhesion to the screen fabric. 
+</p>
+<p id="l5">
+A hand-cut stencil is applied to the screen commonly using only water. A <a title="Build-Up Layer" href="Build-Up_Layer">build-up layer</a> of glass, plastic, or other hard material, is used to raise the height of the <a title="Printing Bed" href="Printing_Bed">printing bed</a> for application of the stencil. The stencil is placed, emulsion-side up, on the top of this layer. The screen is placed, <a title="well-side" class="nonexistent" href="http://printwiki.org/well-side">well-side</a> up, on top of it. A layer of moisture is gently applied to the top of the screen with a sponge, and the stencil sticks to the bottom of the screen. The stencil is dried, and at that point the backing sheet can be peeled off. Alternatively, the stencil can be applied with the screen upside-down. Lacquer-based stencils require special adhering fluid to soften the lacquer emulsion and allow it to stick to the screen fabric. 
+</p>
+<p id="l7">
+'Photostencils'. A <a title="Photostencil" href="Photostencil">photostencil</a> is based on the original principle of the <a title="Carbon Tissue" href="Carbon_Tissue">carbon tissue</a> resist, in which a photosensitive emulsion is exposed to a film positive (or negative), and the resist hardens in either the image or non-image areas (depending upon the nature of the resist), the soft portions being washed away. A photostencil is made by exposing the stencil to a film positive of the image. The ultraviolet light cures—or hardens—the emulsion in the non-image areas, leaving the unexposed image areas soft and soluble. Developing and washout procedures remove the emulsion from the image areas, opening them. The stencil is then chemically fixed, to keep the image permanent, and applied to the screen fabric. Photostencils are ideal for intricate work, halftones, and other forms of images that would be difficult to accomplish with traditional, knife-cut stencils. 
+</p>
+<p id="l9">
+Photostencils are prepared in one of three different ways: the <a title="Indirect Process" href="Indirect_Process">indirect process</a>, the <a title="Direct Process" href="Direct_Process">direct process</a>, and the combination <a title="Direct/Indirect Process" href="Direct/Indirect_Process">direct/indirect process</a>. See <a title="Photostencil" href="Photostencil">Photostencil</a>. 
+</p>
+<p id="l11">
+After applying the stencil to the screen fabric, it is necessary to mask the portions of the screen that the stencil does not cover. This can be accomplished with kraft masking paper, but this is only practical for short runs. A <a title="blockout fluid" class="nonexistent" href="http://printwiki.org/blockout_fluid">blockout fluid</a> which is commonly employed for this purpose is applied to both sides of the screen fabric; when dry it resists the penetration of the ink vehicle through it. It can also be used to touch up any pinholes, or other imperfections in the stencil itself. An advantage to commercially-available screen printing blockout fluids is their ability to be washed out of the screen readily at the conclusion of a print run. 
+</p>
+<p id="l13">
+After printing, most water-soluble screen stencils can be removed with water alone, but often different types of stencils require specially-formulated solvents or enzyme solutions to effectively remove the stencil. 
+</p>
+<p id="l15">
+[(1) A camera term for dot, line, or hole with a step edge density or a density that goes from black to clear in zero distance at the edge of an image. (2) Carton-marking applied directly to a carton by an ink transfer process.] 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

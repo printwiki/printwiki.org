@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help with Macros - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help with Macros" class="currentChild" href="Help_with_Macros">Help with Macros</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Macros are <em>magic</em> things you insert into a page to perform some special function.  They look <tt>[[LikeThis]]</tt>. 
+</p>
+<span id="head-92b51e96611443797563fa3bdded29c9d59624bf"><h3 id="l3">Available Macros</h3></span>
+
+        <ul>
+
+        <li>
+<p id="l4">
+ <tt>[[Anchor(anchorname)]]</tt> &mdash; defines an anchor. Use <tt>[#anchorname&nbsp;Link&nbsp;Text]</tt> to jump to said anchor. Note that <em>everything</em> is case senstive and that the anchor is defined with double brackets <tt>[[]]</tt> but called with single <tt>[]</tt> brackets. <br/>
+</p>
+</li>
+        <li>
+<p id="l5">
+ <tt>[[Comments(Leave&nbsp;your&nbsp;comments&nbsp;here)]]</tt> &mdash; makes a comments box, but with text other than "Comments", like at the bottom of this page. <br/>
+</p>
+</li>
+        <li>
+<p id="l6">
+ <tt>[[Date]]</tt> &mdash; current date, e.g. [[Date]] <strong>Note</strong>: These macros are not really relevant on Davis Wiki.  They are useful when you want to write a time relative to different timezones. <br/>
+</p>
+</li>
+
+                <ul>
+
+                <li>
+<p id="l7">
+ <tt>[[Date(1)]]</tt> &mdash; tomorrow's date (I guess), e.g. [[Date(1)]] <br/>
+</p>
+</li>
+                <li>
+<p id="l8">
+ <tt>[[DateTime]]</tt> &mdash; current date/time: [[DateTime]] <br/>
+</p>
+</li>
+
+                </ul>
+
+
+        <li>
+<p id="l9">
+ <tt>[[FootNote(This&nbsp;is&nbsp;the&nbsp;footnote&nbsp;text)]]</tt> &mdash; creates a Footnote <sup><a href="Help_with_Macros#fndef-8e16514621ed8b95e0b153f6ea639a1f915e653f-0" id="fnref-8e16514621ed8b95e0b153f6ea639a1f915e653f-0">1</a></sup> <br/>
+</p>
+</li>
+        <li>
+<p id="l10">
+ <tt>[[FootNote]]</tt> &mdash; lists the page's footnotes (footnotes appear at the bottom of the page if <tt>[[FootNote]]</tt> isn't used) <br/>
+</p>
+</li>
+        <li>
+<p id="l11">
+ <tt>[[heart]]</tt> &mdash; creates a &hearts; <br/>
+</p>
+</li>
+        <li>
+<p id="l12">
+ <tt>[[Image(image_name.jpg,&nbsp;thumbnail,&nbsp;noborder,&nbsp;left/right,&nbsp;"Caption&nbsp;including&nbsp;["Wiki"&nbsp;links]")]]</tt> &mdash; see <a title="Help/Help with Images" href="Help_with_Images">Help with Images</a> <br/>
+</p>
+</li>
+        <li>
+<p id="l13">
+ <tt>[[Include(pagename)]]</tt> &mdash; Includes the contents of page pagename into the current page.  People have been using the following, as well: <br/>
+</p>
+</li>
+        <li>
+<p id="l14">
+ <tt>[[LinksHere]]</tt> provides a list of pages that link to the current page <br/>
+</p>
+</li>
+
+                <ul>
+
+                <li>
+<p id="l15">
+ <tt>[[[LinksHere(pagename)]]</tt> provides list of pages that link to an arbitrary wiki page <br/>
+</p>
+</li>
+
+                </ul>
+
+
+        <li>
+<p id="l16">
+ <tt>[[MailTo(somebody&nbsp;AT&nbsp;yahoo&nbsp;DOT&nbsp;com)]]</tt> &mdash; obscures an email address (sort of) from people who aren't logged in (like those harvesting email addresses for spam), looks like <tt>&lt;somebody&nbsp;AT&nbsp;yahoo&nbsp;DOT&nbsp;com&gt;</tt> to you.  See <a class="external" href="http://moinmoin.wikiwikiweb.de/HelpOnMacros/MailTo"><img class="borderless" src="../wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">MoinMoin's page on MailTo</a>. <br/>
+</p>
+</li>
+        <li>
+<p id="l17">
+ <tt>[[PageCount]]</tt> How many pages are in the wiki?  7866; that's how many. <br/>
+</p>
+</li>
+        <li>
+<p id="l18">
+ <tt>[[paypal]]</tt> &mdash; "Make a Donation" paypal button <br/>
+</p>
+</li>
+        <li>
+<p id="l19">
+ <tt>[[RandomPage(n)]]</tt> &mdash; where n is a number of links to randomly selected wiki pages <br/>
+</p>
+</li>
+        <li>
+<p id="l20">
+ <tt>[[RandomQuote(pagename)]]</tt> &mdash; also works for random images. The page that this references should just be a list of whatever you want to randomly select. <br/>
+</p>
+</li>
+        <li>
+<p id="l21">
+ <tt>[[Stats(Username)]]</tt> <br/>
+</p>
+</li>
+        <li>
+<p id="l22">
+ <tt>[[stop]]</tt> &mdash; creates a box to link it to a "/Talk" page.  Used when there is a big dispute among users on the content of a page. <br/>
+</p>
+</li>
+        <li>
+<p id="l23">
+ <tt>[[TableOfContents]]</tt> creates a table of contents based on the <tt>=&nbsp;title&nbsp;=</tt> headers on the page. It indents based on the number of equal signs. 
+</p>
+</li>
+
+        </ul>
+
+
+<span id="head-9bd3ef6e8f2e4729f69eb71588dc4fcd36b85b44"><h4 id="l25">Style and Formatting "Macros"</h4></span>
+
+    <ul>
+
+    <li>
+<p id="l26">
+ <tt>[[BR]]</tt> &mdash; force a hard return (but trouble when formatting near images and thumbnails) <br/>
+</p>
+</li>
+    <li>
+<p id="l27">
+ <tt>[[nbsp]]</tt> &mdash; adds a single blank space. 
+</p>
+</li>
+</ul>
+
+<div class="footnotes"><div></div><ul><li><span><a href="Help_with_Macros#fnref-8e16514621ed8b95e0b153f6ea639a1f915e653f-0" id="fndef-8e16514621ed8b95e0b153f6ea639a1f915e653f-0">1</a></span>This is the footnote text</li></ul></div><div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Sheet-Separation Unit - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Sheet-Separation Unit" class="currentChild" href="Sheet-Separation_Unit">Sheet-Separation Unit</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device located in the <a title="Feeder Section" href="Feeder_Section">feeder section</a> of a sheetfed offset press that is responsible for ensuring that only one sheet is fed into the press at any one time. A sheet-separation unit varies slightly in configuration, depending upon whether a press uses a <a title="Stream Feeder" href="Stream_Feeder">stream feeder</a> or a <a title="Single-Sheet Feeder" href="Single-Sheet_Feeder">single-sheet feeder</a>. 
+</p>
+<p id="l3">
+In a stream feeder, the <a title="Pile Table" href="Pile_Table">pile table</a>, which holds the pile of paper (or other <a title="Substrate" href="Substrate">substrate</a> to be fed), raises the pile of sheets to the proper feeding height. <a title="Air-Blast Nozzles" href="Air-Blast_Nozzles">Air-blast nozzles</a> on the sheet-separation unit blow jets of air at the pile, raising the top half dozen or so sheets. At that point, a set of <a title="Pickup Sucker" href="Pickup_Sucker">pickup sucker</a>s at the rear of the pile use a vacuum to lift the top sheet, after which a <a title="Feeder Foot" href="Feeder_Foot">feeder foot</a> at the rear of the pile drops onto the remaining pile. The nozzles (either on the feeder foot or attached elsewhere) then blow air underneath the raised sheet, keeping it from dropping back down on the pile. A set of vacuum-powered <a title="Forwarding Sucker" href="Forwarding_Sucker">forwarding sucker</a>s toward the front of the pile then lift the sheet and send it toward the <a title="Forwarding Roller" href="Forwarding_Roller">forwarding roller</a>s and onto the <a title="Feedboard" href="Feedboard">feedboard</a>. As the forwarding suckers move the top sheet away, the second sheet is lifted by the rear pickup suckers, and begins its journey toward the feedboard. When using a stream feeder, successive sheets overlap each other somewhat. Sets of <a title="Separator Brush" href="Separator_Brush">separator brush</a>es, <a title="Separator Finger" href="Separator_Finger">separator finger</a>s, and guides contribute to accurate sheet separation. 
+</p>
+<p id="l5">
+Pile height is an important factor in proper sheet separation. A pile that is too high may end up feeding through two or more sheets at once, while a pile that is too low may result in no sheets being fed. Adjusting the weight of the feeder foot, moving the sheet-separation unit up or down, or tilting it, are means of adjusting the height of the paper pile. Some units lack the feeder foot. 
+</p>
+<p id="l7">
+The positioning of sheet steadiers is important. Sheet steadiers should be located on the rear of the pile, one located one-quarter of the length of the paper from the right margin, the other one-quarter of the length of the paper from the left margin. The weight should rest freely on the top of pile, and should neither exert too much or too little pressure. Separator brushes or fingers should be located at the rear of the pile, about three-sixteenths of an inch from the back of the pile and either just touching the top of the stack or at most one-sixteenth of an inch above it. However, the thickness of the paper will determine the best location of the steadiers, brushes, and fingers. The force of the vacuum used in the suckers is also determined by the thickness of the stock, and the suckers are frequently adjusted so that they tilt up slightly when grabbing a sheet, lifting the rear edge of the sheet, allowing air to blow underneath it, enhancing the separation efficiency. The row of suckers should be perfectly parallel to the pile, and should not be more than three-sixteenths of an inch nor less than one-sixteenth of an inch from the top of the pile. The air nozzles should be adjusted so that they initially lift no more than 10 and no less than 5 sheets from the pile. Once the topmost sheet has been lifted by the suckers, the air nozzle should effectively provide a cushion of air that lifts the gripper (or front) edge of the sheet. 
+</p>
+<p id="l9">
+On a single-sheet feeder, the arrangement is similar, except that one set of pickup suckers are located at the gripper (or front) edge of the pile. Air lifts the top 6:10 sheets, and the suckers pick up the top sheet, transferring it to a set of wheels or rollers at the rear of the feedboard. (See <a title="Feeder Section" href="Feeder_Section">Feeder Section</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

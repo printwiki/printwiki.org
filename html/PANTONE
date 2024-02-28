@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PANTONE - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PANTONE" class="currentChild" href="PANTONE">PANTONE</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The brand-name for a popular <a title="Color Matching System" href="Color_Matching_System">color matching system</a>, or series of printed <a title="Color Swatch" href="Color_Swatch">color swatch</a>es used to match, specify, identify, and display specific colors or colored ink combinations. PANTONE systems are available for both <a title="Spot Color" href="Spot_Color">spot color</a> and <a title="Process Color" href="Process_Color">process color</a>. 
+</p>
+<p id="l3">
+'Spot Color'. The PANTONE Matching System (<a title="PMS" class="nonexistent" href="http://printwiki.org/PMS">PMS</a>) is PANTONE's spot color matching system, which comprises a series of books of color swatches containing 1,012 PMS colors, mixed from 12 different base inks. PMS colors are specified for uncoated and coated papers, since the type of paper used can significantly vary the quality of the color that is produced. Each swatch is numbered, and instructions for the ink mixing are also included. Thus, designers, when for example deciding which color to use for a company's logo on a letterhead, can specify "PMS 620" and the printer will be able to match that color with a great degree of accuracy. On desktop color systems, however, color output (from <a title="Laser Printer" href="Laser_Printer">laser printer</a>s or other digital printing devices) can only approximate PMS spot colors, as they utilize four <a title="CMYK" class="nonexistent" href="http://printwiki.org/CMYK">CMYK</a> colorants rather than premixed inks. 
+</p>
+<p id="l5">
+'Process Color'. Called the <em>PANTONE Process Color System</em> (to distinguish it from the spot-color PMS) specifies over 3,000 different colors, expressed as percentages of CMYK. This system is available for various software applications, and also includes a version designed to comply with <a title="SWOP" href="SWOP">SWOP</a> specifications. 
+</p>
+<p id="l7">
+Matching spot color to a corresponding process color is not always possible. A third PANTONE swatching system, the PANTONE Process Color Imaging Guide, includes over 1,000 spot color swatches along with the a sample of the process color that most closely matches it. This system is a boon to designers as it allows them to determine at the outset which colors can be reproduced with process inks and which require strictly spot inks. 
+</p>
+<p id="l9">
+PANTONE systems are the most widely used color matching systems, at least in North America, and are supported by most of the popular <a title="page makeup program" class="nonexistent" href="http://printwiki.org/page_makeup_program">page makeup program</a>s. (See also <a title="TRUMATCH" href="TRUMATCH">TRUMATCH</a> and <a title="FOCOLTONE" href="FOCOLTONE">FOCOLTONE</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

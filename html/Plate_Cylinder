@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Plate Cylinder - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Plate Cylinder" class="currentChild" href="Plate_Cylinder">Plate Cylinder</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The part of a printing press to which a <a title="Plate" href="Plate">plate</a> is attached and which transfers the inked image to either a rubber <a title="Blanket" href="Blanket">blanket</a> (as in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>) or directly to the substrate itself (as in <a title="Letterpress" href="Letterpress">letterpress</a> and <a title="Flexography" href="Flexography">flexography</a>.) 
+</p>
+<p id="l3">
+'Offset Lithography'. The part of an offset press to which the printing plate is attached, and which transfers the inked image area to the rubber blanket. The surface of the plate cylinder commonly contains a <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a> which occupies about 20% of its circumference. The purpose of the gap is two-fold: it houses the <a title="Plate Clamp" href="Plate_Clamp">plate clamp</a>s, using which the plate is attached and secured, and it allows the inking system to renew a full quantity of ink between sheets. Each end of the cylinder has a metal ring of higher hardness than the cylinder body called a <a title="Bearer" href="Bearer">bearer</a>, the diameter of which is the actual diameter of the cylinder, and of the gear that drives the cylinder. (Older presses utilize a <a title="Spur Gear" href="Spur_Gear">spur gear</a>—in which the teeth are cut straight across—while newer presses utilize a <a title="Helical Gear" href="Helical_Gear">helical gear</a>—in which the teeth are cut at an angle.) The gear on the plate cylinder is in contact with and driven by a similar gear on the <a title="Blanket Cylinder" href="Blanket_Cylinder">blanket cylinder</a>. The bearers of each cylinder may or may not be in contact, but those that run out of contact need helical gears to minimize <a title="Play" href="Play">play</a> (undesired free movement of cylinder ends). The diameter of the main body of the cylinder where the plate is attached is slightly less than that of the bearers. The difference in radius between the bearers and the main cylinder body is called the <a title="Undercut" href="Undercut">undercut</a>, and exists so as to provide space for plate height adjustment, typically by means of <a title="Packing" href="Packing">packing</a> (paper, plastic or other material placed underneath the plate to raise the printing surface). 
+</p>
+<p id="l5">
+The plate is attached by means of the plate clamps, commonly including a <a title="Head Clamp" href="Head_Clamp">head clamp</a> and a <a title="Tail Clamp" href="Tail_Clamp">tail clamp</a> which grip the top and bottom of the plate, respectively. Clamps come in a variety of configurations, but all hold the plate securely in place while printing, and allow the movement of the plate either up or down or laterally so as to adjust the position of the printed image, if necessary. Some clamps utilize pins which align with holes punched in the plate, which provide proper positioning of the plate and the image, with minimal (if any) necessary adjustments. 
+</p>
+<p id="l7">
+Some plate cylinders are marked with a <a title="Start-of-Print Line" href="Start-of-Print_Line">start-of-print line</a>, engraved about an inch below the cylinder gap, which indicates the topmost boundary of the plate that will print. Needless to say, all image areas on the plate should fall below the start-of-print line. Above the line, the cylinder gradually tapers down into the gap, which allows the inking rollers to smoothly return from the cylinder gap to the plate surface proper. 
+</p>
+<p id="l9">
+As with inking and dampening rollers, the proper pressure that exists between cylinders is an important adjustment, and the adjustments vary slightly depending upon whether the plate and blanket cylinder bearers are in contact with each other or not. On a <a title="Bearer-Contact Press" href="Bearer-Contact_Press">bearer-contact press</a>, the bearers act as not only a means of ensuring the alignment of the two cylinders, they also act to reduce gear wear, as the perfect alignment of the bearers ensures proper gear meshing. Effective use of the bearers is only possible when the pressure that the bearers exert on each other is beyond that produced simply by the weight of the upper cylinder. In the process of <a title="Preloading" href="Preloading">preloading</a>, or the setting of the increased pressure between the bearers, proper pressure can be set as follows: With the plate and blanket set to the proper printing height, the blanket is slightly overpacked by about 0.003 inch, and thumbprints of ink are placed around both blanket cylinder bearers. With the press started up, and the impression pressure engaged, the cylinders are allowed to turn through several revolutions, and then the press is stopped. If the inked thumbprints are transferred evenly and thickly, the cylinder setting is fine. If not, the pressures need to be adjusted. On a <a title="Non-Bearer-Contact Press" href="Non-Bearer-Contact_Press">non-bearer-contact press</a>, it is necessary to know the manufacturer's specification for the proper gap between the bearers. Then, a thickness gauge with a thickness equal to the required width of the gap, is obtained. The blanket is slightly overpacked, and the plate is packed to its correct printing height. The press is started, and the plate, blanket, and <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>s are put on impression. (The blanket cylinder should be set to exert only a 0.004-inch <a title="Squeeze" href="Squeeze">squeeze</a> on the impression cylinder.) With the press stopped, the thickness gauges are inserted between the plate and blanket cylinder bearers, and they should fit tightly, and be moveable with only a strong pull. If they are overly loose, or require a great deal of force to move them, the cylinder settings need to be adjusted. 
+</p>
+<p id="l11">
+Maintenance of the plate cylinder is a straightforward case of ensuring that the gears and bearers are free of paper debris, dried ink, gum from the dampening solution, and other detritus that can impede gear movement and/or cause gear damage. Lubrication on many presses is accomplished automatically. (See also <a title="Offset Lithography: Printing Unit" class="nonexistent" href="http://printwiki.org/Offset_Lithography:_Printing_Unit">Offset Lithography: Printing Unit</a>, <a title="Blanket Cylinder" href="Blanket_Cylinder">Blanket Cylinder</a>, and <a title="Impression Cylinder" href="Impression_Cylinder">Impression Cylinder</a>.) 
+</p>
+<p id="l13">
+'Flexography'. On a flexographic press, the plate cylinder is the part of the press to which the rubber or photopolymer plate is attached. The flexo plate cylinder can be removed and swapped with cylinders of varying diameters, depending upon the application. The plate is inked by the adjacent <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>, and transfers the raised images directly to the web of substrate passing between the plate cylinder and the <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>. As can be expected, one important aspect of the plate cylinder is to ensure that it is exactly parallel with the impression cylinder. One way of checking this is by inserting strips of cellophane between the anilox roller and the image areas of the plate at various spots along the nip, lowering the plate cylinder to the impression cylinder, and pulling each one out. Each strip should be able to be pulled out with the same amount of force. As with the offset lithographic cylinders, the concentricity of the flexo plate cylinder is important. The <a title="Total Indicated Runout" href="Total_Indicated_Runout">total indicated runout</a> of the cylinder should not exceed 0.0005 inch (a TIR of 0.001 inch is acceptable if it is not printing process color work). As always, gears must be clean and free of grease, dirt, and other foreign materials, and <a title="Play" href="Play">play</a> must be kept to a minimum. 
+</p>
+<p id="l15">
+There are four basic configurations of flexo plate cylinder: 
+</p>
+<p id="l17">
+'Integral'. The entire cylinder, including the body, end-caps, and shafts, are all a single unit. 
+</p>
+<p id="l19">
+'Demountable'. The cylinder body is manufactured without pre-attached shafts, and can be made to any diameter and later mounted onto an existing shaft. 
+</p>
+<p id="l21">
+'Sleeve'. The plate is mounted on a removeable cylinder sleeve which is slid onto the main cylinder. High-pressure jets of air expand the sleeve slightly allowing easy mounting and removing. 
+</p>
+<p id="l23">
+'Magnetic'. A variety of integral cylinder that produces a magnetic field, allowing the mounting of metal-backed plates (commonly iron), which eliminates the need for adhesive-backed plates. 
+</p>
+<p id="l25">
+As in any inking and printing unit, the surface speeds of the cylinders and rollers in contact are an important consideration in flexography. The anilox roller, the plate cylinder, and the impression cylinder are all geared together to ensure that they all turn at the same speed. Any difference in surface speed of these three components can cause smearing. 
+</p>
+<p id="l27">
+A <em>plate cylinder</em> is also used in some types of presses used in <a title="Letterpress" href="Letterpress">letterpress</a> printing. See <a title="Letterpress" href="Letterpress">Letterpress</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

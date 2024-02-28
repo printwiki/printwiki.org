@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Letterpress - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Letterpress" class="currentChild" href="Letterpress">Letterpress</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The oldest of the major printing processes distinguished by its use of raised metal type. The type can be either individual characters or plates made with raised type. Although the first printing presses ever created were letterpress devices, the use of letterpress printing has been declining due to advances in other forms of printing, especially <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> and <a title="Gravure" href="Gravure">gravure</a>. The legacy of letterpress lives on in <a title="Flexography" href="Flexography">flexography</a>, a type of relief printing utilizing flexible rubber plates. The decline of letterpress is due primarily to the extensive and expensive makeready procedures required. Letterpress plates exert varying amounts of pressure on the <a title="Substrate" href="Substrate">substrate</a> during printing. For example, for a given amount of impression pressure, more pressure will be exerted on small <a title="Highlight" href="Highlight">highlight</a> dots than on larger blocks of solids or <a title="Shadow" href="Shadow">shadow</a>s. Consequently, it takes a great deal of effort to ensure that that small highlight areas do not pierce the substrate and that the solids print with uniform density (in flexography, the resilience of the rubber plate eliminates this problem). The use of <a title="Photopolymer" href="Photopolymer">photopolymer</a> plates is reviving letterpress to an extent, however. 
+</p>
+<p id="l3">
+There are several parts to a letterpress press: 
+</p>
+<p id="l5">
+<strong>Image Carrier</strong>. Johann Gutenberg's important contribution to printing was not really the <em>idea</em> of the printing press, but an effective image carrier. He solved the problem by casting type, or forming a matrix with a punch that made a mold of a particular letter. He then poured molten lead into the mold and let it cool. These could all be fit into a frame, inked, and printed. Eventually, others developed means of casting type a line at a time or, even more efficiently, making a mold of an entire page of locked-up type and making a solid plate out of it, which could then be wrapped around a cylinder. Two versions of these early letterpress plates are <a title="Stereotype" href="Stereotype">stereotype</a>s and <a title="electrotype" class="nonexistent" href="http://printwiki.org/electrotype">electrotype</a>s, two different ways of creating a solid, curved metal plate from a locked-up typeform. (See <a title="Type" class="nonexistent" href="http://printwiki.org/Type">Type</a>.) Molded rubber <a title="Photopolymer Plate" href="Photopolymer_Plate">photopolymer plate</a>s have for the most part replaced the older metal stereotypes and electrotypes, and are prepared in a manner not unlike plates produced for flexography. 
+</p>
+<p id="l7">
+There are essentially four types of letterpress presses: 
+</p>
+<p id="l9">
+'Platen Press'. A <a title="Platen Press" href="Platen_Press">platen press</a> utilizes a flat plate or typeform mounted on the bottom—or <a title="Flatbed" href="Flatbed">flatbed</a>—of the press. A <a title="Platen" href="Platen">platen</a> closes over the inked typeform and substrate, exerting pressure and transferring the ink from the type to the paper. Small platen presses are used to print short-run jobs, such as invitations, announcements, stationery, etc. 
+</p>
+<p id="l11">
+'Flatbed Press'. On a <a title="Flatbed Press" href="Flatbed_Press">flatbed press</a>, the typeform is again placed on a flatbed, but the substrate is carried on a rotating <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>. In some configurations, the flatbed moves beneath the rotating cylinder, effecting ink transfer. In some configurations, the typeform is in a vertical position and both the flatbed and the cylinder move. 
+</p>
+<p id="l13">
+'Rotary Press'. A <a title="Rotary Press" href="Rotary_Press">rotary press</a> utilizes a rotating <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a> to which a curved metal relief plate is mounted. The curved plate is brought in contact with a rotating impression cylinder, the paper passing through the nip between the two cylinders. Rotary sheetfed presses are a casualty of the declining market for letterpress printing, but some web-fed rotary presses are still utilized. Narrow web rotary presses utilizing photopolymer plates and <a title="Ultraviolet Curing Ink" href="Ultraviolet_Curing_Ink">ultraviolet curing ink</a> are capable of high-speed multi-color letterpress printing, and can handle web widths of up to 24 inches. These presses are also often used inline with other types of presses, such as flexo and lithographic, or with finishing equipment such as embossers and die-cutters. 
+</p>
+<p id="l15">
+'Belt Press'. A <a title="Belt Press" href="Belt_Press">belt press</a> is used for the high-speed production of books. The press consists of two belts, one containing a set of plates for the <a title="Recto" href="Recto">recto</a> pages, the other belt containing a set of plates for the <a title="Verso" href="Verso">verso</a> pages. A paper web is fed through the press at speeds of up to 1,200 feet per minute, where it contacts all the plates on one belt, is allowed to dry, then is sent through to contact all the plates on the other belt, thus printing both sides of all the sheets. The printing unit of this press is inline with finishing equipment that cuts and folds the pages into <a title="Signature" href="Signature">signature</a>s, collates them together into books, and binds them into the covers. 
+</p>
+<p id="l17">
+<strong>Inking System</strong>. Letterpress presses use thick, <a title="Paste Ink" href="Paste_Ink">paste ink</a>s which, due to <a title="Thixotropy" href="Thixotropy">thixotropy</a>, need to be heavily worked by means of a long series of ink rollers in order to achieve the desired flow properties for ink transfer. The ink is stored in a <a title="Fountain" href="Fountain">fountain</a>, essentially a pan or trough. A <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> rotates in the fountain, transferring a specified amount of ink to the ink rollers (commonly four), which then transfer it to the <a title="Form Roller" href="Form_Roller">form roller</a>s (commonly three). The form rollers then transfer the ink to the typeform on the flatbed or to the plate on the plate cylinder, depending on the press configuration. The image carrier is commonly inked following each impression. 
+</p>
+<p id="l19">
+'Dry Offset'. A variety of letterpress printing has some specialty applications. In the process of <a title="Dry Offset" href="Dry_Offset">dry offset</a>, a relief plate is mounted on an offset press, where it is inked, and brought into contact with a rubber <a title="Blanket" href="Blanket">blanket</a>, similar to that used in offset lithography. The image is transferred to the blanket which, in turn, transfers the image to the substrate. It is called "dry offset" because the use of a raised plate precludes the need for a <a title="Dampening System" href="Dampening_System">dampening system</a>. Although this process has difficulty printing fine detail or <a title="Halftone" href="Halftone">halftone</a>s and doesn't have wide commercial use, it is useful for printing on rough or irregular surfaces, such as aluminum cans. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

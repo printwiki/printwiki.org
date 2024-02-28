@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Anilox Roller - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Anilox Roller" class="currentChild" href="Anilox_Roller">Anilox Roller</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An engraved metal or ceramic roller used in <a title="Flexographic" href="Flexographic">flexographic</a> printing presses to transfer ink from the <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> (or directly from the fountain) to the printing plate. A flexographic inking system is sometimes known as an <a title="Anilox System" href="Anilox_System">anilox system</a>. 
+</p>
+<p id="l3">
+The purpose of the anilox roller is to pick up ink from the fountain roller (or, in some configurations, directly from the <a title="Ink Fountain" href="Ink_Fountain">ink fountain</a>) and deliver a predetermined, metered, uniform amount of ink to the rubber printing plate. It accomplishes this because its surface (commonly of steel that has been treated to make it suitable for engraving) pitted with etched cells, typically only visible under magnification. (The number of cells can vary from 80:1,000 cells per inch, depending on the application.) 
+</p>
+<p id="l5">
+After engraving the cells—most often with a steel milling machine, a diamond <a title="Electromechanical Engraving" href="Electromechanical_Engraving">electromechanical engraving</a> stylus (such as that used in the engraving of <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>s) or, more and more commonly, lasers—the surface is covered with a protective layer of chrome or ceramic to guard against wear. (In some configurations, the cells are engraved directly in a layer of ceramic.) The structure of the cells themselves also varies. The most common configuration of anilox roller cell is an inverted pyramid, each of which is exactly the same size. The volume of one specific cell can be calculated using the formula 
+</p>
+<p id="l9">
+'Volume<em> = D/3[(A<sub>1</sub> + A<sub>2</sub>) + √A<sub>1</sub>A<sub>2</sub>] 
+</p>
+<p id="l13">
+where D is the depth of the cell, A<sub>1</sub> is the area of the opening of the cell on the surface of the roller, and A<sub>2</sub> is the area of the cell at its lowest point. The volume obtained, then, can be multiplied by the total number of cells on the roller to obtain the total volume of ink the roller can hold. Or, typically, the volume of a cell is obtained, converted to cubic microns, and multiplied by the number of cells in a square inch. Other cell shapes include trihelical, which is basically a long, unbroken valley etched at a 45º angle (useful for printing highly viscous inks); quadrangular, essentially a pyramid with the point cut off (which tends to release ink better, and also varies in volume less from top to bottom, mitigating against roller wear), and hexagonal (which releases ink better and is more easily chrome- or ceramic-plated). Another type of anilox cell structure is called a quad channel screen in which each cell is connected by a thin engraved channel. This type of cell structure has been found to have the most effective ink-transfer capabilities. 
+</p>
+<p id="l15">
+Cell wear is an important consideration, especially as a cell's region of greatest volume is at the surface of the roller. On an anilox roller using inverted pyramid-shaped cells, a 20% decrease in cell depth due to wear can cause more than a 40% decrease in volume. The fewer the total number of cells on the cylinder as a whole, the greater the percentage of the volume decrease. Wear is commonly gauged by the manufacturer, using a microscope. In practical application in the pressroom, a shinier roller surface or a decrease in print density of a known ink formulation are determinants of anilox roller wear. 
+</p>
+<p id="l17">
+A problem that was common in the days before rotating fountain rollers (and still occurs on occasion) is <a title="Mechanical Pinholing" href="Mechanical_Pinholing">mechanical pinholing</a>, in which ink starvation of the fountain roller results in ink transfer to the plate that takes on the texture of the anilox roller. 
+</p>
+<p id="l19">
+The anilox roller is also known as a <a title="Metering Roller" href="Metering_Roller">metering roller</a>, a <a title="Knurled Roller" href="Knurled_Roller">knurled roller</a>, and an <a title="Engraved Roller" href="Engraved_Roller">engraved roller</a>. Some web offset presses—especially those using thin, liquid inks—use an anilox roller in their inking systems as well. See <a title="Web Offset Lithography: Inking System" class="nonexistent" href="http://printwiki.org/Web_Offset_Lithography:_Inking_System">Web Offset Lithography: Inking System</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

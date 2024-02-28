@@ -1,0 +1,144 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Scanning - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Scanning" class="currentChild" href="Scanning">Scanning</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Although the term <em>scanning</em> can refer to any process—be it analog, digital, or strictly optical—it will be used in the following article (and the related cross-references) to referr to the process of capturing images electronically for conversion to digital form, primarily to obtain color and black-and-white images for <a title="Prepress" href="Prepress">prepress</a> or <a title="Multimedia" href="Multimedia">multimedia</a> purposes. Scanning is performed using a device called a <a title="Scanner" href="Scanner">scanner</a>, which essentially uses transmitted or reflected light to capture an image in tiny increments (<a title="Pixel" href="Pixel">pixel</a>s) of an image. The size of these increments is one of several ways that a good scan is separated from a bad scan. 
+</p>
+<p id="l3">
+There are those who consider scanning to be merely a bridge or transitional technology, linking earlier photographic processes to nascent <a title="Digital Camera" href="Digital_Camera">digital camera</a> technologies. That may very well be the case, but for now scanning is an integral part of the prepress and imaging processes. 
+</p>
+<p id="l7">
+==PRINCIPLES OF SCANNING==There are several different types of scanners, each of which operate somewhat differently (see below), but they all use different means to do the same thing: convert analog (i.e., optical) data into digital data. 
+</p>
+<p id="l9">
+'Bit-Depth'. All digital information exists as bit's, or combinations of 1 and 0. Thus, each <a title="Pixel" href="Pixel">pixel</a> (or individual dot making up an image) is represented or described using combinations of these two numbers. The number of bits per pixel that a scanner can store thus determines how much color information it can recognize. For example, in a simple black-and-white scanner, the device can only handle one bit: black or white, "image" or "no image." This is fine for <a title="Line Work" href="Line_Work">line work</a> or even text, but is inadequate for photographs or other <a title="Continuous Tone" href="Continuous_Tone">continuous tone</a> images. Scanners thus can store increasing numbers of bits per pixel, the more the better. Two bits per pixel can add light gray and dark gray to the basic black-and-white dichotomy, increasing somewhat the level of detail possible. (Increasing the number of bits increases exponentially the number of levels of gray or colors that can be captured, since one bit can be one of two values. For example, one bit can express pixels that are either black or white. This is represented by taking the number 2, the number of possible values per pixel, to a power equal to the number of bits the device can store (e.g., 2<sup>1</sup> which equals 2). Two-Bit systems would be represented as 2<sup>2</sup>, or 4, equal to black, white, light gray, or dark gray. 4-Bit would be represented as 2<sup>4</sup>, and so on. See <a title="1-Bit Color" href="1-Bit_Color">1-Bit Color</a>, <a title="Two-Bit Color" class="nonexistent" href="http://printwiki.org/Two-Bit_Color">Two-Bit Color</a>, <a title="8-Bit Color" href="8-Bit_Color">8-Bit Color</a>, etc.) 
+</p>
+<p id="l11">
+Because of the number of gray levels the human eye can detect, a scanner needs to be able to capture a high numnber of gray levels in order to capture photographic detail and render it with acceptable accuracy. The human eye can differentiate a little over 200 shades of gray, so using less than that results in the phenomenon of <a title="Banding" href="Banding">banding</a>, or the visible detection of the discrete gray levels. Thus, most grayscale scanners utilize eight bits per pixel, which results in 256 levels of gray, which is more than adequate to create smooth blends in grayscale images. 
+</p>
+<p id="l13">
+Thus, when a scanner scans a photograph (popularly referred to as black-and-white but technically considered "grayscale"), the light source generated by the machine's optics move along the image pixel by pixel, measuring the level of gray and storing it as a particular value, or combination of bits. A light gray, for example, may be represented by 01110110. When the image ultimately appears on the computer screen after scanning, those pixel descriptions will be converted back to the appropriate gray level. 
+</p>
+<p id="l15">
+In color scanning, eight bits per pixel is inadequate to represent the vast range of colors available. In many multimedia applications, however, 8-Bit color is the most a system can handle, but for high-quality color prepress it is of too low a quality to be useful. A color scanner generally makes use of <a title="24-Bit Color" href="24-Bit_Color">24-Bit color</a>. It does this by making three passes over the original color image, each pass using a different <a title="Filter" href="Filter">filter</a> to capture one of the three <a title="Additive Color Primaries" href="Additive_Color_Primaries">additive color primaries</a>: red, green, or blue. It stores the color information for each of these passes as 256 gray levels, or eight bits per pixel per color. Since, say, red, in some color models consists of a pure <a title="Hue" href="Hue">hue</a> with varying degrees of <a title="Lightness" href="Lightness">lightness</a> or grayness, each gray level captured for red is equivalent to one of 256 shades of red. This is true for the blue and the green components as well. When the final scanned image is ultimately displayed on screen, the program being used to display and process the image creates a composite image of these three grayscale images. (In Adobe Photoshop, for example, each of these <a title="channel" class="nonexistent" href="http://printwiki.org/channel">channel</a>s can be viewed and adjusted separately.) This process is very similar to the prinmciple behind <a title="Process Color" href="Process_Color">process color</a> printing, in which three or four different plates, each of which contains only shades of a single color, are overprinted to yield a much wider color spectrum. 
+</p>
+<p id="l17">
+Many scanners now, in the interest of efficiency, make only one pass with the scanner mechanism, which successively captures the three colors per pixel. This is called <a title="Strobing" href="Strobing">strobing</a>, and it is one way of eliminating <a title="Color Drift" href="Color_Drift">color drift</a>s caused by tracking errors which can creep in during successive passes of the scanner optics. This doesn't always avoid color drifts, however, and some degree of <a title="Color Correction" href="Color_Correction">color correction</a> is often needed following scanning. 
+</p>
+<p id="l19">
+'Resolution'. One important means of measuring the performance of a scanner is by <a title="Resolution" href="Resolution">resolution</a>. Resolution is defined as the number of pixels per linear unit, in this case, <a title="Pixels Per Inch" href="Pixels_Per_Inch">pixels per inch</a> (popularly but somehat incorrectly referred to as ["dots per inch [dpi]"]). The greater the number of pixels per inch, the smaller and less distinguishable those pixels are, which increases the detail which is captured and hence increases image quality. In the case of scanners, resolution is a function of <a title="Sampling Rate" href="Sampling_Rate">sampling rate</a>. A pixel captured by a scanner is called a "sample," and the frequency with which a sample is taken determines the pixel size and how many of those pixels occur in a unit of linear space. A scanner with a maximum resolution of 1200 ppi can fit 1200 pixels in an inch or, in other words, takes a sample every 1/1200th of an inch. 
+</p>
+<p id="l21">
+There is a difference between a scanner's <a title="Optical Resolution" href="Optical_Resolution">optical resolution</a>—or the resolution that can be achieved by the scanner's optics alone—and its <a title="Interpolated Resolution" href="Interpolated_Resolution">interpolated resolution</a>. Scanner software uses <a title="Interpolation" href="Interpolation">interpolation</a> to "artificially" increase the resolution captured by the device. Interpolation routines average the grayscale values of sampled pixels and places new pixels between them. Thos works more or lss well, depending on the image. Although interpolation doesn't add any detail to a scan, it does tend to smooth out transitions between grays. In some cases, the resolution of an image can be doubled by interpolation. A caveat concerning resolution is that more is not always better. Capturing an image at a resolution substantially greater than the highest resolution possible by the output device will not improve image quality, and will require more time to process an image and higher levels of processing power, <a title="RAM" class="nonexistent" href="http://printwiki.org/RAM">RAM</a>, and disk storage space. 
+</p>
+<p id="l23">
+'Dynamic Range'. In addition to resolution, a scanner's <a title="Dynamic Range" href="Dynamic_Range">dynamic range</a> is important to consider in a choice of scanner. Dynamic range is defined as the ability of any reproduction to capture both <a title="Highlight" href="Highlight">highlight</a> and <a title="Shadow" href="Shadow">shadow</a> detail, or in other words detail in the lightest and darkest portions of an image, respectively. Dynamic range is measured logarithmically; a highlight that is ten times as bright as a shadow is said to have a dynamic range of 1.0. One that is 100 times as bright would have a dynamic range of 2.0. The higher the dynamic range, the greater the level of detail that is captured at both ends of the image spectrum. Desktop scanners have a dynamic range of about 1.8 to 3.8, while high-end scanners can go as high as 4.0. Dynamic range is a function not only of the inherent capabiolities of the scanner optics, but also of the bit depth per pixel. In many images, even eight bits per pixel per color is not enough to capture as much shade gradation and detail as the image warrants; some systems can go as high as 16 bits per pixel per color, which can eventually be distilled by the software down to 8-Bit. Some scanner protocols work with a total of 48-Bit-color rather than 24-Bit. As of this writing, <a title="PostScript" href="PostScript">PostScript</a>-based output systems can only handle 24-Bit color, so a 48-Bit image needs to be distilled just prior to output. 
+</p>
+<span id="head-417060d4444ec22bc5ed11da3752a22f4788159d"><h3 id="l27">TYPES OF SCANNERS</h3></span>
+<p id="l29">
+Just as there are a wide variety of imaging requirements, so too there is a wide variety of scanner configurations, which run the gamut from small, hand-held units used for scanning business cards to high-end scanners costing hundreds of thousands of dollars. Generally speaking, however, color scanners can be distinguished in four ways: 
+</p>
+<p id="l31">
+'Flatbed Scanners'. At the low-end of the price and performance spectrum are the <a title="Flatbed Scanner" href="Flatbed_Scanner">flatbed scanner</a>s. These cost about $1,000, sometimes a little more, and sometimes, increasingly, a little less. Also known as <a title="CCD Scanner" href="CCD_Scanner">CCD scanner</a>s, these use as their light detectors an array of <a title="charge-coupled devices" class="nonexistent" href="http://printwiki.org/charge-coupled_devices">charge-coupled devices</a>, which are very small photocells. Their small size is what enables the devices utilizing them to fit on a desktop. The drawback, however, is that they are less sensitive to subtle gradations of color and gray values than larger <a title="Photomultiplier Tube" href="Photomultiplier_Tube">photomultiplier tube</a>s. Flatbed scanners are most often used for scanning <a title="Reflection Copy" href="Reflection_Copy">reflection copy</a> (or prints, rather than <a title="Transmission Copy" href="Transmission_Copy">transmission copy</a> such as slides and transparencies), although some models do have attachments for transmission copy. An image is placed face down on a glass platen, while the scan head (comprising a light source and a <a title="CCD Array" href="CCD_Array">CCD array</a>) moves down the length of the original, measuring the intensity of the reflected light pixel-by-pixel. The drawback to flatbed scanners—in addition to low dynamic range and maximum optical resolutions of under 1000 ppi—is that they cannot optically enlarge an image. This presents no problems if an image is going to be reduced in size or used at 100%, but loss of detail will occur at enlarged sizes. With reflection copy, this may not be a problem, since prints can be very large to begin with. When using transparencies (the standard size of which is 4 x 5 inches) or the even smaller 35mm slides, the original size is already very small and upsampling to the desired dimensions may degrade image quality unacceptably. 
+</p>
+<p id="l33">
+'Slide and Transparency Scanners'. A <a title="Slide Scanner" href="Slide_Scanner">slide scanner</a> works on the same basic principle as the flatbed scanner—a light source illuminates the image and sends it to a CCD array, which converts it to electrical signals which in tun can be translated to digital information—but is specifically designerd to overcome the transmission copy limitations found on conventuional flatbed scanners. In this case, the light source shines <em>through</em> the image onto the CCD array. These may soon become more popular than flatbed scanners, as transmission copy in general is capable of a much greater dynamic range than is reflection copy. Slides and transparencies are also much easier to handle, store, and transport than prints. Many slide scanners can capture images at up to 16 bits per pixel per color and at a resolution high enough for quality reproduction.  
+</p>
+<p id="l35">
+'Desktop Drum Scanners'. A <a title="Drum Scanner" href="Drum_Scanner">drum scanner</a> is a high-end device which uses photomultiplier tubes (PMTs) to record and capture color information. A transparency is mounted on a rotating (or stationary, depending on the type of scanner) transparent drum. As it rotates (or the optics rotate), a light source illuminates the image, where the PMTs detect it and send it to the computer. The use of PMTs makes these devices very sensitive to gradations in shade and color. Desktop drum scanners—descendents of much superior and more expensive high-end drum scanners—are becoming widely used for high-quality color work. They lack many of the "frills" and accessories of the high-end devices, many of which are not really needed any longer. 
+</p>
+<p id="l37">
+'High-End Drum Scanners'. The high-end scanners—which can be the size of a piano and cost even more—were the first scanners developed and continue to be used as part of a high-quality <a title="Color Electronic Prepress System" href="Color_Electronic_Prepress_System">color electronic prepress system</a>. Not only do these scanners have the best possible imaging systems, many also include built-in color computers which can convert from color space to color space (such as from <a title="RGB" class="nonexistent" href="http://printwiki.org/RGB">RGB</a> to <a title="CMYK" class="nonexistent" href="http://printwiki.org/CMYK">CMYK</a>) on the fly, but many also output directly to film using built in <a title="Film Recorder" href="Film_Recorder">film recorder</a>s. These were widely used for making <a title="Color Separation" href="Color_Separation">color separation</a>s, and still are, although more and more often captured images are output to a computer for additional manipulation and incorporation into electronic pages. (See <a title="Scanner" href="Scanner">Scanner</a>.) 
+</p>
+<p id="l39">
+(The above devices are all used for color scanning of images, and are thus known as <a title="Image Scanner" href="Image_Scanner">image scanner</a>s. There are other types of scanners, however. For example, <a title="OCR scanner" class="nonexistent" href="http://printwiki.org/OCR_scanner">OCR scanner</a>s are used in <a title="Optical Character Recognition" href="Optical_Character_Recognition">optical character recognition</a>, which uses an optical scanner—often the same type of scanner used for capturing images, only running different software—to capture a page of text. The software can then recognize the characters that have been scanned and convert it to <a title="ASCII text" class="nonexistent" href="http://printwiki.org/ASCII_text">ASCII text</a> for importation into a word processing program or database. <a title="OCR" class="nonexistent" href="http://printwiki.org/OCR">OCR</a> scanners and software are used in lieu of keyboarding, saving time. There are also <a title="Bar-Code Scanner" href="Bar-Code_Scanner">bar-code scanner</a>s which are used in retail shops and elsewhere to read <a title="Bar Code" href="Bar_Code">bar code</a>s. See <a title="Optical Character Recognition" href="Optical_Character_Recognition">Optical Character Recognition</a> and <a title="Bar Code" href="Bar_Code">Bar Code</a>.) 
+</p>
+<span id="head-edde533acfc10d495e7044afea815f8098be7747"><h3 id="l43">SCANNING SOFTWARE AND IMAGE ENHANCEMENT</h3></span>
+<p id="l45">
+Most scanners come bundled with some type of software which is used to control the scanning process, adjust contrast, set resolution and ultimate image size, crop the image, etc., prior to making the actual scan. Many flatbed scanners come with either full-fledged or "limited edition" versions of popular photo manipulation programs such as Photoshop. Many scanning software programs can function as <a title="Plug-In" href="Plug-In">plug-in</a>s to programs like Photoshop, which means that images can be scanned directly into those programs. Many programs now also are compatible with the <a title="TWAIN" href="TWAIN">TWAIN</a> standard, which allows the use of different scanners without requiring a variety of different <a title="Device Driver" href="Device_Driver">device driver</a>s. There are also a variety of third-party scanning software utilities available which allow enhanced image calibration and color correction prior to scanning. 
+</p>
+<p id="l47">
+'Resolution and File Size Revisited'. An important consideration, as was mentioned above, is to scan at the proper resolution. Most scanners and scanning software utilities allow the user to adjust the resolition (and image size) in advance. Some programs allow <a title="User-Selectable Resolution" href="User-Selectable_Resolution">user-selectable resolution</a>, which lets users enter a specific number (i.e., 221 ppi), while others have preset resolutions in increments (i.e., 200, 300, etc.). When scanning line art, it is best to scan at the resolution of the output device. For best results, between 600 and 1,000 ppi is the best resolution for text and line art. For <a title="Halftone" href="Halftone">halftone</a>s, it is in general good practice to scan at a resolution which is double the <a title="screen count" class="nonexistent" href="http://printwiki.org/screen_count">screen count</a> of the halftone screen which will be used. Thus, if a 150-line screen is going to be used, a 300-ppi scan would be required. This is not a hard and fast rule, though; sometimes a resolution of 1.6 to 1.8 the screen count will produce high-quality images, as well.  
+</p>
+<p id="l49">
+However, when images are to be enlarged, the situation changes. The resolution will need to be doubled in proportion to the enlargement ratio. So if an image is to be enlarged by a factor of 2:1 (or, in other words, doubled) the resolution should be twice what it would be at 1:1. So the 300-ppi halftone image should now be scanned at 600 ppi. It is easy to see that depending on the respective sizes of the original and the desired image, the resoluition may need to go very high indeed. Enlarging a 4 x 5 transparency, for example, to a 24 x 30 poster is an enlargement of 6:1. If a 150-line screen were still going to be used, the scanning resolution would need to be about 1800 ppi. Greater enlargements (such as those made from 35mm slides) and higher screen counts require even higher scanning resolutions. Up to 3,000 ppi is not unusual. 
+</p>
+<p id="l51">
+As one would expect, file size increases as resolution (and image size) increases. File sizes are measured in units known as <a title="Byte" href="Byte">byte</a>s. One byte equals eight bits. One thousand bytes (actually 1,024 bytes) equals one <a title="Kilobyte" href="Kilobyte">kilobyte</a> (abbreviated <a title="KB" class="nonexistent" href="http://printwiki.org/KB">KB</a>) while one million bytes (actually 1,048,576 bytes) equals one <a title="megabyte" class="nonexistent" href="http://printwiki.org/megabyte">megabyte</a> (abbreviated <a title="MB" class="nonexistent" href="http://printwiki.org/MB">MB</a>). Let's use this example to determine file size: a grayscale image scanned at 100% at 300 ppi at 8 bits per pixel. The image is thus 2400 pixels wide (300 ppi x 8 in.) by 3000 pixels deep (300 ppi x 10 in.), having a total of 7,200,000 pixels (2400 x 3000). At eight bits (one byte) per pixel, it takes a total of 7,200,000 bytes to describe this image, or 7.2 megabytes. If this were an RGB color image at 24 bits per pixel, it would require 21.6 MB (7.2 x 3) to describe. If it were converted to CMYK, it would require 28.8 MB. And that was only at a relatively low resolution of 300 ppi. 
+</p>
+<p id="l53">
+Consequently, it is easy to see the pitfalls of scanning at a much higher resolution than will actually be needed. Large files take a very long time to process, even on fast computers, and take up a lot of disk space, which may be in short supply. Generally, though, it is better to scan high and have to reduce than to scan low and have to increase. Increasing the resolution (in Photoshop or other such program) after scanning rarely results in very good-looking images. 
+</p>
+<p id="l55">
+'Scanning Originals'. The manual process of placing an original in or on a scanner for scanning has its own share of considerations. Needless to say, flatbed scanners should have their glass platens as free of dust, dirt, and other detritus as possible. Transparencies and prints should also be inspected for dust, scratches, or other visible problems that may be magnified by the scanning process. When attaching a transparency to a drum scanner, it is important that all parts of the image be flat against the drum; if any part of the image varies in distance from the scanner optics as the rest of the image, distortions in the scanned image will be evident. Sometimes, <a title="Oil Mounting" href="Oil_Mounting">oil mounting</a> is performed so as to eliminate an optical problem known as <a title="Newton's Rings" href="Newton's_Rings">Newton's rings</a>, or haloes of color caused by refraction of light passing through a transparency. Adhering the transparency to the drum by means of a clear oil can reduce this problem. 
+</p>
+<p id="l57">
+'Image Correction and Enhancement'. There are a variety of ways of fixing and correcting scans. Depending on the scanner and tghe scanning software, it may be possible to do this prior to or during scanning. Often, however, especially with flatbed scanners, such processes can only be handfled after scanning, in an image manipulation program such as Photoshop. 
+</p>
+<p id="l59">
+Some of the most common activities include <a title="sharpening" class="nonexistent" href="http://printwiki.org/sharpening">sharpening</a>, variously known as <a title="Edge Enhancement" href="Edge_Enhancement">edge enhancement</a> or <a title="Unsharp Masking" href="Unsharp_Masking">unsharp masking</a>. In the latter designation, abbreviated <a title="USM" class="nonexistent" href="http://printwiki.org/USM">USM</a>, the scanner includes a separate photomultiplier tube which captures a slightly out-of-focus signal. This somewhat blurry (or "unsharp") signal is added to the sharp signal. The effect of this combination—used for many years in photography—is to sharpen the contrast at the edges of boundaries between separate portions of an image. (When USM is performed after scanning in a program such as Photoshop, it is effedcted by calculating the differences between the values of adjacent pixels and increasing the contrast between them.) Too much unsharp masking, however, can produce excessive noise and distortion in an image. 
+</p>
+<p id="l61">
+Tonal adjustments can also be made in a scanned or to-be-scanned image. This can take the form of adjusting the endpoints of an image (i.e., whitest white and blackest black, or <a title="Highlight" href="Highlight">highlight</a> and <a title="Shadow" href="Shadow">shadow</a>, respectively) or adjusting the midpoint of the image or the distribution of tones in the image. Similarly, <a title="Color Correction" href="Color_Correction">color correction</a> may be needed, dpending on the quality of the scanner. Sometimes, a scanner will impart a <a title="Color Cast" href="Color_Cast">color cast</a> to an image, and at other times a few of the colors in the image will be off. <a title="Global Correction" href="Global_Correction">Global correction</a> is the correction of the color throughout the entirety of the image, shich can consist of darkening all the reds, for example. <a title="Local Correction" href="Local_Correction">Local correction</a> is the changing of the color of one partocular portion of an image, such as only the red of a fire hydrant present in the image. 
+</p>
+<p id="l63">
+Depending upon the nature of the image and the context in which it is ultimately to appear, further types of manipulations may be required, including formaing collages, removing elements from the image, inserting elements in the image, etc. 
+</p>
+<p id="l65">
+There is no hard and fast rule to these adjustments, of course; most good software and scanning programs have "preview" functions which allow the user to see what the effects of a partocular adjustment will be before they are actually made. The best judge of any image or color correction operation is the human eye. 
+</p>
+<span id="head-d81594b4373863aa79779d8551d062d9323154ea"><h3 id="l69">BEYOND SCANNING</h3></span>
+<p id="l71">
+It has been suggested that scanning may ultimately be replaced by other forms of imaging, especially <a title="Digital Camera" href="Digital_Camera">digital camera</a>s, which capture images directly in digital form. Tere is widespread popularity and ethusiasm for thewse devicxes, but so far quality and price issues have impeded their widespread use. But they are gaining ground. The popularity of the <a title="Photo CD" href="Photo_CD">Photo CD</a>, which many perceive to be a transitional medium, is an indicator that prepress departments and other users of digital images would like to eliminate the scanning phase as much as possible. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

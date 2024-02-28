@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Copyfitting - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Copyfitting" class="currentChild" href="Copyfitting">Copyfitting</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the process of estimating the <a title="Point Size" href="Point_Size">point size</a> and <a title="Leading" href="Leading">leading</a> in which a particular piece of copy will need to be set to fit in a (usually) predetermined area. Copyfitting is based on a calculation called <a title="Characters Per Pica" href="Characters_Per_Pica">characters per pica</a>, which varies by <a title="Typeface" href="Typeface">typeface</a>, and is also a function of that typeface's <a title="Alphabet Length" href="Alphabet_Length">alphabet length</a>, or how many characters in a <a title="Font" href="Font">font</a> will occupy one pica of linear distance. The process of copyfitting is generally as follows: 
+</p>
+<p id="l3">
+1. Obtain a <a title="Character Count" href="Character_Count">character count</a> for the manuscript to be typeset. (In other words, either count or calculate the total number of characters in the manuscript; see <a title="Character Count" href="Character_Count">Character Count</a>.) 
+</p>
+<p id="l5">
+2. Check the typeface, size, and line length (LL) that will be used. Look up the CPP and multiply it by the line length. For example, if the CPP is 2.81 and the line length is 25 picas, then 70.25 (2.81 x 25 = 70.25) indicates how many characters will fit in one line. 
+</p>
+<p id="l7">
+3. Divide the number of characters per line into the total number of characters (derived from the character count) to obtain the total number of lines that the job will set. 
+</p>
+<p id="l9">
+4. Multiply the number of lines by the leading value to arrive at the copy depth (in points). If the job is mostly straight text, the number of lines per page can be divided into the total number of lines to obtain the total number of pages the job will set. However, any heads, subheads, illustrations, and other non-text matter will need to be accounted for, if present. 
+</p>
+<p id="l11">
+If the type needs to fit a predetermined area (such as in magazine and newspaper articles), the type size, leading, or even the typeface may need to be altered (if cutting of the material is not possible). In automated typesetting, <a title="White Space Reduction" href="White_Space_Reduction">white space reduction</a> is also an alternative. The simplest way to find out how much space will be saved by white space reduction is to set a sample line or paragraph with the desired WSR increment and compare it to the type set in expanded letterspacing. Then determine the gain in space in rounded-off percentage points and simply deduct that percentage from the number of lines estimated for the standard letterspacing. 
+</p>
+<p id="l13">
+The general application of copyfitting is for <a title="Justified" href="Justified">justified</a> type. There is usually no difference in the number of type lines between <a title="Justified" href="Justified">justified</a> and <a title="Unjustified" href="Unjustified">unjustified</a> type, but on occasion—in order to avoid poor <a title="Hyphenation" href="Hyphenation">hyphenation</a>—a minimal line increase may occur in unjustified type. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

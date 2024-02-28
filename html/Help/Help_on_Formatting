@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help on Formatting - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help on Formatting" class="currentChild" href="Help_on_Formatting">Help on Formatting</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+
+</p>
+<span id="head-5f87dc7c26af30f27a01524c0a8ea621235c9154"><h2 id="l2">Text Formatting Rules</h2></span>
+<p id="l4">
+Leave blank lines between paragraphs. Use <tt>[[BR]]</tt> to insert linebreaks into paragraphs. 
+</p>
+<p id="l6">
+Centered text needs arrows around it.  Otherwise it is "left-justified" in layout. <br/>To write <em>italics</em>, enclose the text in double single-quotes <br/>For <strong>bold</strong> text, enclose the text in triple single-quotes. <br/><u>Underlined text</u> needs a double underscore on each side. <br/>You get <sup>superscripted text</sup> by enclosing it in caret characters, <br/>and <sub>subscripts</sub> have to be embedded in double commas. <br/><s>Strikethrough</s> text needs two dashes and an X. 
+</p>
+<span id="head-eb01bf04c9a0e8a71c45816513df424f1c7ffedb"><h2 id="l14">Examples</h2></span>
+<p id="l16">
+<strong>Centered Text</strong> <br/>To get "I am centered." to appear in the middle of the line, you must type: <br/><pre>
+--&gt;I am centered.&lt;--
+</pre><br/>Your result will be this: <br/><p style="text-align: center;">I am centered.</p> 
+</p>
+<p id="l24">
+<strong>Strikethrough</strong> <br/>To change the sentence "I am not available." to read "I am <s>not</s> available.", add two dashes and an X around the word "not": <br/><pre>
+I am --XnotX-- available.
+</pre>
+</p>
+<p id="l30">
+<strong>Inline Text</strong> <br/>
+</p>
+
+    <ul>
+
+<p id="l31">
+ To insert text (inline) without reformatting in a <tt>monospace&nbsp;font</tt>, use three curly braces like this: <br/>
+</p>
+
+    </ul>
+
+
+<pre>
+{{{'''No''' markup here! [[Iamamacro]]}}}
+</pre><p id="l36">
+Your result will be this: 
+</p>
+<p id="l38">
+<tt>'''No'''&nbsp;markup&nbsp;here!&nbsp;[[Iamamacro]]</tt> 
+</p>
+<p id="l40">
+<u>4.</u>  Block of mixed code example.  The first section is the code and the resulting section shows how it renders on the page: 
+</p>
+<span id="head-0066757c1a12ed4fd3b919133c7c201686e0bcf2"><h4 id="l42">Mix Match</h4></span>
+<p id="l43">
+<pre>
+__Mixing__ ''italics'' and '''bold''':
+ * '''''Mix''' at the beginning''
+ * '''''Mix'' at the beginning'''
+ * '''Mix at the ''end'''''
+ * ''Mix at the '''end'''''
+
+You might recall ''a''^2^ `+` ''b''^2^ `=` ''c''^2^ from your math lessons, unless your head is filled with H,,2,,O.
+</pre>
+</p>
+<span id="head-67c2639a5af8de7c9f3219c5ce621401c156e1b1"><h4 id="l53">EXAMPLE DISPLAY BELOW</h4></span>
+<p id="l55">
+<u>Mixing</u> <em>italics</em> and <strong>bold</strong>: <br/>
+</p>
+
+    <ul>
+
+    <li>
+<p id="l56">
+ <em><strong>Mix</strong> at the beginning</em> <br/>
+</p>
+</li>
+    <li>
+<p id="l57">
+ <strong><em>Mix</em> at the beginning</strong> <br/>
+</p>
+</li>
+    <li>
+<p id="l58">
+ <strong>Mix at the <em>end</em></strong> <br/>
+</p>
+</li>
+    <li>
+<p id="l59">
+ <em>Mix at the <strong>end</strong></em> 
+</p>
+</li>
+
+    </ul>
+
+
+<p id="l61">
+You might recall <em>a</em><sup>2</sup> `+` <em>b</em><sup>2</sup> `=` <em>c</em><sup>2</sup> from your math lessons, unless your head is filled with H<sub>2</sub>O. 
+</p>
+<hr noshade="noshade" size="1" /><p id="l64">
+For more information on the possible markup, see <a title="Help/Help on Editing" href="Help_on_Editing">Help on Editing</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

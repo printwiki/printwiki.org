@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help with Images - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help with Images" class="currentChild" href="Help_with_Images">Help with Images</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Want to upload an image to better illustrate your point? Just add the following line to a page: 
+</p>
+<p id="l3">
+<strong><tt>[[Image(image_name.jpg)]]</tt></strong> 
+</p>
+<p id="l5">
+Then click preview or save the page and click on the link that is generated. 
+</p>
+<p id="l7">
+There are various parameters you can use with this image "<a title="Help/Help with Macros" href="Help_with_Macros">macro</a>".  You can make the image a thumbnail, send it to the left or to the right, give it a caption, or remove its border.  The possible parameters are: 
+</p>
+<p id="l9">
+<tt>[[Image(image_name.jpg,&nbsp;thumbnail,&nbsp;noborder,&nbsp;left/right,&nbsp;"Caption&nbsp;including&nbsp;["Wiki"&nbsp;links]")]]</tt> 
+</p>
+<p id="l11">
+<table class="tableOfContents"><tr><td><ol>
+<ol>
+<li>
+<a href="Help_with_Images#head-57e748d315d6537535bf8118e644dc8663ba0436">Plain Image</a></li>
+<li>
+<a href="Help_with_Images#head-ac187b101a5c1e567c8df8a8d8de9210b695b512">Thumbnail and Sizing</a></li>
+<li>
+<a href="Help_with_Images#head-1201f5be65e0b58542aaf0a90394b6f142fa1fdc">Captions</a></li>
+<li>
+<a href="Help_with_Images#head-e246ba7420a22bcfd24ccebfb007785f3ae28159">Alignment on Page</a></li>
+<li>
+<a href="Help_with_Images#head-a2ac955c5b8119d3acf512328282cfd5b0c2edc6">Multiple Image and separators</a></li>
+<li>
+<a href="Help_with_Images#head-f96a59b2c944740233cd56dcaf89794dc1f77746">Removing the border</a></li>
+<li>
+<a href="Help_with_Images#head-70440046a3dc2e079f23ee1c57dfa76669b732aa">Notes</a></li>
+</ol>
+
+</ol>
+
+</td></tr></table> 
+</p>
+<span id="head-57e748d315d6537535bf8118e644dc8663ba0436"><h3 id="l13">Plain Image</h3></span>
+<p id="l15">
+<tt>[[Image(image.jpg)]]</tt> will display the image you upload. 
+</p>
+<p id="l17">
+<a href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting.jpg"><img class="border" src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting.jpg" alt="image_painting.jpg"/></a> 
+</p>
+<span id="head-ac187b101a5c1e567c8df8a8d8de9210b695b512"><h3 id="l19">Thumbnail and Sizing</h3></span>
+<p id="l21">
+to create a default sized thumbnail add the thumbnail option <tt>[[Image(image.jpg,&nbsp;thumbnail)]]</tt> 
+</p>
+<p id="l23">
+<span class="noFloat thumb" style="width: 155px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_2.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_2.jpg&amp;thumb=yes&amp;size=192" alt="image_painting_2.jpg" style="display:block;"/></a></span> 
+</p>
+<span id="head-da39a3ee5e6b4b0d3255bfef95601890afd80709"><h3 id="l25"></h3></span>
+<p id="l27">
+To create a specific sized thumbnail add the size in pixels as an option representing the longer orientation of the image <tt>[[Image(image.jpg,&nbsp;279,&nbsp;thumbnail)]]</tt> 
+</p>
+<p id="l29">
+<span class="noFloat thumb" style="width: 281px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_3.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_3.jpg&amp;thumb=yes&amp;size=279" alt="image_painting_3.jpg" style="display:block;"/></a></span> 
+</p>
+<span id="head-1201f5be65e0b58542aaf0a90394b6f142fa1fdc"><h3 id="l31">Captions</h3></span>
+<p id="l33">
+A caption and thumbnail: <tt>[[Image(image.jpg,&nbsp;thumbnail,&nbsp;"Paintings")]]</tt> 
+</p>
+<p id="l35">
+<span class="noFloat thumb" style="width: 194px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_4.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_4.jpg&amp;thumb=yes&amp;size=192" alt="image_painting_4.jpg" style="display:block;"/></a><span>Paintings</span></span> 
+</p>
+<span id="head-e246ba7420a22bcfd24ccebfb007785f3ae28159"><h3 id="l37">Alignment on Page</h3></span>
+<p id="l39">
+A caption, thumbnail, aligned right: <tt>[[Image(image.jpg,&nbsp;right,&nbsp;thumbnail,&nbsp;"Paintings")]]</tt> 
+</p>
+<p id="l41">
+<span class="floatRight thumb" style="width: 194px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_5.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_5.jpg&amp;thumb=yes&amp;size=192" alt="image_painting_5.jpg" style="display:block;"/></a><span>Paintings</span></span> 
+</p>
+<span id="head-da39a3ee5e6b4b0d3255bfef95601890afd80709-2"><h3 id="l43"></h3></span>
+<p id="l45">
+A caption, thumbnail, size, aligned left: <tt>[[Image(image.jpg,&nbsp;left,&nbsp;279,&nbsp;thumbnail,&nbsp;"Library&nbsp;Stacks")]]</tt> 
+</p>
+<p id="l47">
+<span class="floatLeft thumb" style="width: 281px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_6.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_6.jpg&amp;thumb=yes&amp;size=279" alt="image_painting_6.jpg" style="display:block;"/></a><span>Library Stacks</span></span> 
+</p>
+<span id="head-a2ac955c5b8119d3acf512328282cfd5b0c2edc6"><h3 id="l49">Multiple Image and separators</h3></span>
+<p id="l51">
+You can have a series of images or thumbnails just by doing the image macro over and over.  Here's two in a row: 
+</p>
+<p id="l53">
+<span class="noFloat thumb" style="width: 121px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_7.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_7.jpg&amp;thumb=yes&amp;size=179" alt="image_painting_7.jpg" style="display:block;"/></a><span>Paintings mm</span></span> <span class="noFloat thumb" style="width: 181px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_8.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_8.jpg&amp;thumb=yes&amp;size=179" alt="image_painting_8.jpg" style="display:block;"/></a><span>Yay painting</span></span> 
+</p>
+<p id="l55">
+However, in some cases this ends up looking strange.  In particular, if you're adding a bunch of images as thumbnails sometimes you don't want the text or the next image to 'float' over to the right or left side.  Just use <tt>==&nbsp;==</tt>, which is the empty heading, to force the thumbnails to "reset."  Normal headings have this same effect, but it may be difficult or undesirable to come up with a name for your heading ;) 
+</p>
+<span id="head-f96a59b2c944740233cd56dcaf89794dc1f77746"><h3 id="l57">Removing the border</h3></span>
+<p id="l59">
+You can remove the border of an image by adding the noborder option.  For instance, <tt>[[Image(image.jpg,&nbsp;thumbnail,&nbsp;noborder)]]</tt>: 
+</p>
+<p id="l61">
+<span class="noFloat thumb noborder" style="width: 194px;"><a style="color: black;" href="http://printwiki.org/Help/Help_with_Images?action=Files&amp;do=view&amp;target=image_painting_9.jpg"><img src="http://printwiki.org/Help/Help_with_Images?sendfile=true&amp;file=image_painting_9.jpg&amp;thumb=yes&amp;size=192" alt="image_painting_9.jpg" style="display:block;"/></a></span> 
+</p>
+<span id="head-70440046a3dc2e079f23ee1c57dfa76669b732aa"><h3 id="l63">Notes</h3></span>
+<p id="l65">
+You can currently place a single image on a page once.  In this example we used different filenames to allow us to put the same image on the page over and over.  You usually won't need to put the same image on a page more than once. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

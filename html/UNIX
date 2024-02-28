@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>UNIX - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="UNIX" class="currentChild" href="UNIX">UNIX</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of the three <a title="Standard Platform" href="Standard_Platform">standard platform</a>s (or operating systems) for computer systems—from <a title="Mainframe" href="Mainframe">mainframe</a>s to <a title="Microcomputer" href="Microcomputer">microcomputer</a>s—developed in the early 1970s by AT&amp;T's Bell Labs. UNIX was written in the <a title="C" class="nonexistent" href="http://printwiki.org/C">C</a> language, and was the first operating system to allow <a title="multitasking" class="nonexistent" href="http://printwiki.org/multitasking">multitasking</a>, or the simultaneous running of separate applications. UNIX is also used on computers linked to a network and a mainframe, such as university computers. It is also a useful operating system for the development of other applications. UNIX is a popular operating system, primarily for engineering and manufacturing firms, as well as academic institutions. There are also several different types of the UNIX system, which were developed in different places, and the different versions are rarely completely compatible with each other. The Internet iself was originally designed for computers running UNIX. (See <a title="Platform" href="Platform">Platform</a>.) Varieties of UNIX include both <a title="CLI" href="CLI">CLI</a>- and <a title="GUI" class="nonexistent" href="http://printwiki.org/GUI">GUI</a>-based interfaces. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

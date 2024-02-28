@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help on Linking - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help on Linking" class="currentChild" href="Help_on_Linking">Help on Linking</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<table class="tableOfContents"><tr><td><ol>
+<li>
+<a href="Help_on_Linking#head-f90904e7335aa42493f41e5f38a09136c0365896">How to Make Links</a></li>
+<ol>
+<li>
+<a href="Help_on_Linking#head-df69f1bfe9901e59a6c78b60844a9da8173fd5b1">Internal Wiki Links</a></li>
+<li>
+<a href="Help_on_Linking#head-4d57eab2982917a09762907ac77e408c3ca66fc9">External Links</a></li>
+<li>
+<a href="Help_on_Linking#head-50c829d2fbca1b2841def5f076249f22b61abc61">Links Within a Page (Anchor links)</a></li>
+</ol>
+
+</ol>
+
+</td></tr></table> 
+</p>
+<span id="head-f90904e7335aa42493f41e5f38a09136c0365896"><h2 id="l3">How to Make Links</h2></span>
+<p id="l5">
+For internal wiki links, use brackets with quotes.  For external links use brackets <strong>without</strong> quotes. 
+</p>
+<span id="head-df69f1bfe9901e59a6c78b60844a9da8173fd5b1"><h3 id="l7">Internal Wiki Links</h3></span>
+<p id="l8">
+Enclosing a sequence of characters in square brackets and double quotes <tt>["like&nbsp;this"]</tt> makes it link to that page.  To create a link with alternative text, use <tt>["like&nbsp;this"&nbsp;alternative&nbsp;text]</tt>. 
+</p>
+<span id="head-4d57eab2982917a09762907ac77e408c3ca66fc9"><h3 id="l10">External Links</h3></span>
+<p id="l11">
+Enclosing a sequence of characters in square brackets <tt>[http://liketh.is]</tt> makes it link to that page. To create a link with alternative text, use <tt>[http://liketh.is&nbsp;alternative&nbsp;text]</tt>. 
+</p>
+<span id="head-50c829d2fbca1b2841def5f076249f22b61abc61"><h3 id="l13">Links Within a Page (Anchor links)</h3></span>
+<p id="l14">
+First you must create an 'anchor'.  To create an anchor use: <tt>[[Anchor(anchorname)]]</tt> Then to use the anchor, create an anchor link: <tt>[#anchorname]</tt>. To create an anchor link with alternative text, use <tt>[#anchorname&nbsp;alternative&nbsp;text]</tt>. 
+</p>
+<p id="l16">
+For example:  There has been an anchor with the label <em>end</em> placed at the very end of this page.  If I write <tt>[#end&nbsp;the&nbsp;end&nbsp;of&nbsp;the&nbsp;page!]</tt> it displays as:  <a href="Help_on_Linking#end">the end of the page!</a>  Go ahead and try it out. 
+</p>
+<p id="l20">
+<a id="end"></a> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

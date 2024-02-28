@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Unit System - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Unit System" class="currentChild" href="Unit_System">Unit System</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a series of relative width values assigned to characters as a means of describing the relation between their widths. 
+</p>
+<p id="l3">
+When Tolbert Lanston invented the <a title="Monotype" href="Monotype">Monotype</a>, he wanted to separate the functions of input and output, and he needed a method that would let the operator know when to end a line for <a title="Justification" href="Justification">justification</a>. Arithmetic was the best idea: he would add up character widths. To store the widths of every character in every <a title="Point Size" href="Point_Size">point size</a> of every <a title="Typeface" href="Typeface">typeface</a> would have been prohibitive, so he created relative widths. In any typeface, all characters are proportional to one another, and from point size to point size that proportionality remains the same. Thus, if the width of every character is described as a multiple of some value, then those numerical relationships will still be valid, no matter what the size is. 
+</p>
+<p id="l5">
+For example, an "a" in 9 points might be eight-eighteenths; the "a" in 72 points would also be eight-eighteenths. The real width that these characters occupy is differentiated by multiplying those relative values by the point size: 
+</p>
+<p id="l9">
+9-point x 8-unit "a" = 72 
+</p>
+<p id="l11">
+72-point x 8-unit "a" = 576 
+</p>
+<p id="l15">
+Thus, one set of values serves for all sizes of a particular typeface. Lanston's base was 18, which served phototypesetting for many years. In order to speed up film-font manufacture, suppliers moved to 36-, 54-, and 72-unit systems. Also known as the <a title="unit count system" class="nonexistent" href="http://printwiki.org/unit_count_system">unit count system</a>. 
+</p>
+<p id="l17">
+(See also <a title="Unitized Font" href="Unitized_Font">Unitized Font</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

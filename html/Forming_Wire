@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Forming Wire - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Forming Wire" class="currentChild" href="Forming_Wire">Forming Wire</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The continuously moving mesh wire belt on a papermaking machine on which <a title="Cellulose" href="Cellulose">cellulose</a> fibers"] are bonded together into a paper mat. A solution of fibrous paper <a title="Pulp" href="Pulp">pulp</a> is sent from the <a title="Headbox" href="Headbox">headbox</a> (at the <a title="Wet End" href="Wet_End">wet end</a> of the papermaking machine) to the forming wire at a uniform speed, thickness, and consistency, to ensure that the paper that forms has uniform structural properties. As the fibrous solution travels along the forming wire, additional layers, or plys, are deposited on top of previous ones, and suction cup-shaped <a title="Foils" href="Foils">foils</a>, rotating <a title="table rolls" class="nonexistent" href="http://printwiki.org/table_rolls">table rolls</a>, or oscillations of the wire (called <a title="Shake" href="Shake">shake</a>) supplement the force of gravity in draining water from the fibers. Traditional <a title="Fourdrinier" href="Fourdrinier">fourdrinier</a>-type papermaking machines utilize a single forming wire; the side of the paper <a title="Web" href="Web">web</a> that forms in contact with the wire (called the <a title="Wire Side" href="Wire_Side">wire side</a>) will have different structural and surface properties than the top side of the paper. Recent innovations such as <a title="Twin-Wire Former" href="Twin-Wire_Former">twin-wire former</a>s help reduce this <a title="Two-Sidedness" href="Two-Sidedness">two-sidedness</a> of paper. (See <a title="Fourdrinier" href="Fourdrinier">Fourdrinier</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

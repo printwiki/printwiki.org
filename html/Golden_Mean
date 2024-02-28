@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Golden Mean - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Golden Mean" class="currentChild" href="Golden_Mean">Golden Mean</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In mathematics and fine arts, the ratio between two portions of a line or two dimensions of a plane figure (such as a rectangle) in which the lesser of the two dimensions is to the greater of the two dimensions as the greater dimension is to the sum of the greater and the lesser dimensions. This "golden mean" works out to about 0.618:1 (usually also denoted as a 3:5, which works out somewhat closely). For example, in the case of a rectangle, the shorter dimension would need to be 3 inches, while the longer dimension would need to be 8 inches. This ratio of two dimensions is often used in architecture and graphic design due to its purportedly pleasing appearance. 
+</p>
+<p id="l3">
+In mathematics, the <em>golden mean</em> is known as the <em>golden section</em>, and the statement of it dates from the days of the Greek mathematician Pythagoras (about the sixth century B.C.). The original statement of the problem involves the cutting of a line segment into the extreme and mean ratio. So, for line segment AB, point P would divide AB internally in the ratio AB : AP = AP : PB. Euclid dealt with the problem, as well, and eventually used it to construct a regular decagon and a regular pentagon. He went on to show that if AB is denoted by <em>a</em> and PB is denoted by <em>b</em> in the above proportion, then <em>a</em> + <em>b</em> : <em>a</em> = <em>a</em> : <em>b</em>, whence <em>a</em> : <em>b</em> = <em>b</em> : <em>a</em> : <em>b</em>, which then shows that if <em>b</em> is cut off from <em>a</em>, then <em>a</em> and <em>a</em> : <em>b</em> are also two parts of a golden section. This process can be repeated infinitely. The concept of the golden section influenced ancient Greek ethics (the "Golden Mean" has also been used to describe the Aristotelian concept of moderation) and medieval theology, as well as art itself. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

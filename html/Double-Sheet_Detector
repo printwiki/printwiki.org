@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Double-Sheet Detector - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Double-Sheet Detector" class="currentChild" href="Double-Sheet_Detector">Double-Sheet Detector</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device attached near the interface between a sheetfed press's <a title="Feedboard" href="Feedboard">feedboard</a> and <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">sheet-separation unit</a> that detects when more than one sheet is being fed through at one time. 
+</p>
+<p id="l3">
+A double-sheet detector can either be mechanical or electric, and is attached to a caliper roller placed between the <a title="Forwarding Roller" href="Forwarding_Roller">forwarding roller</a>s. When paper beyond a certain preset thickness passes beneath the roller, the detector shuts off the feeding unit and/or the printing unit. Electric detectors have a set of electrical contacts that, when paper beyond a certain thickness passes beneath the caliper roller, are brought into contact, tripping the shutoff of the feeder. Needless to say, the sheet detector needs to be set precisely to the thickness of the paper being printed. On a <a title="Stream Feeder" href="Stream_Feeder">stream feeder</a>, in which the sheets overlap while feeding, it is necessary to set the double-sheet detector to trip when <em>three</em> sheets pass beneath it. When printing larger-size paper with a stream feeder, however, is it not uncommon for there to be points when three sheets overlap. Consequently, the double-sheet detector needs to be set to trip when <em>four</em> sheets pass beneath it. (On presses equipped with stream feeders, double-sheet detectors are commonly referred to as <a title="Extra-Sheet Detector" href="Extra-Sheet_Detector">extra-sheet detector</a>s.) 
+</p>
+<p id="l5">
+A <em>double-sheet detector</em> is also used on some <a title="Folding" href="Folding">folding</a> machines as a means of detecting when more than one sheet is being fed into the mechanism. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

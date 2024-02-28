@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Word Space - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Word Space" class="currentChild" href="Word_Space">Word Space</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a space placed between words. Unlike a typewriter, on which all word spaces have the same width, typography utilizes word spaces which are variable: they expand or contract based on the length of the line and the number of characters and word spaces on the line. In early writing, there were no word spaces; all the letters were tied together. 
+</p>
+<p id="l3">
+It is important to recognize that the <a title="Justification" href="Justification">justification</a> process can only work with variable word spaces. Consequently, a word space cannot be used as an <a title="Indent" href="Indent">indent</a> or in other places where a fixed (constant-width) space is required. Typists who are accustomed to keying two word spaces at the end of a sentence (known as <a title="French Spacing" href="French_Spacing">French spacing</a>) will find that this practice is not applicable (and unnecessary) in automated typography. 
+</p>
+<p id="l5">
+Word spaces are usually within certain ranges—minimum, optimum, maximum—which, in many cases, can be tailored by users to their own taste. The minimum word space is the value below which the space will not go, to eliminate the possibility that a line would be set completely tight (with no discernible word spaces). The maximum word space is the widest value that would be allowed, which is usually the threshold point where automatic letterspacing (if allowable) might be employed. The optimum word space is the value that would most often be desired for good, even spacing (this is just about the width of the lowercase "i" of the font and size). In <a title="Ragged" href="Ragged">ragged</a> setting, the optimum value is usually used throughout. Too much word space creates <a title="rivers" class="nonexistent" href="http://printwiki.org/rivers">rivers</a> (white space running vertically in text columns). For short line widths, it is better to use <a title="Unjustified" href="Unjustified">unjustified</a> (<a title="Ragged Right" href="Ragged_Right">ragged right</a>) lines to avoid drastically uneven word space and/or rivers. Less word space, or evenly <a title="Kern" href="Kern">kern</a>ed word spaces, often looks better after commas, periods, apostrophes, or quotes. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

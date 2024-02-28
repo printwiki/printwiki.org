@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Filtration - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Filtration" class="currentChild" href="Filtration">Filtration</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The final stage of the printing ink manufacturing process in which the dispersed mixture of <a title="Pigment" href="Pigment">pigment</a> and <a title="Vehicle" href="Vehicle">vehicle</a> is passed through bag or cartridge filters to remove dirt, undispersed pigment particles, and other debris and detritus. Careful attention must be paid to the <a title="Viscosity" href="Viscosity">viscosity</a> of the ink; too great a flow, or a clog in the filter, will build up excessive pressures in the filtration chamber and rip bits of fibers out of the filter into the ink, defeating the purpose of filtration. One of the "contaminants" of ink that filtration cannot remove is trapped air, bubbles of which have the capacity to promote the premature production of an ink skin, typically in inks that dry by <a title="Oxidation" href="Oxidation">oxidation</a>. In lithographic ink which dries by a mechanism other than oxidation, the air bubbles are less of a problem, as the press dampening system will negate any detrimental effects likely to be caused by the bubbles. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

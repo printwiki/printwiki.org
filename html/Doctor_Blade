@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Doctor Blade - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Doctor Blade" class="currentChild" href="Doctor_Blade">Doctor Blade</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Generic term for any steel, rubber, plastic, or other type of blade used to apply or remove a liquid substance from another surface, such as those blades used in coating paper. The term "doctor blade" is believed to be derived from the name of a blade used in conjunction with ductor rolls on letterpress presses. The term "ductor blade" eventually mutated into the term "doctor blade." 
+</p>
+<p id="l3">
+In <a title="Gravure" href="Gravure">gravure</a> printing, the <em>doctor blade</em> is a steel strip used to remove ink from the outside surface of the <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>. Although steel is preferred in most gravure applications, plastics are occasionally used, usually in conjunction with a worn cylinder as a means of prolonging its life. Steel doctor blades vary in thickness from 0.004 inch to 0.015 inch, and are manufactured with strict tolerances. (Plastic blades can be as thick as 0.060 inch.) The most important consideration in the manufacture of a doctor blade is straightness, so as to ensure consistent scraping pressure across the width of the gravure cylinder. 
+</p>
+<p id="l5">
+The doctor blade is fixed firmly in place by a doctor blade assembly, the amount of blade protruding from the holder being known as the <a title="Blade Extension" href="Blade_Extension">blade extension</a>—generally recommended to be K:H inch. It is set at certain optimum angles to ensure minimal blade and/or cylinder wear. The angle at which the blade contacts the cylinder (called the <a title="Contact Angle" href="Contact_Angle">contact angle</a>) is generally 55:65º, with 60º being most manufacturers' specified contact angle. The angle can be varied to correct various cylinder defects and/or inking problems. The contact angle also affects the distance between the blade and the nip between the gravure cylinder and the <a title="Impression Roller" href="Impression_Roller">impression roller</a>. This distance needs to be small enough to prevent <a title="Drying-In" href="Drying-In">drying-in</a>, the undesirable drying of ink in the gravure cylinder cells. Many doctor blades oscillate across the width of the cylinder as a means of preventing cylinder wear and to remove solid bits of debris that can collect on the surface of the cylinder of the rear of the blade itself. The force or pressure with which the blade contacts the cylinder should be as minimal as possible, or should wipe the cylinder effectively but not contribute to blade and/or cylinder wear. (The process of setting the contact angle and blade contact pressure is known as <a title="Running In" href="Running_In">running in</a> or <a title="Toning In" href="Toning_In">toning in</a>.) A related consideration is the unavoidable <a title="Deflection" href="Deflection">deflection</a> of the blade during the print run, or, in other words, a slight curvature of the blade caused by the rotating cylinder. The contact angle and blade pressure should take into account deflection. The edge of the blade itself comes in a variety of configurations, either pre-honed by the manufacturer or honed in-house by the printer. Regardless of the configuration, the important considerations are effective wiping and the minimization of wear. Surface <a title="Roughness" href="Roughness">roughness</a> of the cylinder is important for doctor blade lubrication (which refers to the ease or reduced-friction movement of one solid surface over another). Gravure cylinders that are too smooth will increase doctor blade wear and cylinder damage. On some packaging presses, <a title="Scavenger Marks" href="Scavenger_Marks">scavenger marks</a> are deliberately etched into non-image areas corresponding to non-printing regions of the substrate (and which can be removed during finishing operations, such as trimming) to facilitate the removal of particles of ink or other debris from beneath the doctor blade. 
+</p>
+<p id="l7">
+Blade wear can have three different causes: abrasion (commonly produced by foreign particles or the use of abrasive ink pigments), fatigue (caused by stress), and corrosion (the result of chemical reaction, such as oxidation—or rusting—or overly acidic or alkaline ink vehicles). Most inks manufactured for gravure printing are produced with proper resin and solvent concentrations so as to minimize abrasion and facilitate lubrication. 
+</p>
+<p id="l9">
+Some gravure presses include a pre-wiping blade located between the ink fountain and the doctor blade which is set close to the cylinder, but which does not contact it, its purpose being to slough off excess ink before the doctor blade removes the remaining thin ink film. 
+</p>
+<p id="l11">
+Damaged doctor blades can produce a variety of printing defects, such as <a title="Railroading" href="Railroading">railroading</a> and <a title="Railroad Tracks" href="Railroad_Tracks">railroad tracks</a>, or continuous streaks, marks, or lines appearing on the substrate, caused by incomplete wiping of the cylinder. Such problems are commonly caused either by nicks in the doctor blade, or by dried particles of ink or other materials stuck to the rear or back of the doctor blade. (See also <a title="Inking System: Gravure" class="nonexistent" href="http://printwiki.org/Inking_System:_Gravure">Inking System: Gravure</a> and <a title="Gravure" href="Gravure">Gravure</a>.) 
+</p>
+<p id="l13">
+A <em>doctor blade</em> is also used in several <a title="Flexographic" href="Flexographic">flexographic</a> inking systems. Similar in construction and function as doctor blades used in gravure, doctor blades used in flexographic presses scrape excess ink from the surface of the <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a> that applies ink to the printing plate. Doctor blades tend to be more effective for ink metering than more traditional <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> arrangements. See <a title="Inking System: Flexography" class="nonexistent" href="http://printwiki.org/Inking_System:_Flexography">Inking System: Flexography</a> and <a title="Anilox Roller" href="Anilox_Roller">Anilox Roller</a>. 
+</p>
+<p id="l15">
+A doctor blade used in <a title="Screen Printing" href="Screen_Printing">screen printing</a> is called a <a title="Flood Bar" href="Flood_Bar">flood bar</a>. See <a title="Flood Bar" href="Flood_Bar">Flood Bar</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Condensed - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Condensed" class="currentChild" href="Condensed">Condensed</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, descriptive of the relative narrowness of all the characters in one typeface. Condensed type is used when large amounts of copy must fit into a small space, such as in <a title="tabular composition" class="nonexistent" href="http://printwiki.org/tabular_composition">tabular composition</a>. 
+</p>
+<p id="l3">
+There are four basic gradations of condensation beyond the "normal" typeface: semicondensed, condensed, extracondensed, and ultracondensed. <em>Narrow</em> and <em>compressed</em> are often used synonymously with one or more of these degrees of condensation. 
+</p>
+<p id="l5">
+Hot metal typography and early phototypesetting could typically only condense type by removing space from between letters, without actually altering the widths of the letters themselves. Digitized typesetters and other digital composition devices and programs have the capability of actually altering the widths of the letters themselves, by removing raster lines and defining new set widths. This 12-point type can be specified as 11H set. A problem of this latter technique of condensing type optically or digitally—compared to type that has been condensed by the type designer—is that the legibility of the type will gradually diminish with increasing condensation. 
+</p>
+<p id="l7">
+A condensed typeface has an <a title="Em Space" href="Em_Space">em space</a> that is no longer a square formed by the value of the <a title="Point Size" href="Point_Size">point size</a>. Thus fixed widths will appear narrower than normal. If a typeface is condensed by changing the set width, then all the values—including the fixed spaces—will change. This would have to occur so that the fixed spaces for the figure width matches the actual width of the figures. This is important because, for condensed typefaces, the word space values must also be reduced (i.e., condensed) or the texture of the lines will seem unnaturally segmented by wider than appropriate word spaces. 
+</p>
+<p id="l9">
+See also <a title="Expanded" href="Expanded">Expanded</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

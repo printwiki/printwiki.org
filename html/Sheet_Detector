@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Sheet Detector - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Sheet Detector" class="currentChild" href="Sheet_Detector">Sheet Detector</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device mounted at the front end of the <a title="Feedboard" href="Feedboard">feedboard</a> of a sheetfed printing press, used to detect paper arriving early or late, a condition which would cause improper positioning of the image on the paper. A sheet detector can be one of four types: 
+</p>
+<p id="l3">
+A mechanical sheet detector identifies late sheets, and consists of a moving pin which, when a sheet arrives at the <a title="Front Guides" href="Front_Guides">front guides</a> of the feedboard at the proper time, is prevented from entering a hole at the bottom of the feedboard. When a sheet is late, the pin enters the hole, tripping the stoppage of the feeding mechanism. 
+</p>
+<p id="l5">
+An electromechanical sheet detector consists of a pair of open electrical contacts which are moved out of the way when paper arrives at the proper time. When the sheet is early, however, it hits the bottom contact, pushing it into the other contact. When the circuit is complete, the feeding action of the press stops. 
+</p>
+<p id="l7">
+A photoelectric sheet detector is timed to the front guides of the feedboard. One photoelectric cell is located beyond the front guides and detects early sheets. When an early sheet is not stopped by the front guides, it slides over the cell and causes an adjacent lamp to reflect into the cell, making an electrical contact and shutting off the feeder unit. A second photo cell located in front of the front guides has a lamp that turns on when the front guides are lowered. In normal printing operation, an on-time sheet reflects the light into the photo cell, initiating an electrical contact. When a sheet is late, there is no contact made, and the feeder unit shuts off. 
+</p>
+<p id="l9">
+A pneumatic sheet detector identifies sheets that arrive at the front guides crooked. A series of vacuum nozzles along the front guides is timed to the arrival of a sheet. Whenever there is a difference in air pressure between one set of nozzles and another (due to incorrect positioning of the sheet), the feeder mechanism is shut off. 
+</p>
+<p id="l11">
+All of the different types of sheet detectors can malfunction if not cleaned daily, and can be subject to wear due to abrasion from moving paper. They should be tested frequently. (See <a title="Feeder Section: Sheetfed Offset Lithography" class="nonexistent" href="http://printwiki.org/Feeder_Section:_Sheetfed_Offset_Lithography">Feeder Section: Sheetfed Offset Lithography</a> and <a title="Feedboard" href="Feedboard">Feedboard</a>.) A different type of sheet detector, located earlier in the feeder section, detects more than one sheet being fed at once. (See <a title="Double-Sheet Detector" href="Double-Sheet_Detector">Double-Sheet Detector</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

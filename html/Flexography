@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Flexography - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Flexography" class="currentChild" href="Flexography">Flexography</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A form of printing that uses flexible rubber relief plates and highly <a title="Volatile" href="Volatile">volatile</a>, fast-drying inks to print on a variety of <a title="substrates" class="nonexistent" href="http://printwiki.org/substrates">substrates</a>, commonly used in package printing. 
+</p>
+<p id="l3">
+Flexography has its origins in the development of natural and synthetic rubbers. Natural rubber is obtained by the treatment of latex, a milky exudation of various trees and plants, primarily native to the tropics. It was used by many pre-Columbian civilizations in Central and South America (such as the Mayas). Samples of rubber were sent back to Europe by missionaries and explorers in the sixteenth century, and in the late eighteenth century, British chemist Joseph Priestley (famous primarily as the discoverer of oxygen) found that latex rubber, when heated, would erase pencil marks. From this "rubbing" ability, he coined the term "rubber." 
+</p>
+<p id="l5">
+In 1839, Charles Goodyear accidentally discovered a means of strengthening natural rubber, a process he called "vulcanization." In the mid- to late-1800s, various rubber products and patents began appearing. 
+</p>
+<p id="l7">
+In the late 1800s, letterpress (printing from raised type, typically bits of metal) was the dominant form of printing, with the alternate processes of <a title="Lithography" href="Lithography">lithography</a> and <a title="Gravure" href="Gravure">gravure</a> still in their formative years. It was found that <a title="Letterpress" href="Letterpress">letterpress</a> type could be set into plaster and that unvulcanized liquid rubber could be poured into the mold and, after heating and cooling, could make a workable rubber stamp. Soon, it was found that the rubber stamp concept could be applied to the manufacture of printing plates, which could be useful for printing on surfaces that did not yield good results with conventional letterpress processes, in particular corrugated paperboard. 
+</p>
+<p id="l9">
+The invention in the 1930s of synthetic rubbers made the properties of the rubber stamps and plates much more reliable than they were with unreliable natural rubber. Advances in rubber platemaking were pioneered by the Mosstype Corporation, which developed effective processes for both <a title="Aniline Printing" href="Aniline_Printing">aniline printing</a> (as flexography was known until the 1950s) and for letterpress printing. In the 1940s, Mosstype developed effective off-press plate-mounting systems, which minimized downtime and made aniline printing more efficient. In 1938, two men at the International Printing Ink Corporation devised a way of accurately and effectively metering the film of ink transferred to the rubber plate. Their system was inspired by the etching of gravure cylinders, which transfers ink from cells to the substrate. They developed an ink roller, engraved with a controlled size and number of cells, and plated with copper and chrome that effectively metered the ink film transferred to the aniline printing plate. They called their roller an <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>, and it is still the basis of modern flexographic presses. 
+</p>
+<p id="l11">
+In the first decades of the twentieth century, as was mentioned, flexography was known as "aniline printing," taking its name from the type of dyestuff used in the inks. In the 1930s, the <a title="aniline dye" class="nonexistent" href="http://printwiki.org/aniline_dye">aniline dye</a>s were declared toxic by the FDA. Although aniline printers were by then using different types of inks, the name remained. In the late '40s, it grew apparent to industry leaders that the name "aniline printing" had to go, as the name had bad connotations, since the process was widely used for printing food packaging. In 1951, the Mosstype Corporation, in its company newsletter, held a contest to rename the process. Alternate names were solicited, and a final choice would be voted on. Two hundred suggestions came in from printers around the country, and a special committee formed by the Packaging Institute pared the list down to three: permatone process, rotopake process, and flexographic process. On October 21, 1952, it was announced that the overwhelming choice was "flexographic process," or "flexography." 
+</p>
+<p id="l13">
+Like other printing processes, there are a wide variety of press configurations. In its most basic form, however, the flexographic press comprises the following parts: 
+</p>
+<p id="l15">
+'Ink Fountain'. Flexo ink, typically a thin, volatile liquid ink, is stored in an <a title="Ink Pan" href="Ink_Pan">ink pan</a>, where a rubber-covered <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> rotates. The fountain roller picks up a thick film of ink and transfers it to a <a title="Metering Roller" href="Metering_Roller">metering roller</a>, typically known in flexography as an <em>anilox roller</em>. The anilox roller is a chrome- or ceramic-covered roller whose surface contains small, engraved pits or <a title="Cell" href="Cell">cell</a>s (typically from 80:1,000 cells per inch). 
+</p>
+<p id="l17">
+The pressure between the fountain roller and the anilox roller is set so that the excess ink pools up at the top of the nip between them. The difference in revolution speed of the two rollers (the fountain roller typically turns at a slower rate than the anilox roller) causes a wiping effect on the anilox roller. The goal is to ensure that only the ink stored in the engraved cells on the anilox roller's covering is transferred to the plate. The difference in speed also eliminates a problem in flexography called <a title="Mechanical Pinholing" href="Mechanical_Pinholing">mechanical pinholing</a> (sometimes also called <a title="Ghosting" href="Ghosting">ghosting</a>, and related to <a title="Mechanical Ghosting" href="Mechanical_Ghosting">mechanical ghosting</a> found in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>), in which ink is not replenished uniformly to the surface of the anilox roller, causing the texture of the roller to be transferred to the substrate. 
+</p>
+<p id="l19">
+Some alternate configurations include a chambered or enclosed system, in which the anilox roller sits in the ink fountain itself (removing the need for a fountain roller), the ink metering performed by a <a title="Doctor Blade" href="Doctor_Blade">doctor blade</a> (a strong strip of steel, plastic, or other material) that is placed between the fountain and the nip between the anilox roller and the plate cylinder. The angle and pressure of the doctor blade ensure a controlled and uniform ink metering. Another fountain roller-less configuration pumps ink from an ink tank to the surface of the anilox roller (which sits above an ink pan, the latter acting as a catch basin). A doctor blade is also used in this configuration to meter the ink film. Another more elaborate system, called an <a title="Enclosed Inking System" href="Enclosed_Inking_System">enclosed inking system</a>, features two doctor blades—one at the bottom of the anilox roller, the other at the top, the ink reservoir located between them. Ink is pumped onto the surface of the anilox roller, where the top doctor blade is responsible for metering. This system is typically used on high-speed presses, and is popular due to the fact that, since the inking system is not exposed to the air, ink <a title="Viscosity" href="Viscosity">viscosity</a> can be tightly controlled. 
+</p>
+<p id="l21">
+'Printing Unit'. The inked anilox roller is adjacent to the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>, a steel drum on which the rubber flexographic plate is mounted (usually by means of an adhesive backing, rather than the plate clamps used in offset lithography). The raised impression on the flexo plate picks up the ink and transfers it to the substrate passing between the plate cylinder and the smooth, steel <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>. The plate cylinder can either be <a title="Integral" href="Integral">integral</a> (the cylinder body, end-caps, and shafts are all one piece), <a title="Demountable" href="Demountable">demountable</a> (the shafts are removeable), <a title="Sleeve" href="Sleeve">sleeve</a> (the cylinder face is slid onto a bored cylinder using high-pressure air), and <a title="Magnetic" href="Magnetic">magnetic</a> (the cylinder is magnetized, allowing metal-backed plates to be mounted magnetically, rather than by means of adhesive). (See <a title="Plate Cylinder: Flexography" class="nonexistent" href="http://printwiki.org/Plate_Cylinder:_Flexography">Plate Cylinder: Flexography</a>.) 
+</p>
+<p id="l23">
+In some applications (typically those in which ink <a title="Strike-Through" href="Strike-Through">strike-through</a> is a problem, and is likely to cause ink buildup on the impression cylinder), the impression cylinder is replaced with an <a title="Impression Bar" href="Impression_Bar">impression bar</a>, a G:H-inch-diameter steel rod clamped into the proper position behind the web. The bar does not rotate, and as a result the moving web wipes off any ink likely to accumulate on it. 
+</p>
+<p id="l25">
+'Plates'. There are three types of image carriers in flexography, two of which can be categorized as plates: 
+</p>
+<p id="l27">
+Rubber Plates. A negative of the image to be printed is placed on top of a metal alloy coated with a light-sensitive acid <a title="Resist" href="Resist">resist</a>. When exposed to light, the resist hardens in the exposed image areas, and remains soft and soluble in the unexposed, non-image areas. The unhardened resist is washed away after exposure, and an <a title="Etchant" href="Etchant">etchant</a> is applied to the surface, which engraves those areas not protected by the hardened resist. The result is a metallic relief plate. A mold—or matrix—is then made of the relief plate. After cooling the mold, a rubber sheet is pressed into the matrix which, after cooling, will be a rubber relief plate. Various finishing operations optimize the plate for flexographic printing. 
+</p>
+<p id="l29">
+Photopolymer Plates. Manufactured either from <a title="Sheet Photopolymer" href="Sheet_Photopolymer">sheet photopolymer</a> or <a title="Liquid Photopolymer" href="Liquid_Photopolymer">liquid photopolymer</a> materials, a photographic negative is placed on top of the photopolymeric material and exposed to ultraviolet light, which hardens the photopolymer in those areas through which it passes (the image areas), leaving the unexposed regions unhardened. After exposure, washout procedures remove the unhardened photopolymer from the non-image areas, leaving the image areas in relief. 
+</p>
+<p id="l31">
+Plates are mounted on the plate cylinder either by an adhesive backing or by other means, such as plate clamps. See <a title="Plate: Flexography" class="nonexistent" href="http://printwiki.org/Plate:_Flexography">Plate: Flexography</a>. 
+</p>
+<p id="l33">
+A third type of image carrier is called a <a title="Design Roll" href="Design_Roll">design roll</a>, which consists of a layer of vulcanized rubber applied as an unbroken "jacket" on the surface of the plate cylinder itself. The imaging of the plate is commonly performed using high-energy lasers, which atomize the non-image portions of the rubber surface, leaving the image areas in relief. Design rolls, due to their seamlessness, are useful for printing continuous background patterns such as those found in packaging, wrapping, and other forms of decorative printing applications. They are also capable of higher print runs than conventional plates, with which they are occasionally used in tandem. (See <a title="Design Roll" href="Design_Roll">Design Roll</a>.) 
+</p>
+<p id="l35">
+'Substrate Control'. There are two main portions of the substrate control system on a flexographic press (or, indeed, on many other web-fed presses). 
+</p>
+<p id="l37">
+Infeed Section. The feeding systems used to control the movement of the web to the press vary. Flexography is used to print a wide variety of substrates, primarily those used for packaging, so each feeding and tension-control system needs to be tailored to the specific requirements of the substrate in question. Typically, the web is placed on a <a title="reel stand" class="nonexistent" href="http://printwiki.org/reel_stand">reel stand</a>, which can either be a single-position unwind (one roll is mounted at a time, the primary advantage of which is its ability to accomodate a wide variety of roll widths and diameters) or a flying-splice unwind (a second roll is mounted above the first one, which is then spliced—with varying amounts of automation, depending on the device—onto the end of the expiring roll). Single-position unwinds are useful when roll changes do not need to be made very often. Flying-splice unwinds, however, do not allow the wide variety of roll sizes that single-position units do. Flying-splice stands used for packaging can accomodate up to 24-inch diameter rolls, while stands for paper or other heavy substrates can accomodate up to 72-inch diameter rolls. One basic problem that needs to be accounted for is the out-of-roundness of the core, which always exists to some degree. If kept within certain tolerances, it is acceptable, but the unwind stand must be sufficiently sturdy to guard against any vibration caused by the non-concentric core disrupting the printing units of the press. 
+</p>
+<p id="l39">
+The unwinding stand is one of the several "tension zones" on a web-fed press. The unwinding tension is important for proper register, and to prevent web breaks. Enough tension needs to be created to properly feed the substrate into the printing unit, yet too much tension can cause slippage elsewhere in the press. There are a wide variety of mechanisms that control web tension such as braking systems or a <a title="dancing roll" class="nonexistent" href="http://printwiki.org/dancing_roll">dancing roll</a>, a roller connected to an air cylinder that can be adjusted to apply the appropriate amount of force to the web. A dancing roll is especially useful in that it can compensate for the decreasing diameter of the roll as it unwinds into the press, the diameter change altering the tension on the web. 
+</p>
+<p id="l41">
+The final portion of the press just prior to the printing unit is known as the <a title="infeed unit" class="nonexistent" href="http://printwiki.org/infeed_unit">infeed unit</a>, which consists of two steel rollers and one rubber roller, the point being to brake the web and create a "tension barrier" between the unwind section and the printing section. This barrier ensures that the web tension beyond it is consistent, regardless of what is happening to the web prior to reaching it. This tendency to isolate regions of web tension ensures that any anomalies are dealt with before the printing unit. (See also <a title="Web Offset Lithography: Feeding Section" class="nonexistent" href="http://printwiki.org/Web_Offset_Lithography:_Feeding_Section">Web Offset Lithography: Feeding Section</a>.) 
+</p>
+<p id="l43">
+Outfeed Section. After the printing unit comes the <a title="outfeed unit" class="nonexistent" href="http://printwiki.org/outfeed_unit">outfeed unit</a>, also known as the <a title="cooling drum unit" class="nonexistent" href="http://printwiki.org/cooling_drum_unit">cooling drum unit</a>, which acts to pull the web through the printing unit, create another tension zone separate from the printing unit, and guide the web to the rewind unit. This section commonly uses <a title="Chill Roll" href="Chill_Roll">chill roll</a>s, which are rollers cooled with water, brine, or some other substance that removes heat (generated by friction and/or from the drying portion of the printing unit) from the web prior to rewinding. The printed web is rewound on one of two types of rewinders, a <a title="surface rewinder" class="nonexistent" href="http://printwiki.org/surface_rewinder">surface rewinder</a> which uses a moving roller to wind the roll by frictional contact with the outside surface, or a <a title="center rewinder" class="nonexistent" href="http://printwiki.org/center_rewinder">center rewinder</a>, which winds the roll by means of a shaft inserted through the core. (See <a title="Web Offset Lithography: Rewind Equipment" class="nonexistent" href="http://printwiki.org/Web_Offset_Lithography:_Rewind_Equipment">Web Offset Lithography: Rewind Equipment</a>.) 
+</p>
+<p id="l45">
+'Inks and Substrates'. Flexographic presses typically use liquid inks that possess low viscosity and dry primarily by evaporation of the vehicle. Flexographic presses use either water inks (occasionally on non-absorbent substrates such as polyolefins and laminated surfaces and, in the past, on various types of paperboard) or solvent inks (for use on surfaces such as cellophane). Water-based flexographic inks, however, have a longer drying time on less absorbent substrates and a dry with a low degree of gloss. Water-based inks are undergoing further research and development due to the desire to decrease the dependence on solvent-based flexographic inks, which contribute to air pollution. Currently, however, water-based inks do not perform very well when printed on non-absorbent substrates. <a title="Ultraviolet Curing Ink" href="Ultraviolet_Curing_Ink">Ultraviolet curing ink</a>s are also extensively used in flexographic printing. (See also <a title="Ink: Printing Requirements: Flexography" class="nonexistent" href="http://printwiki.org/Ink:_Printing_Requirements:_Flexography">Ink: Printing Requirements: Flexography</a>.) 
+</p>
+<p id="l47">
+Paper and Paperboard. Flexographic printing is done on <a title="Kraft" href="Kraft">kraft</a> board, in particular corrugated board. White, bleached, and clay-coated linerboard are also often printed, the latter providing the best degrees of <a title="Ink Holdout" href="Ink_Holdout">ink holdout</a> and <a title="Ink Receptivity" href="Ink_Receptivity">ink receptivity</a>. Other types of paper- and paperboard-based flexo products include envelopes, folding cartons, milk cartons, coated paper-based gift wrapping, <a title="Groundwood" href="Groundwood">groundwood</a>-based mass market paperback books, multi-layer bags used to package pet foods, fertilizer, and gardening supplies, wax paper- and <a title="Glassine" href="Glassine">glassine</a> paper-based food packaging, and <a title="Vegetable Parchment" href="Vegetable_Parchment">vegetable parchment</a> used to line meat packaging. As with most other printing processes, the paper's <a title="Moisture Content" href="Moisture_Content">moisture content</a> can affect printability and runnability, in particular the drying characteristics of the ink. A moisture content greater than 5:7% can cause difficulties with flexo ink drying. 
+</p>
+<p id="l49">
+Non-Paper Substrates. <a title="Polyethylene" href="Polyethylene">Polyethylene</a> is the most commonly printed film substrate used, encompassing end uses from adhesive tape to "boil-in-bag" TV dinners. The typical film manufacturer will produce over 1,000 different products. Some films need to be "treated," which involves reorienting the surface electrons, a process that improves ink adhesion and <a title="Trapping" href="Trapping">trapping</a>. However, overtreating can cause <a title="Ink Setoff" href="Ink_Setoff">ink setoff</a> and <a title="Blocking" href="Blocking">blocking</a>. 
+</p>
+<p id="l51">
+<a title="Polyester" href="Polyester">Polyester</a> films tend to be stronger and have more desirable characteristics for flexographic printing and are increasing in popularity. Originally used in photography, microfilm, audio- and videotape, and leisure suits, polyesters are finding more and more applications in flexo-printed packaging. Its high degree of chemical stability, which makes it desirable as a packaging material, also makes it difficult to print on, however. Chemical treatment of the surface of polyester films can help alleviate this problem. One particular problem with polyester films (and indeed many types of plastics) is their reduction in tensile strength at high temperatures, such as those generated by friction during printing. This can make these materials more susceptible to expansion and/or shrinkage, causing registration and aesthetic problems. 
+</p>
+<p id="l53">
+In an average year, 350 million pounds of <a title="Polypropylene" href="Polypropylene">polypropylene</a> film is used for flexible packaging, 22% of which is for snack food wrappers alone. (This variety of polypropylene is called "oriented polypropylene".) Although it is widely used, its bare surface characteristics do not facilitate wetting by inks; frequently, it needs to be "activated" either by a corona, high-voltage discharge, or by exposure to a flame. (The latter treatment is not performed often.) Polypropylene films also lose much of their resistance to stretching beyond 140ºF, temperatures commonly encountered in printing and converting equipment. 
+</p>
+<p id="l55">
+A variety of <a title="vinyl film" class="nonexistent" href="http://printwiki.org/vinyl_film">vinyl film</a> used as a common flexo substrate is <a title="Polyvinyl Chloride" href="Polyvinyl_Chloride">polyvinyl chloride</a>, about 240 million pounds of it being used for packaging each year. Other types of vinyl film are specifically produced for particular applications. Vinyl films are widely used for their chemical and water resistance. Unlike many other types of plastic films, treatment of the surface to improve ink adhesion is rarely necessary. 
+</p>
+<p id="l57">
+Other films used as flexographic substrates include <a title="Polystyrene" href="Polystyrene">polystyrene</a>, <a title="Cellophane" href="Cellophane">cellophane</a>, metal-coated films, synthetic papers, latex papers, and a variety of other surfaces. As in any printing process, the compatibility of substrate with ink constituents is crucial; some substrates, such as polystyrene, can be easily damaged by some solvents used in flexo inks. 
+</p>
+<p id="l59">
+'Press Configurations'. There are three basic press configurations used in flexography (with many different variations, depending on the manufacturer). A <a title="Stack Press" href="Stack_Press">stack press</a> is used for multi-color printing, and each <a title="Color Station" href="Color_Station">color station</a> is, as its name indicates, stacked vertically, some configurations using two parallel stacks of printing units, sending the moving web in a U-shaped path. Stack presses include two to eight separate color stations (the most common stack presses possessing six stations), each with its own inking rollers, plate cylinder, and impression cylinder. The advantage of a stack press is the ease of reversing the web, allowing both sides of the substrate to be printed in essentially one pass. The accessibility and independence of each color station also make such a press easily adjustable to each specific application. The increased web tension produced on a stack press, however, sometimes precludes its use for very thin or highly extensible substrates, as stretching can cause misregister. 
+</p>
+<p id="l61">
+A second type of flexo press is a <a title="Central Impression Press" href="Central_Impression_Press">central impression press</a>, which uses a large-diameter <a title="Common Impression Cylinder" href="Common_Impression_Cylinder">common impression cylinder</a> to carry the web around to each color station. The advantage of such a press is the ease of maintaining proper registration. The use of larger impression cylinders (up to 83 inches in diameter) has, in the past, led to an increase in press speed, but as drying methods have improved there is no longer a strict correlation between larger impression cylinders and increased speed. Central impression presses are not overly useful for faciliating reverse printing, however. 
+</p>
+<p id="l63">
+An <a title="In-Line Press" href="In-Line_Press">in-line press</a> is a third type of multi-color press; separate color stations are mounted in a horizontal line from front to back. They can handle a wider variety of web widths than can stack presses, but as with stack presses it can be difficult to maintain accurate register on some substrates. The in-line press can also make use of <a title="Turning Bars" href="Turning_Bars">turning bars</a> to "flip" the web over, allowing easy reverse printing. 
+</p>
+<p id="l65">
+'Sheetfed Flexography'. Flexographic presses are rarely sheetfed, although most, if not all, corrugated board is printed in sheets rather than as continuous webs. The rigidity of the substrate enables it to be kept horizontal throughout its trip through the press. The sheets are essentially pushed into a set of feeder rollers which send them through the impression nip(s) and finally to the outfeed stack. Printing can be accomplished either by printing on the top of the sheet or on the bottom. 
+</p>
+<p id="l67">
+'Hybrid Flexographic Presses'. There are several varieties of "hybrid" printing processes that combine aspects of flexography with other methods. 
+</p>
+<p id="l69">
+Flexo Gravure. <a title="Flexo Gravure" href="Flexo_Gravure">Flexo Gravure</a> is a form of <a title="Offset Gravure" href="Offset_Gravure">offset gravure</a>. Offset gravure printing essentially replaces the flat offset plate with a longer-lasting <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>, transferring the image to a rubber blanket which, in turn, transfers the image to the substrate. In flexo gravure, offset gravure is performed on a flexographic press, with the gravure cylinder replacing the anilox roller. A rubber blanket (such as that used in offset lithography) is mounted on the flexo plate cylinder. The ink is transferred to the engraved cells of the gravure cylinder (which, unlike conventional gravure, need to be engraved so that the image is right-reading); the image is then offset onto the rubber blanket (where the image becomes wrong-reading), and is finally transferred onto the substrate. Flexo and offset gravure are utilized when the desire for the high-quality gravure image carrier and long life of the gravure cylinder are needed for substrates that are not easily printed by traditional gravure. The flexible rubber blanket ensures high-fidelity image transfer on a wide variety of surfaces. 
+</p>
+<p id="l71">
+Offset Flexo. <a title="Offset Flexo" href="Offset_Flexo">Offset flexo</a> is a hybrid of flexography and offset lithography in which the anilox roller transfers the ink to a flexo plate (which needs to have its image in positive-reading form) which then offsets the image to an offset blanket cylinder mounted between the plate and the impression cylinder. Cylindrical plastic containers need to be printed in this manner. In some presses, all the color stations are positioned around a single blanket cylinder, and a multi-colored image is registered on the blanket, a single multi-color image being transferred to the substrate in essentially one pass. 
+</p>
+<p id="l73">
+The main advantage of flexographic printing, as was mentioned earlier, is its ability to print on many different types of substrates. There are far too many flexo substrates used to provide a comprehensive list here; flexo presses print everything from breath-mint wrappers to plastic packages that hold king-size mattresses. In the past, different types of polymers (i.e., plastics) mixed together tended to yield poor substrates with low print characteristics, but new advances in chemistry and manufacturing are producing new blends of plastics—known as "plastic alloys"—which can impart different qualities to the final product, such as increased strength, chemical resistance, resistance to the penetration of oxygen or other gases, etc. As the substrates change, so must the ink; cooperative efforts between ink manufacturers and the manufacturers of substrates ensure that for each new substrate that can be printed a compatible ink will enable printers to utilize it effectively, efficiently, and economically. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

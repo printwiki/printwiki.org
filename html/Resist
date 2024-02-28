@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Resist - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Resist" class="currentChild" href="Resist">Resist</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper, emulsion, or other substance that can be rendered light sensitive, exposed to a film positive, and developed so that when the exposed emulsion is applied to the surface of a <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>, the unexposed image areas are soft and soluble, while the exposed, non-image areas become hard and insoluble. The resist, as its name indicates, resists penetration by an acidic etchant, used to engrave the cells into the image-carrying surface of the gravure cylinder, in varying degrees, according to the amount of UV exposure that portion of the resist received. The hardest portions of the resist offer the most resistance to penetration by the etchant, ensuring that engraving does not occur in the non-image areas. Highlight sections of the image also offer resistance to the etchant, and only very shallow etching occurs there. In shadows and solids, however, there is little resistance to the etchant, so cells can be engraved rather deeply. In mid-tone regions, moderate amounts of engraving occur. Resists, formerly <a title="Carbon Tissue" href="Carbon_Tissue">carbon tissue</a>, are now produced from <a title="Photopolymer" href="Photopolymer">photopolymer</a>s. See <a title="Gravure Engraving" href="Gravure_Engraving">Gravure Engraving</a>. Resists are also used in the exposure of <a title="Flexographic" href="Flexographic">flexographic</a> printing plates. See <a title="Plate: Flexography" class="nonexistent" href="http://printwiki.org/Plate:_Flexography">Plate: Flexography</a>. A resist is also known as an <a title="Acid Resist" href="Acid_Resist">acid resist</a> and an <a title="Etch Resist" href="Etch_Resist">etch resist</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

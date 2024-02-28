@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Forwarding Roller - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Forwarding Roller" class="currentChild" href="Forwarding_Roller">Forwarding Roller</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device on a sheetfed printing press that transfers paper from the <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">sheet-separation unit</a> to the <a title="Feedboard" href="Feedboard">feedboard</a>. The number of rollers (typically an even number) varies according to the width of the press and/or the size of the paper, but they should be evenly spaced across the width of the paper. Folding the sheet into even sections and placing the rollers on the outermost creases is a good rule of thumb for setting their position. The tension of the rollers should be compatible with the thickness of the paper; inserting a 0.004-inch thick strip of paper between the roller and the feed tape and lowering the roller until the strip can be pulled out with only a slight amount of drag is typical. Regardless of the tension, it is imperative that all rollers be set with identical amounts of tension, or the paper is likely to be fed through them at an angle. (See <a title="Feeding Section: Sheetfed Offset Lithography" class="nonexistent" href="http://printwiki.org/Feeding_Section:_Sheetfed_Offset_Lithography">Feeding Section: Sheetfed Offset Lithography</a> and <a title="Feedboard" href="Feedboard">Feedboard</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

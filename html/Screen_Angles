@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Screen Angles - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Screen Angles" class="currentChild" href="Screen_Angles">Screen Angles</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Process Color" href="Process_Color">process color</a> prepress and printing, the angle at which the rows of <a title="Halftone" href="Halftone">halftone</a> dots run in relation to the horizontal. In order to eliminate undesirable <a title="Moiré" href="Moiré">moiré</a> patterns when the four <a title="Color Separation" href="Color_Separation">color separation</a> halftones are overprinted in multi-color printing, each screen needs to be placed at a different angle, as the dots of one color interfere with those of another color, creating the distinct moiré patterns. Ideally, moiré is kept minimal when screens are 30º from each other. However, since there is only a total of 90º (at least for perfectly round dots) in which to rotate the screens, each screen can't be 30º from each other when printing four colors (30 x 4 = 120º). Experience, though, has resulted in a standard set of default screen angles which work very well in a wide variety of applications. The screen angle of the <a title="Yellow" href="Yellow">yellow</a> separation is 0º, or perfectly horizontal. The <a title="Magenta" href="Magenta">magenta</a> separation is 15º from the horizontal. The <a title="Black" href="Black">black</a> separation is 45º from the horizontal, and the <a title="Cyan" href="Cyan">cyan</a> separation is 75º from horizontal. Generally speaking, the further a separation is from either the horizontal or vertical axis, the less intrusive it tends to be. (Even in black-and-white halftone production, a perfectly horizontal screen angle results in more of a visual discernment of the individual dots than does a 45º angle.) Therefore, yellow, which is the lightest color, is best left along one of these axes, while black, the darkest color, is best kept as far from both as possible (or 45º, the midway point between vertical and horizontal). Depending on the application, these angles may be varied, but only by a color separator who knows what s/he is doing. 
+</p>
+<p id="l3">
+In the older photographic halftone screening, generating proper screen angles was a simple question of turning the screen to the desired angle before exposing the films. Digital halftoning creates another set of screen angle problems. Since each digital halftone dot is made up of smaller printer spots (collectively called a <a title="Halftone Cell" href="Halftone_Cell">halftone cell</a>), the computer output device (in particular, the device's ["raster image processor [RIP]"]) needs to calculate a screen angle at which to set a particular row of dots. But the screen angles available for output are dependent upon the device <a title="Resolution" href="Resolution">resolution</a>, and it may not be possible to produce a desired screen angle on a particular device. Unfortunately, moiré can appear with even the slightest deviation in screen angle (even as little as 0.01º). Hence, <a title="rational screen angles" class="nonexistent" href="http://printwiki.org/rational_screen_angles">rational screen angles</a> and <a title="irrational screen angles" class="nonexistent" href="http://printwiki.org/irrational_screen_angles">irrational screen angles</a> come into play. Screen angles are described in terms of their tangents, or the ratio of the opposite and adjacent sides. At some angles, such as 45º and 0º, that ratio is a rational number (a rational number being one that can be expressed evenly as the ratio of two integers) while for some other angles (such as 15º and 75º), that ratio is an irrational number (an irrational number is one that can'not' be expressed evenly, consisting of decimal places that continue on perhaps forever—like pi [π], which equals 3.14159.... or N, which equals .33333.... .). This becomes important in digital halftone output because at rational screen angles, each halftone cell can fit properly on the grid (or bit map) of the recording device; each halftone cell will intersect the grid at the corners of a printer spot, which will allow all the halftone cells to have the same size. At irrational screen angles, however, the cells do not fit properly on the recording grid, which results in variably shaped halftone cells and cells comprising different numbers of spots. This is problematic unless each halftone cell can be described individually, rather than en masse. Needless to say, this requires a very powerful computer. However, it has been done, and several vendors (in particular, Hell Graphics Systems, now Linotype-Hell) have invented and licensed special screening hardware that has the power to effectively handle irrational screen angles. 
+</p>
+<p id="l5">
+As desktop computers didn't have the power to deal with irrational screen angles in the same way as the high-power Linotype-Hell systems, halftones created on them possess cells that are all the same shape, but of different sizes. A consequence of this is that the cells don't always line up with the recorder grid at all screen angles, specifically the irrational ones. Adobe sought to solve this problem with <a title="RT Screening" class="nonexistent" href="http://printwiki.org/RT_Screening">RT Screening</a>, a screen algorithm devised by Linotype-Hell and licensed by Adobe in <a title="PostScript Level 1" href="PostScript_Level_1">PostScript Level 1</a>. Halftones created with this process attempted to eliminate moiré by rounding the irrational angle to the nearest rational angle. Consequently, all halftone cell shapes are identical, and fit properly on the recorder grid. However, this didn't solve the moiré problem. A partial solution came in 1989, when Adobe introduced the Adobe <em>recommended RT angles</em>, a revised set of screen angles and screen frequencies. The two rational screen angles—black and yellow at 45º and 0º respectively—remain, but the cyan screen angle was set at 71.5º and the magenta angle at 18.5º. The new frequencies also vary the number of lines per inch of a particular screen. For example, on a 133-line screen, the cyan and magenta screens are 128.514963 lpi, while the yellow screen has 135.466667 lpi, and the black screen has 143.684102 lpi. These new angle and frequency specifications were incorporated into later revisions of PostScript, and are built into <a title="PPD" class="nonexistent" href="http://printwiki.org/PPD">PPD</a>s. They reduce moiré patterns, but not entirely. 
+</p>
+<p id="l7">
+A new and strikingly successful solution to the irrational screen angle problem came in 1992, when several different vendors introduced the concept of <a title="Supercell" href="Supercell">supercell</a> screening. Adobe's <a title="Accurate Screens" href="Accurate_Screens">Accurate Screens</a>, Linotype-Hell's <a title="HQS" class="nonexistent" href="http://printwiki.org/HQS">HQS</a> screening, and Agfa's <a title="Balanced Screening" href="Balanced_Screening">Balanced Screening</a> all use large "clusters" of halftone cells (called "supercells") which, when the supercell is large enough, allows a much closer approximation of the optimal irrational angle than was available with RT Screening—74.9998º compared to 74.9º, for example, which is very close to 75º, and yet is still a rational number. Although some of the cells within the supercell still vary in shape, the supercell can begin with a printer spot exactly aligned to the recorder grid, which thus allows for the rotation of the supercell to any desired (rational) angle. The supercell just needs to be large enough. The drawback, of course, is that it requires a lot of computer memory and power to describe each cell within the supercell, and the effectiveness of supercell screening is dependent upon the amount of memory the system has available. But enhanced memory-management of <a title="RIP" class="nonexistent" href="http://printwiki.org/RIP">RIP</a>s utilizing <a title="PostScript Level 2" href="PostScript_Level_2">PostScript Level 2</a> and the development of <a title="RISC" class="nonexistent" href="http://printwiki.org/RISC">RISC</a>-based chips and Adobe's PixelBurst coprocessor speed this process considerably. 
+</p>
+<p id="l9">
+The three supercell screening methods mentioned above differ slightly in their approach (Balanced Screening still uses preset screen values to unburden the RIP), but they all produce superior desktop color separations which stand up favorably alongside output from high-end color systems. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

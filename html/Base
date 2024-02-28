@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Base - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Base" class="currentChild" href="Base">Base</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Screen Printing" href="Screen_Printing">screen printing</a>, a flat, solid surface on which the <a title="Substrate" href="Substrate">substrate</a> is placed for printing. 
+</p>
+<p id="l3">
+Also in screen printing, the term <em>base</em> refers to an <a title="extender pigment" class="nonexistent" href="http://printwiki.org/extender_pigment">extender pigment</a> or <a title="Transparent Pigment" href="Transparent_Pigment">transparent pigment</a>. 
+</p>
+<p id="l5">
+In printing ink manufacturing, <em>base</em> refers to an ink <a title="Vehicle" href="Vehicle">vehicle</a> containing a dispersion of only one <a title="Pigment" href="Pigment">pigment</a> in a high pigment-to-<a title="Binder" href="Binder">binder</a> ratio, which is the mixture of vehicle, pigment, and binder that undergoes mixing to produce a printing ink with the desired end-use characteristics and properties. 
+</p>
+<p id="l7">
+The term <em>base</em> also refers to an alkaline substance, a material having a <a title="pH" class="nonexistent" href="http://printwiki.org/pH">pH</a> greater than 7. See <a title="Alkali" href="Alkali">Alkali</a> and <a title="pH" class="nonexistent" href="http://printwiki.org/pH">pH</a>. 
+</p>
+<p id="l9">
+In mathematics, the term <em>base</em> refers to a reference value on which a numerical system is based. We are most familiar with a decimal—or "base 10"—system; most calculations in daily life are based on ten digits. In computing, the <a title="Binary" href="Binary">binary</a> system is referred to as "base 2," as a computer can only recognize two separate digits, 0 and 1. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

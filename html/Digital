@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Digital - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Digital" class="currentChild" href="Digital">Digital</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+State of information which exists as discrete units of (typically) numeric code, such as that which is the only type of information a computer can process. In computers, digital data is a <a title="Binary" href="Binary">binary</a> system, or some combination of 1s and 0s, the only two digits a computer can identify. The "opposite" of digital data is <a title="Analog Data" href="Analog_Data">analog data</a>, in which information exists as a continuous signal. See Digital and <a title="Analog" href="Analog">Analog</a>. Analog data can be converted to digital data, and vice versa, by means of an <a title="Analog-to-Digital Converter" href="Analog-to-Digital_Converter">analog-to-digital converter</a> and a <a title="digital to analog converter" class="nonexistent" href="http://printwiki.org/digital_to_analog_converter">digital to analog converter</a>, respectively. A somewhat common example of digital data is DNA itself, or the genetic material comprising all life on Earth. In that case, the digital data is a quaternary system, or made up of four "digits," A, C, T, G—or adenine, cytosine, thymine, and guanine—which are the four bases which comprise the basis of the DNA molecule. Combinations of these four digits are what make up all life, at least on Earth. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

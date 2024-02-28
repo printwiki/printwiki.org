@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Smoothness - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Smoothness" class="currentChild" href="Smoothness">Smoothness</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Measure of the evenness or lack of contour of a paper's surface. In terms of basic printability, a surface as free as possible of irregularities is desirable, but smoothness is also a function of the interrelationship of other paper properties, and varies with assorted manufacturing processes. Smoothness tends to be characterized by a <a title="Wild Formation" href="Wild_Formation">wild formation</a>, which is dependent on the degree of fiber <a title="Refining" href="Refining">refining</a>, the extent of wet pressing, the extent of <a title="Calendering" href="Calendering">calendering</a> and <a title="Supercalendering" href="Supercalendering">supercalendering</a>, the use of <a title="coatings" class="nonexistent" href="http://printwiki.org/coatings">coatings</a>, and the desired paper <a title="Finish" href="Finish">finish</a>. (See <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) Also known as <a title="Levelness" href="Levelness">levelness</a>. 
+</p>
+<p id="l3">
+A measure of paper smoothness is made using an <a title="Air Leak Tester" href="Air_Leak_Tester">air leak tester</a>, which determines the time it takes for a volume of air to seep between a smooth glass plate and the paper sample. Smoothness can also be measured using a <a title="Bekk Smoothness Tester" href="Bekk_Smoothness_Tester">Bekk Smoothness Tester</a> or a <a title="Gurley Smoothness Tester" href="Gurley_Smoothness_Tester">Gurley Smoothness Tester</a>. More rapid measurements can be made with a <a title="Sheffield Smoothness Gauge" href="Sheffield_Smoothness_Gauge">Sheffield Smoothness Gauge</a> or a <a title="Bendtsen Smoothness Tester" href="Bendtsen_Smoothness_Tester">Bendtsen Smoothness Tester</a>. All these devices utilize rates of air flow over a paper surface as an indicator of smoothness (although they all do it in different ways). 
+</p>
+<p id="l5">
+The term <em>smoothness</em> is also used to refer to the surface characteristics of an offset press <a title="Blanket" href="Blanket">blanket</a>. See <a title="Blanket" href="Blanket">Blanket</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Hyphenation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Hyphenation" class="currentChild" href="Hyphenation">Hyphenation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the breaking of a word into syllables and inserting hyphens, manually or automatically, so that word spaces remain consistent—within prescribed limits—for proper justification. 
+</p>
+<p id="l3">
+There are several basic rules for hyphenation: 
+</p>
+<p id="l5">
+1. There must be at least two characters on both sides of the hyphen. 
+</p>
+<p id="l7">
+2. Numerals should not be hyphenated except, in an emergency, at a comma point. 
+</p>
+<p id="l9">
+3. It is not good practice to hyphenate in a headline. 
+</p>
+<p id="l11">
+4. A one-syllable word should never be hyphenated, though some systems will certainly try. 
+</p>
+<p id="l13">
+5. A word should be divided on a double consonant, unless the word root ends with a double consonant (e.g., miss-ing, not mis-sing). 
+</p>
+<p id="l15">
+6. More than three hyphens should not be used in a row. Too many hyphens in a row (or too many hyphens in a text block) is referred to as <a title="Pig Bristles" href="Pig_Bristles">pig bristles</a>. 
+</p>
+<p id="l17">
+An incorrect word division is called a <a title="Bad Break" href="Bad_Break">bad break</a>. For maximum legibility, hyphenation should be used as little as possible. 
+</p>
+<p id="l19">
+A <a title="Discretionary Hyphen" href="Discretionary_Hyphen">discretionary hyphen</a> is inserted in a word during input to give the system a specific point to hyphenate, and that point will take precedence over any logic-generated point. Often, a DH at the beginning of a word tells the system not to hyphenate the word at all. 
+</p>
+<p id="l21">
+<a title="Logic Hyphenation" href="Logic_Hyphenation">Logic hyphenation</a> refers to a system where the computer is programmed with certain logical rules for hyphenating words at the ends of lines. However, no program is infallible. Hence, the need for an "exception dictionary," a collection of the program's incorrectly hyphenated words held in the computer's memory. With luck, the system will search the exception dictionary before consulting the logic program. 
+</p>
+<p id="l23">
+Hyphenation is often considered together with <a title="Justification" href="Justification">justification</a>, forming a joint concept called <a title="Hyphenation and Justification" href="Hyphenation_and_Justification">hyphenation and justification</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Expanded - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.cssprintwiki.org.s3.amazonaws.com//common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Expanded" class="currentChild" href="Expanded">Expanded</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, descriptive of the relative wideness of all the characters in one <a title="Typeface" href="Typeface">typeface</a>. Expanded type is used in heads, subheads, and small blocks of ad copy. 
+</p>
+<p id="l3">
+There are four basic gradations of expansion beyond the "normal" typeface: semiexpanded, expanded, extraexpanded, and ultraexpanded. <em>Extended</em> and <em>wide</em> are often used synonymously with one or more of these degrees of expansion. Some typefaces, such as Century Expanded, expand the characters in the <a title="x-Height" href="x-Height">x-height</a> direction, rather than in width. 
+</p>
+<p id="l5">
+Digitized typesetters can modify character set widths electronically to create wider characters. Expansion can also be accomplished optically. 
+</p>
+<p id="l7">
+If a digitized typesetter is used to reduce set size, then all values are changed, including the fixed spaces. This would have to be the case, since the figure space width (which is often the <a title="En Space" href="En_Space">en space</a>) would have to increase the width of the figures. When using expanded type, it is important to ensure that the word space standards are also expanded, otherwise words will tend to run together. Expanded type should also not be used with narrow line lengths, as it looks awkward. Expanded type also has reduced legibility, so its use should be sparing. 
+</p>
+<p id="l9">
+See also <a title="Condensed" href="Condensed">Condensed</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

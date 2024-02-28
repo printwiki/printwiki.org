@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Ink Setoff - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Ink Setoff" class="currentChild" href="Ink_Setoff">Ink Setoff</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Printing defect characterized by the transfer of wet ink to the reverse side of the sheet lying on top of it in the press delivery tray. Ink setoff can be prevented by ensuring that the combination of ink and paper are compatible enough to promote rapid ink vehicle penetration. When sheetfed offset lithographic inks dry, their <a title="Vehicle" href="Vehicle">vehicle</a> is absorbed into the paper in seconds, which leaves the pigment compact and immobile on the paper surface and free to completely dry at its leisure. Basis weight is also a factor in preventing ink setoff. When paper is sent to the delivery tray, it sits on a cushion of air on top of the previous sheet, not directly against its surface. Eventually, the air leaks out from between the sheets, and the paper pile is compacted. The time it takes for the air cushion to leak away is usually sufficient for a substantial amount of ink drying. Using heavier weight paper, however, diminishes that air cushion faster. Setoff is also increased by static electricity, which causes paper to cling together in the delivery tray. Additives such as an <a title="Anti-Setoff Compound" href="Anti-Setoff_Compound">anti-setoff compound</a> or a post-printing <a title="Anti-Setoff Spray" href="Anti-Setoff_Spray">anti-setoff spray</a> can also be employed to reduce setoff. 
+</p>
+<p id="l3">
+The sticking together of paper sheets due to ink setoff is called <a title="Blocking" href="Blocking">blocking</a>. Separation of blocked sheets can result in severe damage to one or both of them. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

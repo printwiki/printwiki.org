@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Web Break - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Web Break" class="currentChild" href="Web_Break">Web Break</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The breaking of a paper web when it is on-press, which can occur at any point from start to finish, and which is caused by many factors. A web break can either be paper related (caused by a web that unwinds into the machine with uneven tension due to varying thickness across the width of the roll, a poorly made splice which caused the portion of the roll beyond the splice to feed into the machine differently than the portion before the splice, or by various cuts, tears, and holes in the web, such as <a title="Edge Tear" href="Edge_Tear">edge tear</a>s, <a title="Slime Spot" href="Slime_Spot">slime spot</a>s, <a title="Hair Cut" href="Hair_Cut">hair cut</a>s, etc.) or press related (for example, a drying oven that is too high can make the paper brittle, etc.). If a web break occurs at the same spot each time, it's likely that the press is the culprit, not the paper. The cause of web breaks may not even be able to be determined. For example, in a Swedish study of 250,000 newsprint rolls, it was found that web defects accounted for 9.1% of web breaks, roll defects accounted for 18.1%, transportation mishandling accounted for 4.6%, the press accounted for 31.7%, and the causes of the remaining 36.5% of web breaks could not determined. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

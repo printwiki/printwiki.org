@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Integrated Services Digital Network - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Integrated Services Digital Network" class="currentChild" href="Integrated_Services_Digital_Network">Integrated Services Digital Network</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A worldwide digital telecommunications network that, as of this writing, is becoming prevalent not only in high-speed network access, but also for high-speed <a title="Internet" href="Internet">Internet</a> access. Many <a title="Internet service provider" class="nonexistent" href="http://printwiki.org/Internet_service_provider">Internet service provider</a>s are now offering ISDN connections to their customers. 
+</p>
+<p id="l3">
+The advantage of ISDN—in contrast to telecommunications using voice-grade telephone lines, or even other connections used in networks—is much faster speed and its ability handle greater volumes of data. At the moment, there are two types of ISDN connections possible: <a title="Basic Rate Interface" class="nonexistent" href="http://printwiki.org/Basic_Rate_Interface">Basic Rate Interface</a>, comprising two <a title="B channel" class="nonexistent" href="http://printwiki.org/B_channel">B channel</a>s each with a capacity of 64 kilobits per second, and one <a title="D-channel" class="nonexistent" href="http://printwiki.org/D-channel">D-channel</a>, with a capacity of 16 kilobits per second (the two B channels can be used simultaneously); and <a title="Primary Rate Interface" href="Primary_Rate_Interface">Primary Rate Interface</a>, which comprises 23 B channels and one D channel, each channel having the same capacity as those used for the BRI. In Europe, however, PRI comprises 30 B channels and one D channel. A "broadband ISDN" (or <a title="B-ISDN" class="nonexistent" href="http://printwiki.org/B-ISDN">B-ISDN</a>), an ISDN standard slated to support transmission speeds of up to 135 megabits per second, is currently in development. It will allow the transmission of multimedia applications, as well as facilitate video conferencing, high-resolution television, and other such high-capacity data. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

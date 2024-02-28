@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Caliper - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Caliper" class="currentChild" href="Caliper">Caliper</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The thickness of a single sheet of paper, measured in thousandths of an inch or in <a title="Point" href="Point">point</a>s, where one point equals one thousandth of an inch. In the metric system, caliper is measured in millimeters or micrometers. Caliper is measured using a <a title="Micrometer" href="Micrometer">micrometer</a>, a device which measures minute thicknesses such as paper by applying a static load for a set period of time. As paper is compressible, careful measurements are required, frequently at different points on the paper. 
+</p>
+<p id="l3">
+Consistency of caliper throughout the paper <a title="Web" href="Web">web</a> is an important consideration. An abrupt increase or decrease in caliper can affect the extent to which the printing plate or blanket contacts the paper and transfers a complete printed image, as well as other <a title="Printability" href="Printability">printability</a> and <a title="Runnability" href="Runnability">runnability</a> issues. Variations in caliper within a single paper roll cause problems in feeding web offset presses and can cause <a title="Web Break" href="Web_Break">web break</a>s. 
+</p>
+<p id="l5">
+The thickness of a paper itself varies according to the <a title="Basis Weight" href="Basis_Weight">basis weight</a> desired and other end-use considerations. Caliper can be reduced at a variety of stages in the papermaking process, such as by reducing the amount of <a title="Furnish" href="Furnish">furnish</a> deposited on the <a title="Forming Wire" href="Forming_Wire">forming wire</a>, and by increasing the degree of <a title="Wet Pressing" href="Wet_Pressing">wet pressing</a>, <a title="Calendering" href="Calendering">calendering</a>, and <a title="Supercalendering" href="Supercalendering">supercalendering</a>. Caliper is related to other paper properties, and an increase or decrease in thickness affects other properties, sometimes to their detriment. (See <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) 
+</p>
+<p id="l7">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, a <em>caliper</em> is a device used to measure thicknesses. A caliper is often attached to a <a title="Folding" href="Folding">folding</a> device and detects when more than one sheet is being fed through the machine. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

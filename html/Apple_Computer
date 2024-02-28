@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Apple Computer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Apple Computer" class="currentChild" href="Apple_Computer">Apple Computer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Apple Computer, Inc. was founded in 1976 and introduced the The Apple II microcomputer in 1977. Headquartered in Cupertino, California, Apple develops, sells, and supports a series of personal computers, computer software, and accessories. 
+</p>
+<p id="l3">
+In 1983, Apple introduced the Lisa, the first commercial personal computer to employ a <a title="Graphical User Interface" href="Graphical_User_Interface">graphical user interface</a> (GUI). 
+</p>
+<p id="l5">
+In 1984, the <a title="Macintosh" href="Macintosh">Macintosh</a> was introduced and introduced the mouse for the first time to a personal computer. 
+</p>
+<p id="l7">
+In 1985 Apple introduced the <a title="LaserWriter" class="nonexistent" href="http://printwiki.org/LaserWriter">LaserWriter</a>, the first <a title="Laser Printer" href="Laser_Printer">laser printer</a> to be offered at a reasonable price, and <a title="PageMaker" href="PageMaker">PageMaker</a>, an early <a title="Desktop Publishing" href="Desktop_Publishing">desktop publishing</a> (DTP) application. The Mac was popular in the DTP market due to its advanced graphics capabilities, a side-effect of the GUI. It can be speculated that the combination of these three products are responsible for the creation of the DTP market. 
+</p>
+<p id="l9">
+In 1991, Apple introduced the PowerBook line of portable computers. 
+</p>
+<p id="l11">
+In 2001, Apple introduced the <a title="Mac OS X" href="Mac_OS_X">Mac OS X</a> operating system based on NeXT's OPENSTEP and BSD Unix with a completely overhauled user interface. 
+</p>
+<span id="head-4d57eab2982917a09762907ac77e408c3ca66fc9"><h2 id="l13">External Links</h2></span>
+<p id="l14">
+<a class="external" href="http://apple.com"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">Apple Homepage</a> <br/><a class="external" href="http://www.apple-history.com/"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">Apple History</a> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

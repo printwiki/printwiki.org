@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Desktop Color Separation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Desktop Color Separation" class="currentChild" href="Desktop_Color_Separation">Desktop Color Separation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A standard data file created as a means of producing <a title="Color Separation" href="Color_Separation">color separation</a>s in desktop publishing systems. DCS essentially creates five separate files: one is a <a title="Low-Resolution" href="Low-Resolution">low-resolution</a> composite file in which the full color image is viewable (as a <a title="PICT" href="PICT">PICT</a> file), and the other four consist only of separate color data (in <a title="EPS" href="EPS">EPS</a> format) for each of the <a title="Process Color" href="Process_Color">process color</a>s—<a title="Cyan" href="Cyan">cyan</a>, <a title="Magenta" href="Magenta">magenta</a>, <a title="Yellow" href="Yellow">yellow</a>, and <a title="Black" href="Black">black</a>. Hence, any particular DCS image is often called a <a title="Five-File EPS" href="Five-File_EPS">five-file EPS</a> file. An RGB <a title="TIFF" class="nonexistent" href="http://printwiki.org/TIFF">TIFF</a> image can be converted to CMYK using any DCS-compatible program, such as Photoshop. This can be done before importing the image into the page makeup program, the low-res viewfile being used on the screen display. Disadvantages of DCS, however, include the increased disk space occupied by the five files, and the fact that if DCS separations are made early in the production process, any changes which will effect the halftone <a title="Screen Ruling" href="Screen_Ruling">screen ruling</a> (such as changing the paper on which page will be printed) will require new separations to be made. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

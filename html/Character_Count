@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Character Count - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Character Count" class="currentChild" href="Character_Count">Character Count</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Copyfitting" href="Copyfitting">copyfitting</a>, an estimate of the total number of characters—letters, numbers, symbols, and word spaces—in a manuscript or other copy to be set in type as a means of gauging the final length of the typeset material. A character count can be accomplished by actually counting all the characters individually, which is fine for small pieces of copy but not for a Stephen King novel, for example. For longer copy, an estimate can be made, so long as the original manuscript is typewritten. This estimate will also be fairly accurate for copy printed out from a word processor. To begin, determine an average line length and draw a vertical line down the page. Count all the characters in one full line from the left margin to this line, then multiply by the result by the number of lines on the page. This will provide—roughly—the number of characters per page. On typewritten copy, it may be a bit simpler. Most older typewriters commonly have only two sizes of character: <a title="Pica" href="Pica">pica</a> (which prints 10 characters per inch) and <a title="Elite" href="Elite">elite</a> (which prints 12 characters per inch). Measure the distance from the left margin to the vertical line to get the length of the average line. Multiply either by 10 or 12 (depending on the typewriter used) to get the total number of characters per line. Then multiply that by the number of lines to get the characters per page. 
+</p>
+<p id="l3">
+After the characters per page has been obtained, multiply this number by the total number of pages in the copy to be typeset, making allowances if there are any blanks, full-page illustrations, etc. This will then yield a number somewhere near the total number of characters in the copy. 
+</p>
+<p id="l5">
+Depending on the nature of the material, it may need to be more or less accurate, so characters extending beyond the vertical line may need to be accounted for. 
+</p>
+<p id="l7">
+Many modern word processing programs can do automatic character counts, eliminating the need for having to do it manually. 
+</p>
+<p id="l9">
+In the process of copyfitting, the <a title="Alphabet Length" href="Alphabet_Length">alphabet length</a>, or <a title="Characters Per Pica" href="Characters_Per_Pica">characters per pica</a> count of a particular typeface can be used to determine just how many typeset lines the copy will occupy. (See <a title="Copyfitting" href="Copyfitting">Copyfitting</a>.) A character count is also known as a <a title="Castoff" href="Castoff">castoff</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

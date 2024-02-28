@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help on Tables - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help on Tables" class="currentChild" href="Help_on_Tables">Help on Tables</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-384fea3df85d22cc417586b763569e1cca54208f"><h3 id="l1">Table Markup</h3></span>
+<p id="l2">
+To create a table, start and end a line using the table marker "<tt>||</tt>". Between those start and end markers, you can create any number of cells by separating them with "<tt>||</tt>". To get a centered cell that spans several columns, you start that cell with more than one cell marker. Adjacent lines of the same indent level containing table markup are combined into one table. 
+</p>
+<p id="l4">
+For more information on the possible markup, see <a title="Help/Help on Editing" href="Help_on_Editing">Help On Editing</a>. 
+</p>
+<span id="head-24d35ee89da615a101d10579f277a6589dd77df9"><h4 id="l6">Table Attributes</h4></span>
+<p id="l8">
+Apart from the option to repeat cell markers to get columns spanning several other columns, you can directly set many HTML table attributes. Any attributes have to be placed between angle brackets <tt>&lt;...&gt;</tt> directly after the cell marker. 
+</p>
+<p id="l10">
+The wiki-like markup has the following options: <br/>
+</p>
+
+    <ul>
+
+    <li>
+<p id="l11">
+ <tt>&lt;50%&gt;</tt>: cell width <br/>
+</p>
+</li>
+    <li>
+<p id="l12">
+ <tt>&lt;-2&gt;</tt>: colspan <br/>
+</p>
+</li>
+    <li>
+<p id="l13">
+ <tt>&lt;|2&gt;</tt>: rowspan <br/>
+</p>
+</li>
+    <li>
+<p id="l14">
+ <tt>&lt;(&gt;</tt>: left aligned <br/>
+</p>
+</li>
+    <li>
+<p id="l15">
+ <tt>&lt;:&gt;</tt>: centered <br/>
+</p>
+</li>
+    <li>
+<p id="l16">
+ <tt>&lt;)&gt;</tt>: right aligned <br/>
+</p>
+</li>
+    <li>
+<p id="l17">
+ <tt>&lt;^&gt;</tt>: aligned to top <br/>
+</p>
+</li>
+    <li>
+<p id="l18">
+ <tt>&lt;v&gt;</tt>: aligned to bottom <br/>
+</p>
+</li>
+    <li>
+<p id="l19">
+ <tt>&lt;#XXXXXX&gt;</tt>: background color 
+</p>
+</li>
+
+    </ul>
+
+
+<p id="l21">
+If you use several conflicting options like <tt>&lt;(:)&gt;</tt>, the last option wins. There is no explicit option for vertical centering (<em>middle</em>), since that is always the default. 
+</p>
+<p id="l23">
+In addition to these, you can add some of the traditional, more long-winded HTML attributes (note that only certain HTML attributes are allowed). By specifying attributes this way, it is also possible to set properties of the table rows and of the table itself, especially you can set the table width using <tt>||&lt;tablewidth="100%"&gt;...||</tt> in the very first row of your table, and the color of a full row by <tt>||&lt;rowbgcolor="#FFFFE0"&gt;...||</tt> in the first cell of a row. As you can see, you have to prefix the name of the HTML attribute with <tt>table</tt> or <tt>row</tt>. 
+</p>
+<span id="head-0f01ed56a1e32a05e5ef96e4d779f34784af9a96"><h4 id="l25">Example</h4></span>
+<p id="l26">
+<pre>
+ General table layout and HTML like options::
+ ||||||&lt;tablewidth="80%"&gt;'''Heading'''||
+ ||cell 1||cell2||cell 3||
+ ||&lt;rowspan=2&gt; spanning rows||||&lt;bgcolor='#E0E0FF'&gt; spanning 2 columns||
+ ||&lt;rowbgcolor="#FFFFE0"&gt;cell2||cell 3||
+ Cell width::
+ || narrow ||&lt;:99%&gt; wide ||
+ Spanning rows and columns::
+ ||&lt;|2&gt; 2 rows || row 1 ||
+ || row 2 ||
+ ||&lt;-2&gt; row 3 over 2 columns ||
+ Alignment::
+ ||&lt;(&gt; left ||&lt;^|3&gt; top ||&lt;v|3&gt; bottom ||
+ ||&lt;:&gt; centered ||
+ ||&lt;)&gt; right ||
+ Colors::
+ ||&lt;#FF8080&gt; red ||&lt;#80FF80&gt; green ||&lt;#8080FF&gt; blue ||
+</pre>
+</p>
+<span id="head-574ff9b0c49cdeb5f5508548ae0cab44fecee038"><h4 id="l46">Display</h4></span>
+
+    <ul>
+
+    <dt> General table layout and HTML like options</dt><dd>
+<p id="l47">
+
+<div class="wikitable">
+<table width="80%">
+ <tr id="l48">
+<td colspan="3" align="center">
+<strong>Heading</strong></td>
+</tr>
+ <tr id="l49">
+<td>
+cell 1</td>
+<td>
+cell2</td>
+<td>
+cell 3</td>
+</tr>
+ <tr id="l50">
+<td rowspan="2">
+ spanning rows</td>
+<td bgcolor='#E0E0FF' align="center" colspan="2">
+ spanning 2 columns</td>
+</tr>
+ <tr bgcolor="#FFFFE0" id="l51">
+<td>
+cell2</td>
+<td>
+cell 3</td>
+</tr>
+</table>
+</div>
+
+</p>
+</dd>
+    <dt> Cell width</dt><dd>
+<p id="l52">
+
+<div class="wikitable">
+<table>
+ <tr id="l53">
+<td>
+ narrow </td>
+<td width="99%" align="center">
+ wide </td>
+</tr>
+</table>
+</div>
+
+</p>
+</dd>
+    <dt> Spanning rows and columns</dt><dd>
+<p id="l54">
+
+<div class="wikitable">
+<table>
+ <tr id="l55">
+<td colspan="1" align="center" rowspan="2">
+ 2 rows </td>
+<td>
+ row 1 </td>
+</tr>
+ <tr id="l56">
+<td>
+ row 2 </td>
+</tr>
+ <tr id="l57">
+<td colspan="2">
+ row 3 over 2 columns </td>
+</tr>
+</table>
+</div>
+
+</p>
+</dd>
+    <dt> Alignment</dt><dd>
+<p id="l58">
+
+<div class="wikitable">
+<table>
+ <tr id="l59">
+<td align="left">
+ left </td>
+<td colspan="1" align="center" rowspan="3" valign="top">
+ top </td>
+<td colspan="1" align="center" rowspan="3" valign="bottom">
+ bottom </td>
+</tr>
+ <tr id="l60">
+<td align="center">
+ centered </td>
+</tr>
+ <tr id="l61">
+<td align="right">
+ right </td>
+</tr>
+</table>
+</div>
+
+</p>
+</dd>
+    <dt> Colors</dt><dd>
+<p id="l62">
+
+<div class="wikitable">
+<table>
+ <tr id="l63">
+<td bgcolor="#FF8080">
+ red </td>
+<td bgcolor="#80FF80">
+ green </td>
+<td bgcolor="#8080FF">
+ blue </td>
+</tr>
+
+</p>
+</table>
+</div>
+</dd>
+</ul>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

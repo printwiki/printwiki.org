@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Clay - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Clay" class="currentChild" href="Clay">Clay</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An inorganic, fine-grained material commonly used in paper <a title="fillers" class="nonexistent" href="http://printwiki.org/fillers">fillers</a> or <a title="coatings" class="nonexistent" href="http://printwiki.org/coatings">coatings</a>. The addition of clay or other fillers to paper pulp is called <a title="Loading" href="Loading">loading</a>. 
+</p>
+<p id="l3">
+The clay used in papermaking is usually refined from white kaolin clay, which in turn is mined from kaolinite. Kaolinite is a product of the decomposition of feldspar, which occurs when feldspar comes in contact with the atmosphere. 
+</p>
+<p id="l5">
+The addition of clay to paper pulp is done to increase one or more of a paper's properties, in particular such optical and structural properties as <a title="Opacity" href="Opacity">opacity</a>, <a title="Brightness" href="Brightness">brightness</a>, <a title="Smoothness" href="Smoothness">smoothness</a>, and ink receptivity. The brightness imparted to paper as a result of the addition of clay is not as high as that imparted by other fillers such as <a title="Titanium Dioxide" href="Titanium_Dioxide">titanium dioxide</a> and <a title="Calcium Carbonate" href="Calcium_Carbonate">calcium carbonate</a>. Clay is, however, the most abundant and least expensive of the three. 
+</p>
+<p id="l7">
+The addition of fillers such as clay, however, can negatively affect other paper properties, such as strength, bulk, and stress resistance. (See also <a title="Fillers" class="nonexistent" href="http://printwiki.org/Fillers">Fillers</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

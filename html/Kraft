@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Kraft - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Kraft" class="currentChild" href="Kraft">Kraft</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The most prevalent method of <a title="Chemical Pulping" href="Chemical_Pulping">chemical pulping</a> used in papermaking (or a term for the pulp itself). 
+</p>
+<p id="l3">
+The kraft process derived from the <a title="Soda Process" href="Soda_Process">soda process</a>, developed in the mid-nineteenth century that dissolved wood chips using a strong base (alkaline solution) such as lye. In 1879, <a title="Sodium Sulfate" href="Sodium_Sulfate">sodium sulfate</a> was added to the process, and a stronger pulp was produced. As a result, the process became known as the <a title="Sulfate Process" href="Sulfate_Process">sulfate process</a>, and kraft pulping is still known by that name, even though the active ingredient has since been found to be <a title="Sodium Sulfide" href="Sodium_Sulfide">sodium sulfide</a>. "Kraft" is a more accurate term since it is the German and Swedish word for "strength." The kraft process soon supplanted other chemical processes (such as the <a title="Sulfite Process" href="Sulfite_Process">sulfite process</a>) by virtue of its ability to effectively digest the wood of nearly every species of tree, its efficient heat- and chemical-recovery system which helps keep down processing costs, and the strong, high-quality pulp it produces. The addition of <a title="Bleaching" href="Bleaching">bleaching</a> systems to increase the brightness and decrease the lignin content of the pulp also helped make the kraft process the most popular pulping process. 
+</p>
+<p id="l5">
+The term "kraft" is also used to refer to paper or paperboard made using unbleached pulp produced by the kraft process. Unbleached kraft pulp is generally dark brown in color and strong. Papers produced from unbleached kraft pulp include brown wrapping paper, paper bags, envelopes, etc. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

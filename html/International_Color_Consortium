@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>International Color Consortium - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="International Color Consortium" class="currentChild" href="International_Color_Consortium">International Color Consortium</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<div id="stub"><p><strong>This entry is a <a href="Stub">stub</a>, a starting point for writing a full entry. You can help PrintWiki by expanding it! Just click the "Edit" button.</strong></p></div> 
+</p>
+<p id="l4">
+The  International Color Consortium (ICC) is a consortium of vendors and individuals for the purpose of creating, promoting and encouraging the standardization and evolution of an open, vendor-neutral, cross-platform color management system architecture and components. Founded in 1993 during a meeting in Palo Alto, CA. Original members were from eight industry vendors: <a title="Adobe Systems" href="Adobe_Systems">Adobe Systems</a> , <a title="Agfa" class="nonexistent" href="http://printwiki.org/Agfa">Agfa</a>, <a title="Apple" class="nonexistent" href="http://printwiki.org/Apple">Apple</a>, <a title="Kodak" class="nonexistent" href="http://printwiki.org/Kodak">Kodak</a>, <a title="Taligent" class="nonexistent" href="http://printwiki.org/Taligent">Taligent</a>, <a title="Microsoft" class="nonexistent" href="http://printwiki.org/Microsoft">Microsoft</a>, <a title="Sun Microsystems" class="nonexistent" href="http://printwiki.org/Sun_Microsystems">Sun Microsystems</a>, and <a title="Silicon Graphics" class="nonexistent" href="http://printwiki.org/Silicon_Graphics">Silicon Graphics</a>. 
+</p>
+<span id="head-56c7b3dc556befac3081a6d43792e46995a52e53"><h3 id="l7">ICC Specification</h3></span>
+<p id="l9">
+The intent of the International Color Consortium profile format is to provide a cross-platform device profile format. Device profiles can be used to translate color data created on one device into another device's native color space. 
+</p>
+<span id="head-cfc6cffc5e0bd8dceabe9ea7c1cd88776d6842cc"><h3 id="l12">ISO Standard</h3></span>
+<p id="l14">
+In December 2005 the ICC Specification became an ISO standard: ISO 15076-1:2005 (Image technology colour management — Architecture, profile format and data structure — Part 1:Based on ICC.1:2004-10). The ISO standardization was the result of cooperation between the ICC  and <a title="ISO TC 130" href="ISO_TC_130">Technical Committee 130 (Graphic Technology)</a> of ISO. 
+</p>
+<span id="head-4d57eab2982917a09762907ac77e408c3ca66fc9"><h4 id="l17">External Links</h4></span>
+<p id="l18">
+<a class="external" href="http://color.org"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">International Color Consortium</a> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Ray Tracing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Ray Tracing" class="currentChild" href="Ray_Tracing">Ray Tracing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A technique to generate an image from a geometric model of an object. For each pixel in an image, a theoretical ray is cast from the viewer's eyepoint into the model, to determine what part of the model should be displayed at that point in the resulting image. Some graphics workstations use ray tracing technology to render surface data. 
+</p>
+<p id="l3">
+A highly realistic method of 3-D computer-graphics rendering that traces the path of a ray of light from the camera POV to every element in the scene; it can accurately render shadows, reflections, and translucent substances. 
+</p>
+<p id="l5">
+A 3D rendering technique that traces the rays of light in a virtual 3D scene to define shadows, reflections and translucent images from a specific point of view. 
+</p>
+<p id="l7">
+Ray tracing is used to calculate the brightness, transparency level and reflectivity of each object in an image that will be shown on the computer screen. These attributes are calculated by tracing single rays of light backward to see the way the rays were affected as they traveled from the source of light illuminating the object to the object and thence to the viewer's eye. The attributes of the object are then used to calculate the attributes of each pixel in relation to the viewer, to other objects in the image and to the light source of the image. It is demanding in terms of processing capability because the computer must account not only for the reflection or absorption of individual rays but also for the intensity of each ray with respect to the brightness of the object, the position of each pixel and the positions of the viewer and the light source. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

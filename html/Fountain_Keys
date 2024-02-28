@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Fountain Keys - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Fountain Keys" class="currentChild" href="Fountain_Keys">Fountain Keys</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A series of screws found in the <a title="Ink Fountain" href="Ink_Fountain">ink fountain</a> on a printing press used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>. The fountain keys, which can either be hand-turned or motor-driven, adjust the gap that exists between the <a title="Fountain Blade" href="Fountain_Blade">fountain blade</a> and the <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a>. The width of this gap determines how much ink is allowed to pass from the fountain to the rest of the inking system. The fountain keys are lined up in a series across the width of the ink fountain, and can be adjusted one by one, depending on which portions of the plate require more or less ink. A plate that needs additional ink in its center requires that the fountain keys in the center of the fountain be loosened, for example. Resetting fountain keys should be done carefully, and typically moving from the center to the edges, to avoid mechanical warping or other distortion of the fountain blade. (See <a title="Inking System: Offset Lithography" class="nonexistent" href="http://printwiki.org/Inking_System:_Offset_Lithography">Inking System: Offset Lithography</a> and <a title="Offset Lithography" href="Offset_Lithography">Offset Lithography</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

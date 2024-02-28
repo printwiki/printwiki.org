@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Book Typography - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Book Typography" class="currentChild" href="Book_Typography">Book Typography</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The setting and arrangement of the various parts of a book. Book production has a long history, and many of the customs and traditions are highly standardized. The order of the portions of a book are generally as follows, although not all parts need to be present in a single book: 
+</p>
+<p id="l3">
+<strong>Front matter</strong>: all the material that precedes the main text of the book, which includes in order: 
+</p>
+<p id="l5">
+<a title="Half-Title" href="Half-Title">Half-title</a> (the book title alone on a page); <a title="Fact Title" href="Fact_Title">fact title</a> or <a title="Ad Card" href="Ad_Card">ad card</a> (the list of books by the same author, commonly facing the title page); <a title="Title Page" href="Title_Page">title page</a> (always a <a title="Recto" href="Recto">recto</a> page, listing title, author, and publisher); <a title="copyright page" class="nonexistent" href="http://printwiki.org/copyright_page">copyright page</a> (commonly on the reverse of the title page, listing copyright and CIP data); <a title="Dedication" href="Dedication">dedication</a> (may be on the copyright page or, more commonly, on a new recto page); <a title="Preface" href="Preface">preface</a>, <a title="prologue" class="nonexistent" href="http://printwiki.org/prologue">prologue</a>, or <a title="Foreword" href="Foreword">foreword</a> (always begins a new recto page); <a title="acknowledgements" class="nonexistent" href="http://printwiki.org/acknowledgements">acknowledgements</a> (commonly on a new recto or can be included with the back matter); <a title="Table of Contents" href="Table_of_Contents">table of contents</a> (always begins a new recto); lists of illustrations, figures, maps, charts, tables, etc. (commonly begins new recto); and <a title="Introduction" href="Introduction">introduction</a> (always begins new recto). Front matter is commonly paginated using lowercase <a title="Roman Numerals" href="Roman_Numerals">Roman numerals</a>. 
+</p>
+<p id="l7">
+Following the front matter is the main text of the book, which always begins on a new recto, and with Arabic pagination beginning at page one. 
+</p>
+<p id="l9">
+<strong>Back Matter</strong>: all the material that follows the main text of the book, including: 
+</p>
+<p id="l11">
+An <a title="Afterword" href="Afterword">afterword</a>, <a title="epilogue" class="nonexistent" href="http://printwiki.org/epilogue">epilogue</a>, <a title="Appendix" href="Appendix">appendix</a> (or appendices); notes, quotations, <a title="Bibliography" href="Bibliography">bibliography</a>, <a title="Glossary" href="Glossary">glossary</a>, <a title="Index" href="Index">index</a>, and about the author. Some books also include a <a title="Colophon" href="Colophon">colophon</a>, providing production details about the book, the typeface used, etc. 
+</p>
+<p id="l13">
+In the typesetting and assembly of books, the following terms are used commonly: 
+</p>
+<p id="l15">
+<a title="Verso" href="Verso">Verso</a>: the left-hand page of a two-page spread. 
+</p>
+<p id="l17">
+<a title="Recto" href="Recto">Recto</a>: the right-hand page of a two-page spread. 
+</p>
+<p id="l19">
+<a title="Folio" href="Folio">Folio</a>: the page number. 
+</p>
+<p id="l21">
+<a title="Running Head" href="Running_Head">Running head</a> or <a title="Running Foot" href="Running_Foot">running foot</a>: the book title, author, chapter name, or other identifying line of text appearing at the top or bottom, respectively, of each page. 
+</p>
+<p id="l23">
+<a title="Line Short/Long" href="Line_Short/Long">Line short/long</a>: an allowance for setting certain pages shorter or longer, respectively, than the standard page depth to eliminate <a title="Widow" href="Widow">widow</a>s, excessively short pages, or to provide room for illustration matter. 
+</p>
+<p id="l25">
+<a title="Widow" href="Widow">Widow</a>: the last line of a paragraph when it is less than one-third the width of the line, commonly used to refer to the carry-over of a hyphenated word. 
+</p>
+<p id="l27">
+<a title="Orphan" href="Orphan">Orphan</a>: a widow carried to the top of the next page. 
+</p>
+<p id="l29">
+In the printing of book pages, a sheet of paper printed as one page is known as a <a title="Broadside" href="Broadside">broadside</a>. Folding it once to produce four pages makes it a folio. Folding it again to produce eight pages makes it a <a title="Quarto" href="Quarto">quarto</a>. Folding it again to produce sixteen pages makes it an <a title="Octavo" href="Octavo">octavo</a>. Folding it yet again to produce thirty-two pages makes it a <a title="Sixteenmo" href="Sixteenmo">sixteenmo</a>. Folding it yet again to produce sixty-four pages makes it a <a title="Thirty-twomo" href="Thirty-twomo">thirty-twomo</a>. 
+</p>
+<p id="l31">
+See also <a title="Book Publishing: Production" class="nonexistent" href="http://printwiki.org/Book_Publishing:_Production">Book Publishing: Production</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

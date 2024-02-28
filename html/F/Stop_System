@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>F/Stop System - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="F/Stop System" class="currentChild" href="Stop_System">F/Stop System</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In photography, a set of values used for setting camera lens <a title="Aperture" href="../Aperture">aperture</a>s. Essentially, a specific f/stop (also called an <a title="F/Number" href="Number">f/number</a>) is the ratio of the <a title="Focal Length" href="../Focal_Length">focal length</a> of the lens to the diameter of the aperture. Thus, a camera (such as a <a title="procerss camera" class="nonexistent" href="http://printwiki.org/procerss_camera">procerss camera</a>) with an 8-inch focal length and a 1-inch aperture diameter would have an f/number of f/8 (8 ÷ 1 = 8). Reducing the aperture to H inch would yield an f/number of f/16 (8 ÷ 1/2 = 16). Although in theory any f/number can be produced, lens manufacturers and photographers recognize a given set of f/stops: f/1.4, f/2, f/2.8, f/4, f/5.6, f/8, f/11, f/16, f/22, f/32, and f/64. The greater the f/number, the smaller the diameter of the aperture. Each f/stop also differs by a factor of 2 in the amount of light that is allowed to pass into the camera. Using f/stops, it is possible to gauge the <a title="Exposure Time" href="../Exposure_Time">exposure time</a> required, and adjusting the lens aperture and f/stop can yield shorter (or longer) equivalent exposure times. (See <a title="Photography: Basic Photographic Principles" class="nonexistent" href="http://printwiki.org/Photography:_Basic_Photographic_Principles">Photography: Basic Photographic Principles</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

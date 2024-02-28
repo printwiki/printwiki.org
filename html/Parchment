@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Parchment - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Parchment" class="currentChild" href="Parchment">Parchment</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A material, made from the split skin of sheep, used as a writing surface before the invention of paper. To prepare parchment, the skin is split, washed, rubbed with lime (which imparts a paperlike feel to the surface), and scraped with a knife to eliminate pits and bumps in the surface. The skin is stretched on a wooden frame, and the scraping continues until the entire skin acquires a uniform thickness. The flesh side of the skin provides a better writing surface than the hair side, and the difference in texture between the two sides can be felt on some old books. Later developments, such as the use of chalk and pumice, eliminated much of this "two-sidedness" of parchment. 
+</p>
+<p id="l3">
+The word "parchment" itself derives from the name Pergamum, a city and library in Asia Minor. Although parchment was originally developed in the East perhaps as early as 1500 B.C., its widespread use began in the city of Pergamum during the reign of Eumenes II (197-159 B.C.). Pergamum's rulers, especially Eumenes II, were devotees of the Greek world, and looked with envy upon the cultural and intellectual achievements of the Ptolemaic kings in Egypt (in particular, the library at Alexandria), and founded the Pergamene Library in 196 B.C., quickly attracting the finest Greek scholars. In a short time, the library at Pergamum was said to have rivaled that at Alexandria. Hoping to cease the growth of Pergamum, King Ptolemy VI of Egypt forbade the export of <a title="Papyrus" href="Papyrus">papyrus</a> (a paper-like material made by hammering together the stalks of the papyrus plant) from Egypt, which was at that time the most widespread writing material. In response to this, Eumenes II supported the use of the treated skins of sheep as a writing material and soon this material (eventually called "parchment") supplanted papyrus as the chief medium of communication and literature. Its use flourished in Rome, and continued to some extent after papermaking had developed, but its use in the printing of books did not continue to any large degree beyond A.D. 1500. (British and American patent documents were printed on parchment until the nineteenth century.) As for the Pergamene Library, in 46 B.C. (distrustful of his sons, King Attalus III had bequeathed the city to Rome in 133 B.C.) Mark Antony gave it as a gift to Cleopatra to replace the portion of the Alexandrian library which had been burned during an uprising against Julius Caesar in 48 B.C. By then, it was said the collection included 200,000 volumes. It is thanks to this collection that much ancient Greek prose has survived. (See also <a title="Vellum" href="Vellum">vellum</a> and <a title="Imitation Parchment" href="Imitation_Parchment">imitation parchment</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

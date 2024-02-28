@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Forming Section - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Forming Section" class="currentChild" href="Forming_Section">Forming Section</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Part of a papermaking machine where a water suspension of paper <a title="Pulp" href="Pulp">pulp</a> fibers is formed into a <a title="Web" href="Web">web</a> of paper. The fiber solution flows from the <a title="Headbox" href="Headbox">headbox</a> at the <a title="Wet End" href="Wet_End">wet end</a> of the machine, where the mixture is agitated to prevent premature fiber clotting, and delivered onto the continuous wire mesh belt of the forming section through the <a title="Slice" href="Slice">slice</a>. Suction cup-shaped <a title="Foils" href="Foils">foils</a>, rotating <a title="table rolls" class="nonexistent" href="http://printwiki.org/table_rolls">table rolls</a>, or oscillation of the <a title="Forming Wire" href="Forming_Wire">forming wire</a> (called <a title="Shake" href="Shake">shake</a>) drain water from the fibers. In a traditional <a title="Fourdrinier" href="Fourdrinier">fourdrinier</a> machine, the forming section utilizes a single wire belt. The side of the paper that forms against the wire—called the <a title="Wire Side" href="Wire_Side">wire side</a>—has a different structure and texture than the top side of the paper—called the <a title="Felt Side" href="Felt_Side">felt side</a>. This <a title="Two-Sidedness" href="Two-Sidedness">two-sidedness</a> of paper has deleterious consequences in many printing processes. Recent innovations such as <a title="twin-wire formers" class="nonexistent" href="http://printwiki.org/twin-wire_formers">twin-wire formers</a> sandwich the fibrous solution between two wire belts, producing paper that has two virtually identical wire sides. 
+</p>
+<p id="l3">
+The forming section of the paper machine also contains a <a title="Dandy Roll" href="Dandy_Roll">dandy roll</a>, a wire-covered cylinder that may be used to stamp a <a title="Watermark" href="Watermark">watermark</a> or the markings of <a title="Laid Finish" href="Laid_Finish">laid finish</a> paper in the forming paper web. The forming section ends with a <a title="Couch Roll" href="Couch_Roll">couch roll</a>, a perforated cylinder employing a vacuum to suck additional water from the paper web before it is sent to the <a title="Press Section" href="Press_Section">press section</a> of the papermaking machine. At the end of the forming section, the paper web is about 80:85% water. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

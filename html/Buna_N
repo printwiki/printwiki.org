@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Buna N - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Buna N" class="currentChild" href="Buna_N">Buna N</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A widely-used type of synthetic rubber produced by the <a title="Polymerization" href="Polymerization">polymerization</a> of butadiene with acrylonitrile, invented in the mid-1930s in Germany and available in the United States just prior to the outbreak of World War II. Different grades of Buna N contain differing amounts of acrylonitrile (the amount can vary from 15:40%), greater amounts of acrylonitrile imparting greater resistance to oils. Buna N rubber is resistant to <a title="Aliphatic Hydrocarbon" href="Aliphatic_Hydrocarbon">aliphatic hydrocarbon</a>s, alcohols, water, and other substances, but not to <a title="aromatic hydrocarbon" class="nonexistent" href="http://printwiki.org/aromatic_hydrocarbon">aromatic hydrocarbon</a>s or <a title="Ester" href="Ester">ester</a>s. Buna N (and other synthetic rubbers such as <a title="Neoprene" href="Neoprene">neoprene</a>) have more stable properties than natural rubbers. Buna N is widely used in the manufacture of printing press rollers, such as those for inking, dampening, and impression, as well as <a title="Blanket" href="Blanket">blanket</a>s used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> and plates used in <a title="Flexography" href="Flexography">flexography</a>. Buna N is also known as Perbunan and NBR. <em>Buna S</em>, a synthetic rubber developed at the same time as Buna N, is produced by polymerizing butadiene with styrene and is widely used for tires and other such uses. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

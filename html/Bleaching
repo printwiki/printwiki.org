@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Bleaching - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Bleaching" class="currentChild" href="Bleaching">Bleaching</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of the final stages in the paper <a title="Pulping" href="Pulping">pulping</a> process, especially those employing chemical means to separate fibers of <a title="Cellulose" href="Cellulose">cellulose</a> from non-fibrous materials present in wood. The presence of impurities (such as <a title="Lignin" href="Lignin">lignin</a>) in pulped wood chips gives unbleached pulp a dark brown color. (For example, paper grocery bags use this unbleached pulp.) To increase the <a title="Whiteness" href="Whiteness">whiteness</a> of pulp and to dissolve residual lignin and other impurities, pulps undergo treatment with bleaching chemicals in several stages, typically five (called "multistage bleaching"). Pulps produced in the <a title="Sulfite Process" href="Sulfite_Process">sulfite process</a> and early <a title="Soda Process" href="Soda_Process">soda process</a> used <a title="calcium hypochlorite" class="nonexistent" href="http://printwiki.org/calcium_hypochlorite">calcium hypochlorite</a>, a chemical similar to household bleach, as a bleaching agent in a one-stage bleaching process. This method, however, is unable to bleach pulps produced using the now-prevalent <a title="Kraft" href="Kraft">kraft</a>, or <a title="Sulfate Process" href="Sulfate_Process">sulfate process</a>. Multistage bleaching of kraft pulps has two primary phases: lignin-removal and enhancing whiteness. In the first stage of the bleaching process, the pulp is exposed to chlorine gas, which allows the lignin and its related impurities to dissolve easily in a caustic water solution. Several passes through the system ensure that as much lignin as possible is removed. The second stage involves alkaline extraction to remove the byproducts of the previous chlorination phase. Following the lignin-removal phase is the bleaching phase. In the third stage of the process the pulp is treated with calcium (or sodium) hypochlorite to remove coloration from additional impurities in the pulp, and bring out the white color of the cellulose fibers themselves. The fourth stage uses a second alkaline extraction process to remove detritus from the third stage. The fifth and final stage exposes the pulp to <a title="Chlorine Dioxide" href="Chlorine_Dioxide">chlorine dioxide</a>, which removes the last of the lignin. 
+</p>
+<p id="l3">
+Mechanical pulps are bleached somewhat, but not to any great extent. A side-effect of the bleaching process (related to lignin and <a title="Hemicellulose" href="Hemicellulose">hemicellulose</a> removal) is a decrease in pulp yield. The main advantage of mechanical pulping is high pulp yield, so excessive bleaching would counteract this advantage. 
+</p>
+<p id="l5">
+The whiteness of pulp is measured using brightness test methods provided by the <a title="Technical Association of the Pulp and Paper Industry" href="Technical_Association_of_the_Pulp_and_Paper_Industry">Technical Association of the Pulp and Paper Industry</a> and the <a title="International Standards Organization" href="International_Standards_Organization">International Standards Organization</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

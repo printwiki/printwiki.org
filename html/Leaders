@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Leaders - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Leaders" class="currentChild" href="Leaders">Leaders</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, dots (called <a title="Dot Leaders" href="Dot_Leaders">dot leaders</a>) or dashes (called <a title="Dash Leaders" href="Dash_Leaders">dash leaders</a>) that lead the eye from one side of a line to the other. Hairline rules or dashes under type can sometimes replace leaders. In hot metal, leaders were unique characters, with one leader dot centered on an <a title="En" href="En">en</a> width or two leader dots set on an <a title="Em" href="Em">em</a> width. Dots come in varying weights, ranging from fine, light dots to heavy, bold ones. The linecaster provided various styles of leaders to meet different publishing and printing requirements. They varied primarily in weight of dot or stroke, in dots or strokes to the em, and—in hot metal—in depth of punching: 
+</p>
+<p id="l3">
+'Regular leaders', in dot or hyphen style, in two, four, or six dots (or strokes) to the em. 
+</p>
+<p id="l5">
+<em>Universal leaders</em> had a uniform weight of dot or stroke. 
+</p>
+<p id="l7">
+'Thin leaders<em> were used with either the regular or universal style (four dots or strokes to the em) for close <a title="Justification" href="Justification">justification</a>. 
+</p>
+<p id="l9">
+</em>Newspaper leaders<em> were the regular dot or hyphen leader, supplied in two dots or strokes to the em. 
+</p>
+<p id="l11">
+</em>Radial leaders<em> were designed for newspaper use with a uniform weight of dot for all point sizes. They were made with a rounded or radial printing surface to prevent perforating paper and damaging press blankets. 
+</p>
+<p id="l13">
+'Dash leaders</em> are en- or em-width hairline dashes (0.004 in weight) punched to cast type high and present a continuous, unbroken line. 
+</p>
+<p id="l15">
+<em>Leader-aligning dashes</em> cast a continuous, unbroken line. 
+</p>
+<p id="l17">
+Today, however, the period is used most often as the leader dot. However, it often doesn't work to the best advantage. Better-looking leaders are often found in lower point sizes, rather than setting the leader dots in the same point size as the text. Leaders need to be aligned vertically as well as horizontally, which is typically accomplished automatically by the typesetting device. A common problem with the use of leaders is related to the mathematics of dividing their width into the line length. For example, a 9-point leader would divide into a 20-pica line 26.66 times (20 x 12 = 240 points; 240 ÷ 9 = 26.66 ). The resulting blank space needs to be placed somewhere, and the device may not place it in the most opportune location. The best way of setting leaders is to select the narrowest possible width that will achieve the desired look, the en being the most popular. Then, key a word space at the beginning or end of the line as a place for the excess space to go. Finally, reduce to a smaller point size. This process allows more leader dots or strokes to fit on a line and will provide for the extraneous space. 
+</p>
+<p id="l19">
+For tables of contents, it is occasionally best not to use leaders at all, but to instead simply place the page number (after an en or em space) immediately after the story or chapter title. 
+</p>
+<p id="l21">
+The term <em>leader</em> also refers to the length of a <a title="Magnetic Tape" href="Magnetic_Tape">magnetic tape</a>, on which no data is recorded, used to wind the tape around the reel. 
+</p>
+<p id="l23">
+The term <em>leader</em>, in motion picture photography and videography, also refers to the opening images of a film or video, usually including the opening titles. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

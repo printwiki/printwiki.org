@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Adobe Distiller - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Adobe Distiller" class="currentChild" href="Adobe_Distiller">Adobe Distiller</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Adobe Acrobat Distiller is a software utility that converts <a title="PostScript" href="PostScript">PostScript</a> page description language files into <a title="Portable_Document_Format" class="nonexistent" href="Portable_Document_Format.1">Adobe Portable Document Format (PDF)</a> documents. It is included within Adobe's Acrobat Professional package. 
+</p>
+<p id="l3">
+All Adobe Creative Suite software applications support native export of PDF directly without the need for Adobe Acrobat Distiller, as can an expanding variety of competitive design applications, including <a title="QuarkXPress" href="QuarkXPress">QuarkXPress</a>. Installing Adobe Acrobat Professional provides the functionality to produce PDFs from any software application using the Adobe PDF virtual print driver. 
+</p>
+<p id="l5">
+Historically, Acrobat Distiller was the only way of producing high-quality Adobe PDFs for prepress from graphics software: first you would 'print' the pages to a PostScript file using a PostScript printer driver, the resulting postscript file would then be processed with Adobe Acrobat Distiller to convert them to PDF. Many publishers and design studios still feel this is the best way to ensure that 'clean' PDFs are created, especially when using non-Adobe design software applications. 
+</p>
+<p id="l7">
+<strong>Workflow automation</strong> 
+</p>
+<p id="l9">
+Acrobat Distiller offers a hot-folders feature that automatically generates PDFs according to specific settings when PostScript files are dropped in marked folders. As a result, Acrobat Distiller forms an important component of certain automated prepress workflows, and it's likely that Adobe does not wish to break these by failing to include the utility with each new release of Acrobat. 
+</p>
+<p id="l11">
+In version 8 of Acrobat Professional, Acrobat Distiller is launched from the <em>Advanced &gt; Print Production</em> menu, or it can be launched as a standalone utility from its own program icon. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

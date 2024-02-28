@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Cutting and Trimming - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Cutting and Trimming" class="currentChild" href="Cutting_and_Trimming">Cutting and Trimming</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In printing and finishing operations, the acts required to reduce sheets of paper (either blank or printed) to a desired size. <a title="Web" href="Web">Web</a>s of blank stock are often cut into sheets prior to shipping to a printer. (See <a title="Sheeting" href="Sheeting">Sheeting</a>.) Paper sheets need to be trimmed prior to printing to ensure that edges are perfectly square and straight, so as to avoid press jams and other mechanical press problems. 
+</p>
+<p id="l3">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a> operations, cutting and trimming are performed to reduce large-size press sheets to the desired <a title="Trim Size" href="Trim_Size">trim size</a>, to separate pages which have been ganged up on a single sheet, and to remove extraneous edges containing <a title="registration marks" class="nonexistent" href="http://printwiki.org/registration_marks">registration marks</a>, etc. Cutting is often differentiated from trimming in that cutting refers to the separation of pages that have been printed together, while trimming refers to the process of removing paper from around the edges of a sheet. 
+</p>
+<p id="l5">
+Most cutting and trimming is performed on a <a title="Guillotine Cutter" href="Guillotine_Cutter">guillotine cutter</a>, a large device consisting of a flat <a title="Bed" href="Bed">bed</a> on which the paper is stacked, and a wide, sharp steel or steel-carbide <a title="Knife" href="Knife">knife</a>, which is lowered through the paper either manually or, increasingly, mechanically. Guillotine cutters also make use of a <a title="Cutting Stick" href="Cutting_Stick">cutting stick</a>, a piece of wood or other material imbedded within the bed of the cutter directly beneath the knife. The cutting stick provides a firm yet somewhat resilient surface for the knife to press against, enabling not only a clean cut but also preventing blade wear and damage. Side and back gauges on the cutter bed also help position the paper accurately and squarely, allowing for the ability to trim to a very accurate size. A cutter clamp holds the paper securely beneath the knife, and also expels air from the stack of sheets, eliminating distortion of sheets which can result in improper cutting. Older cutters required manual movement of gauges back and forth whenever a change in trim size or position was needed. Now, new dimensions can easily be programmed onto the device via a keyboard, which positions the gauges automatically. Cutting and trimming are also performed by the use of <a title="Cropmarks" href="Cropmarks">cropmarks</a>, lines in the trim area of the sheets which indicate the proper size of the finished stack. 
+</p>
+<p id="l7">
+The cutting of different weights of paper has different considerations. When cutting lighter-weight papers, it often happens that the knife as it cuts through the stack pulls sheets from beneath the clamp, resulting in upper sheets which are cut shorter than lower layers, a situation known as <a title="Overcut" href="Overcut">overcut</a>. In contrast, harder stocks, such as cardboard, result in an <a title="Undercut" href="Undercut">undercut</a>, or a small cut in an undesirable area, caused by insufficient clamp pressure. 
+</p>
+<p id="l9">
+Guillotine cutters also have a wide variety of accessory devices and are increasingly under computer control. See <a title="Guillotine Cutter" href="Guillotine_Cutter">Guillotine Cutter</a>. In bookbinding, trimming is often performed using a <a title="Three-Knife Trimmer" href="Three-Knife_Trimmer">three-knife trimmer</a>, which allows for the trimming of all three unbound sides of a book or <a title="Book Block" href="Book_Block">book block</a> simultaneously. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

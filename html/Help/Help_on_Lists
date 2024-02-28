@@ -1,0 +1,383 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help on Lists - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help on Lists" class="currentChild" href="Help_on_Lists">Help on Lists</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-30785a0c9ad9bba3252057b701c9e97343973b2d"><h3 id="l1">Lists and Indenting</h3></span>
+<p id="l2">
+Create bulleted and numbered lists is easy and intuitive. All you do is inserting the line containing the list item. To get bulleted items, start the item with <strong>space and an asterisk</strong> "<tt>&nbsp;*</tt>"; to get numbered items, start it with a <strong>space and a number template</strong> "<tt>&nbsp;1.</tt>", "<tt>&nbsp;a.</tt>", "<tt>&nbsp;A.</tt>", "<tt>&nbsp;i.</tt>" or "<tt>&nbsp;I.</tt>". Anything else will just indent the line. To start a numbered list with a certain initial value, append "<tt>#</tt><em>value</em>" to the number template. 
+</p>
+<p id="l4">
+To nest lists of different levels, you use different depths of indenting. All items on the same indent level belong to the same (sub-)list. That also means that you cannot change the style of a list after you started it. 
+</p>
+<p id="l6">
+Definition lists can be created by items of the form <tt>&lt;whitespace&gt;term::&nbsp;definition</tt>; note that the <em>term</em> cannot currently contain any wiki markup. 
+</p>
+<p id="l8">
+For more information on the possible markup, see <a title="Help/Help on Editing" href="Help_on_Editing">Help on Editing</a>. 
+</p>
+<span id="head-0f01ed56a1e32a05e5ef96e4d779f34784af9a96"><h4 id="l10">Example</h4></span>
+<p id="l11">
+<pre>
+If you indent text
+  like this, then it is indented in the output
+    you can have multiple levels of indent
+
+And if you put asterisks at the start of the line
+  * you get a
+  * bulleted
+  * list
+    * which can also be indented
+      * to several levels
+
+A numbered list, mixed with bullets:
+  1. one
+  1. two
+    1. one
+      * bullet 1
+      * bullet 2
+    1. two
+  1. three
+    * bullet
+      1. one
+
+Variations of numbered lists:
+  * Lowercase roman
+    i. one
+    i. two
+  * Uppercase roman (with start offset 42)
+    I.#42 forty-two
+    I. forty-three
+  * Lowercase alpha
+    a. one
+    a. two
+  * Uppercase alpha
+    A. one
+    A. two
+
+ term:: definition
+ another term:: and its definition
+</pre>
+</p>
+<span id="head-574ff9b0c49cdeb5f5508548ae0cab44fecee038"><h4 id="l52">Display</h4></span>
+<p id="l53">
+If you indent text <br/>
+</p>
+
+        <ul>
+
+<p id="l54">
+  like this, then it is indented in the output <br/>
+</p>
+
+                <ul>
+
+<p id="l55">
+    you can have multiple levels of indent 
+</p>
+
+                </ul>
+
+
+
+        </ul>
+
+
+<p id="l57">
+And if you put asterisks at the start of the line <br/>
+</p>
+
+        <ul>
+
+        <li>
+<p id="l58">
+ you get a <br/>
+</p>
+</li>
+        <li>
+<p id="l59">
+ bulleted <br/>
+</p>
+</li>
+        <li>
+<p id="l60">
+ list <br/>
+</p>
+</li>
+
+                <ul>
+
+                <li>
+<p id="l61">
+ which can also be indented <br/>
+</p>
+</li>
+
+                        <ul>
+
+                        <li>
+<p id="l62">
+ to several levels 
+</p>
+</li>
+
+                        </ul>
+
+
+
+                </ul>
+
+
+
+        </ul>
+
+
+<p id="l64">
+A numbered list, mixed with bullets: <br/>
+</p>
+
+        <ol type="1">
+
+        <li>
+<p id="l65">
+one <br/>
+</p>
+</li>
+        <li>
+<p id="l66">
+two <br/>
+</p>
+</li>
+
+                    <ol type="1">
+
+                    <li>
+<p id="l67">
+one <br/>
+</p>
+</li>
+
+                                <ul>
+
+                                <li>
+<p id="l68">
+ bullet 1 <br/>
+</p>
+</li>
+                                <li>
+<p id="l69">
+ bullet 2 <br/>
+</p>
+</li>
+
+                                </ul>
+
+
+                    <li>
+<p id="l70">
+two <br/>
+</p>
+</li>
+
+                    </ol>
+
+
+        <li>
+<p id="l71">
+three <br/>
+</p>
+</li>
+
+                    <ul>
+
+                    <li>
+<p id="l72">
+ bullet <br/>
+</p>
+</li>
+
+                                <ol type="1">
+
+                                <li>
+<p id="l73">
+one 
+</p>
+</li>
+
+                                </ol>
+
+
+
+                    </ul>
+
+
+
+        </ol>
+
+
+<p id="l75">
+Variations of numbered lists: <br/>
+</p>
+
+        <ul>
+
+        <li>
+<p id="l76">
+ Lowercase roman <br/>
+</p>
+</li>
+
+                <ol type="i">
+
+                <li>
+<p id="l77">
+one <br/>
+</p>
+</li>
+                <li>
+<p id="l78">
+two <br/>
+</p>
+</li>
+
+                </ol>
+
+
+        <li>
+<p id="l79">
+ Uppercase roman (with start offset 42) <br/>
+</p>
+</li>
+
+                <ol type="I" start="42">
+
+                <li>
+<p id="l80">
+forty-two <br/>
+</p>
+</li>
+                <li>
+<p id="l81">
+forty-three <br/>
+</p>
+</li>
+
+                </ol>
+
+
+        <li>
+<p id="l82">
+ Lowercase alpha <br/>
+</p>
+</li>
+
+                <ol type="a">
+
+                <li>
+<p id="l83">
+one <br/>
+</p>
+</li>
+                <li>
+<p id="l84">
+two <br/>
+</p>
+</li>
+
+                </ol>
+
+
+        <li>
+<p id="l85">
+ Uppercase alpha <br/>
+</p>
+</li>
+
+                <ol type="A">
+
+                <li>
+<p id="l86">
+one <br/>
+</p>
+</li>
+                <li>
+<p id="l87">
+two 
+</p>
+</li>
+
+                </ol>
+
+
+
+        </ul>
+
+
+
+    <dl id="l89">
+
+    <dt> term</dt><dd>
+<p id="l89">
+definition <br/>
+</p>
+</dd>
+    <dt> another term</dt><dd>
+<p id="l90">
+and its definition 
+</p>
+</dd>
+
+    </dl>
+
+<p id="l92">
+It's not possible to have a bullet inside of a table unless you type the code <tt>&amp;#149;</tt> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

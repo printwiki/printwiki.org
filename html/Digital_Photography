@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Digital Photography - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Digital Photography" class="currentChild" href="Digital_Photography">Digital Photography</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The process of digitizing—or converting to <a title="Digital" href="Digital">digital</a> form—a photographic image at the same time as it is taken, typically by means of a <a title="Digital Camera" href="Digital_Camera">digital camera</a>. An advantage of digital photography is the elimination of the need for the intermediate step of scanning; digitally-photographed images can be imported directly into a processing or page makeup program. Also, the photographs taken can be "instant," or in other words viewed almost immediately after they were taken, saving time if reshooting is necessary. Images taken with a digital camera are often displayed on a small <a title="LCD" class="nonexistent" href="http://printwiki.org/LCD">LCD</a> monitor attached to the camera, or by means of a <a title="PCMCIA" class="nonexistent" href="http://printwiki.org/PCMCIA">PCMCIA</a> (or <a title="flash memory" class="nonexistent" href="http://printwiki.org/flash_memory">flash memory</a>) card added to a laptop computer. Images obtained digitally can be stored on any computer medium (such as <a title="magnetic disk" class="nonexistent" href="http://printwiki.org/magnetic_disk">magnetic disk</a>s, <a title="optical disc" class="nonexistent" href="http://printwiki.org/optical_disc">optical disc</a>s, <a title="Magneto-Optical Disc" href="Magneto-Optical_Disc">magneto-optical disc</a>s, <a title="CD-ROM" class="nonexistent" href="http://printwiki.org/CD-ROM">CD-ROM</a>s, etc.). Kodak's <a title="Photo CD" href="Photo_CD">Photo CD</a> format also allows for the archiving of digital images. 
+</p>
+<p id="l3">
+'CCD vs. Film'. There are several aspects to consider when deciding to use a digital camera as compared to a conventional film-based camera. A digital camera, like a <a title="Scanner" href="Scanner">scanner</a>, captures images by means of a <a title="Charge-Coupled Device" href="Charge-Coupled_Device">charge-coupled device</a>, or a "light sensor," many of which are assembled into an array, which can either be a <a title="Linear Array" href="Linear_Array">linear array</a> (all the CCDs located in a single row) or an <a title="Area Array" href="Area_Array">area array</a> (the CCDs arranged in a rectangular block). With a linear array, an image is captured one row of <a title="Pixel" href="Pixel">pixel</a>s at a time, whereas an area array captures an entire scene. However, the latter may require up to three separate exposures to capture all color information. There is also a <a title="Trilinear Array" href="Trilinear_Array">trilinear array</a>, which contains three linear arrays mounted side by side, each array coated with a colored dye to as to act as a color filter, enabling red, green, and blue color information to be captured simultaneously. However, since each color array is offset slightly from the others, the software driving the camera must accurately adjust the separate color images so that all color channels align perfectly upon output. However, since these types of arrays take some time to image all color information, no movement with a scene is possible. 
+</p>
+<p id="l5">
+Certain variations of the area array have been devised. Some use filter wheels, which require three speate exposures. Some, however, use mirrors or prisms to split incoming light into three separate beams, each going to a separate CCD, which can capture all three color channels simultaneously. However, with this technique, the low light intensity resulting from splitting the incoming light can result in poor imaging of scenes that are lit less than optimally. Other configurations split a single beam of light among a single CCD, which although it allows for rapid capture of separate color channels, can result in less-than-optimal color depth. 
+</p>
+<p id="l7">
+'Resolution'. The number of "image details" captured per linear inch is referred to technically as the <a title="Sampling Rate" href="Sampling_Rate">sampling rate</a>, but is often popularly referred to as the device's <a title="Resolution" href="Resolution">resolution</a>. Each individual portion of an image is known as a pixel, and the greater the number of pixels per inch (and the smaller the pixels), the sharper the image. In many cases, as with scanners, software <a title="Interpolation" href="Interpolation">interpolation</a> can "artificially" increase the number of pixels in an image. It does this by analyzing the pixels that have been captured optically and inserting additional "pre-fab" pixels between them, essentially guessing at what their color should be. Interpolation has widely variable results, as one could imagine. 
+</p>
+<p id="l9">
+'Color Depth'. The <a title="Color Depth" href="Color_Depth">color depth</a> (or <a title="Bit Depth" href="Bit_Depth">bit depth</a>) of an image refers to the number of <a title="Bit" href="Bit">bit</a>s the computer uses to describe the image. For realistic (to human eyes) color reproduction, 256 levels for each of the three primary colors (red, green, and blue) is required.An imaging device with a bit depth of 8 bits per pixel per color (or <a title="24-Bit Color" href="24-Bit_Color">24-Bit color</a>) is usually satisfactory for capturing realistic color images. Anything below that and <a title="Posterization" href="Posterization">posterization</a> usually results, producing an image with visible pixels and an inadequate number of colors. (See <a title="Color Depth" href="Color_Depth">Color Depth</a>.) 
+</p>
+<p id="l11">
+'Lens'. The camera itself, like conventional film cameras, uses a <a title="Lens" href="Lens">lens</a> to focus light rays onto the CCD array. An <a title="Iris" href="Iris">iris</a> is also used to control the size of the <a title="Aperture" href="Aperture">aperture</a>, which affects how much light enters the camera. The aperture size is specified by an <a title="f/stop" class="nonexistent" href="http://printwiki.org/f/stop">f/stop</a> number. All of these factors work to adjust the <a title="Focal Length" href="Focal_Length">focal length</a>, which focuses objects are various distances onto the plane of the CCD array. (See <a title="Photography" href="Photography">Photography</a>.) Some cameras used for digital photography are in fact modified 35 mm film cameras, the traditional film back of the camera being replaced by a CCD array. These cameras generate the highest quality images, whereas less expensive models are limited in terms of image quality, and are thus often used for on-screen presentations, multimedia applications, or other such purposes where the limits of presentation medium (as opposed to high-quality printed reproduction) preclude high quality imaging. 
+</p>
+<p id="l13">
+'Focal Length Magnification'. In conventional photography, the focal length of a camera is related to the size of the film. A so-called "normal" lens has a focal length that is equal to the diagonal size of the film. However, in a digital camera, a CCD array is much smaller than a piece of film. As a result, a lens mounted on a digital camera will behave differently than a lens of the same size mounted on a conventional camera. Specifically, a digital camera will behave as though a longer lens has been mounted. This effect is known as <a title="focal length magnification" class="nonexistent" href="http://printwiki.org/focal_length_magnification">focal length magnification</a> and it doesn't adversely affect image quality per se, except insofar as the knowledge of the effect is necessary so as to ensure consistent photographic results. In order to achieve a desired effect, a new lens may need to be obtained. 
+</p>
+<p id="l15">
+'Lighting'. As with any type of photography, lighting is a crucial element. Common types of lighting used for conventional and digital photography include tungsten lamps, which operate very much like conventional household light bulbs. Although less expensive than other types of lighting, tungsten bulbs have their limitations, such as their low <a title="Color Temperature" href="Color_Temperature">color temperature</a> (about 3200 K), their production of a red and yellow <a title="Color Cast" href="Color_Cast">color cast</a>, and their tendency to give off a great deal of heat, which can cause not only physical discomfort to human subjects but also damage to computer equipment. 
+</p>
+<p id="l17">
+Metal-vapor lighting is used primarily in motion-picture photography, especially since its high color temperature (5200 K) allows natural daylight to be simulated accurately. Metal-vapor lighting does tend to run hotter than tungsten lighting, however, and this high temperature also makes the bulbs very fragile. 
+</p>
+<p id="l19">
+Fluorescent lighting is bright, efficient, and doesn't run as hot as other types of lighting, but their constant flickering (which is not easily perceptible by the human eye, but can be easily detected by CCD arrays and film) limits their use. The flickering occurs at a rate equal to twice the frequency of the power line. A converter can be used to increase the power-line frequency, but these can be expensive. 
+</p>
+<p id="l21">
+Strobe lights operate by sending out intermittent flashes of light. Although they are perhaps most commonly encountered in nightclubs, flash bulbs and flash lighting are forms of strobe lights. They run cool, and are very bright. 
+</p>
+<p id="l23">
+'Dynamic Range'. The <a title="Dynamic Range" href="Dynamic_Range">dynamic range</a> of a digital camera is analogous to the dynamic range of a scanner. In essence, it refers to the difference between the highest and lowest densities the CCD can capture. There is a relationship between dynamic range, f/number, and color depth. 
+</p>
+
+    <ul>
+
+<p id="l25">
+ It is unlikely that you will ever need over 65,000 gray levels (bear in mind though that for "full-color" images, 256 gray levels per each of the three primary colors is required, not 768 total gray levels). Depending upon the density range and/or total f/stops you need, you may need to capture an image at a higher bit depth. If you only need to capture a 2.4 density range, 256 gray levels (or <a title="8-Bit Color" href="8-Bit_Color">8-Bit color</a> per channel) would be fine. If you need to capture a higher density range, you'll need to up the bit depth accordingly. 
+</p>
+</ul>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

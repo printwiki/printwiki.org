@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Surface Sizing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Surface Sizing" class="currentChild" href="Surface_Sizing">Surface Sizing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Materials (usually a starch solution) added to the surface of a partially dried paper <a title="Web" href="Web">web</a> as a means of sealing surface fibers and increasing sheet strength and resistance to stresses. Additional substances may be used in addition to or instead of starch to impart other desired surface properties to the paper, such as increased water repellency, or resistance to penetration by other types of fluids, such as ink, oil, or grease. Surface sizing also reduces <a title="Fuzz" href="Fuzz">fuzz</a>, loose paper fibers that cause blanket <a title="Piling" href="Piling">piling</a> on offset presses. Surface sizing is added using a <a title="Size Press" href="Size_Press">size press</a>, a set of two rollers located near the end of a papermaking machine's <a title="Drying Section" href="Drying_Section">drying section</a>. As the still-damp paper web passes through the nip of these rollers, the sizing solution coats the surface of the web. Surface sizing differs in application and purpose from <a title="Internal Sizing" href="Internal_Sizing">internal sizing</a>. The addition of surface sizing depends upon the ultimate end-use requirements of the paper and the printing process for which it is destined. Paper that is to be run on high-speed web presses requires no surface sizing, as ink must be absorbed rapidly by the paper. Sheetfed offset printing may require paper that is surface-sized, to decrease blanket piling. Surface sizing that is added by running the paper web through a tub of the sizing solution is called tub sizing. Surface sizing is also called <a title="External Sizing" href="External_Sizing">external sizing</a>. (See also <a title="Sizing" href="Sizing">Sizing</a> and <a title="Size Press" href="Size_Press">Size Press</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

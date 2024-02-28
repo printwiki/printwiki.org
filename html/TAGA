@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>TAGA - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="TAGA" class="currentChild" href="TAGA">TAGA</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<div id="stub"><p><strong>This entry is a <a href="Stub">stub</a>, a starting point for writing a full entry. You can help PrintWiki by expanding it! Just click the "Edit" button.</strong></p></div> 
+</p>
+<p id="l3">
+The Technical Association of the Graphic Arts (TAGA) was founded in 1948 by Michael Bruno, Frank Preucil and others as a to present and disseminate printing industry research. 
+</p>
+<span id="head-4bd41e68f21b72446d59934bf4291c80fd0c267c"><h4 id="l6">Mission Statement</h4></span>
+<p id="l7">
+TAGA's mission is to: 
+</p>
+<p id="l9">
+<em>To provide a worldwide forum for sharing and disseminating theoretical, functional and practical information on current and emerging technologies for Graphic Arts print production and related processes.</em> 
+</p>
+<span id="head-6f562eed094531eec6eda51f7a0d201a0b1f3329"><h4 id="l12">Student Engagement</h4></span>
+<p id="l14">
+In 1984 under the direction of Harvey Levenson, TAGA began developing TAGA Student Chapters at four–year colleges and universities and sponsoring student attendance at the TAGA Annual Technical Conference. The purpose of TAGA Student Chapters is to instill an interest in graphic arts science and research. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

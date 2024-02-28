@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Densitometer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Densitometer" class="currentChild" href="Densitometer">Densitometer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<table class="tableOfContents"><tr><td><ol>
+<li>
+<a href="Densitometer#head-41452692d3dd574a1af5a18950011f37e3b7f519">Densitometer Introduction</a></li>
+<li>
+<a href="Densitometer#head-7598c0bfe97b006ec961f478b7d3a9a89ad5ec50">Types of Densitometers</a></li>
+<li>
+<a href="Densitometer#head-746cc1484a55c088da4591f75fb2a566f2673572">Uses for Densitometers</a></li>
+<li>
+<a href="Densitometer#head-4d57eab2982917a09762907ac77e408c3ca66fc9">External Links</a></li>
+</ol>
+
+</td></tr></table> <br/>
+</p>
+<span id="head-41452692d3dd574a1af5a18950011f37e3b7f519"><h2 id="l2">Densitometer Introduction</h2></span>
+<p id="l4">
+A densitometer is an instrument having a light-sensitive photoelectric eye for measuring the density of colored ink to measure and control the optical density of color inks on the substrate. Densitometers measure the degree of light absorption or opacity of the image. A darker image absorbs more light which corresponds to a higher optical density. A densitometer does not measure color as the eye sees it, but instead as the substrate responds to it. 
+</p>
+<p id="l6">
+Desitometers are used for measuring color saturation by print professionals, and calibrating printing equipment. They are also used for making adjustments so outputs are consistent with the colors desired in the finished products. 
+</p>
+<span id="head-7598c0bfe97b006ec961f478b7d3a9a89ad5ec50"><h2 id="l8">Types of Densitometers</h2></span>
+<p id="l10">
+* Reflection - A reflective densitometer is used to measure opaque surfaces. Reflection densitometers use red, green and blue  colored filters to measure printed surfaces 
+</p>
+<p id="l12">
+* Transmission - A transmission densitometer is used to measure transparent surfaces. Color transparencies, film negatives and positives are some examples of common transparent surfaces measured. 
+</p>
+<p id="l14">
+* Combination - A densitometer capabile of both tranmission and reflection densitometric measurements. 
+</p>
+<span id="head-746cc1484a55c088da4591f75fb2a566f2673572"><h2 id="l16">Uses for Densitometers</h2></span>
+<p id="l18">
+Densitometers are use for process control of density, dot gain (TVI), dot area, and ink trap. Densitometer readings will different for different types of substrates. 
+</p>
+<span id="head-4d57eab2982917a09762907ac77e408c3ca66fc9"><h2 id="l20">External Links</h2></span>
+<p id="l21">
+<a class="external" href="http://glossary.ippaper.com/default.asp?req=knowledge/article/254"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">International Paper - Densitometer</a> 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

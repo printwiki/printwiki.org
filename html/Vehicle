@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Vehicle - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Vehicle" class="currentChild" href="Vehicle">Vehicle</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The liquid component of ink that holds the <a title="Pigment" href="Pigment">pigment</a> and binds the pigment to the printed surface (or <a title="Substrate" href="Substrate">substrate</a>) after drying. The speed at which the vehicle is absorbed into the paper or other surface affects the ultimate quality of the ink; in inks that dry by <a title="Polymerization" href="Polymerization">polymerization</a> and <a title="Oxidation" href="Oxidation">oxidation</a>, rapid absorption of the vehicle impedes proper ink drying and can lead to <a title="Ink Chalking" href="Ink_Chalking">ink chalking</a>. In some printing processes (such as high-speed <a title="Web Offset Lithography" href="Web_Offset_Lithography">web offset lithography</a>), slow absorption of the vehicle can lead to smudging during such operations as folding. (See <a title="Ink Absorbency" href="Ink_Absorbency">Ink Absorbency</a>.) 
+</p>
+<p id="l3">
+The composition of ink vehicles varies greatly, depending on the printing process used and the substrate to be printed. 
+</p>
+<p id="l5">
+<a title="Non-Drying Oil Vehicle" href="Non-Drying_Oil_Vehicle">Non-drying oil vehicle</a> inks dry primarily by absorption of the vehicle—petroleum or rosin oils—into the paper, and is used for <a title="Letterpress" href="Letterpress">letterpress</a> news printing on highly-absorbent <a title="Newsprint" href="Newsprint">newsprint</a> paper. 
+</p>
+<p id="l7">
+<a title="Drying Oil Vehicle" href="Drying_Oil_Vehicle">Drying oil vehicle</a> inks dry primarily by <a title="Oxidation" href="Oxidation">oxidation</a> of the vehicle—such as <a title="Linseed Oil" href="Linseed_Oil">linseed oil</a>, a common drying oil vehicle, as well as fish oil, cottonseed oil, castor oil, <a title="Tung Oil" href="Tung_Oil">tung oil</a>, petroleum oils, synthetic oils, etc.—in which the oil absorbs oxygen and then undergoes <a title="Polymerization" href="Polymerization">polymerization</a>, or the hardening and solidification of the oil. Drying oil vehicle inks are the most commonly used inks in letterpress and offset printing. 
+</p>
+<p id="l9">
+<a title="Solvent-Resin Vehicle" href="Solvent-Resin_Vehicle">Solvent-resin vehicle</a> inks are composed of pigments dissolved in a resin-based <a title="Solvent" href="Solvent">solvent</a> which dries primarily by <a title="Evaporation" href="Evaporation">evaporation</a> of the solvent, leaving behind a dry pigment on the substrate. Solvent-resin vehicle inks are used in gravure, flexographic, and offset printing, and are the vehicles that form the basis of <a title="Heatset Ink" href="Heatset_Ink">heatset ink</a>s. 
+</p>
+<p id="l11">
+<a title="Glycol Vehicle" href="Glycol_Vehicle">Glycol vehicle</a> inks form a category of inks known as <a title="Moisture-Set Ink" href="Moisture-Set_Ink">moisture-set ink</a>s, which dry by <a title="Precipitation" href="Precipitation">precipitation</a>. Pigments and resins are dissolved in a glycol solvent, which is solubilized in the presence of moisture. When water contacts the glycol solution, the resin and pigments precipitate out and are deposited on the substrate. The advantages of moisture-set inks include a lack of odor, and are consequently used in food-packaging printing. 
+</p>
+<p id="l13">
+<a title="Resin-Oil Vehicle" href="Resin-Oil_Vehicle">Resin-oil vehicle</a> inks dry by a combination of absorption and oxidation (called <a title="Quick-Setting" href="Quick-Setting">quick-setting</a>). The solvent is absorbed by the substrate quickly, and the remaining film of resin and oil finishes hardening by means of oxidation. These types of inks are known as <a title="Quick-Set Ink" href="Quick-Set_Ink">quick-set ink</a>. 
+</p>
+<p id="l15">
+<a title="Resin-Wax Vehicle" href="Resin-Wax_Vehicle">Resin-wax vehicle</a> inks dry by a process called <a title="cold-setting" class="nonexistent" href="http://printwiki.org/cold-setting">cold-setting</a>. These inks are solid at room temperature, and are applied to the substrate by melting them, utilizing heated rollers, plates, and dampening systems, which essentially melt the ink onto the paper, which then hardens as it cools. Since special heated presses are required for cold-set inks, they are not widely used. 
+</p>
+<p id="l17">
+<a title="Water-Soluble Gum Vehicle" href="Water-Soluble_Gum_Vehicle">Water-soluble gum vehicle</a> inks, also called "watercolor" inks, use <a title="Gum Arabic" href="Gum_Arabic">gum arabic</a> or other gum that is soluble in water. These inks are not widely used. 
+</p>
+<p id="l19">
+<a title="Photo reactive vehicle" class="nonexistent" href="http://printwiki.org/Photo_reactive_vehicle">Photo reactive vehicle</a> inks dry upon exposure to ultraviolet radiation. (See <a title="Ultraviolet Curing Inks" class="nonexistent" href="http://printwiki.org/Ultraviolet_Curing_Inks">Ultraviolet Curing Inks</a> and <a title="Electron Beam Curing Inks" class="nonexistent" href="http://printwiki.org/Electron_Beam_Curing_Inks">Electron Beam Curing Inks</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

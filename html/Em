@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Em - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.cssprintwiki.org.s3.amazonaws.com//common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Em" class="currentChild" href="Em">Em</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a <a title="Fixed Space" href="Fixed_Space">fixed space</a> having a height and a width equal to that of the <a title="Point Size" href="Point_Size">point size</a>. For example, in a 12-point <a title="Font" href="Font">font</a>, an <a title="Em Space" href="Em_Space">em space</a> is 12 points wide and 12 points high. An <a title="Em Dash" href="Em_Dash">em dash</a> is a <a title="dash" class="nonexistent" href="http://printwiki.org/dash">dash</a> equal to the size of an em in a particular typeface at a particular size. An <a title="En" href="En">en</a> is defined as a fixed space half the size of the em. Thus, in 12-point type, an <a title="En Space" href="En_Space">en space</a> would be 6 points wide. (See <a title="Fixed Space" href="Fixed_Space">Fixed Space</a> and <a title="Dash" class="nonexistent" href="http://printwiki.org/Dash">Dash</a>.) The em was originally defined as a square the size of a capital letter "M," which extends to the <a title="Descender" href="Descender">descender</a> line. This definition is no longer accurate. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Photoengraving - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Photoengraving" class="currentChild" href="Photoengraving">Photoengraving</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Letterpress" href="Letterpress">letterpress</a> printing, a process by which an acid <a title="Resist" href="Resist">resist</a> containing a photosensitive emulsion is adhered to a sheet of metal, exposed to a film negative, developed, and then the surface is treated with a chemical etchant, which eats through the resist quickly and dissolves the metal in the unexposed, non-image areas, and eats through the resist more slowly in the most highly-exposed image areas, failing to etch the metal in the portions of the image corresponding to solids and shadows. The process of photoengraving is reminiscent of a stencil process; the depth of engraving is not variable as it is in some <a title="reist" class="nonexistent" href="http://printwiki.org/reist">reist</a> etching systems. This process results in a metal relief plate. 
+</p>
+<p id="l3">
+A very similar process as the above is used in the making of molded rubber <a title="Flexographic" href="Flexographic">flexographic</a> plates, the metal relief plate then being impressed into a mold consisting of cellulose fibers and phenolic resins, the rubber then added to the hardened mold to form a raised rubber plate. (See <a title="Plate: Flexography: Rubber Plates" class="nonexistent" href="http://printwiki.org/Plate:_Flexography:_Rubber_Plates">Plate: Flexography: Rubber Plates</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

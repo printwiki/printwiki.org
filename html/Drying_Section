@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Drying Section - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Drying Section" class="currentChild" href="Drying_Section">Drying Section</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A part of a papermaking machine, following the <a title="Press Section" href="Press_Section">press section</a>, in which steam-heated cast iron cylinders evaporate as much residual moisture from the paper <a title="Web" href="Web">web</a> as possible. The paper web snakes through a series of cylinders (as many as thirty in some systems) which alternately expose the web's <a title="Wire Side" href="Wire_Side">wire side</a> and <a title="Felt Side" href="Felt_Side">felt side</a> to the heated cylinders, so as to ensure consistent drying on both sides of the paper. It is necessary to keep the paper web under tension, so as to prevent distortion and shrinkage. A paper's water content is about 60:70% before entering the drying section, and ranges from 2:8% at the end of the drying section, depending on its end-use requirements. In general, about two pounds of water are evaporated for every pound of paper produced. Different desired paper characteristics can also vary the drying method used. (See <a title="Yankee Dryer" href="Yankee_Dryer">Yankee Dryer</a> and <a title="Air Drying" href="Air_Drying">Air Drying</a>.) <a title="Surface Sizing" href="Surface_Sizing">Surface sizing</a> is also performed in the drying section. (See <a title="Size Press" href="Size_Press">Size Press</a>.) After drying, the paper web is sent to the next and final section of a traditional papermaking machine, the <a title="Calender" href="Calender">calender</a>, which controls various surface characteristics of the paper. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

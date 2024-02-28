@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Plotters - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Plotters" class="currentChild" href="Plotters">Plotters</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Random scan devices for plotting computer-generated images onto paper or some other substrate. Broadly, they can be divided into three types: pen plotters, impact plotters, and nonimpact plotters. While pen plotters are electromechanical devices that draw the images onto paper or film, impact and nonimpact devices are distinguished by their different types of printing mechanisms. Impact plotters, such as dot-matrix machines, have printing elements that actually touch a ribbon, and hence contact the surface to be printed. Nonimpact plotters include electrostatic, thermal transfer, laser, and ink-jet machines, all of which create hardcopy without directly contacting the substrate. A distinction is usually made between plotters and printers, the latter being raster scan machines that print one line at a time rather than plotting points. However, the distinction has become blurred (with the implementation of scan conversion techniques), resulting in the ungainly description "printer/plotter." Increasingly, "printer" is reserved for machines that can produce an entire page at once, as in conventional printing. 
+</p>
+<p id="l3">
+Computer controlled drawing device which produces hard-copy on paper or film surface. 
+</p>
+<p id="l5">
+A hard-copy device that produces line drawings according to points or lines as specified by the computer or operator.A mechanical drawing device in which a pen and/or paper move in vertical and horizontal directions under computer control. Used to create engineering drawings, charts, or other graphics. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

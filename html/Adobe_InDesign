@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Adobe InDesign - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Adobe InDesign" class="currentChild" href="Adobe_InDesign">Adobe InDesign</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<div id="stub"><p><strong>This entry is a <a href="Stub">stub</a>, a starting point for writing a full entry. You can help PrintWiki by expanding it! Just click the "Edit" button.</strong></p></div> 
+</p>
+<p id="l3">
+<strong>Adobe InDesign</strong> is a <a title="Desktop Publishing" href="Desktop_Publishing">desktop publishing</a> (DTP) application developed by <a title="Adobe Systems" href="Adobe_Systems">Adobe Systems</a>, it's mostly used to create professional page layouts and it's a direct competitor to Quark Xpress. 
+</p>
+<span id="head-835fe32e11d06c07988640ea18d5a882081aeaae"><h3 id="l6">History:</h3></span>
+<p id="l9">
+Adobe launched InDesign as the successor of Adobe Page Maker application by offering an <em>Adobe InDesign® CS2 PageMaker Upgrade</em>, for Page Maker 7 users. Adobe InDesign was the first major DTP application to support <a title="Unicode" class="nonexistent" href="http://printwiki.org/Unicode">Unicode</a> for text processing, advanced typography capability of <a title="OpenType" class="nonexistent" href="http://printwiki.org/OpenType">OpenType</a> fonts, advanced transparency features, layout styles, and optical margin alignment. 
+</p>
+<p id="l11">
+Current version: Adobe InDesing CS5 
+</p>
+<span id="head-b3f47a7517624de28f024c3cbfde6e3b8b78a545"><h3 id="l14">Extending Adobe InDesign: Plug-ins</h3></span>
+<p id="l15">
+Adobe started a third-party <a title="software developer program" class="nonexistent" href="http://printwiki.org/software_developer_program">software developer program</a> to create tools to enhance InDesign, calling them generically <a title="Plug-In" href="Plug-In">Plug-in</a>s. Plug-ins also exist for other Adobe Systems products such as <a title="Adobe Photoshop" class="nonexistent" href="http://printwiki.org/Adobe_Photoshop">Adobe Photoshop</a> and <a title="Adobe Illustrator" href="Adobe_Illustrator">Adobe Illustrator</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

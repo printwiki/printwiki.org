@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Trapping - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Trapping" class="currentChild" href="Trapping">Trapping</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In prepress, the compensation for <a title="Misregister" href="Misregister">misregister</a> of successive colors or images. Trapping and trapping techniques ensure that there are no unsightly gaps or overlaps of successively-printed colors or images. <em>Trapping</em> in this sense is referred to by many different terms, ranging from <a title="Spreads and Chokes" href="Spreads_and_Chokes">spreads and chokes</a>, <a title="Fatties and Skinnies" href="Fatties_and_Skinnies">fatties and skinnies</a>, <a title="Lap Register" href="Lap_Register">lap register</a>, and <a title="making grips" class="nonexistent" href="http://printwiki.org/making_grips">making grips</a>. 
+</p>
+<p id="l3">
+In conventional (i.e., non-digital) <a title="Lithography" href="Lithography">lithography</a>, trapping is accomplished using photographic techniques called <em>spreads</em> and <em>chokes</em>, also known as <em>fatties</em> and <em>skinnies</em>, respectively. A spread is a photographic overexposure of an image to make it larger than it is on the original. Thus, when it is overprinted onto another image, it will "spread" into the other image by a predetermined amount, eliminating gaps between the two. Spreads are more commonly used on foreground images or objects; backgrounds are often modified by chokes, which is a photographic enlargement of the background color or object, which "chokes" the subsequently overprinted color or image with an overlap of a set amount. (See <a title="Spreads and Chokes" href="Spreads_and_Chokes">Spreads and Chokes</a>.) 
+</p>
+<p id="l5">
+In an ideal world, trapping would not be needed. Trapping is only needed because of misregister during the printing process. The various parts of the process that lead to misregister almost always involve the fact that paper is too flexible and dimensionally unstable. Misregister occurs because of paper twisting or bouncing as it moves through the press, from gripper to gripper, because it can be stretched by the feeding mechanisms, and it can change size due to its ability to absorb moisture from the environment. (In <a title="flexogaphy" class="nonexistent" href="http://printwiki.org/flexogaphy">flexogaphy</a>, the stretching of rubber plates as they are mounted on the press cylinder is also cause for misregister. Also in flexographic printing, non-paper substrates, very fast press speeds, and many differnt spot colors result in the need for special trapping considerations. Traps for flexography need to be in the range of 0.006:0.01 inch.) Misregister also results from improper film assembly during prepress, or from a dimensional instablity on the part of the film used to make negatives. Errors in platemaking also cause register problems on press. 
+</p>
+<p id="l7">
+The amount of trapping required in a particular print job depends not only on the desired degree of fit between successive color or images, but also on the type of ptess and <a title="Substrate" href="Substrate">substrate</a> used. Sheetfed offset lithographic presses often require 0.003 inch of trapping, while web offset presses (especially those using highly absorptive newsprint as a substrate) requiure more. The following chart provides general trap amounts: 
+</p>
+<p id="l11">
+[Chart C004] 
+</p>
+<p id="l13">
+The above chart illustrates basioc "default" trap amounts by printing process, but the trap may vary depending on prevailing press and substrate conditions. The amount of trapping can also be calculated from the line count of the halftone screen being used, and can essentially equal half the diameter of a halftone dot. A way of determining this is to find out the screen count of the halftone (for example, 133 lines per inch), divide into 1 inch to obtain the diameter (in inches) of the halftone dot (or 1 ÷ 133 = 0.0075). Divide the diameter of the halftone dot by 2 to get the suggested trap amount (or 0.0075 ÷ 2 = 0.004). In contrast, an 85-line halftone screen (commonly used on newsprint) would require more trapping, or 1 ÷ 85 = 0.012 ÷ 2 = 0.006 inch. 
+</p>
+<p id="l15">
+Also of concern in trapping is the question of which color should trap and which should be trapped. In general, lighter colors should be spread into darker colors, but it is not very often that the dark/light dichotomy is obvious. Often, a <a title="Color Wheel" href="Color_Wheel">color wheel</a> is utilized. A color wheel is essentially a circular graph or plot of all the reproducible colors. Around the circumference of the wheel are all the "pure" hues—red, magenta, blue, cyan, green, and yellow, in order proceeding clockwise. Each hue gets progressively grayer (or increases in <a title="Value" href="Value">value</a>) towards the center of the wheel, where black is plotted. Any to-be-reproduced color can be plotted on this wheel by first determining its primary hue and then moving towards the center until the precise shade is found. This can then be compared to a second color, and the relative brightnesses of them can be compared by means of lighter/darker arrows indicated on the wheel. Although this is a rather simplistic means of evaluating color differences for purposes of trapping, it is useful in a variety of situations. 
+</p>
+<p id="l17">
+One means of trapping (rarely used in conventional film-based prepress) involves the creation of a screen tint of just the trap line, which avoids the unsightly creation of third colors when two other colors overlap. This is very difficult and t8ime-consuming to accomplish photograpohically (essentially, a negative needs to be made of just the trap line, and a screen tint applied to the negative. Since the trap line is only several thousandtyhs of an inch thick, this can be hard to manage. However, in digital prepress systems and programs, it is very simple to accomplish, and the high-quality results include a less obtrusive trap line. Other solutions inlcude the elinmination of trapping altogether; when colors overprint, they create a third, <a title="Secondary Color" href="Secondary_Color">secondary color</a> that is the mixture of the two primaries being combined. Thus, rather than printing a background color with a knockout and printing the foreground color in the box (which creates the perfect breeding ground for misregister), the foreground object is overprinted directly on the background. The inks are chosen such that when the foreground object overprints, its color will mix with the background color to produce the desired color. Another solution is to bound each separate color with thin black lines, thus letting black do the trapping. This works only so long as each separate color can be outlined with black.  
+</p>
+<p id="l19">
+Although at one time trapping was effected by the printer during prepress, the advent of digital prepress systems has resulted in less of an opportunity for printers to be able to create the trap. Printers once were responsible for shooting negatives, generating color separations, etc., and thus could trap to their heart's content. In contrast, more often than not negatives and color separations are generated via imagesetter output from digital systems, either from a publisher or from a prepress houser or service bureau, with the printer involved long after the time for trapping has passed. Thus, it is up to the designer to handle any trapping (or properly communicate to a service bureau the trapping requirements. However, page make-up and image processing programs make trapping reasonably simple to effect, and each program has its own means of performing accurate trapping. There are also specialized programs just for trapping that can be purchased and utilized. 
+</p>
+<p id="l21">
+The term <em>trapping</em>, in printing, has a different meaning from the above definition, and refers to the action of printing an ink film on top of another ink film, as in process color printing. Proper trapping results in well-printed materials, while poor trapping results in successive inks that do not adhere properly and bead or rub off readily. <a title="Wet Trapping" href="Wet_Trapping">Wet trapping</a> refers to trapping performed in wet multi-color printing, where one ink is laid down on top of a previously printed, still-wet ink. If the second ink has greater <a title="Tack" href="Tack">tack</a> than the first ink, poor trapping will occur. <a title="Dry Trapping" href="Dry_Trapping">Dry trapping</a> is a multi-color printing process in which one ink is laid down on top of a dry ink. (See also <a title="Crystallization" href="Crystallization">Crystallization</a>, <a title="Crawling" href="Crawling">Crawling</a>, <a title="Cissing" href="Cissing">Cissing</a>, and <a title="Ink: Printing Problems and Defects" class="nonexistent" href="http://printwiki.org/Ink:_Printing_Problems_and_Defects">Ink: Printing Problems and Defects</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

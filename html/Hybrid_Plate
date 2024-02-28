@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Hybrid Plate - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Hybrid Plate" class="currentChild" href="Hybrid_Plate">Hybrid Plate</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A type of printing plate used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> comprising a metal base coated with two layers of a photosensitive coating. The bottom coating is essentially the same as that used on a <a title="Photopolymer Plate" href="Photopolymer_Plate">photopolymer plate</a>, a substance that when exposed to light forms hard, durable, heavy molecules (polymers). The top coating is similar to that used to coat a <a title="Silver Halide Plate" href="Silver_Halide_Plate">silver halide plate</a>, an emulsion that is exposed and developed much like a photographic negative, either optically using light or by lasers directed by computer information. During the burning of hybrid plates, the top layer is exposed either via light shined through a photographic negative or with lasers, and the bottom layer is exposed to ultraviolet light in the image areas of the original. Afer burning, the top layer is completely removed, and the bottom layer is processed to create the image area/non-image area dichotomy necessary for lithographic printing. (See <a title="Plate: Offset Lithography" class="nonexistent" href="http://printwiki.org/Plate:_Offset_Lithography">Plate: Offset Lithography</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

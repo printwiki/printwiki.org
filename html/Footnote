@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Footnote - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Footnote" class="currentChild" href="Footnote">Footnote</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a reference relating to the main body of text, positioned at the bottom of the page. Footnotes are referenced by certain symbols (*, †, ‡, etc.), letters, or numbers, most often in <a title="Superior" href="Superior">superior</a> or superscript form. 
+</p>
+<p id="l3">
+A footnote begins on the same page as its reference call, but it may be carried over to the bottom of successive pages. A short rule or additional space should separate the footnote from the text. The first line of each footnote is normally slightly indented. 
+</p>
+<p id="l5">
+Point sizes for footnotes are usually 7- or 8-point. By law, footnotes in financial forms, annual reports, prospectuses, and other SEC documents must be no smaller than the text size, which is 10-point. 
+</p>
+<p id="l7">
+The most common sequence of footnote reference marks is: 1. asterisk (*), 2. dagger (†), 3. double dagger (††), 4. paragraph symbol (¶), 5. section mark (§), 6. parallel rules (||), 7. number sign (#). If more are required, they can be doubled up: double asterisks (**), double single daggers (††), double double daggers (††††), etc. However, when many footnotes are used, it is more practical to use consecutive numbers to identify each footnote. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

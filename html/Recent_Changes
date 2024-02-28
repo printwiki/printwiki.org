@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Recent Changes - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Recent Changes" class="currentChild" href="Recent_Changes">Recent Changes</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+
+<div class="wikitable">
+<table>
+<tr id="l1">
+<td bgcolor='#ffffaa'>
+<strong>TIP</strong>:  Search before you create an article. Someone may have already created on or one very similar and just named it differently.</td>
+</tr>
+</table>
+</div>
+<p id="l3">
+<script type="text/javascript">onLoadStuff.push('groupAllRcChanges();');</script>
+<div class="recentchanges" lang="en" dir="ltr">
+<div class="rcHeader"></div>
+<div class="rcdaybreak"><h2>Monday, January 12, 2015</h2></div>
+<div class="rcEntry"><div class="rcpageline"><div class="rcTag"><div class="rcTagChanges"><a title="Title Index" href="http://printwiki.org/Title_Index?action=diff&at_date=1421083644.21911">changes</a></div></div>
+<span class="rcpagelink"><a title="Title Index" href="Title_Index">Title Index</a></span><span class="rctime">last modified  51 minutes ago</span></span></div>
+<div class="rccomment" title="75.72.184.168">Preparing read-only archive text clean-up. <span class="rceditor"><a href="Users/AdamDewitz">AdamDewitz</a></span></div></div><div class="rcEntry"><div class="rcpageline"><div class="rcTag"><div class="rcTagChanges"><a title="Front Page widgets/about" href="http://printwiki.org/Front_Page_widgets/about?action=diff&at_date=1421083064.3340001">changes</a></div></div>
+<span class="rcpagelink"><a title="Front Page widgets/about" href="Front_Page_widgets/about">Front Page widgets/about</a></span><span class="rctime">last modified 1 hour ago</span></span></div>
+<div class="rccomment" title="75.72.184.168">We're in read-only archive mode. <span class="rceditor"><a href="Users/AdamDewitz">AdamDewitz</a></span></div></div><div class="rcEntry"><div class="rcpageline"><div class="rcTag"><div class="rcTagChanges"><a title="Front Page" href="http://printwiki.org/Front_Page?action=diff&at_date=1421083011.68466">changes</a></div></div>
+<span class="rcpagelink"><a title="Front Page" href="Front_Page">Front Page</a></span><span class="rctime">last modified 1 hour 1 minute ago</span></span></div>
+<div class="rccomment" title="75.72.184.168">(No comment) <span class="rceditor"><a href="Users/AdamDewitz">AdamDewitz</a></span></div></div><div class="rcdaybreak"><h2>Sunday, August 07, 2011</h2></div>
+<div class="rcEntry"><div class="rcpageline"><div class="rcTag"><div class="rcTagNew">new</div></div>
+<span class="rcpagelink"><a title="Copyrights" href="Copyrights">Copyrights</a></span><span class="rctime">last modified at 09:18 AM</span></span></div>
+<div class="rccomment" title="75.72.184.168">(No comment) <span class="rceditor"><a href="Users/AdamDewitz">AdamDewitz</a></span></div></div></div>
+ 
+</p>
+
+<div class="wikitable">
+<table>
+<tr id="l5">
+<td align="center">
+ <img class="actionButton" src="wiki/eggheadbeta/img/sycamore-diff.png" alt="[DIFF]" height="13" width="59"> </td>
+<td>
+ marks older pages that have at least one backup version stored (click for an author <em>diff</em>erence)</td>
+</tr>
+<tr id="l6">
+<td align="center">
+ <img class="actionButton" src="wiki/eggheadbeta/img/sycamore-updated.png" alt="[UPDATED]" height="13" width="59"> </td>
+<td>
+ marks pages edited since you last pressed 'clear observed changes' (click to see differences since you cleared)</td>
+</tr>
+<tr id="l7">
+<td align="center">
+ <img class="actionButton" src="wiki/eggheadbeta/img/sycamore-new.png" alt="[NEW]" height="13" width="59"> </td>
+<td>
+ marks new pages</td>
+</tr>
+</table>
+</div>
+<p id="l8">
+
+</p>
+<hr noshade="noshade" size="1" /><p id="l9">
+This page contains a list of recent changes in this wiki of <strong>7866 pages</strong> <br/>More information can be found at <a title="System Info" href="System_Info">System Info</a> and <a title="User Statistics" href="User_Statistics">User Statistics</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

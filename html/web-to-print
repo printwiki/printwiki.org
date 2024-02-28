@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>web-to-print - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="web-to-print" class="currentChild" href="web-to-print">web-to-print</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<strong>Web-to-print</strong> - a process of taking printing orders over the Internet. <br/>Web-to-print is a very generic term referring to a number of processes and systems. 
+</p>
+<span id="head-e5d5299693f909522acc209c2b568810f31f8d4c"><h3 id="l4">Basic web-to-print</h3></span>
+<p id="l5">
+A website with capabilities to transfer files via FTP or HTTP is often referred to as web-to-print, but this is misleading, unless the website is connected to the rest of the printer's workflow. 
+</p>
+<span id="head-272e651670746be7261d577086d0e4aed5ee2116"><h3 id="l7">Design-it-yourself web-to-print</h3></span>
+<p id="l8">
+A website with a graphic designer where customers can either modify existing templates or design something from scratch. 
+</p>
+<span id="head-4f3eb91da8fffcd174ace6b0c2e539e7901bfc1d"><h3 id="l10">Template-based web-to-print</h3></span>
+<p id="l11">
+A website with complete templates where users can substitute text and images. Some minor design capabilities may also be present to change fonts, colors or move elements around. 
+</p>
+<span id="head-5e1ebc9c2dc59c89ab4ce5d16fffbbcc10a9d7a9"><h3 id="l13">Web-to-print applications</h3></span>
+
+    <ul>
+
+    <li>
+<p id="l14">
+ Taking print orders online, e.g. for business cards (www.vistaprint.com) <br/>
+</p>
+</li>
+    <li>
+<p id="l15">
+ Taking newspaper ad bookings online 
+</p>
+</li>
+
+    </ul>
+
+
+<span id="head-cce55cafe48261591a2b5d1b3964d9bc6cdd1e1e"><h3 id="l17">Web-to-print with no printing</h3></span>
+<p id="l18">
+Graphic designers utilize web-to-print systems to provide 24/7 template-base design services, e.g. for <a class="external" href="http://designsthatsell.biz"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">Yard Signs</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

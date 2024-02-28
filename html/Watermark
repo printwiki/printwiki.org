@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Watermark - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Watermark" class="currentChild" href="Watermark">Watermark</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A design stamped in wet paper <a title="Pulp" href="Pulp">pulp</a> as it is forming in a papermaking machine. Watermarks are created by running the wet paper <a title="Web" href="Web">web</a> under a <a title="Dandy Roll" href="Dandy_Roll">dandy roll</a>, which is a wire-covered cylinder. The design to be pressed into the paper is woven in wire and attached to the wire cover of the dandy roll, decreasing the paper's opacity in the image area of the design, which becomes visible when the dried paper is held up to the light. 
+</p>
+<p id="l3">
+The idea of stamping a watermark in paper dates from about the year 1270, when an Italian papermaker created a wire mold of a cross inscribed in a circle, attached it to his papermaking mold, and dipped it into the vat of diluted pulp. The sheet of paper that formed was thinner along the wire than elsewhere, creating a transparent design. This technique of "hand-making" watermarks continued fundamentally unchanged until the nineteenth century. Not much outside attention was paid to watermarks until the eighteenth century, but papermakers appear to have indulged their whimsy over the centuries, as the variety of watermark designs that have been discoverd covers every conceivable object: many types of animals, human forms and specific body parts, all sorts of flowers, ships, boats, ceramic containers, tools, instruments, and thousands of other images, many of which defy description. No one is quite sure what watermarks were supposed to mean, if anything. Since the nineteenth century, however, nearly all watermarks have simply been the papermaker's trademark. In the mid-1800s, William Henry Smith created light-and-shade watermarks, which used a wire screen made from a wax mold to impart to the watermark varying degrees of lightness and density in the manner of a photograph. This technique never caught on the United States, but has found use in Europe in the printing of paper currency, primarily as a deterrent to counterfeiting. In 1826 in England, as papermaking machines began to proliferate, John Marshall, a maker of watermark molds, invented the dandy roll as a means of imprinting watermarks in machine-produced paper, a technique which is still used today. However, since dandy roll watermarks are pressed onto moist pulp from above, machine-made watermarks are not as clear and brilliant as watermarks in handmade paper, where the furnish forms directly on top of the watermark mold. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

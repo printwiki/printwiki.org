@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Strip Method - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Strip Method" class="currentChild" href="Strip_Method">Strip Method</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A means of testing the <a title="Roller Setting" href="Roller_Setting">roller setting</a> of an offset press's ink or dampening <a title="Ductor Roller" href="Ductor_Roller">ductor roller</a> or <a title="Form Roller" href="Form_Roller">form roller</a>s using strips of thin paper or plastic inserted in the nips of the rollers, then pulled out. This method tests the pressure that exists between the two rollers, the size of the nip itself, the hardness (or <a title="Durometer" href="Durometer">durometer</a>) of the rollers, and any <a title="Glazing" href="Glazing">glazing</a> that may have occurred. There are two varieties of the strip method of roller testing (also called a <a title="Sandwich Method" href="Sandwich_Method">sandwich method</a>): the <a title="Three-Strip Method" href="Three-Strip_Method">three-strip method</a> or the <a title="Folded-Strip Method" href="Folded-Strip_Method">folded-strip method</a>, both of which are based on inserting several "sandwiches" of paper at various intervals between either the ductor roller and its adjacent <a title="Oscillator" href="Oscillator">oscillator</a>, between the form rollers and adjacent oscillator, or between the form rollers and the plate cylinder, and pulling them back out, the ease or difficulty of which provides a subjective but effective determination of the pressure between the rollers. By inserting several sandwiches along the length of the roller nips, uniformity of pressure can also be gauged. (See <a title="Three-Strip Method" href="Three-Strip_Method">Three-Strip Method</a> and <a title="Folded-Strip Method" href="Folded-Strip_Method">Folded-Strip Method</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

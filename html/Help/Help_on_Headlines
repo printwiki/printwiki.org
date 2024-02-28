@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Help/Help on Headlines - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Help" href="../Help">Help</a>/<a title="Help/Help on Headlines" class="currentChild" href="Help_on_Headlines">Help on Headlines</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-b286e1c032e041c4357d81c2cfedc46f0df029d9"><h2 id="l1">Section Headings</h2></span>
+<p id="l2">
+You can create headings by equal signs. The wiki supports up to five heading levels. In HTML, this is &lt;h1&gt; through &lt;h5&gt;. The heading text is between those markers, separated by a single space. 
+</p>
+<p id="l4">
+Headings are useful because they help divide a page's content.  Headings also show up in the <tt>[[TableOfContents]]</tt> <a title="Help/Help with Macros" href="Help_with_Macros">macro</a>.  When headings are used next to a <a title="Help/Help with Images" href="Help_with_Images">thumbnail images</a>, "clear" the text and create a functional break in the text flow. 
+</p>
+<p id="l6">
+For more information on the possible markup, see <a title="Help/Help on Editing" href="Help_on_Editing">Help on Editing</a>. 
+</p>
+<span id="head-eb01bf04c9a0e8a71c45816513df424f1c7ffedb"><h4 id="l8">Examples</h4></span>
+<p id="l9">
+<pre>
+ = Heading Level 1 =
+ == Heading Level 2 ==
+ === Heading Level  3 ===
+ ==== Heading Level  4 ====
+ ===== Heading Level  5 =====
+</pre>
+</p>
+<span id="head-66effdf0836c4ad9c2c4b516463c39866827fe51"><h4 id="l17">Example Output</h4></span>
+
+    <ul>
+
+<span id="head-94757c11ee945e91137ba5279388ddf3fa02e6b4"><h2 id="l18">Heading Level 1</h2></span>
+<span id="head-d4d67b77d248b24dbe82520e87937b6130973a81"><h3 id="l19">Heading Level 2</h3></span>
+<span id="head-18a0a6337fb8f170c749c513205036c91a251f11"><h4 id="l20">Heading Level  3</h4></span>
+<span id="head-234da146312079520fa650bf471430c1a86de834"><h5 id="l21">Heading Level  4</h5></span>
+<span id="head-3fd038170c4a948b36f82d91fb0f798b2b4188cb"><h6 id="l22">Heading Level  5</h6></span>
+
+    </ul>
+
+
+<p id="l25">
+Use the biggest header, <tt>=&nbsp;Heading&nbsp;Level&nbsp;1&nbsp;=</tt>, for creating your initial sections then smaller headers for sub-sections. 
+</p>
+<p id="l27">
+To indent a headline just but a space (or multiple spaces) in front of it: 
+</p>
+<pre>
+== Not indented ==
+
+  == indented ==
+</pre><p id="l35">
+Displays as: 
+</p>
+<span id="head-e370b4fe2098086f4d4ca21b61a95e67bd98bf15"><h3 id="l37">Not indented</h3></span>
+
+        <ul>
+
+<span id="head-a3cc5c29bdd1e98871edc7b4effb10c976839a29"><h3 id="l39">indented</h3></span>
+
+        </ul>
+
+
+<p id="l41">
+This is useful for organizing headers.  The more spaces put in front of a headline the more it is indented. 
+</p>
+<span id="head-33488d4b3cbb5ba16b0673469e60db7094fb670e"><h2 id="l43">Horizontal Rules</h2></span>
+<p id="l44">
+You can insert a horizontal rule by placing a series of dashes into the page: 
+</p>
+<pre>
+----
+</pre><p id="l50">
+displays as: 
+</p>
+<hr noshade="noshade" size="1" /><p id="l54">
+Four of more dashes can be used. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

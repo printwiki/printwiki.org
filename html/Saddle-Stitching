@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Saddle-Stitching - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Saddle-Stitching" class="currentChild" href="Saddle-Stitching">Saddle-Stitching</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, a means of binding pages together by driving staples though the centerfold of a <a title="Signature" href="Signature">signature</a> or group of signatures. Saddle-stitching, along with <a title="Side-Stitching" href="Side-Stitching">side-stitching</a> (see below), are collectively known as <a title="Wire Stitching" href="Wire_Stitching">wire stitching</a>. Side-stitching is rarely used any longer. Many magazines and newsletters are bound by saddle-stitching—such as <em>Time</em>, <em>Newsweek</em>, <em>Natural History</em>, and many others. Although <a title="Perfect Binding" href="Perfect_Binding">perfect binding</a> has replaced much saddle-stitching, the latter is still the most effective method for binding materials that are up to G inch thick. 
+</p>
+<p id="l3">
+'Prepress Considerations'. Two primary allowances must be made in the prepress phase of publications designed to be saddle-stitched. The first is for <a title="Creep" href="Creep">creep</a>. Since signatures to be saddle-stitched need to be inserted within each other (as opposed to simply stacked on top of each other, as in other binding methods), the cumulative thickness of the of the publication will cause the edges of the inner signatures to gradually protrude beyond the edges of the outer ones. Although trimming will eventually make all the edges even anyway, the result will be progressively thinner margins on inner pages. The prepress process of <a title="Shingling" href="Shingling">shingling</a>, or a slight staggering of the location of the pages on the paper, is often performed to eliminate the effects of creep. (See <a title="Creep" href="Creep">Creep</a> and <a title="Shingling" href="Shingling">Shingling</a>.) The other allowance which needs to be made for saddle-stitched publications is an "overhang" on one side of a signature. Since the saddle-stitching device needs to open each publication from the center in order to drive the staples through the center of the spine, one side of the signature must hang over the other side, allowing the gripper mechanism to grab it and hold it open during stitching. This overhang is called a <a title="Lip" href="Lip">lip</a>, and is commonly about K-inch long. 
+</p>
+<p id="l5">
+The saddle-stitching production line comprises three basic units: 
+</p>
+<p id="l7">
+'Inserter'. In the process of <a title="Inserting" href="Inserting">inserting</a> (analogous to <a title="Gathering" href="Gathering">gathering</a> in <a title="Perfect Binding" href="Perfect_Binding">perfect binding</a> or <a title="Case Binding" href="Case_Binding">case binding</a>), printed and folded signatures are dropped into pockets on a gathering device. The device carries the signatures to a <a title="Saddle Bar" href="Saddle_Bar">saddle bar</a>, the frame on which stitching takes place. The inserter transfers the innermost signature to the saddle bar, where grippers and vacuum nozzles open it to its centerfold and place it face down over the bar. Additional pockets drop additional signatures in order over the first one. At this point, other <a title="Insert" href="Insert">insert</a>s—such as subscription cards, ads, and other pages printed separately—are added to the pockets and dropped onto the saddle bar in the correct position. <a title="Blow-In Card" href="Blow-In_Card">Blow-in card</a>s are added at this point, as well, using compressed air to force printed cards between pages. At this point, also prior to stitching, ink-jet equipment is used to either address mailable magazines (those magazines that do not use labels) or to add personalized messages to subscribers. 
+</p>
+<p id="l9">
+'Stitcher'. After an entire publication has been assembled on the saddle bar, it is carried toward the stitching heads. Electronic detectors are used to find any copies which deviate from the proper thickness of the job (i.e., have more or less than the correct number of signatures) and these anomalies are ejected. The stitcher heads feed continuous rolls of wire, which are cut to the desired size and shaped into staples. When the publication is in position, the stitching head drives the staples down through the spine fold. Devices beneath the publication bend the legs of the staples over, so as to secure the pages together. The size of the staple and of the <a title="Crown" href="Crown">crown</a> (the length of wire visible on the spine of the publication) can be adjusted. 
+</p>
+<p id="l11">
+Accessories to saddle-stitchers include <a title="Take-Off Spinner" href="Take-Off_Spinner">take-off spinner</a>s, or large (70-lb.) spools of wire mounted to the floor, which elkiminates the need to reload the stitcher frequently; <a title="narrow stitching head" class="nonexistent" href="http://printwiki.org/narrow_stitching_head">narrow stitching head</a>s, which are used to bind small-size publications or produce stitches which are closer together; and <a title="oblique sheet monitor" class="nonexistent" href="http://printwiki.org/oblique_sheet_monitor">oblique sheet monitor</a>s, which detect and eject improperly jogged or oriented signatures prior to stitching. 
+</p>
+<p id="l13">
+'Trimmer'. After stitching, the bound publications are closed and squeezed shut, to force out excess air and reinforce the fold. They are then transferred to a <a title="Three-Knife Trimmer" href="Three-Knife_Trimmer">three-knife trimmer</a>, which trims the unbound sides of the publication, removing signature folds from the top, and any lap allowance from the right edge. 
+</p>
+<p id="l15">
+As with other binding and finishing equipment, a variety of other equipment can be added onto the saddle-stitching line. Folders can be added to the front of the line, allowing signatures to be folded and fed into the inserter in one step; stackers and counters can be used to automatically count and stack units as they come off the line; <em>tip-in</em> devices can automatically glue additional inserts into the publication, or add <a title="end paper" class="nonexistent" href="http://printwiki.org/end_paper">end paper</a>s to saddle-stitched books, etc.); bundling units can automatically package preset quanitities as they come off the line; hole punches can three-hole-drill publications in-line, which is popular for newsletters and reports; and a variety of mailing and postal sorting equipment can make the carrying out of those functions part of the binding process. 
+</p>
+<p id="l17">
+Not all saddle-stitching equipment is on such a large-scale. Many print shops that have rudimentary binding capacities have small mechanical models, which are really little more than big staplers. A triangular metal platen functions as a saddle bar, and allows the publication to be opened on top of it and stapled, one piece at a time. 
+</p>
+<p id="l19">
+One particular variety of saddle-stitching is <a title="Loop Stitching" href="Loop_Stitching">loop stitching</a>, or saddle-stitching in which the staples are formed into wire loops, allowing a saddle-stitched publication to be bound in a three-ring binder. Loop stitching eliminates the need to have to three-hole drill a publication and, consequently, increase the <a title="binding margin" class="nonexistent" href="http://printwiki.org/binding_margin">binding margin</a> of the text. 
+</p>
+<p id="l21">
+'Side-Stitching'. An alternate type of wire stitching is known as side-stitching, in which the staples are driven not through the center of the spine fold, but rather through the top of the publication, along the binding edge. The binding system is essentially the same, save there is no need to worry about inserting or shingling. The gathering device transports flat printed sheets beneath the stitching heads, where the staples are inserted. The drawbacks, however, are that pages tend not to open flat, and there is some margin loss along the binding edge of the pages. Advancements in <a title="Perfect Binding" href="Perfect_Binding">perfect binding</a> adhesives have reduced the desirability for side-stitching. 
+</p>
+<p id="l23">
+(See also <a title="Binding and Finishing" href="Binding_and_Finishing">Binding and Finishing</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

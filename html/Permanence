@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Permanence - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Permanence" class="currentChild" href="Permanence">Permanence</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper property that measures a paper's resistance to changes in its chemical, structural, or optical properties over time. Permanence includes such things as resistance to yellowing and fading upon exposure to light (<a title="Lightfastness" href="Lightfastness">lightfastness</a>) over time, and the paper's ability to retain its strength over time. Paper permanence is measured using <a title="Accelerated Aging" href="Accelerated_Aging">accelerated aging</a> conditions, and describes its brightness loss and yellowing. A paper's retention of its <a title="Folding Endurance" href="Folding_Endurance">folding endurance</a> over time is also a useful test for determining how well a paper will retain its strength. Some of the factors that affect a paper's deterioration over time is the deterioration of the <a title="Cellulose" href="Cellulose">cellulose</a> fibers themselves (which moisture accelerates), and the use of acid-rosin <a title="Sizing" href="Sizing">sizing</a>. <a title="Acid Paper" href="Acid_Paper">Acid paper</a> tends to be less permanent than <a title="Alkaline Paper" href="Alkaline_Paper">alkaline paper</a>. 
+</p>
+<p id="l3">
+Permanence is related to <a title="Durability" href="Durability">durability</a>. (See <a title="Durability" href="Durability">Durability</a>.) 
+</p>
+<p id="l5">
+The term <em>permanence</em> also refers to the ability of a printing ink to resist fading or changing color upon exposure to light or weather. The permanence of an ink is generally governed by the <a title="Lightfastness" href="Lightfastness">lightfastness</a> of the <a title="Pigment" href="Pigment">pigment</a> used. (See <a title="Pigment" href="Pigment">Pigment</a>.) 
+</p>
+<p id="l7">
+A substance's permanence is also known as <a title="Age Resistance" href="Age_Resistance">age resistance</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

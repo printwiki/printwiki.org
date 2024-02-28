@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Color Depth - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Color Depth" class="currentChild" href="Color_Depth">Color Depth</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+On a computer monitor, a term which refers to the <a title="Resolution" href="Resolution">resolution</a> of the display. Specifically, it refers to how many <a title="Color" href="Color">color</a>s can be displayed, which is a function of the number of <a title="Bit" href="Bit">bit</a>s used to describe each screen <a title="Pixel" href="Pixel">pixel</a>. (The unit for color depth measurement is thus <a title="Bits Per Pixel" href="Bits_Per_Pixel">bits per pixel</a>.) For example, a monitor with a color depth of one bit per pixel, can only describe two colors (black or white), while one with a color depth of 24 bits per pixel can describe over sixteen million colors. In <a title="8-Bit Color" href="8-Bit_Color">8-Bit color</a>, eight bits are used to describe each pixel. Thus, a white pixel (or one with no color) would be represented by the binary code 00000000, while black would be represented by 11111111. All the intermediate colors in the palette (which can often be individually selected or removed, depending on the program in use) would include the various combinations of 1s and 0s among those eight digits, represented mathematically by the figure 2<sup>8</sup>, or 256. (White in <a title="24-Bit Color" href="24-Bit_Color">24-Bit color</a> is represented as 000000000000000000000000, different colors being represented by different combinations of 1s and 0s among those 24 digits, or 2<sup>24</sup> colors.) As you can tell, the greater the color depth, the more processing power is required. See <a title="1-Bit Color" href="1-Bit_Color">1-Bit Color</a>, <a title="4-Bit Color" href="4-Bit_Color">4-Bit Color</a>, <a title="8-Bit Color" href="8-Bit_Color">8-Bit Color</a>, <a title="16-Bit Color" href="16-Bit_Color">16-Bit Color</a>, <a title="24-Bit Color" href="24-Bit_Color">24-Bit Color</a>, and <a title="32-Bit Color" href="32-Bit_Color">32-Bit Color</a>. Color depth is also known as <a title="Pixel Depth" href="Pixel_Depth">pixel depth</a>. Color depth is also an important issue in <a title="Scanning" href="Scanning">scanning</a>. See <a title="Scanning: Principles of Scanning" class="nonexistent" href="http://printwiki.org/Scanning:_Principles_of_Scanning">Scanning: Principles of Scanning</a>. Color depth is also called <a title="Pixel Depth" href="Pixel_Depth">pixel depth</a> and <a title="Bit Depth" href="Bit_Depth">bit depth</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

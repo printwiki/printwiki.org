@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Encapsulated PostScript - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.cssprintwiki.org.s3.amazonaws.com//common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Encapsulated PostScript" class="currentChild" href="Encapsulated_PostScript">Encapsulated PostScript</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A graphics file format developed by Adobe Systems, Inc.; a device-independent <a title="PostScript" href="PostScript">PostScript</a> representation of a graphic or other object (or page). It stores files not only as a series of <a title="Bézier Curve" href="Bézier_Curve">Bézier curve</a>s (or <a title="Vector" href="Vector">vector</a>s), but also includes a low-resolution <a title="Bit Map" href="Bit_Map">bit map</a> representation of the file for quick on-screen viewing. <a title="Drawing" href="Drawing">Drawing</a> programs such as Adobe Illustrator (and even some paint programs like Adobe Photoshop) can save graphics (most commonly line art) as EPS files, which means that they will print with smooth lines and curves (i.e., not exhibiting the stair-step pattern of bitmapped graphics) at whatever resolution the output device can achieve. The <a title="Macintosh" href="Macintosh">Macintosh</a> viewfile is in the <a title="PICT" href="PICT">PICT</a> file format, while on the <a title="PC" class="nonexistent" href="http://printwiki.org/PC">PC</a> it is in the <a title="TIFF" class="nonexistent" href="http://printwiki.org/TIFF">TIFF</a> or Microsoft <a title="Windows" href="Windows">Windows</a> metafile format. <em>EPS</em> is also sometimes referred to as <a title="EPSF" class="nonexistent" href="http://printwiki.org/EPSF">EPSF</a> (Encapsulated PostScript Format). 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

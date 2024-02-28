@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Imposition - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Imposition" class="currentChild" href="Imposition">Imposition</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The positioning of pages on a press sheet in such a manner that when the sheet is folded into a <a title="Signature" href="Signature">signature</a> and cut, the pages will be in the correct sequence. Imposition involves not just the correct positioning of pages on the same side of the sheet, but also the <a title="Back Printing" href="Back_Printing">back printing</a>, or the pages printed on the back of the sheet. Back-printed pages can be oriented in a variety of ways; <a title="Head-to-Head Imposition" href="Head-to-Head_Imposition">head-to-head imposition</a> involves aligning the back printing so that the top of the page on the front is opposite the top of the page on the reverse; <a title="Head-to-Foot Imposition" href="Head-to-Foot_Imposition">head-to-foot imposition</a> involves aligning the back printing such that the top of the page on the front is opposite the bottom of the page on the reverse; <a title="Head-to-Side Imposition" href="Head-to-Side_Imposition">head-to-side imposition</a> involves back printing that is at a right angle to the printing on the front. <a title="Coming-And-Going Imposition" href="Coming-And-Going_Imposition">Coming-and-going imposition</a> is a type of page sequencing in which the <a title="Recto" href="Recto">recto</a> (or right-hand) pages are in numerical sequence from the front of the book to the back, but the <a title="Verso" href="Verso">verso</a> (or left-hand) pages are sequenced such that when the book is flipped over, they are then in sequence from the back of the book to the front. 
+</p>
+<p id="l3">
+Based on the size of the press and the press sheets to be used for a particular print job, film <a title="Negative" href="Negative">negative</a>s or <a title="Positive" href="Positive">positive</a>s of pages are stripped into the proper imposition during the film assembly stage of <a title="Prepress" href="Prepress">prepress</a>. Newer digital prepress processes also allow the output of properly-imposed pages as film negatives directly from an <a title="Imagesetter" href="Imagesetter">imagesetter</a>. (See also <a title="Stripping" href="Stripping">Stripping</a>, <a title="PrePress: Graphic Arts Photography and Flat Assembly" class="nonexistent" href="http://printwiki.org/PrePress:_Graphic_Arts_Photography_and_Flat_Assembly">PrePress: Graphic Arts Photography and Flat Assembly</a>, and <a title="Prepress: Digital Prepress" class="nonexistent" href="http://printwiki.org/Prepress:_Digital_Prepress">Prepress: Digital Prepress</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

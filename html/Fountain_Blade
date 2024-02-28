@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Fountain Blade - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Fountain Blade" class="currentChild" href="Fountain_Blade">Fountain Blade</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A metal plate, either continuous or segmented, or plastic strip found in the <a title="Ink Fountain" href="Ink_Fountain">ink fountain</a> of an offset printing press. The fountain blade acts as a barrier between the trough or pan containing the ink, and the <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> which transfers ink to the rest of the <a title="Inking System" href="Inking_System">inking system</a>. The thin gap between the ink fountain and the fountain roller regulates the amount of ink that flows through the press. The width of this gap can be adjusted using the <a title="Fountain Keys" href="Fountain_Keys">fountain keys</a>, or screws that move either all or portions of the fountain blade toward or away from the fountain roller. 
+</p>
+<p id="l3">
+Perhaps the simplest part of an offset press, the fountain blade should not be neglected; dried ink can collect on the bottom of it, preventing the fountain keys from turning properly, and the blade itself (either with age, extreme use, or improper fountain key tightening) can become warped or distorted, preventing effective and accurate control of ink flow. Blade wear can also result in worn corners, causing ink seepage out of the fountain. (See <a title="Inking System: Offset Lithography" class="nonexistent" href="http://printwiki.org/Inking_System:_Offset_Lithography">Inking System: Offset Lithography</a> and <a title="Offset Lithography" href="Offset_Lithography">Offset Lithography</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

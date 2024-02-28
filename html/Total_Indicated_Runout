@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Total Indicated Runout - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Total Indicated Runout" class="currentChild" href="Total_Indicated_Runout">Total Indicated Runout</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measure used to gauge the roundness of a printing press roller, be it an ink or dampening roller used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>, an <a title="Impression Roller" href="Impression_Roller">impression roller</a> or <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a> used in <a title="Gravure" href="Gravure">gravure</a>, or an inking roller used in <a title="Flexography" href="Flexography">flexography</a>. TIR is the difference in the lengths of a roller's radius as measured from the center to the outside surface. (A perfectly round roller would have a difference of 0 between different radii, as the radii of a circle are always equal regardless of where they are measured.) TIR is typically measured using a laser; the manufacturing tolerance of TIR is ±0.0005 inch, meaning that a roller can be out-of-round by that much before being deemed defective. An older roller that develops a TIR of greater than ±0.0005 inch should be replaced or repaired. <a title="Out-of-Roundness" href="Out-of-Roundness">Out-of-roundness</a> of ink rollers is an important consideration; rollers that are elliptical (or eccentric) rotate with a bump that can cause streaking and other ink-transfer problems. An offset press roller's out-of-roundness can also be gauged using the <a title="stripe method" class="nonexistent" href="http://printwiki.org/stripe_method">stripe method</a> of roller setting. (See also <a title="Impression Roller" href="Impression_Roller">Impression Roller</a> and <a title="Gravure Cylinder" href="Gravure_Cylinder">Gravure Cylinder</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

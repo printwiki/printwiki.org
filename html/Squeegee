@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Squeegee - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Squeegee" class="currentChild" href="Squeegee">Squeegee</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A tool possessing a wooden or metal handle to which is attached a thin, flexible rubber or plastic blade. A squeegee is used in <a title="Screen Printing" href="Screen_Printing">screen printing</a> to force ink through the <a title="Printing Screen" href="Printing_Screen">printing screen</a> and onto the <a title="Substrate" href="Substrate">substrate</a>. The configuration of the squeegee handle is a matter of printer comfort and has little direct bearing on the printing impression, but the shape of the blade is a factor that affects the thickness of the ink deposited and thr sharpness of the printed image. The <a title="Squeegee Profile" href="Squeegee_Profile">squeegee profile</a> is a cross-sectional representation of the squeegee blade, and is used to gauge blade shape. The most common shape for most general purposes is square, and is used primarily for printing on flat substrates with standard poster inks. A flat-point, double-bevel shape (essentially a cut-off triangle) is used for printing on uneven surfaces, especially ceramics. A general double-bevel without a flat point is useful for depositing a fine ink film, such as when the <a title="Stencil" href="Stencil">stencil</a> contains intricate line art. A single-bevel blade shape is used for printing on glass. A square blade with rounded corners is used for printing lighter colored inks on top of dark backgrounds. A round edge is used for printing on textiles, such as T-shirts. When sharp blade edges are required, a squeegee blade shaprpener is used to grind the blde to the proper profile. 
+</p>
+<p id="l3">
+Although the squeegee blade is generically described as "rubber" or "plastic," the specific chemical makeup of the blade needs to be compatible with the type of solvent and ink combination used. Blades designed for printing on vinyls or acetates, for example, are often water-soluble, and consequently a water-based ink cannot be used. Some blades are made of polyurethane, but <a title="Neoprene" href="Neoprene">neoprene</a> (a synthetic rubber) is the most common all-purpose blade material. 
+</p>
+<p id="l5">
+A third important blade characteristic is its flexibility, described in terms of hardness or <a title="Durometer" href="Durometer">durometer</a>. A general all-purpose blade has a durometer of 60, but a softer blade (i.e., having a durometer of 50 or less) will deposite a thicker ink film, while a harder blade (having a durometer of 70+) will produce a thinner but sharper ink film. 
+</p>
+<p id="l7">
+Screen frames and stencils can come in a variety of widths, and, consequently, the squeegee must be wide enough to completely cover the stencil image. A general rule recommends that each edge of the squeegee blade extend one-half inch beyond the edge of the stencil. 
+</p>
+<p id="l9">
+The squeegee blade should be completely cleaned after a print run. Dried ink left on the blade withh alter the blade profile, contaminate successive inks, or cause other mechanical or chemical problems. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>File Extension - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="File Extension" class="currentChild" href="File_Extension">File Extension</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A (typically) three-character addition to a computer <a title="file name" class="nonexistent" href="http://printwiki.org/file_name">file name</a>. With some computer <a title="Platform" href="Platform">platform</a>s (in particular, <a title="DOS" class="nonexistent" href="http://printwiki.org/DOS">DOS</a>), the name of a file is limited to eight characters, followed by a period and a three-character extension (such as "FILENAME.EXT"). The extension is often used to indicate the <a title="File Format" href="File_Format">file format</a> in which the file was saved. Some common extensions used for graphics files include ".eps" (<a title="Encapsulated PostScript" href="Encapsulated_PostScript">encapsulated PostScript</a>), ".pct" (<a title="PICT" href="PICT">PICT</a>), ".tif" (<a title="TIFF" class="nonexistent" href="http://printwiki.org/TIFF">TIFF</a>), etc. File extensions are useful means of indicating and determining file type. Also known as a <a title="File-Name Extension" href="File-Name_Extension">file-name extension</a>. 
+</p>
+<p id="l3">
+Many common file extensions used in DOS, Windows, and OS/2 include: 
+</p>
+<p id="l7">
+AIAdobe Illustrator 
+</p>
+<p id="l9">
+AIFAudio Interchange File Format 
+</p>
+<p id="l11">
+BAKBackup copy of an edited file 
+</p>
+<p id="l13">
+BMPBitmap graphic 
+</p>
+<p id="l15">
+CDRCorel Draw vector graphics 
+</p>
+<p id="l17">
+CMDOS/2 command file 
+</p>
+<p id="l19">
+COMDOS command file 
+</p>
+<p id="l21">
+DOCASCII text document 
+</p>
+<p id="l23">
+DLLDynamic link library 
+</p>
+<p id="l25">
+EPSEncapsulated PostScript file 
+</p>
+<p id="l27">
+EXEExecutable file, or machine language file 
+</p>
+<p id="l29">
+GIFGraphics Interchange Format file 
+</p>
+<p id="l31">
+HLPHelp file 
+</p>
+<p id="l33">
+ICOIcon 
+</p>
+<p id="l35">
+INIInitialization file 
+</p>
+<p id="l37">
+JPGJPEG file 
+</p>
+<p id="l39">
+MIDMIDI file 
+</p>
+<p id="l41">
+PCTPICT file 
+</p>
+<p id="l43">
+PCXZsoft bitmap file 
+</p>
+<p id="l45">
+PDFPortable Document Format file 
+</p>
+<p id="l47">
+PIFProgram Information File 
+</p>
+<p id="l49">
+PSPostScript file 
+</p>
+<p id="l51">
+SEAStuffIt self-expanding archive 
+</p>
+<p id="l53">
+SITStuffIt (compressed) archive) 
+</p>
+<p id="l55">
+SYSOperating system component 
+</p>
+<p id="l57">
+TEXTEX or LATEX document 
+</p>
+<p id="l59">
+TGATARGA graphics file 
+</p>
+<p id="l61">
+TIFTIFF graphics file 
+</p>
+<p id="l63">
+TMPTemporary file 
+</p>
+<p id="l65">
+TXTASCII text file 
+</p>
+<p id="l67">
+WAVSound wave file 
+</p>
+<p id="l69">
+WKQQuattro spreadsheet file 
+</p>
+<p id="l71">
+WMFWindows MetaFile 
+</p>
+<p id="l73">
+WKSLotus 1-2-3 worksheet file 
+</p>
+<p id="l75">
+XLSMicrosoft Excel worksheet file 
+</p>
+<p id="l77">
+ZIPPKZIP-compressed file 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

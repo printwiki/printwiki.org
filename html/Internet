@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Internet - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Internet" class="currentChild" href="Internet">Internet</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Essentially, a world-wide computer network in which smaller networks and individual computers are connected to each other by means of a complex system of <a title="router" class="nonexistent" href="http://printwiki.org/router">router</a>s and <a title="gateway" class="nonexistent" href="http://printwiki.org/gateway">gateway</a>s. Originally created by the United States Department of Defense, it is now a popular consumer-oriented network, especially thanks to the <a title="World Wide Web" class="nonexistent" href="http://printwiki.org/World_Wide_Web">World Wide Web</a>, a graphics-based portion of the Internet. Access to the Internet can either be direct (which is how educational institutions, government departments, organizations, etc. connect) or through a third party known as an <a title="Internet service provider" class="nonexistent" href="http://printwiki.org/Internet_service_provider">Internet service provider</a>, such as America Online, CompuServe, or MindSpring, to name but three. In this latter case, a consumer (usually through a personal computer equipped with a <a title="modem" class="nonexistent" href="http://printwiki.org/modem">modem</a>) dials into a central <a title="server" class="nonexistent" href="http://printwiki.org/server">server</a> which then allows access to other Internet resources. 
+</p>
+<p id="l3">
+There are several distinct features of the Internet: 
+</p>
+<p id="l5">
+'E-Mail'. Perhaps the most widely-used of all Internet resources, <a title="Electronic Mail" href="Electronic_Mail">electronic mail</a> (or <a title="E-Mail" href="E-Mail">e-mail</a>) allows for the (usually) instantaneous transmission and reception of messages from one user to another. The sender and receiver can be in adjacent offices, or separated by thousands of miles. E-mail is transmitted based in an <a title="Internet Address" href="Internet_Address">Internet address</a> (or <a title="email address" class="nonexistent" href="http://printwiki.org/email_address">email address</a>), which typically includes the user's name, followed by the <a title="at-sign" class="nonexistent" href="http://printwiki.org/at-sign">at-sign</a> (@) and the user's <a title="domain" class="nonexistent" href="http://printwiki.org/domain">domain</a>, or the <a title="Local Area Network" href="Local_Area_Network">local area network</a> in which the user (or the user's <a title="mail server" class="nonexistent" href="http://printwiki.org/mail_server">mail server</a>) is located. 
+</p>
+<p id="l7">
+'USENET'. A <a title="USENET" class="nonexistent" href="http://printwiki.org/USENET">USENET</a> group, also known as a <a title="newsgroup" class="nonexistent" href="http://printwiki.org/newsgroup">newsgroup</a>, is a kind of electronic bulletin board, in which subscribers can post and download messages to and from each other, usually pertaining to a single topic, be it taoism, socialism, conspiracy theories, television programs, music groups, artists, computers, and (not surprisingly) sex.. There are literally thousands of newsgroups on every conceivable topic. 
+</p>
+<p id="l9">
+'Internet Relay Chat'. <a title="IRC" class="nonexistent" href="http://printwiki.org/IRC">IRC</a> allows for a number of different users to "meet" in a single location and converse with each in real time. IRC (known colloquially as <a title="chat room" class="nonexistent" href="http://printwiki.org/chat_room">chat room</a>s) is kind of a real-time USENET group, where users can discuss a wide variety of topics. 
+</p>
+<p id="l11">
+'The World Wide Web'. The World Wide Web is the fastest-growing portion of the Internet, being as it is graphics-based. Essentially, the Web is an interlinked collection of "pages," which correspond to files on widely-separated computers. These pages can be instantaneously accessed by means of <a title="Hypertext Link" href="Hypertext_Link">hypertext link</a>s. The Web can be used (by means of a <a title="Browser" href="Browser">browser</a>, or a software utility that can read <a title="HTML" class="nonexistent" href="http://printwiki.org/HTML">HTML</a> code) to view graphics, as well as hear sounds, see video and animation, or download files. Various <a title="search engine" class="nonexistent" href="http://printwiki.org/search_engine">search engine</a>s make it easy to locate specific topics on the Web, and many companies and individuals now routinely provide their Web address (called a <a title="Universal Resource Locator" href="Universal_Resource_Locator">Universal Resource Locator</a>) in ads, on business cards, etc. 
+</p>
+<p id="l13">
+'Other Internet Resources'. Before the advent of the World Wide Web (and in many cases afterward), files were located and obtained by means of searching utilities such as <a title="Gopher" href="Gopher">Gopher</a>, <a title="WAIS" class="nonexistent" href="http://printwiki.org/WAIS">WAIS</a>, <a title="Archie" href="Archie">Archie</a>, <a title="Veronica" class="nonexistent" href="http://printwiki.org/Veronica">Veronica</a>, <a title="Jughead" class="nonexistent" href="http://printwiki.org/Jughead">Jughead</a>, etc. The resources and utilities available to search the Internet are changing daily. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Pile Table - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Pile Table" class="currentChild" href="Pile_Table">Pile Table</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A platform, which can be raised or lowered, on which the paper (or other <a title="Substrate" href="Substrate">substrate</a>) to be used for printing is stored on a printing press. The stack of paper to be printed needs to be fanned, and stacked neatly on the platform, about G inch off center (away from the moveable side guide on the table). Any observably defective sheets of paper (as well as other extraneous objects like ream markers) need to be removed. Paper with bent corners, tears, <a title="Wavy Edges" href="Wavy_Edges">wavy edges</a>, or <a title="Curl" href="Curl">curl</a> need to be removed as well, as paper jams or poor prints will result. Once paper is loaded, the pile table is raised to the feeding height specified for the press and feeding mechanism. It is then the responsibility of the <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">sheet-separation unit</a> to feed the paper into the press. (See <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">Sheet-Separation Unit</a> and <a title="Feeder Section: Sheetfed Offset Lithography" class="nonexistent" href="http://printwiki.org/Feeder_Section:_Sheetfed_Offset_Lithography">Feeder Section: Sheetfed Offset Lithography</a>.) 
+</p>
+<p id="l3">
+With traditional pile tables, the press needs to be stopped when paper needs to be reloaded. However, some feeding systems allow for continuous feeding. The configuration of continuous systems varies from press to press, but most involve either a secondary pile table that can be moved into position just as the stock on the first table is about to run out, or a pile supported by flat metal strips, which allows the pile table itself to be lowered and refilled without disturbing the feeding of the remaining sheets. The most obvious consideration with continuous systems is ensuring that the height of the pile being fed is not altered during reloading. Other feeders utilize a <a title="Roll Sheeter" href="Roll_Sheeter">roll sheeter</a>, in which a continuous roll of paper is inserted, and the feeding mechanism cuts the roll into individual sheets just prior to being fed into the press. (See <a title="Roll Sheeter" href="Roll_Sheeter">Roll Sheeter</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

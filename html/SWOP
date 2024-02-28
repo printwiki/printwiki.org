@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>SWOP - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="SWOP" class="currentChild" href="SWOP">SWOP</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<div id="stub"><p><strong>This entry is a <a href="Stub">stub</a>, a starting point for writing a full entry. You can help PrintWiki by expanding it! Just click the "Edit" button.</strong></p></div> 
+</p>
+<p id="l4">
+The Specifications for Web Offset Publications (SWOP) is an industry specification to define color data and its exchange for publication printing in the US. Formed in 1974 when a group of experts within web-offset publication industry met and agreed to form a committee to write specifications for materials used in web-offset publication printing. Representatives from other graphic arts segments were included during a meeting in 1975 that kicked of the standards work. The first standard was published in 1975 and underwent its first update in 1976.  The 1976 update established the name SWOP. Since then updates has been made seven times from 1977 to present. Over the years SWOP has evolved from being an informal organization to having a board of directors beyond the original representatives from the Magazine Publishers of America, International Prepress Association, American Association of Advertising Agencies, and American Business Press and Web Offset Association of the Printing Industries of America. 
+</p>
+<span id="head-d951310f4fa6dee83dff565a26a29cce7575913f"><h3 id="l6">SWOP Specification</h3></span>
+<p id="l8">
+SWOP is generally regarded for specifying web-offset printing, but the specification also specifies gravure publication printing.  International application of this specification is not problematic since it builds upon the ISO 2846-1 standard for ink and other ISO standard for raw materials, the IDEAlliance standards for data exchange, and the CGATS standards for measurements. The SWOP specifications starts at the content creation by specifying guidelines for digital page preparation, type reproduction, image trapping in PDF/X files, digital files, and minimum printable dots. A keystone of SWOP is the proof making specifications. The proof is used for adjusting the press and is therefore the main reference in the printing process. The proof can be made on either a proofing device or a sheet-fed offset printing press. 
+</p>
+<span id="head-d066d3384d53ba684df3f0772c8e1409c4f404aa"><h4 id="l11">Separation</h4></span>
+<p id="l12">
+SWOP specifies line screen, screen angles, total area coverage, Gray Component Replacement (GCR), Under Color Addition (UCA), and Under Color Removal (UCR), grey balance, and film properties. 
+</p>
+<span id="head-ae05aabb78ecb4cb19249e087603127eccec2e53"><h4 id="l14">Proofing</h4></span>
+<p id="l15">
+SWOP specifies proofs created on both  SWOP certified proofing devices and offset press proofs. The specification provides guidelines for color control bars, inks, proofing substrate, solid ink density according to SWOP Hi-Lo Color Reference, % Dot Gain, and % Print Contrast, and viewing conditions. 
+</p>
+<span id="head-2402ea36326521031913159d888f39afcb2f4700"><h4 id="l17">Materials</h4></span>
+<p id="l18">
+For specification of process inks SWOP refers to the ISO 2846-1 standard and to its own SWOP Hi-Lo Color Reference, where CIELCh, % Hue Error, and % Grayness are specified as aim points and tolerances. SWOP is aimed at the use of the Grade #5 paper, but also describes the use of Super Calendared (SC) paper and Grade #3 paper. However, these two additional types of paper are not specified as Grade #5 paper. The Grade #3 and Super Calendared types are specified in the CGATS TR 001 standard. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

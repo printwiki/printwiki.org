@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Feedboard - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Feedboard" class="currentChild" href="Feedboard">Feedboard</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A conveyor belt-like platform separating the <a title="Pile Table" href="Pile_Table">pile table</a> and <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">sheet-separation unit</a> from the <a title="Infeed Section" href="Infeed_Section">infeed section</a> and printing unit on a sheetfed press (especially one used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>). After a sheet has been lifted from the pile, it passes through a set of <a title="Forwarding Roller" href="Forwarding_Roller">forwarding roller</a>s at the rear of the feedboard. Located between these rollers may be one or more <a title="Double-Sheet Detector" href="Double-Sheet_Detector">double-sheet detector</a>s, which shut the feeder off if more than one sheet is being fed at a time. 
+</p>
+<p id="l3">
+Once through the forwarding rollers, the sheet travels down the feedboard, which uses a set of rollers, balls, and/or brushes to press the sheet against moving feed tapes that carry the sheet to the front guides at the head of the feedboard, where it pauses at a set of stops. Side guides to ensure that any lateral movement of the sheet has been compensated for, assuring proper positioning of the sheet for printing. The paper commonly travels along feed tapes, the number of which is determined by the width of the press and the size of the paper. Feedboards can possess as few as four or as many as eight, and the tapes are spaced approximately 4:6 inches apart and kept under proper tension for accurate paper transport. 
+</p>
+<p id="l5">
+It is important that the various devices located on the feedboard be kept clean; ink buildup can cause the sheets to stick or become crooked as they travel. Sheet bridges are also placed across the feedboard where the feed tape is wound around its driving cylinder or roller, to ensure that the sheet isn't carried into the bowels of the press by the feed tape. Some feedboards also contain suction devices to keep the sheet flat once it hits the front guides, special detectors (such as a <a title="Safety Bar" href="Safety_Bar">safety bar</a>) that can identify foreign objects (such as crumpled paper) and prevent them from getting into the printing unit, and <a title="Sheet Detector" href="Sheet_Detector">sheet detector</a>s that identify sheets arriving early or late to the front guides, which can cause further feeding and/or printing problems. 
+</p>
+<p id="l7">
+The front guides themselves ensure proper squaring of the sheet and timing of its entry into the printing unit, ensuring consistent positioning of the printed image. Proper spacing (and number) of the front guides depends on the size of the sheet, but they must be positioned accurately to ensure that the sheet pressing against them isn't supported wholly by one of them, which can cause crooked feeding into the printing unit. Folding the paper into equal sections (four sections for shorter paper, eight or more for longer paper) and lining the guides up with the creases is a good rule of thumb for setting front guides. Setting the position of the front guides along the lead edge of the feedboard also affects <a title="Gripper Bite" href="Gripper_Bite">gripper bite</a>, or how much of the sheet is grabbed by the grippers that pull the sheet into the impression cylinder. The height of the front guides depends, naturally, on the thickness of the stock, and a useful means of setting this height is to place two sheets of the stock to be printed beneath the front guides, which are adjusted until they just barely clear the sheets. A third strip is inserted on top of the other two, and the guide height adjusted until it takes a slight amount of additional force to remove the third sheet. 
+</p>
+<p id="l9">
+As the sheet is held against the front guides, a moveable side guide slides automatically and pushes or pulls the sheet against a <a title="Register Block" href="Register_Block">register block</a>, a metal block or plate precisely adjusted to keep the lateral register of the sheet consistent and accurate. The register block must be absolutely parallel to the sheet, and a smoother attached to the top of the register plate (which may or may not be attached, but when it is it keeps the sheet from moving up at right angles to the surface of the feedboard) must be adjusted to the thickness of the stock. (The same clearance as that created by the front guides is typical and effective.) The side guides, which square the sheet against the register block, can use a roller or a foot that pivots down onto the sheet and pulls it toward the register block. Side guides can also use a <a title="suction plate" class="nonexistent" href="http://printwiki.org/suction_plate">suction plate</a> that sucks the paper downwards, then slides it over to the register block. Regardless of the type of side guide utilized, it is imperative that the tension of the device be compatible with the thickness of the stock, in order to avoid buckling. 
+</p>
+<p id="l11">
+Once the sheet is in register with the front guides and the register block, it is ready for transfer to the <a title="Infeed Section" href="Infeed_Section">infeed section</a> of the press. (See <a title="Infeed Section" href="Infeed_Section">Infeed Section</a> and <a title="Feeder Section" href="Feeder_Section">Feeder Section</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

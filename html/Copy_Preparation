@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Copy Preparation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Copy Preparation" class="currentChild" href="Copy_Preparation">Copy Preparation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a term originally used to refer to the proper preparation of manuscript copy for typesetting. To a large extent, "copy preparation" still refers to typewritten sheets, 8H x 11, typed double-spaced and neatly marked with typographic instructions. In recent years, however, copy is no longer rekeyboarded by the typesetting operator (keyboarder). Copy is increasingly prepared on personal computers with word processing capabilities, and the information is input to the typesetting process electronically. The originator thus has the benefit of sophisticated editing and correction prior to releasing the material for typesetting. An important attribute will be consistency of preparation, since the conversion of the electronic data to typesetting input will require a match-up of specific occurrences of indents, word spaces, returns, and other code and character combinations in order to change typewriter-oriented copy into typography. 
+</p>
+<p id="l3">
+Some basic rules of copy preparation, regardless of the means, are as follows: 
+</p>
+<p id="l5">
+1. Use the same number of blank spaces or a tab key for paragraph indents, but use each consistently. 
+</p>
+<p id="l7">
+2. If an extra word space is inserted at the end of a sentence, make certain that only that one additional space is inserted at each point. 
+</p>
+<p id="l9">
+3. Check with the typesetting operator about recommended use of the quote marks. The open and close quotes are the same character on a typewriter, but they are different in typesetting. In desktop publishing programs like QuarkXPress, a distinction needs to be made between proper "smart quotes" (""<em>) and the inch marks (" '). 
+</p>
+<p id="l11">
+4. Use the special function for automatic underlining so that a change to italic can be generated. Many word processing and page makeup programs can now set italic type, eliminating the need for underlining as a substitute in manuscript preparation. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

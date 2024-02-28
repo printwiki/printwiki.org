@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Heatset Ink - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Heatset Ink" class="currentChild" href="Heatset_Ink">Heatset Ink</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A quick-drying type of ink that dries by <a title="Evaporation" href="Evaporation">evaporation</a> of its <a title="Solvent" href="Solvent">solvent</a> in a high-temperature drying oven followed by cooling to set the ink. Heatset inks comprise the <a title="Pigment" href="Pigment">pigment</a>, a solvent (a heatset oil), a litho <a title="Varnish" href="Varnish">varnish</a>, and a wax compound modifier. In <a title="Heatset Drying" href="Heatset_Drying">heatset drying</a>, the printed <a title="Web" href="Web">web</a> is passed through a high-temperature dryer (typically at 250:500ºF) which evaporates the solvent. A chilling procedure (utilizing <a title="chill rolls" class="nonexistent" href="http://printwiki.org/chill_rolls">chill rolls</a>) then cools the ink down to about 75:90ºF. Chemical reactions and absorption also set the ink. (See also <a title="Heatset Drying" href="Heatset_Drying">Heatset Drying</a>.) 
+</p>
+<p id="l3">
+Heatset inks are used in <a title="Letterpress" href="Letterpress">letterpress</a> and <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>, typically in web presses, and have the advantage of quick drying, which reduces the risk of excessive ink spread and absorption. The process, however, can cause problems in <a title="Coated Paper" href="Coated_Paper">coated paper</a> which, if of insufficient <a title="Porosity" href="Porosity">porosity</a>, can <a title="Blister" href="Blister">blister</a> during heatset drying. (See <a title="Blistering" href="Blistering">Blistering</a> and <a title="Fiber Puffing" href="Fiber_Puffing">Fiber Puffing</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Magenta - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Magenta" class="currentChild" href="Magenta">Magenta</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of the <a title="subtractive primary colors" class="nonexistent" href="http://printwiki.org/subtractive_primary_colors">subtractive primary colors</a>—appearing purple-red—characterized by its absorption of <a title="Green" href="Green">green</a> light. It is used in various proportions with the other subtractive primaries—<a title="Cyan" href="Cyan">cyan</a> and <a title="Yellow" href="Yellow">yellow</a>—to form many other colors. Magenta is often incorrectly used as a synonym for <a title="Red" href="Red">red</a>. 
+</p>
+<p id="l3">
+<em>Magenta</em> is also a term for one of the four <a title="Process Color" href="Process_Color">process color</a> inks used in multi-color printing. Also incorrectly referred to as "red" (or <a title="process red" class="nonexistent" href="http://printwiki.org/process_red">process red</a>) it is the red component used in many types of color mixing. 
+</p>
+<p id="l5">
+The word <em>magenta</em> derives from the name of one of the first synthetic dyes developed by French chemists, named in 1859 after the victory of the French army in the Italian town of Magenta. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

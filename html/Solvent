@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Solvent - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Solvent" class="currentChild" href="Solvent">Solvent</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Any substance capable of dissolving another to form a solution. A common, everyday solvent is water, in which substances like sugar, salt, or instant coffee can be dissolved. In many printing inks, a solvent is used to dissolve the <a title="Vehicle" href="Vehicle">vehicle</a> and the <a title="Pigment" href="Pigment">pigment</a> and aid in transport and drying of the ink. Low-boiling-point solvents evaporate quickly, leaving the pigment on the surface of the <a title="Substrate" href="Substrate">substrate</a>. Other solvents are absorbed rapidly by the paper, again leaving the pigment on the surface of the substrate. Common solvents used in inks are a variety of organic compounds, such as <a title="Hydrocarbon" href="Hydrocarbon">hydrocarbon</a>s (such as <a title="aliphatic solvents" class="nonexistent" href="http://printwiki.org/aliphatic_solvents">aliphatic solvents</a> like <a title="Naphtha" href="Naphtha">naphtha</a>; paraffin hydrocarbons like pentane, hexane, heptane, isooctane, and <a title="Mineral Oil" href="Mineral_Oil">mineral oil</a>; and <a title="aromatic solvents" class="nonexistent" href="http://printwiki.org/aromatic_solvents">aromatic solvents</a> like benzene, toluene, and xylene), alcohols (<a title="Monohydric Alcohols" href="Monohydric_Alcohols">monohydric alcohols</a> like methyl, ethyl, propyl, and isopropyl alcohols, and <a title="polyhydric alcohols" class="nonexistent" href="http://printwiki.org/polyhydric_alcohols">polyhydric alcohols</a> like glycol and glycerol), <a title="Ketone" href="Ketone">ketone</a>s (such as <a title="Acetone" href="Acetone">acetone</a>, methyl ethyl ketone, methyl isobutyl ketone, and cyclohexanone), <a title="Ester" href="Ester">ester</a>s (such as <a title="Ethyl Acetate" href="Ethyl_Acetate">ethyl acetate</a>, propyl acetate, butyl acetate, isobutyl acetate, and amyl acetate), and other organic substances such as ethers (like diethyl ether, isopropyl ether, and tetrahydrofuran). Hydrocarbons, composed solely of hydrogen and carbon atoms, are the simplest and least expensive of the solvents, save for the aromatic hydrocarbons such as benzene and other chemicals having cyclic (or ring) molecular structures, which tend to be more expensive. Hydrocarbons are also characterized by high flammability and toxicity, as well as low solvent power for many types of materials. (The solvent power of hydrocarbons is measured using a <a title="Kauri-Butanol Value" href="Kauri-Butanol_Value">Kauri-Butanol Value</a>.) The other varieties of organic solvents contain other types of atoms, in particular oxygen (called <a title="polar solvents" class="nonexistent" href="http://printwiki.org/polar_solvents">polar solvents</a>), and are more expensive, but less flammable, less toxic and more powerful as solvents. Another important characteristic of a solvent is its boiling point. High-<a title="Volatility" href="Volatility">volatility</a> organic solvents have very low boiling points (room temperature or slightly above) and evaporate rapidly. Other solvents are much less volatile. The desired degree of volatility of a solvent is a function of the drying mechanism of the ink in which it is to be used. Inks that need to dry quickly by <a title="Evaporation" href="Evaporation">evaporation</a> require highly volatile solvents, while those that dry by other means, such as <a title="Oxidation" href="Oxidation">oxidation</a> or by the application of heat, may require less volatile solvents. (See <a title="Vehicle" href="Vehicle">Vehicle</a>.) 
+</p>
+<p id="l3">
+See also <a title="Diluent" href="Diluent">Diluent</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

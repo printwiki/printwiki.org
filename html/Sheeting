@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Sheeting - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Sheeting" class="currentChild" href="Sheeting">Sheeting</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper <a title="Finishing" href="Finishing">finishing</a> operation involving the cutting of manufactured paper rolls into individual sheets, typically performed on a <a title="Sheeter" href="Sheeter">sheeter</a>. A sheeter consists of a backstand, where the paper roll is held, a <a title="Single Rotary Cutter" href="Single_Rotary_Cutter">single rotary cutter</a> or <a title="Double Rotary Cutter" href="Double_Rotary_Cutter">double rotary cutter</a>, and a layboy used for stacking and jogging cut sheets. The single rotary cutter has a stationary bedknife contacted by another knife mounted on a rotating cylinder. The paper <a title="Web" href="Web">web</a> is cut when the rotating knife contacts the stationary knife. A double rotary cutter replaces the stationary knife with a second rotating knife. The speed with which the rotating knife turns is adjusted relative to the speed of the paper web moving through the blades to produce the specified sheet size. Variations include <a title="multiple roll sheeting" class="nonexistent" href="http://printwiki.org/multiple_roll_sheeting">multiple roll sheeting</a>, which runs more than one roll through the sheeter at once, saving time. Sheeted paper then undergoes <a title="Trimming" href="Trimming">trimming</a> so that the sheet size is exact. New processes such as <a title="Precision Sheeting" href="Precision_Sheeting">precision sheeting</a> utilize more accurate sheeters in order to make additional trimming unnecessary. 
+</p>
+<p id="l3">
+The term <em>sheeting</em> also refers to a <a title="Substrate" href="Substrate">substrate</a> (in particular a <a title="Film" href="Film">film</a>) with a thickness of more than 0.010 inch. Also called a <a title="Sheet" href="Sheet">sheet</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

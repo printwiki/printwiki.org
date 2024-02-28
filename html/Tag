@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Tag - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Tag" class="currentChild" href="Tag">Tag</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In computers, a character, set of characters, or code attached to a set of data that contains information about that data, such as its identification, and any formatting information pertaining to that data set. 
+</p>
+<p id="l3">
+In desktop publishing, a code attached to a specific piece of text that provides instructions for its formatting. Tags applied to text include its <a title="Font" href="Font">font</a>, <a title="Point Size" href="Point_Size">point size</a>, <a title="Leading" href="Leading">leading</a>, the paragraph formatting (i.e., <a title="Ragged" href="Ragged">ragged</a> or <a title="Justified" href="Justified">justified</a>), and any other text attribute. Tags can be applied and manipulated within a specific program (such as <a title="QuarkXPress" href="QuarkXPress">QuarkXPress</a>) as a shortcut for formatting blocks of text, or added to straight <a title="ASCII" class="nonexistent" href="http://printwiki.org/ASCII">ASCII</a> text composed in another application for input to a page makeup program. For example, tags used by QuarkXPress can be applied to generic text created in FileMaker and then imported into QuarkXPress, eliminating the need to format each aspect of the text file individually, which saves time when creating large Quark documents from FileMaker files, such as an encyclopedia of 10,000 graphic arts terms. 
+</p>
+<p id="l5">
+In papermaking, the term <em>tag</em> also refers to a paper <a title="Grade" href="Grade">grade</a> characterized by high thickness, strength, density, tear resistance and water resistance, used in many heavy-duty applications such as tags, folders, and covers. The surface of tag stock allows printing, writing, stamping, and folding. It is manufactured from any of the various <a title="Pulping" href="Pulping">pulping</a> methods—<a title="sulfite" class="nonexistent" href="http://printwiki.org/sulfite">sulfite</a>, <a title="sulfate" class="nonexistent" href="http://printwiki.org/sulfate">sulfate</a> or <a title="Kraft" href="Kraft">kraft</a>, and <a title="Mechanical" href="Mechanical">mechanical</a>. Tag papers also undergo <a title="Calendering" href="Calendering">calendering</a> to produce a smooth, hard surface. Coated tag stock possesses enhanced <a title="Printability" href="Printability">printability</a>, and is used for some printing applications. Tag is also manufactured in a variety of colrs, primarily white and manila. 
+</p>
+<p id="l7">
+The <a title="Basic Size" href="Basic_Size">basic size</a> of tag stock is 24 x 36, and comes in <a title="Basis Weight" href="Basis_Weight">basis weight</a>s of 100, 125, 150, 175, 200, and 250-pound. <a title="Standard Size" href="Standard_Size">Standard size</a>s are 24 x 36, 22H x 28H, and 28H x 45. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

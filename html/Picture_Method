@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Picture Method - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Picture Method" class="currentChild" href="Picture_Method">Picture Method</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A test performed to evaluate the <a title="Roller Setting" href="Roller_Setting">roller setting</a> of offset printing press <a title="Form Roller" href="Form_Roller">form roller</a>s, consisting of essentially an inked representation of the roller setting. To determine the setting of the form rollers to the plate, the rollers are inked, the plate is packed to printing height and positioned underneath the form rollers, the form rollers are lowered to the plate to allow ink transfer, then are lifted up again. When the plate cylinder is rotated back around, there will be a set of printed stripes, the size and uniformity of which indicate the efficacy of the setting (and the condition of the rollers). In general, an ink stripe should be one-sixteenth of an inch wide for every inch of roller diameter (for example, a four-inch diameter form roller should produce a stripe about one-quarter of an inch wide). The stripes should be uniform in thickness across the plate. If a stripe is heavier at one end than at the other, the setting of the rollers is uneven and should be adjusted. If the stripe if wider in the center than it is at either end, or if the stripe is wider at <em>both</em> ends than it is in the center, roller damage is indicated, and they should be replaced or repaired. To test the setting of the form roller to the oscillator, the press is run for several seconds without contact between the form rollers and the plate, the press is then stopped, allowed to sit for about half a minute, then the cylinders are moved about 2:3 inches. The stripe that appears on the oscillator (produced by the form roller at rest) should be examined for the same non-uniformities as the stripes on the plate. However, the stripe on the oscillator should be thicker than that on the plate, as the form roller should be set tighter to the oscillator than to the plate. The picture method is also called the <a title="Ink Stripe Method" href="Ink_Stripe_Method">ink stripe method</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

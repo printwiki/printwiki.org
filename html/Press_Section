@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Press Section - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Press Section" class="currentChild" href="Press_Section">Press Section</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A part of a papermaking machine, consisting of a series of two-roll presses, through which the wet paper <a title="Web" href="Web">web</a> passes after leaving the <a title="Forming Section" href="Forming_Section">forming section</a>. When the web reaches the press section, it is about 80:85% water. In each two-roll section, the web travels through the nip of the rolls, which squeezes out moisture, evens out the paper's <a title="Formation" href="Formation">formation</a>, and presses the fibers together, improving their bonding and, ultimately, sheet strength. The press section and the degree of <a title="Wet Pressing" href="Wet_Pressing">wet pressing</a> affect the ultimate <a title="Finish" href="Finish">finish</a> and <a title="Bulk" href="Bulk">bulk</a> of the paper. Those papers that require high bulk and low finish need less wet pressing than those that require low bulk and high finish. After the press section, the paper—still about 60:70% water—is sent to the <a title="Drying Section" href="Drying_Section">drying section</a>. (See <a title="Fourdrinier" href="Fourdrinier">Fourdrinier</a> papermaking machine.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

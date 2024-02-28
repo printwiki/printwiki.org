@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Stochastic Screening - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Stochastic Screening" class="currentChild" href="Stochastic_Screening">Stochastic Screening</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A type of digital <a title="Halftone" href="Halftone">halftone</a> screening which varies the pattern of dots while keeping the size of the dots constant. In contrast, conventional halftone screening varies the size of the dots while keeping their frequency per line constant. 
+</p>
+<p id="l3">
+Conventional screens exhibit <a title="Amplitude Modulation" href="Amplitude_Modulation">amplitude modulation</a>, which, in the case of halftone screens, means that the sizes of the dots are modulated or varied, while the frequency remains constant. Stochastic screening exhibits <a title="Frequency Modulation" href="Frequency_Modulation">frequency modulation</a>, which means that the frequency of the dots is modulated or varied, while the size remains constant. (For this reason, stochastic screening is also known as <a title="FM screening" class="nonexistent" href="http://printwiki.org/FM_screening">FM screening</a>.) Stochastic screens utilize <a title="microdot" class="nonexistent" href="http://printwiki.org/microdot">microdot</a>s which are typically 15:20 microns in diameter and vary in line count by the tonal qualities of a particular section of an image. Of particular advantage is the fact that this seemingly random dot arrangement eliminates the necessity of worrying about <a title="Screen Angles" href="Screen_Angles">screen angles</a> when printing multiple colors; the irregular pattern of dots eliminates the interference of screen lines that causes <a title="Moiré" href="Moiré">moiré</a>. Additionally, stochastic screening enables low resolution output devices to achieve 256 levels of grey and hence may reduce the time required for <a title="Ripping" href="Ripping">ripping</a>. On the printing side, the pseudo-random dot placement eliminates screen angle moiré, subject moiré. Stochastic screening also has the advantage of delivering more consistent on-press color since the small dots minimize mechanical <a title="Dot Gain" href="Dot_Gain">dot gain</a> as solid ink density naturally varies through the press run. On the down side, however, the tiny dot size creates difficulties in proofing and platemaking, but the advantages of stochastic screening are engendering the desire to quickly solve these somewhat minute problems. 
+</p>
+<p id="l5">
+Stochastic screening is available from most prepress equipment vendors. It is particularly suitable for the color printing of complicated images involving complex textures such as that of woven fabrics such as tweeds and silks, repeating backgrounds, and other geometric shapes that tend to cause interference/moiré problems when printed using conventional screens. It is being used in day-to-day printing for projects ranging from telephone directories to fine art reproductions. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

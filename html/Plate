@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Plate - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Plate" class="currentChild" href="Plate">Plate</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The basic image-carrying surface in a printing process, which can be made of a variety of substances, such as various metals (as those used in <a title="Letterpress" href="Letterpress">letterpress</a> and <a title="Lithography" href="Lithography">lithography</a>), rubber, or plastic (such as those used in <a title="Flexography" href="Flexography">flexography</a>). The image areas of a printing plate may either be raised above the non-image areas (such as in letterpress or flexography) or on the same plane as the non-image areas (as in lithography). The exact nature, composition, and method of <a title="Platemaking" href="Platemaking">platemaking</a> depend on the printing process to be utilized. 
+</p>
+<p id="l3">
+Plates used in the various printing processes are detailed below. <a title="Gravure" href="Gravure">Gravure</a> printing, though on occasion performed using engraved plates, primarily prints from engraved cylinders. See <a title="Gravure Cylinder" href="Gravure_Cylinder">Gravure Cylinder</a>. In <a title="Screen Printing" href="Screen_Printing">screen printing</a>, a screen with a mounted stencil is also known as a plate. See <a title="Screen Printing" href="Screen_Printing">Screen Printing</a>. 
+</p>
+<span id="head-5a744fa673780c5f55f30566aa5c3daeeced394c"><h3 id="l7">OFFSET LITHOGRAPHY</h3></span>
+<p id="l9">
+Plates used for lithography are commonly <a title="Photolithographic" href="Photolithographic">photolithographic</a>, and can be produced in a variety of ways and from a variety of substances (commonly aluminum in combination with another metal, such as copper). All lithographic plates share a common feature: the image areas are rendered <a title="Oleophilic" href="Oleophilic">oleophilic</a>, or receptive to oils—such as ink—and <a title="Hydrophobic" href="Hydrophobic">hydrophobic</a>, or repellent to water, while the non-image areas are rendered <a title="Oleophobic" href="Oleophobic">oleophobic</a>, or repellent to oils, and <a title="Hydrophilic" href="Hydrophilic">hydrophilic</a>, or receptive to water. Consequently, since oil and water do not mix with each other readily, the image areas are transferred to the <a title="Substrate" href="Substrate">substrate</a> (commonly by means of an intermediate <a title="Blanket" href="Blanket">blanket</a>) while the non-image areas do not. It is up to the offset press <a title="Dampening System" href="Dampening_System">dampening system</a> to keep the non-image areas properly ink-free. 
+</p>
+<p id="l11">
+There are several types of lithographic plates in use today. 
+</p>
+<p id="l13">
+'Diazo Plates'. These utilize a <a title="Diazo" href="Diazo">diazo</a> (an organic compound) coating, are <a title="presensitized" class="nonexistent" href="http://printwiki.org/presensitized">presensitized</a>, and can be made either from photographic negatives or positives (but are most commonly made from negatives). After exposure to high-intensity light, an emulsion developer (comprising an acid solution containing a lacquer and a gum-etch) is added to the surface. The unexposed portion of the coating (which, when made from photographic negatives, comprises the non-image areas of the plate) is dissolved by the solution, and a treatment of gum makes these areas water-receptive. When diazo plates are made from photographic positives (in which case it is the image areas that are unexposed) special solvents are required to protect the image areas. Diazo plates can be used for print runs as large as 150,000. Special pre-lacquered diazo plates can be used for runs as large as 250,000. (See <a title="Diazo Plate" href="Diazo_Plate">Diazo Plate</a>.) 
+</p>
+<p id="l15">
+'Photopolymer Plates'. These are produced in a manner very similar to diazo plates, but the coatings used are more inert and abrasion resistant, and can consequently be used for longer print runs than is possible with diazo plates. Special thermal curing processes can give photopolymers an increased strength, allowing them to be used for print runs as high as 1,000,000. (See <a title="Photopolymer Plate" href="Photopolymer_Plate">Photopolymer Plate</a>.) 
+</p>
+<p id="l17">
+'Silver Halide Plates'. These utilize light-sensitive coatings similar to, although slower than, those used on photographic films. Silver halide plates can be exposed either photographically or by lasers guided by computer data. They are commonly used to print single-color documents from digital artwork. Silver halide emulsions can be used to coat anodized aluminum and these are often used for color printing produced from digital artwork. (See <a title="Silver Halide Plate" href="Silver_Halide_Plate">Silver Halide Plate</a>.) 
+</p>
+<p id="l19">
+'Electrophotographic Plates'. These, like the principles of electrostatic printing found in many photocopiers, use a photoconductor (either mounted on a drum or on the substrate) that is sensitized to light utilizing a corona discharge which imparts a charge to the photoconductor. Upon exposure to light in the non-image areas, the charge is dissipated, it remaining in the image areas, which then attracts an oppositely-charged toner. A drum-type photoconductor uses a selenium or cadmium sulfide cylinder which receives the image, which is then transferred to paper or other substrate, which can then be used as a printing plate. In another type, the photoconductor is a coating on the substrate itself, the toned image being formed directly on the substrate. Such plates then need to be desensitized in a manner akin to other <a title="Photolithographic" href="Photolithographic">photolithographic</a> plates. (See <a title="Electrophotographic Plate" href="Electrophotographic_Plate">Electrophotographic Plate</a>.) 
+</p>
+<p id="l21">
+'Bimetal Plates'. These are plates that are useful for long print runs. Copper, which is highly oleophilic, is electroplated on a hydrophilic metal, such as aluminum or stainless steel. Negative-working platemaking exposes the image areas to light, hardening the coating on top of the copper. The unexposed coating is then dissolved away, baring the copper, which is in turn removed chemically, baring the second metal beneath it. Some plates use a tertiary metal, which serves to merely support the other two and plays little role in the actual printing surface of the plate. Of primary advantage to these plates is their virtual indestructibility. (See <a title="Bimetal Plate" href="Bimetal_Plate">Bimetal Plate</a>.) 
+</p>
+<p id="l23">
+'Ablation Plates'. These are primarily used in computer-to-plate systems, and consist of digital information controlling laser diodes which burn small holes in a coating applied to the surface of a polyester or metallic plate. Of primary advantage is the lack of chemical processing, which allows them to be mounted and imaged directly on the press. (See <a title="Ablation Plate" href="Ablation_Plate">Ablation Plate</a>.) 
+</p>
+<p id="l25">
+'Heat-Sensitive Plates'. These plates utilize heat (in the form of infrared radiation) rather than light as the means of exposing the image vs. non-image areas. Their coatings typically consist of heat-sensitive polymers, etched by infrared laser diodes. With post-exposure curing processes, these plates can be made capable of print runs in excess of 1,000,000. (See <a title="Heat Sensitive Plate" class="nonexistent" href="http://printwiki.org/Heat_Sensitive_Plate">Heat Sensitive Plate</a>.) 
+</p>
+<p id="l27">
+'Hybrid Plates'. These utilize two separate coatings, a conventional photopolymer as the bottom layer, a silver halide coating providing the top layer. As the top layer is exposed—either with lasers or conventional, high-intensity light—the bottom layer is exposed by ultraviolet light. Removal of the upper layer and chemical processing of the bottom layer produces the image and non-image areas of the plate, printing being done from the bottom layer. 
+</p>
+<p id="l29">
+Of increasing importance and use today is the use of computer-to-plate systems. (See <a title="Platemaking" href="Platemaking">Platemaking</a>.) 
+</p>
+<p id="l31">
+Most lithographic plates are <a title="Surface Plate" href="Surface_Plate">surface plate</a>s, whose surface contains an oleophilic, light-sensitive coating. There are two basic categories of lithographic plates determined by the means used to expose them (in systems that do not utilize digital platemaking techniques): <a title="Negative-Working" href="Negative-Working">negative-working</a> and <a title="Positive-Working" href="Positive-Working">positive-working</a>. To produce negative-working plates, a negative of the piece to be printed is placed against the plate. Light shines through the negative in the image areas only, rendering only those regions of the plate hard and insoluble. Consequently, after exposure, the unexposed coating in the non-image areas of the plate are dissolved away, or subtracted (this type of platemaking is thus called <a title="subtractive" class="nonexistent" href="http://printwiki.org/subtractive">subtractive</a>, especially when the coating has been pretreated with an image-reinforcing compound). A solution of <a title="Gum Arabic" href="Gum_Arabic">gum arabic</a> (or other gum, either natural or synthetic) is used to further <a title="Desensitize" href="Desensitize">desensitize</a> the non-image areas of the plate, rendering them even more water-receptive. Some negative-working plates require the addition of a substance to reinforce the strength and durability of the plate coating in the image areas, and are thus called <a title="additive" class="nonexistent" href="http://printwiki.org/additive">additive</a>. Positive-working plates are produced in a similar manner, except that a photographic positive is brought into contact with the unexposed plate during platemaking. The plate is exposed through the non-image areas and unexposed in the image areas. The coating is formulated so that the areas that are exposed to high-intensity light (i.e., the non-image areas) are rendered soluble, and after exposure to light chemical treatment removes the exposed portions of the plate. (See <a title="Platemaking" href="Platemaking">Platemaking</a>.) 
+</p>
+<p id="l33">
+Both negative- and positive-working plates behave virtually identically on press. 
+</p>
+<p id="l35">
+After platemaking, the plate is mounted on the press's <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>. According to the press manufacturer's recommendations, the appropriate amount of <a title="Packing" href="Packing">packing</a>, or paper or plastic material is inserted underneath the plate to raise the height of the plate surface, is added. (See <a title="Packing" href="Packing">Packing</a>.) Once the plate is mounted, it is inked up to determine the <a title="Lay" href="Lay">lay</a>, or the position of the printed image on the paper (or other substrate). It may be necessary to adjust the position of the plate in order to center the image squarely on the paper. Once the pressrun is started, a properly formulated and adjusted inking system and dampening system will keep the plate properly inked and dampened. Prolonged press stoppages, such as overnight, should be accompanied by a thorough cleaning of the plate; hardened gumx on the image areas will render them ink-repellent. A finisher, such as an asphaltum-gum etch, can be applied to the surface of a plate, which will preserve the appropriate degrees of ink repellency and receptivity in non-image and images areas, respectively. 
+</p>
+<p id="l37">
+As was mentioned earlier, a properly formulated <a title="Fountain Solution" href="Fountain_Solution">fountain solution</a> is important to prevent the accumulation of ink in non-image areas of the plate, especially in those that lie between halftone dots. The film of hydrophilic gum added during initial plate desensitization wears off during the course of a print run, and it is the gum in the fountain solution that maintains this film. Improper retention of this film due to poorly formulated or applied fountain solution causes <a title="Scumming" href="Scumming">scumming</a>, a general term for the accumulation of ink in non-image areas. Modern aluminum plates are easy to desensitize and keep desensitized, but scumming is still occasionally a problem. A variety of scumming, called <a title="Ink Dot Scum" href="Ink_Dot_Scum">ink dot scum</a>, is characterized by a large collection of small dots of ink collecting in the non-image areas of the plate and is typically caused by corrosion of the plate—frequently a result of adding water to the plate and letting it evaporate so slowly that it oxidizes the aluminum, forming tiny pits in the surface of the plate that can collect ink. If ink dot scum is caught soon enough, it can be eliminated with a solution of gum arabic and phosphoric acid. If it has progressed too far, the plate is unusable. 
+</p>
+<p id="l39">
+A problem that can be considered as the reverse of scumming is <a title="Plate Blinding" href="Plate_Blinding">plate blinding</a>, or a lack of ink receptivity in image areas, commonly caused by an abrasive force—such as <a title="Form Roller" href="Form_Roller">form roller</a>s set too hard to the plate, too much pressure between the plate and <a title="Blanket Cylinder" href="Blanket_Cylinder">blanket cylinder</a>, or excessively abrasive paper—rubbing off the image. Blinding can also be caused by a poor adhesion of the plate coating to the image areas, which can begin to rub off during the print run. Blinding is also caused by the gum in the dampening solution beginning to desensitize the image areas, which can be the result of too much gum in the dampening solution, too little ink flow from the ink fountain, a waterlogged ink, or a fountain solution that is too acidic, all of which gives the desensitizing gum a better foothold on undesirable regions of the plate. (See also <a title="Offset Lithography: Printing Unit" class="nonexistent" href="http://printwiki.org/Offset_Lithography:_Printing_Unit">Offset Lithography: Printing Unit</a>, <a title="Offset Lithography: Plates" class="nonexistent" href="http://printwiki.org/Offset_Lithography:_Plates">Offset Lithography: Plates</a>, and <a title="Fountain Solution" href="Fountain_Solution">Fountain Solution</a>.) 
+</p>
+<span id="head-4dc9cc9fe495b65ea7b58e1875aaf4e62652ec8e"><h3 id="l43">FLEXOGRAPHY</h3></span>
+<p id="l45">
+The first plates developed for flexographic printing were made of natural or, more commonly, synthetic rubber, and were manufactured much like letterpress plates. Although <a title="Photopolymer Plate" href="Photopolymer_Plate">photopolymer plate</a>s are now widely used in flexographic platemaking, rubber still has its adherents, primarily because of its economy, its simplicity, and its compatibility with ink solvents that cannot be used with photopolymer plates. 
+</p>
+<p id="l47">
+'Rubber Plates'. Molded rubber plates are produced from etched metal masters, which are used to make molds, or matrices. A photographic negative of the image is placed on top of a metal sheet—typically magnesium, although photosensitive nylon photopolymers are becoming common for making masters—whose surface is coated with an acid <a title="Resist" href="Resist">resist</a>. The photosensitive resist is exposed to ultraviolet light through the image areas, causing those portions of the resist to harden and become insoluble, leaving the non-image areas unhardened, with varying degrees of hardness in between, depending on the amount of exposure received by the resist. After exposure, the metal sheet is washed, which dissolves the unexposed resist, leaving the exposed portions intact. An <a title="Etchant" href="Etchant">etchant</a> is applied to the surface of the metal, where it engraves the plate only in those areas unprotected by the hardened resist (i.e., in the non-image areas), leaving the image areas in relief. After etching, a mold—or matrix—of the relief plate is made by pressing the master into a molding sheet composed of a phenolic resin (commonly a thermosetting resin, which hardens upon exposure to heat), cellulose, and mineral fibers. Some matrix sheets also use a phenolic molding powder called Bakelite, which is used to achieve extra depth of the image areas (i.e., when the image height on the final plate is needed to be more than 0.125 inch), which is necessary for some applications, such as the printing of corrugated board. Generally speaking, rubber plate relief height obtainable with sheet matrices ranges from 0.020:0.125 inch. The matrix is produced in a molding press by pressing the metal relief master face down into the matrix material at high temperatures (300:310ºF) for approximately 8:10 minutes. After curing, the master is removed from the matrix and the mold is allowed to cool. Brushing removes any foreign matter. When the matrix is ready to be used for molding the rubber plate, the correct thickness of the rubber sheet needed is determined by measuring the diameter of the plate cylinder on which it is to be mounted and ensuring that the thickness of the rubber will be enough to ensure proper contact with the inking <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a> and the <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>. The rubber sheet is pressed into the matrix at high pressure (600:1,000 psi) and temperature (300:310ºF) for about 10 minutes. After removing the finished plate from the matrix, it is examined for undesirable variations in thickness and other defects. In many cases, excessive thickness can be corrected by grinding. 
+</p>
+<p id="l49">
+'Photopolymer Plates'. As was mentioned in the above discussion of photopolymer plates used in offset lithography, photopolymers are materials that, when exposed to light, undergo polymerization, or the chemical conversion of many small molecules into long chain molecules. The result is that they will be harder and more insoluble in exposed areas and softer in unexposed areas. There are two basic types of photopolymer plates used in flexographic platemaking: 
+</p>
+<p id="l51">
+'Sheet Photopolymers'. As its name indicates, these plates are supplied as sheets, typically pre-cut to the desired size. They are first exposed to ultraviolet light on one side to cure—or harden—the plate base. After exposure, the plate is flipped over, and a negative of the image to be exposed placed on top of it. The plate is again exposed to ultraviolet light, which exposes the image areas through the negative. After exposure, the plate is processed with chemicals that remove the unexposed non-image areas, lowering those portions of the plate surface and leaving the image areas in relief. Post-exposure drying and a final dose of ultraviolet light cures and hardens the whole plate, making it printable. 
+</p>
+<p id="l53">
+'Liquid Photopolymers'. To manufacture liquid photopolymer plates, the film negative of the image to be exposed is placed on a glass plate and protected by a plastic transparent cover film. A layer of a liquid photopolymeric substance is applied to the surface of the cover film, typically accomplished by a motorized device that controls the thickness of the photopolymer and ensures that the application is uniform. It also applies on top of the liquid photopolymer a coated sheet which will bond with the photopolymer and serve as the plate base. Exposure on the base side of the plate facilitates the bonding of the photopolymer to the base. Then, a second ultraviolet light source below the negative exposes the photopolymer in the image areas of the negative, which causes those regions to solidify. The non-image areas remain liquid, and are washed off after exposure, leaving the hardened image areas in relief. A final dose of ultraviolet light cures the whole plate. 
+</p>
+<p id="l55">
+Liquid photopolymer plates tend to have several advantages over solid sheet photopolymer plates, including shorter drying times, since the washout procedure only involves soap and water, whereas sheet photopolymers use solvents that impregnate the plate surface and need longer periods of time to be leached out. The thickness of the liquid photopolymer can also be varied at will, as opposed to having to rely on a standard set of sheet thicknesses. 
+</p>
+<p id="l57">
+One of the problems inherent in the use of flexible plates that are exposed flat, and then wrapped around a cylinder, is that of image elongation. Often, the film negative must be shrunk to compensate for image enlargement once the plate has been mounted on the press. A common formula for calculating the percentage that the negative needs to be reduced to compensate for image elongation is 
+</p>
+<p id="l61">
+% reduction = K/R x 100% 
+</p>
+<p id="l65">
+where K is a constant (provided by plate manufacturers) and R is the printing circumference of the plate cylinder (expressed as the repeat length of the cylinder). The K factor is dependent upon the plate thickness. 
+</p>
+<p id="l67">
+Because rubber plates have had the longer history of the two types of plates, there are more variations in rubber platemaking. The most widely-used is known as a <em>plain-backed plate</em> and, as its name implies, it is simply the molded rubber plate with no special backing. A <em>shrink-controlled plate</em> sandwiches a sheet of fabric between layers of rubber, to ensure that no shrinkage of the plate occurs during molding, used primarily when print size and proper register of successive colors or images is important. A somewhat similar type of plate is a <em>metal-backed plate</em> which molds and vulcanizes the rubber to a metal backing. Such plates, like some of those used on offset presses, have prepunched holes for accurate mounting on plate cylinder registration pins. Such plates tend to be easier to mount and more accurate than traditional adhesive-backed plates. Several types of <em>remounted plates</em> are produced on a removable metal cylinder or sleeve that can be slid onto the plate cylinder. Some varieties also produce the plate on a mountable carrier sheet. <em>Magnetic plates</em> have the rubber surface applied to a magnetic backing material, allowing the plate to be mounted on the plate cylinder magnetically, which allows for easy mounting and removal, as well as register adjustment. 
+</p>
+<p id="l69">
+One particular alternative to flexographic plates is a <a title="Design Roll" href="Design_Roll">design roll</a>, which is a printing cylinder containing a layer of rubber. The image areas are engraved directly on the rubber-covered cylinder, commonly using lasers. They are used primarily when seamless printing is required, such as for gift-wrapping, linerboard, security paper, etc. (See <a title="Design Roll" href="Design_Roll">Design Roll</a>.) 
+</p>
+<p id="l71">
+(See also <a title="Platemaking: Flexography" class="nonexistent" href="http://printwiki.org/Platemaking:_Flexography">Platemaking: Flexography</a> and <a title="Flexography" href="Flexography">Flexography</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

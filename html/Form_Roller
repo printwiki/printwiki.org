@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Form Roller - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Form Roller" class="currentChild" href="Form_Roller">Form Roller</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of several rollers found in the <a title="Inking System" href="Inking_System">inking system</a> and <a title="Dampening System" href="Dampening_System">dampening system</a> of a printing press used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>, which are in direct contact with, and transfer ink or dampening solution to, the printing plate. There are usually three to four form rollers in the <a title="Roller Train" href="Roller_Train">roller train</a>, commonly of different diameters to help prevent the printing problem known as <a title="Mechanical Ghosting" href="Mechanical_Ghosting">mechanical ghosting</a>. The form rollers can be lifted off the plate manually if desired, or automatically, as when the press is not printing. When the form rollers are raised from the plate, the <a title="Ductor Roller" href="Ductor_Roller">ductor roller</a> is removed from contact with the <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> and ink flow through the system ceases. 
+</p>
+<p id="l3">
+The proper setting of the form rollers is crucial. Form rollers that are set with too much pressure against the plate cylinder can cause streaking (caused by a bouncing generated as the form rollers pass over the <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a>), as well as <a title="Slurring" href="Slurring">slurring</a> and <a title="Dot Gain" href="Dot_Gain">dot gain</a>, not to mention accelerated plate and roller wear and damage. Drastically unequal pressure between the form rollers and the <a title="Oscillator" href="Oscillator">oscillator</a> at one end, and between the form rollers and the plate cylinder at the other end can also cause skidding and streaking. Increased pressure between the form rollers and the oscillator adjacent to them can cause warping and out-of-roundness of the form rollers, which produces a bounce when rolling against the plate, generating streaks and other blemishes. Form rollers can be set using the <a title="Strip Method" href="Strip_Method">strip method</a> (ither the <a title="Three-Strip Method" href="Three-Strip_Method">three-strip method</a> or the <a title="Folded-Strip Method" href="Folded-Strip_Method">folded-strip method</a>), in which specially-cut strips of paper, plastic, or <a title="Packing" href="Packing">packing</a> material are inserted between the rollers and pulled out. The extent of the drag experienced during the pulling is a determination of not only the general pressure existing between the rollers, but also a gauge of the uniformity of the pressure between the rollers across their width. 
+</p>
+<p id="l5">
+Setting of form rollers can also be accomplished using a less subjective <a title="Roller-Setting Gauge" href="Roller-Setting_Gauge">roller-setting gauge</a>. The form rollers should always be set to the oscillator before setting them to the plate cylinder. Setting the form rollers to the plate can be accomplished in the same manner as setting them to the oscillator, although form rollers should be set slightly lighter to the plate so that the form rollers are driven by the oscillator and not the plate cylinder. Form roller setting can be evaluated using the <a title="Picture Method" href="Picture_Method">picture method</a> (also called the <a title="Ink Stripe Method" href="Ink_Stripe_Method">ink stripe method</a>). 
+</p>
+<p id="l7">
+Some presses are also equipped with an <a title="Oscillating Form Roller" href="Oscillating_Form_Roller">oscillating form roller</a> which moves laterally as it turns, not only smoothing out the ink film before it contacts the plate, but also helping to reduce mechanical ghosting. (See also <a title="Inking System: Offset Lithography" class="nonexistent" href="http://printwiki.org/Inking_System:_Offset_Lithography">Inking System: Offset Lithography</a>, and <a title="Offset Lithography" href="Offset_Lithography">Offset Lithography</a>.) In some presses, the first inking form roller also doubles as a dampening form roller. (See <a title="Inker-Feed System" href="Inker-Feed_System">Inker-Feed System</a>.) 
+</p>
+<p id="l9">
+In the dampening system of an offset press, the form rollers (of which there are typically two) also contact the plate directly, just prior to the inking form rollers. <a title="Fountain Solution" href="Fountain_Solution">Fountain solution</a> is transferred to the first dampening form roller by the dampening oscillator. Dampening form rollers that are driven by pressure from the oscillator are made of rubber, and are either covered with cloth or paper, or are run <a title="bareback" class="nonexistent" href="http://printwiki.org/bareback">bareback</a>. The proper setting of dampening form rollers to the plate and to the oscillator are also important, to ensure consistent and adequate transfer of fountain solution to the plate. The strip methods indicated above can also be used to evaluate the setting of the dampening form rollers. In some <a title="Continuous-Flow Dampening System" href="Continuous-Flow_Dampening_System">continuous-flow dampening system</a>s, the dampening form rollers do not exist, the first inking form roller doubling as a dampening form roller. (See <a title="Dampening System" href="Dampening_System">Dampening System</a>.) 
+</p>
+<p id="l11">
+The term <em>form roller</em> is also used to refer to one of a series of rollers (commonly three) that perform a similar function on presses used for <a title="Letterpress" href="Letterpress">letterpress</a> printing. In this case, the form rollers transfer the ink to the flat typeform or the plate cylinder, depending upon the press configuration. See <a title="Letterpress" href="Letterpress">Letterpress</a>. 
+</p>
+<p id="l13">
+In <a title="Flexography" href="Flexography">flexography</a>, the term <em>form roller</em> is used occasionally to refer to the <a title="Anilox Roller" href="Anilox_Roller">anilox roller</a>, or other type of roller that transfers ink to the surface of the plate. See <a title="Anilox Roller" href="Anilox_Roller">Anilox Roller</a> and <a title="Inking System: Flexography" class="nonexistent" href="http://printwiki.org/Inking_System:_Flexography">Inking System: Flexography</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

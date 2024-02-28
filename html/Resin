@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Resin - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Resin" class="currentChild" href="Resin">Resin</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A material, either solid or semi-solid, used as a printing ink <a title="Binder" href="Binder">binder</a> in ink <a title="Vehicle" href="Vehicle">vehicle</a>s to assist the ink <a title="Pigment" href="Pigment">pigment</a> in adhering to the <a title="Substrate" href="Substrate">substrate</a>. Resins also determine the ink qualities of gloss, hardness, and adhesion. Resins are either derived from natural sources (such as <a title="Rosin" href="Rosin">rosin</a>, derived from the distillation of turpentine obtained from the sap of pine trees) and lac (secreted by the lac insect, used in <a title="Shellac" href="Shellac">shellac</a>), or are synthesized by the <a title="Polymerization" href="Polymerization">polymerization</a> of other materials. Commonly-used resins include <a title="Alkyd" href="Alkyd">alkyd</a>s, <a title="Asphaltum" href="Asphaltum">asphaltum</a>, <a title="Coumarone-Indene Resin" href="Coumarone-Indene_Resin">coumarone-indene resin</a>, <a title="Fumaric Resin" href="Fumaric_Resin">fumaric resin</a>, <a title="Gum" href="Gum">gum</a>, <a title="Maleic Resin" href="Maleic_Resin">maleic resin</a>, <a title="Nylon" href="Nylon">Nylon</a>, <a title="Phenolic Resin" href="Phenolic_Resin">phenolic resin</a>, <a title="Polyethylene" href="Polyethylene">polyethylene</a>, <a title="Polypropylene" href="Polypropylene">polypropylene</a>, <a title="Polyvinyl Acetate" href="Polyvinyl_Acetate">polyvinyl acetate</a>, <a title="Polyvinyl Alcohol" href="Polyvinyl_Alcohol">polyvinyl alcohol</a>, <a title="Polyvinyl Chloride" href="Polyvinyl_Chloride">polyvinyl chloride</a>, <a title="Polyvinyl Chloride Acetate" href="Polyvinyl_Chloride_Acetate">polyvinyl chloride acetate</a>, and <a title="Shellac" href="Shellac">shellac</a>. Resins are also used in <a title="Varnish" href="Varnish">varnish</a>es, <a title="Lacquer" href="Lacquer">lacquer</a>s, and other materials. (See <a title="Vehicle" href="Vehicle">Vehicle</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

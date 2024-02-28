@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PrintWiki/Policies/Privacy - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../../Front_Page" class="tab">Front Page</a><a href="../../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PrintWiki" href="../../PrintWiki">PrintWiki</a>/<a title="PrintWiki/Policies" href="../Policies">Policies</a>/<a title="PrintWiki/Policies/Privacy" class="currentChild" href="Privacy">Privacy</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-9db108ba6b7f6571356060929e37dae65878cfca"><h2 id="l2">Privacy Policy</h2></span>
+<p id="l4">
+Your privacy on the Internet is important to PrintWiki. We want to make your experience at printwiki.org satisfying and safe. 
+</p>
+<p id="l6">
+Because PrintWiki gathers certain types of information about you, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information PrintWiki gathers and how we use it. 
+</p>
+<span id="head-697193e254d986b6e34624fed8545a76a6146b84"><h3 id="l8">Usage tracking</h3></span>
+<p id="l10">
+User traffic patterns are tracked throughout the site. However, we do not correlate this information with data about individual users. we do break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). 
+</p>
+<span id="head-524cf50b5df5f29161c0600989922de48abede70"><h3 id="l12">Cookies</h3></span>
+<p id="l14">
+The server may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+</p>
+<p id="l16">
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you need to have cookies enabled to participate in some features. 
+</p>
+<span id="head-d50e6ad72a7b5581e982afdc343b542615adf27b"><h3 id="l18">3rd-Party Sites and Services</h3></span>
+<p id="l20">
+3rd-Party Sites and Services maybe linked to, included, or used throughout PrintWiki.. Please refer to 3rd-Party Sites and Services for their privacy policies. 
+</p>
+<span id="head-dcf75191c585bfb6059ad203f7ce5630a589a405"><h3 id="l22">Children</h3></span>
+<p id="l24">
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), PrintWiki will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+</p>
+<p id="l26">
+If you have questions or comments regarding this policy, please contact PrintWiki via email at wiki-info (at) printwiki |dot| org 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

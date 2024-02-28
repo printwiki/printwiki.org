@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Ink jet - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Ink jet" class="currentChild" href="Ink_jet">Ink jet</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Inkjet printers are a type of computer printer that operates by propelling tiny droplets of liquid ink onto paper. They are the most common type of computer printer for the general consumer due to their low cost, high quality of output, capability of printing in vivid color, and ease of use. 
+</p>
+<p id="l3">
+There are several types of Inkjet printing, which can be classified into the method used to deposit the ink: 
+</p>
+<span id="head-5064622f7b85c2276c2f9ad47beceea60afdc839"><h2 id="l5">Thermal Ink Jet</h2></span>
+<p id="l6">
+Most consumer ink jet printers work by having a print cartridge with a series of tiny electrically-heated chambers constructed by <a class="external" href="http://en.wikipedia.org/wiki/Photolithography"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">photolithography</a>. To produce an image, the printer runs a pulse of current through the heating elements. A steam explosion in the chamber forms a bubble, which propels a droplet of ink onto the paper (hence Canon's tradename for its inkjets, Bubblejet). The ink's surface tension pulls another charge of ink into the chamber through a narrow channel attached to an ink reservoir. 
+</p>
+<span id="head-7fb68317c38b5e267d8054034c78fa7a4620e50e"><h2 id="l8">Piezoelectric Ink Jet</h2></span>
+<p id="l9">
+All Epson printers and most commercial and industrial ink jet printers use a <a class="external" href="http://en.wikipedia.org/wiki/Piezoelectricity"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">piezoelectric material</a> in an ink-filled chamber behind each nozzle instead of a heating element. When a voltage is applied, the crystal changes shape or size, this generates a pressure pulse in the fluid forcing a droplet of ink from the nozzle. This is essentially the same mechanism as the thermal inkjet but generates the pressure pulse using a different physical principle. Piezoelectric ink jet allows a wider variety of inks than thermal or continuous ink jet but is more expensive. 
+</p>
+<span id="head-c8ba93e4d74dc13b521ad1c6a8ac0d336ae88f81"><h2 id="l11">Continuous Ink Jet</h2></span>
+<p id="l12">
+The continuous ink jet method is used commercially for marking and coding of products and packages. The first patent on the idea is from 1867, by William Thomson. The first commercial model was introduced in 1951 by Siemens. In continuous ink jet technology, a high-pressure pump directs liquid ink from a reservoir through a microscopic nozzle, creating a continuous stream of ink droplets. A piezoelectric crystal causes the stream of liquid to break into droplets at regular intervals. The ink droplets are subjected to an electrostatic field created by a charging electrode as they form. The field is varied according to the degree of drop deflection desired. This results in a controlled, variable electrostatic charge on each droplet. Charged droplets are separated by one or more uncharged “guard droplets” to minimize electrostatic repulsion between neighboring droplets. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

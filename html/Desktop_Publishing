@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Desktop Publishing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Desktop Publishing" class="currentChild" href="Desktop_Publishing">Desktop Publishing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A general, popular term referring to the process of assembling pages on a <a title="Desktop Computer" href="Desktop_Computer">desktop computer</a>, commonly accomplished using commercially-available software, an input device such as a scanner, and an output device, such as a laser printer or other devices of increasing image quality and <a title="Resolution" href="Resolution">resolution</a>. Desktop publishing is enhanced (and, in fact, even made possible) by the use of <a title="Page Description Language" href="Page_Description_Language">page description language</a>s, most notably Adobe Systems's <a title="PostScript" href="PostScript">PostScript</a>. Increasing output quality has resulted in many publications—from newspapers to magazines to newsletters to corporate documents—being assembled on desktop computers rather than on traditional typesetters. 
+</p>
+<p id="l3">
+The term "desktop publishing" itself was coined in the mid-1980s by Paul Brainerd, the founder of Aldus Corporation (now owned by Adobe Systems), the company whose <a title="PageMaker" href="PageMaker">PageMaker</a> program essentially invented the idea of publishing from one's desktop. Although initially desktop publishing was used for little more than short-run newsletters, flyers, and brochures, the same systems are now often used to create books, slick magazines, newspapers, etc. In fact, there is now very little difference between desktop publishing and digital <a title="Prepress" href="Prepress">prepress</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

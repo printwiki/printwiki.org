@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Contrast - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Contrast" class="currentChild" href="Contrast">Contrast</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Any difference between visual items. 
+</p>
+<p id="l3">
+In typography and the graphic design thereof, contrast can include <a title="Point Size" href="Point_Size">point size</a> (10-point vs. 24-point), character <a title="Weight" href="Weight">weight</a> (plain vs. bold), character width (condensed vs. expanded), character form (uppercase vs. lowercase), character placement (next to each other vs. at oblique angles to each other), character structure (<a title="Serif" href="Serif">serif</a> vs. <a title="Sans Serif" href="Sans_Serif">sans serif</a>), character posture (normal vs. oblique), and various combinations of these properties. The use of contrasting type in design is useful and effective, but as a general rule the contrast needs to be strong to be effective. Varying fonts can be effective (not within a single text paragraph, of course), but there should be a large degree of difference between the fonts. Contrasting Helvetica with Times Roman is effective; contrasting Bookman with Palatino looks like an error. 
+</p>
+<p id="l5">
+In printing (or other forms of reproduction), <em>contrast</em> refers to the degree of perceptible difference between a duplicate and the original from which it was made. 
+</p>
+<p id="l7">
+'Contrast<em> is also used to refer to a specific mathematical relationship between the tonal qualities of the original and a reproduction. A <a title="Gray Scale" href="Gray_Scale">gray scale</a> can be used to compare and contrast each density of the original—from the <a title="Shadow" href="Shadow">shadow</a>s through the <a title="middle tones" class="nonexistent" href="http://printwiki.org/middle_tones">middle tones</a> to the <a title="Highlight" href="Highlight">highlight</a>s—with the corresponding densities of the reproduction. These densities can be graphed with the densities of the original on the x axis and those of the reproduction on the y axis, to generate a <a title="Gamma" href="Gamma">gamma</a> curve. The slope of the resulting line is an indication of the fidelity of the reproduction. A gamma—or slope—of 1.0 describes a line at a 45º angle from both the horizontal and the vertical, corresponding to a perfect reproduction (or, in other words, each density on the original is matched identically with those on the reproduction). Portions of the curve with less than a 45º angle indicate low contrast. Commonly, color reproductions have low contrast in the shadows, but normal contrast in middletones and highlights. 
+</p>
+<p id="l9">
+The gamma can be calculated mathematically according to the following formula: 
+</p>
+<p id="l13">
+[insert C003] 
+</p>
+<p id="l19">
+where represents gamma, DRo represents the density range of the original, and DRr represents the density range of the reproduction. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

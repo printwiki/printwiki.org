@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Trap - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Trap" class="currentChild" href="Trap">Trap</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In multi-color printing, an allowance of overlap for two <a title="Color" href="Color">color</a>s printed adjacent to each other, as a means of compensating for <a title="Misregister" href="Misregister">misregister</a> and to avoid gaps between colors. 
+</p>
+<p id="l3">
+In typography, an indentation cut into the intersection of strokes on a letter, particularly in early photographic typesetting and especially when setting bold typefaces. The problem of <a title="Bleed" href="Bleed">bleed</a> arose often, due to changes in focus, light-exposure intensity, and ink bleeding during printing. Any alteration of one or more of these factors resulted in the intersections of the letters not looking sharp on the final print. As a means of compensating for this problem, <em>traps</em> are cut into these problem spots, so that photographic and ink bleed will bring the interesection optically out where it belongs. As can be expected, this form of type needs to be redesigned a number of times before the correct amount of compensation is achieved. 
+</p>
+<p id="l5">
+One particular problem with traps is that they become visible when setting large <a title="Point Size" href="Point_Size">point size</a>s. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

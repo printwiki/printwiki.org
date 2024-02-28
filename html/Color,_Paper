@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Color, Paper - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Color, Paper" class="currentChild" href="Color,_Paper">Color, Paper</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper (or other material) will absorb light of only certain wavelengths, depending on its chemical composition, and reflect the remaining wavelengths back toward the observer. These reflected wavelengths are a paper's color. Dyes or other fillers added to white paper are the chief determinants of a paper's color. The human eye alone is insufficient for the proper determination of a color value of a particular paper, and a color value will also vary based on the type of illumination used, so carefully cut paper samples are put in color-matching booths, where <a title="TAPPI" class="nonexistent" href="http://printwiki.org/TAPPI">TAPPI</a>-prescribed levels of illumination (i.e., simulated daylight) are shined on a paper at right angles to its surface. It is important in color matching that the paper samples themselves be chosen with care; the paper samples should all have the same <a title="Grain Direction" href="Grain_Direction">grain direction</a>, and the same side (either <a title="Felt Side" href="Felt_Side">felt side</a> or <a title="Wire Side" href="Wire_Side">wire side</a>) should be illuminated. A <a title="Spectrophotometer" href="Spectrophotometer">spectrophotometer</a> is an instrument that analyzes the reflected light from a paper surface wavelength by wavelength, and generates a <a title="Spectral Reflectance Curve" href="Spectral_Reflectance_Curve">spectral reflectance curve</a>, or a graph of the degree of light reflectivity from a paper's surface against each individual wavelength along the visible spectrum. 
+</p>
+<p id="l3">
+In the human eye and brain, color is a subjective quality. An objective measurement, in addition to spectrophotometry and specular reflectance curves, involves the use of color-matching scales, which plot the degree of reflectance of the three primary colors—red, green, and blue—on a three-axis graph. These "tristimulus values" are used to define a color. (See <a title="CIE L*a*b*" class="nonexistent" href="http://printwiki.org/CIE_L%2Aa%2Ab%2A">CIE L*a*b*</a> scales. Other scales use degree of blackness or whiteness, a degree of redness or greenness, and a degree of yellowness or blueness (in other words, color oppositions). (See also <a title="Hunter L,a,b Values" href="Hunter_L,a,b_Values">Hunter L,a,b values</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

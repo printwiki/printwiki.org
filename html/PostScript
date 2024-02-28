@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PostScript - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PostScript" class="currentChild" href="PostScript">PostScript</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Adobe PostScript (PS) is a device independent <a title="Page Description Language" href="Page_Description_Language">Page Description Language</a> (PDL) released by Adobe Systems in 1984. 
+</p>
+<p id="l3">
+The Apple LaserWriter, based on a Canon printing engine, was the first device to ship with PostScript. The combination of the PostScript language, an affordable laser printing device, and PC-based design and layout programs, sparked the <a title="Desktop Publishing" href="Desktop_Publishing">Desktop Publishing</a> (DTP) industry. 
+</p>
+<p id="l5">
+Although Adobe has stopped development of the PostScript language to concentrate instead on <a title="Portable Document Format" href="Portable_Document_Format">Portable Document Format (PDF)</a>, PostScript remains an industry de facto standard language for the graphic arts, publishing, and printing industries. In fact, PostScript awareness has increased dramatically in recent times due to the marketing buzz created by <a title="Variable Data Printing" href="Variable_Data_Printing">Variable Data Printing</a> (VDP). 
+</p>
+<p id="l7">
+The PostScript language has undergone two major revisions since its release in 1984. 
+</p>
+<p id="l9">
+<strong>Level 1</strong> 
+</p>
+<p id="l11">
+The PostScript language has gone through 2 major upgrades. The first version, known as PostScript Level 1, was introduced in 1984. 
+</p>
+<p id="l13">
+<strong>Level 2</strong> 
+</p>
+<p id="l15">
+PostScript Level 2 was introduced in 1991, and included several improvements: improved speed and reliability, support for in-RIP separations, image decompression (for example, JPEG images could be accessed directly by a PostScript program), support for composite fonts, and the form mechanism for caching reusable content. 
+</p>
+<p id="l17">
+<strong>Level 3</strong> 
+</p>
+<p id="l19">
+PostScript 3 came at the end of 1997, and along with many new dictionary-based versions of older operators, introduced better color handling, and new filters (which allow in-program compression/decompression, program chunking, and advanced error-handling). 
+</p>
+<p id="l21">
+<strong>Language Features</strong> 
+</p>
+<p id="l23">
+As a programming language, PostScript has many unique features. Unlike most languages, which are register-based, use variables, and have relatively few operators, PostScript is stack-based, doesn't technically use variables, and is operator rich. 
+</p>
+<p id="l25">
+All operators consume operands, and may produce results which can in turn be used as operands. All operands (and results) are placed on the stack, and all operators consume their operands directly from the stack. Thus, operaands precede their operators, in a syntax known as "Reverse Polish Notation (RPN)". For example, consider this PostScript code: 
+</p>
+<p id="l27">
+2 4 add 10 mul 
+</p>
+<p id="l29">
+First, "2'" is placed on the stack, then "4", and then the "add" operator. The "add" operator always has the same default behavior. It consumes the top two operators on the stack, adds them, and then places the result on the stack. So now we have "6" on the stack, place "10" on the stack, and the "mul" operator consumes them, leaving "60" on the stack. The "60" could then be used by other operators. 
+</p>
+<p id="l31">
+PostScript has a number of operators that perform stack manipulation to remove, duplicate, or sequence the stack in a variety of ways. 
+</p>
+<p id="l33">
+PostScript doesn't use variables per se. Instead, PostScript has a "dictionary" construct. A dictionary is a collection of key-value pairs. Most data types, such as numbers, strings, or names (a PostScript data type similar to a label or variable name) can be used as keys. Any data type (including other dictionaries) can be used as values. When a name is placed on the stack, PostScript initiates a search through all the dictionaries until it finds the key, looks up the associated value, places the value on the stack, and optionally executes it. 
+</p>
+<p id="l35">
+The dictionaries themselves are stored on their own stack, the "dictionary" stack. All versions of PostScript come with two built-in dictionaries, the "systemdict", and the "userdict". All PostScript operators are stored in the systemdict. Since dictionaries are search top-down, this makes it possible to do operators re-definition. If a programmer needed to change the behavior of any PostScript operator, this could be accomplished by creating a procedure, assigning it the same name as the operator, and storing it in a higher-level dictionary. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

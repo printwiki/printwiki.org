@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Global Orientation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Global Orientation" class="currentChild" href="Global_Orientation">Global Orientation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-2473e96bc614a911821242119918a241a41836d6"><h2 id="l1">Introduction</h2></span>
+<p id="l2">
+Welcome to the global orientation page.  The basic idea behind this page is to provide people with a guided tour around the world of the printing industry. As such it is an introductionary page for people who are not really familiar with the topic.  Otherwise, it might also provide some structure to the wiki inviting people elaborate on different topics. At first, the links will remain unlinked.  As the wiki develops however, more and more links will be "filled" to provide a complete overview. 
+</p>
+<p id="l4">
+The world of print encompasses a lot of different topics, and it can be structured in a great many ways.  In this approach, the division of different chapters will be based on the different stages a document passes through.  The term document can be interpreted in various ways.  It could be a mere black and white name card, an art history encyclopedia containing many pages, or a daily newspaper. 
+</p>
+<span id="head-3cfdafb4a2428a5bc968384ceb36f36f6ea1d4d1"><h2 id="l6">The Structure</h2></span>
+
+        <ol type="1">
+
+        <li>
+<p id="l8">
+Creation of a Document <br/>
+</p>
+</li>
+        <li>
+<p id="l9">
+Publishing <br/>
+</p>
+</li>
+        <li>
+<p id="l10">
+Pre-Press <br/>
+</p>
+</li>
+        <li>
+<p id="l11">
+Printing <br/>
+</p>
+</li>
+        <li>
+<p id="l12">
+Post Press 
+</p>
+</li>
+</ol>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

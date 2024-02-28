@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Folding - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Folding" class="currentChild" href="Folding">Folding</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, an operation performed—commonly after printing and <a title="Cutting" href="Cutting">cutting</a>—to fold a press sheet into a <a title="Signature" href="Signature">signature</a>. Folding is performed using special devices—either <a title="In-Line" href="In-Line">in-line</a> or <a title="Off-Line" href="Off-Line">off-line</a>—called <a title="Folder" href="Folder">folder</a>s. 
+</p>
+<p id="l3">
+In addition to folding press sheets into signatures (which will eventually be bound and slit), folding is also performed to create brochures, magazine and newspaper inserts, maps, newspapers, etc. 
+</p>
+<p id="l5">
+'Folds'. Signatures for books are said to be <a title="folded-to-print" class="nonexistent" href="http://printwiki.org/folded-to-print">folded-to-print</a>, which means that the folds are made in such a way as to ensure that <a title="Header" href="Header">header</a>s, <a title="Footer" href="Footer">footer</a>s, <a title="Folio" href="Folio">folio</a>s, and other page elements, as well as <a title="backup printing" class="nonexistent" href="http://printwiki.org/backup_printing">backup printing</a>, are kept aligned from page to page throughout the signature. Other types of printed materials (in particular sheets with printing on only one side) are said to be <a title="folded-to-paper" class="nonexistent" href="http://printwiki.org/folded-to-paper">folded-to-paper</a>, which means that such attention to alignment is not necessary. Folding-to-paper is acceptable in cases where all sheets exist independently of each other, as opposed to book signatures which do not. 
+</p>
+<p id="l7">
+There are two basic types of folds which can be made to a sheet: a <a title="Right-Angle Fold" href="Right-Angle_Fold">right-angle fold</a> is made at a 90º angle to a previous fold, while a <a title="Parallel Fold" href="Parallel_Fold">parallel fold</a> is oriented in the same direction as the previous fold. It is the combination of right-angle and parallel folds in various locations on a sheet that provide the wide array of folding configurations, including the <a title="Accordion Fold" href="Accordion_Fold">accordion fold</a>, the <a title="Gatefold" href="Gatefold">gatefold</a>, the <a title="Over-and-Over Fold" href="Over-and-Over_Fold">over-and-over fold</a>, the <a title="French Fold" href="French_Fold">French fold</a>, and the <a title="Letter Fold" href="Letter_Fold">letter fold</a>, for example. The number of folds made to a press sheet determines the number of leaves (and pages) in that signature. See <a title="Folio" href="Folio">Folio</a>, <a title="Quarto" href="Quarto">Quarto</a>, <a title="Octavo" href="Octavo">Octavo</a>, <a title="Sixteenmo" href="Sixteenmo">Sixteenmo</a> and <a title="Thirty-twomo" href="Thirty-twomo">Thirty-Twomo</a>. 
+</p>
+<p id="l9">
+Machines used for folding are high-speed, high-tech devices that use combinations of knives and rollers to rapidly and accurately fold sheets. There are two basic types of folder: 
+</p>
+<p id="l11">
+'Knife Folders'. A <a title="Knife Folder" href="Knife_Folder">knife folder</a> has a folding unit comprising moving tapes or belts which feed a sheet along a flat plane until it contacts and is stopped by a gauge. The sheet is positioned squarely against a side guide. Beneath the sheet is a pair of counter-rotating folding rollers. The gauge and side guides position the sheet so that the desired location of the fold is above the nip of the two rollers. A metal knife presses down at a right angle to the sheet and forces it down between the rollers, which creates the fold. Additional folding units—of a similar configuration—are located at right angles to the previous folding unit and create additional folds in the sheet. Most knife folders also contain perforating units, which pierce the folds enough to allow air to escape, preventing wrinkles and other defects, as well as paper jams. 
+</p>
+<p id="l13">
+Three different configurations of knife folder include the <a title="Jobber" href="Jobber">jobber</a>, which contains four folding units and one (or two) parallel folding sections. The jobber allows up to four right-angle folds, two right-angle folds and one fold parallel to the second, or three right-angle folds and one fold parallel to the third; the <a title="Double-Sixteen" href="Double-Sixteen">double-sixteen</a> is designed for producing 16-page or 32-page signatures; and a <a title="Quadruple" href="Quadruple">quadruple</a> is designed to produce four 16-page or two 32-page signatures. 
+</p>
+<p id="l15">
+'Buckle Folders'. A <a title="Buckle Folder" href="Buckle_Folder">buckle folder</a> has a folding unit which uses moving tapes or belts to carry a sheet up a slight incline between two metal plates (collectively called a <a title="fold plate" class="nonexistent" href="http://printwiki.org/fold_plate">fold plate</a>). When the sheet hits a pre-positioned stop gauge at the top of the fold plate assembly it buckles slightly at the base of the fold plate. This buckle is grabbed by a set of rotating rollers and pulled downward, creating the fold. The sheet is then passed to additional fold plates and folding units to create the desired number and orientation of folds. 
+</p>
+<p id="l17">
+Each type of folder is used for different types of jobs. Right angle folds are primarily the purview of knife folders, while parallel folds are often made using buckle folders. Lighter-weight papers perform better on a buckle folder, while heavier-weight papers are often folded with a knife folder. Large signature sheets produced in printing books are more often folded with a knife folder. 
+</p>
+<p id="l19">
+There are also <a title="Combination Folder" href="Combination_Folder">combination folder</a>s which comprise folding units of both knife and buckle configurations. These tend to be more flexible than either/or devices. 
+</p>
+<p id="l21">
+Some common problems experienced with folders involve worn or improperly-positioned sheet deflectors, which can cause <a title="Dog-Ear" href="Dog-Ear">dog-ear</a>s, or a bend in the corner of a sheet. <a title="Double-Sheet Detector" href="Double-Sheet_Detector">Double-sheet detector</a>s are also used on folders as a means of preventing more than one sheet from feeding into the machine at a time, which can cause paper jams and spoilage. 
+</p>
+<p id="l23">
+There are many accessories available for folders, which act to make the folding operations as trouble-free as possible. Air nozzles are used to provide as complete sheet separation as possible. Newer fold-plate designs can account for different stock weights. Stackers improve efficiency. Automated counters accurately measure the number of units passing into and out of the machine, allowing precise logs of a particular job. 
+</p>
+<p id="l25">
+(See also <a title="Binding and Finishing" href="Binding_and_Finishing">Binding and Finishing</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

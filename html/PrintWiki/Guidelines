@@ -1,0 +1,211 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PrintWiki/Guidelines - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PrintWiki" href="../PrintWiki">PrintWiki</a>/<a title="PrintWiki/Guidelines" class="currentChild" href="Guidelines">Guidelines</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l2">
+<table class="tableOfContents"><tr><td><ol>
+<li>
+<a href="Guidelines#head-141d1d74d8a6b3e7a7f1418ef539a53ce746ef34">Guidelines</a></li>
+<ol>
+<li>
+<a href="Guidelines#head-9239ee2cda84eca4c3440e2a7b50148af67da3d4">General</a></li>
+<li>
+<a href="Guidelines#head-4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469">Content</a></li>
+<li>
+<a href="Guidelines#head-8fb937b602b4f2ef21c7fab00ac15de3b3ba49ea">Discussion</a></li>
+<li>
+<a href="Guidelines#head-70cb647a88bd7c9c17d225eecdaf0f898261eb60">Behavior</a></li>
+</ol>
+
+</ol>
+
+</td></tr></table> 
+</p>
+<span id="head-141d1d74d8a6b3e7a7f1418ef539a53ce746ef34"><h2 id="l4">Guidelines</h2></span>
+<p id="l6">
+Guidelines are not set in stone and should be treated with common sense and the occasional exception. Amendments to a guideline should be discussed on the Guidelines Talk page. A guideline is made by listening to objections and resolving them. It's generally acceptable to edit a guideline to improve it. 
+</p>
+<span id="head-9239ee2cda84eca4c3440e2a7b50148af67da3d4"><h3 id="l8">General</h3></span>
+
+    <ul>
+
+    <li>
+<p id="l10">
+ <strong>Be bold in updating pages</strong> <br/><p id="l11">
+ PrintWiki will develop faster when people fix problems, correct grammar, add facts, make sure the language is precise, and so on. We expect everyone to be bold. It's okay. <br/>
+</p>
+</li>
+    <li>
+<p id="l12">
+ <strong>Build the web</strong> <br/><p id="l13">
+ Connect relevant topics throughout an article since all articles in the encyclopedia are nodes in on the internet. <br/>
+</p>
+</li>
+    <li>
+<p id="l14">
+ <strong>Provide an edit summary</strong> <br/><p id="l15">
+ Providing an edit summary, even if the edit is minor, makes PrintWiki work better by quickly explaining to other users what your change was about. 
+</p>
+</li>
+
+    </ul>
+
+
+<span id="head-4f9be057f0ea5d2ba72fd2c810e8d7b9aa98b469"><h3 id="l17">Content</h3></span>
+
+    <ul>
+
+    <li>
+<p id="l19">
+ Images <br/><p id="l20">
+ Uses images to illustrate ideas. <br/>
+</p>
+</li>
+    <li>
+<p id="l21">
+ Abundance and redundancy <br/><p id="l22">
+ It is preferred to have abundance and redundancy of content rather than to exclude it to resolve an edit war. <br/>
+</p>
+</li>
+    <li>
+<p id="l23">
+ Autobiography <br/><p id="l24">
+ Avoid writing or editing articles about yourself, since most of us find objectivity especially difficult when we ourselves are concerned. Contribute on the talk page instead. Feel free to correct mistaken or out-of-date facts about yourself. <br/>
+</p>
+</li>
+    <li>
+<p id="l25">
+ Disambiguation <br/><p id="l26">
+ If an article's name is very similar to another, make a note at the top. <br/>
+</p>
+</li>
+    <li>
+<p id="l27">
+ Cite sources <br/><p id="l28">
+ Point the reader to authoritative references (and list them properly), so that facts can be verified. <br/>
+</p>
+</li>
+    <li>
+<p id="l29">
+ Avoid statements that will date quickly <br/>
+</p>
+</li>
+    <li>
+<p id="l30">
+ Check your facts <br/>
+</p>
+</li>
+    <li>
+<p id="l31">
+ Avoid inappropriate expressions 
+</p>
+</li>
+
+    </ul>
+
+
+<span id="head-8fb937b602b4f2ef21c7fab00ac15de3b3ba49ea"><h3 id="l33">Discussion</h3></span>
+
+    <ul>
+
+    <li>
+<p id="l34">
+ Sign your posts on talk pages <br/><p id="l35">
+ Sign all your posts on PrintWiki talk pages by typing <tt>["YourUserName"]</tt> or using the signature button ("Me") in the editor tool bar. This allows for accountability and to help others understand the conversation. 
+</p>
+</li>
+    <li class="gap">
+<p id="l37">
+ Use indentation to create threads. 
+</p>
+</li>
+
+    </ul>
+
+
+<span id="head-70cb647a88bd7c9c17d225eecdaf0f898261eb60"><h3 id="l39">Behavior</h3></span>
+
+    <ul>
+
+    <li>
+<p id="l41">
+ Don't disrupt PrintWiki to illustrate a point <br/><p id="l42">
+ By all means state your point. But don't spam PrintWiki, push rules to their limits or otherwise create work for other people just to "prove your point." <br/>
+</p>
+</li>
+    <li>
+<p id="l43">
+ Etiquette <br/><p id="l44">
+ Contributors have different views, perspectives, and backgrounds, sometimes varying widely. Treating others with respect is key to collaborating effectively in building PrintWiki. <br/>
+</p>
+</li>
+    <li>
+<p id="l45">
+ Please do not bite the newcomers <br/><p id="l46">
+ Many new contributors lack knowledge about PrintWiki policies and Guidelines. But always understand that new contributors are prospective "members" and are therefore our most valuable resource. <br/>
+</p>
+</li>
+    <li>
+<p id="l47">
+ Profanity <br/><p id="l48">
+ Words and images that might be considered offensive, profane, or obscene by other PrintWiki readers should be used if and only if their omission would cause the article to be less informative, relevant, or accurate, and no equally suitable alternatives are available. <br/>
+</p>
+</li>
+    <li>
+<p id="l49">
+ User page <br/><p id="l50">
+ You can use your user page to add a little information about yourself or to help you to use PrintWiki more effectively. But remember that PrintWiki is not a blog, webspace provider, or social networking site. 
+</p>
+</li>
+</ul>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

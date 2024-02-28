@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Complementary Flat - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Complementary Flat" class="currentChild" href="Complementary_Flat">Complementary Flat</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In the <a title="Image Assembly" href="Image_Assembly">image assembly</a> phase of <a title="Prepress" href="Prepress">prepress</a>, one of two separate <a title="Flat" href="Flat">flat</a>s which will be imaged on the same printing <a title="Plate" href="Plate">plate</a>. Complementary flats are one means of handling disparate page elements which need to be imaged on the same plate, but which yield better results when imaged separately on the same plate (such as two images which need to butt each other, or need to overlap slightly). For example, in the case of abutting images, the space between the adjacent images may be too narrow to make an effective splice on the same flat. The process of using complementary flats in platemaking is called <a title="Double Printing" href="Double_Printing">double printing</a>. If images on each complemenatry flat are to overlap, it is known as <a title="Surprinting" href="Surprinting">surprinting</a>. 
+</p>
+<p id="l3">
+In some cases, separate images can be prepared on complementary flats and combined photographically onto a single film prior to platemaking, a process called <a title="Photocombining" href="Photocombining">photocombining</a>. Such a negative (or positive) is called a <a title="Composite Negative" href="Composite_Negative">composite negative</a> (or <a title="Composite Positive" href="Composite_Positive">composite positive</a>). (See <a title="Prepress: Graphic Arts Photography and Flat Assembly" class="nonexistent" href="http://printwiki.org/Prepress:_Graphic_Arts_Photography_and_Flat_Assembly">Prepress: Graphic Arts Photography and Flat Assembly</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

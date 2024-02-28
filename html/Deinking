@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Deinking - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Deinking" class="currentChild" href="Deinking">Deinking</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A procedure performed to make <a title="Recovered Fiber" href="Recovered_Fiber">recovered fiber</a> usable for the manufacturing of <a title="Recycled Paper" href="Recycled_Paper">recycled paper</a> that is to be used for printing and writing papers. Deinking is the first phase of the "repulping" process for recycled papers. Mesh screens filter out large particles, and centrifugal cleaners remove other non-fibrous particles. Particles that float to the surface of the cleaning tank are skimmed off. In <a title="Wash Deinking" href="Wash_Deinking">wash deinking</a>, chemical <a title="dispersent" class="nonexistent" href="http://printwiki.org/dispersent">dispersent</a>s and physical collision remove ink particles from the wastepaper, allowing them to be washed away. Further chemical treatment keeps the separated ink from returning to the fibers. The fibers are strained out of the solution, and the ink particles remain behind. This process also removes <a title="Fines" href="Fines">fines</a> and particles of filler from the previous papermaking process, which helps produce a stronger, brighter pulp. Wash deinking, however, tends not to be a very cost-effective procedure, requiring large amounts of water.  
+</p>
+<p id="l3">
+<a title="Flotation Deinking" href="Flotation_Deinking">Flotation deinking</a> treats wastepaper with chemicals such as calcium soaps that render the ink particles <a title="Hydrophobic" href="Hydrophobic">hydrophobic</a>, or tending to avoid water. The suspended ink particles are collected by air bubbles injected into the flotation tank, and they are carried to the surface where they can be skimmed off. Flotation deinking uses less water than wash deinking, but often both procedures must be used to make the recovered fibers suitable for writing and printing papers. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

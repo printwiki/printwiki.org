@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Feeder Section - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Feeder Section" class="currentChild" href="Feeder_Section">Feeder Section</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The portion of a printing press in which the paper (or other <a title="Substrate" href="Substrate">substrate</a>) is stored and fed into the press for printing. 
+</p>
+<p id="l3">
+On an offset press, the feeder section separates individual sheets of paper from the <a title="Pile Table" href="Pile_Table">pile table</a> by means of a <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">sheet-separation unit</a> and transfers them to a <a title="Feedboard" href="Feedboard">feedboard</a>, on which they are jogged into the correct position and then transferred to the <a title="Infeed Section" href="Infeed_Section">infeed section</a> of the press. There are two basic configurations of feeder section: a <a title="Stream Feeder" href="Stream_Feeder">stream feeder</a> sends sheets through the press, at speeds slower than that of the press, in such a way that more than one sheet is on the feedboard at any one time; and a <a title="Single-Sheet Feeder" href="Single-Sheet_Feeder">single-sheet feeder</a> sends sheets though the press, at speeds equal to that of the press, so that only one sheet is on the feedboard at any one time. Both types of feeders utilize essentially the same methods for transferring sheets. For the specific differences between the two systems, see <a title="Stream Feeder" href="Stream_Feeder">Stream Feeder</a> and <a title="Single-Sheet Feeder" href="Single-Sheet_Feeder">Single-Sheet Feeder</a>. 
+</p>
+<p id="l5">
+The pile table can be raised or lowered to permit adding paper stock. Stock must be added, and the pile table itself positioned, so that the paper is exactly centered when it enters the press, or it will not be registered properly and either the resulting print will be off center or the paper will jam in the press. The paper should also be preconditioned to the <a title="Relative Humidity" href="Relative_Humidity">relative humidity</a> of the pressroom, as <a title="Wavy Edges" href="Wavy_Edges">wavy edges</a> and <a title="Curl" href="Curl">curl</a> can cause feeding problems. The paper should also be neatly stacked in the press, and all ream markers and damaged sheets (such as those with bent corners or tears) should be removed. Manufacturer specifications indicate the correct margins required to compensate for grippers and pile guides. Some pile tables are continuous-feeding, allowing for additional stock to be added without necessitating press stoppage. (See <a title="Pile Table" href="Pile_Table">Pile Table</a>.) Other configurations allow rolls of paper to be fed into the machine and cut into sheets by the feeding section just prior to printing. (See <a title="Roll Sheeter" href="Roll_Sheeter">Roll Sheeter</a>.) 
+</p>
+<p id="l7">
+A <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">sheet-separation unit</a> is responsible for accurately plucking one sheet from the top of the pile and sending it to the feedboard. Typically, nozzles direct bursts of air under the topmost half dozen or so sheets, and vacuum-powered <a title="Pickup Sucker" href="Pickup_Sucker">pickup sucker</a>s at the rear of the pile lift the top sheet. A <a title="Feeder Foot" href="Feeder_Foot">feeder foot</a> drops and holds down the rest of the pile, while nozzles blow a cushion of air beneath the top sheet. A set of pickup suckers toward the front of the pile (called <a title="Forwarding Sucker" href="Forwarding_Sucker">forwarding sucker</a>s) then pull the sheet to the <a title="Forwarding Roller" href="Forwarding_Roller">forwarding roller</a>s. (On a <a title="Stream Feeder" href="Stream_Feeder">stream feeder</a>, the rear pickup suckers are already picking up the next sheet in the pile before the first sheet has completely cleared the pile.) The pressure of the air and the force of the vacuum, as well as the pressure of the feeder foot and other elements of the sheet-separation unit (such as <a title="Separator Brush" href="Separator_Brush">separator brush</a>es and <a title="Separator Finger" href="Separator_Finger">separator finger</a>s), can be adjusted and need to be set to ensure that more than one sheet is not fed through at a time. (See <a title="Sheet-Separation Unit" href="Sheet-Separation_Unit">Sheet-Separation Unit</a>.) 
+</p>
+<p id="l9">
+The forwarding rollers mark the boundary between the sheet-separation unit and pile table and the feedboard. Between the forwarding rollers is a <a title="Double-Sheet Detector" href="Double-Sheet_Detector">double-sheet detector</a>, a device that shuts off the feeder if more than one sheet is passing by at once. Once on the feedboard, a series of rollers, balls, brushes, and feed tapes keep the paper moving toward the front of the feedboard, where it hits a series of <a title="Front Guides" href="Front_Guides">front guides</a> and pauses. <a title="Side guides" class="nonexistent" href="http://printwiki.org/Side_guides">Side guides</a> close in and ensure that the paper's lateral movement down the feedboard has been compensated for, and that the paper is in proper position for printing. Once the paper is positioned, the <a title="Infeed Section" href="Infeed_Section">infeed section</a> is responsible for transferring the sheet to the printing unit. 
+</p>
+<p id="l11">
+The sheet control devices on the feedboard can vary from press to press and need to be adjusted depending on the characteristics of the paper being used (see <a title="Feedboard" href="Feedboard">Feedboard</a>), and the position of the forwarding rollers adjusted (see <a title="Fowarding Roller" class="nonexistent" href="http://printwiki.org/Fowarding_Roller">Fowarding Roller</a>). The double-sheet detector also needs to be calibrated depending on the job (see <a title="Double-Sheet Detector" href="Double-Sheet_Detector">Double-Sheet Detector</a>). At the front of the feedboard, many presses also have additional <a title="Sheet Detector" href="Sheet_Detector">sheet detector</a>s that gauge whether a sheet is early or late. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

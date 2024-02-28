@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Interface - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Interface" class="currentChild" href="Interface">Interface</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In physical and chemical terms, an interface is the line or point of contact between two separate media, such as between water and air. In computing, the term <em>interface</em> has several meanings. 
+</p>
+<p id="l3">
+The most common definition of <em>interface</em> refers to the way a computer interacts with the user (and vice versa), usually used to describe either a <a title="command-line interface" class="nonexistent" href="http://printwiki.org/command-line_interface">command-line interface</a>, in which text-based and somewhat cryptic commands are entered via a keyboard, or a <a title="Graphical User Interface" href="Graphical_User_Interface">graphical user interface</a>, in which icons, windows, and dialog boxes are clicked on using a mouse or other similar device. The latter is often described as more <a title="user-friendly" class="nonexistent" href="http://printwiki.org/user-friendly">user-friendly</a>. See <a title="Command-Line Interface" class="nonexistent" href="http://printwiki.org/Command-Line_Interface">Command-Line Interface</a> and <a title="Graphical User Interface" href="Graphical_User_Interface">Graphical User Interface</a>. This type of interface is commonly known as a <a title="User Interface" href="User_Interface">user interface</a> or <a title="Software Interface" href="Software_Interface">software interface</a>. 
+</p>
+<p id="l5">
+The term <em>interface</em> also refers to the means by which two hardware components of a computer system interact with each other, usually involving some means of software control. For example, different computer systems have different interfaces between the <a title="CPU" class="nonexistent" href="http://printwiki.org/CPU">CPU</a> and <a title="Peripheral" href="Peripheral">peripheral</a> devices connected tyo it. On the Apple <a title="Macintosh" href="Macintosh">Macintosh</a> and increasingly <a title="Windows" href="Windows">Windows</a>-based PCs, the <a title="Small Computer System Interface" href="Small_Computer_System_Interface">Small Computer System Interface</a> is the means by which attached disk drives, CD-ROM drives, scanners, etc., communicate with the CPU. Peripheral devices—including printers and modems—also need <a title="Device Driver" href="Device_Driver">device driver</a>s, which are the primary software component of the interface. This type of interface is commonly known as a <a title="hardware interface" class="nonexistent" href="http://printwiki.org/hardware_interface">hardware interface</a>. 
+</p>
+<p id="l7">
+The term <em>interface</em> also refers to the means by which a computer is connected to a network, faciliating the transfer of data from node to node. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

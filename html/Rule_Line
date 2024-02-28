@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Rule Line - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Rule Line" class="currentChild" href="Rule_Line">Rule Line</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a continuous line used for alignment, separation of page elements, or underlining. A rule is actually an <a title="Em Dash" href="Em_Dash">em dash</a>, repeated to form a line. Not all dashes can form solid lines when repeated (e.g., hyphens). 
+</p>
+<p id="l3">
+The difficulty with rule lines is that the width of the rule—being multiples of one <a title="Em" href="Em">em</a>, or the <a title="Point Size" href="Point_Size">point size</a>—may not divide evenly into the <a title="Line Length" href="Line_Length">line length</a>. If the line length is an even number of <a title="Pica" href="Pica">pica</a>s, the 12-point rule (which is 12 points wide) would divide evenly. If the line length is in half-picas, the 6-point rule would divide evenly. If there is other copy on the line, then there is only luck. Since the typesetting machine might put the excess space at the end of the line, a word space should be placed between other copy and the start of the rule so that the excess space has some place to go. Modern page makeup or desktop programming programs (or even older digitized typesetters) may either relieve or compound this problem. 
+</p>
+<p id="l5">
+The lightest weight rule is the <a title="Hairline Rule" href="Hairline_Rule">hairline rule</a>, followed by the half-point rule, the one-point rule, and further variations increasing in increments of—usually—one point. The most commonly-used rule is the half-point rule. The hairline rule is often difficult to see when printed, especially if it appears printed as white on black (i.e., as a reverse), in which case it tends to fill in. Vertical and horizontal rules are used to create boxes; the weight of these rules should not overpower the type or other material within the box. Ornamental rules are used to separate page elements or to merely ornament. They commonly have an old-fashioned look to them, and best complement traditional <a title="Roman" href="Roman">roman</a> or <a title="Black Letter" href="Black_Letter">black letter</a> typefaces. A rule line is often called simply a <a title="Rule" href="Rule">rule</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

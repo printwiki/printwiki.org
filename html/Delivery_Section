@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Delivery Section - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Delivery Section" class="currentChild" href="Delivery_Section">Delivery Section</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The portion of a printing press where the printed sheets are stacked to dry, or to await further finishing operations such as trimming, folding, etc. The delivery section typically comprises a <a title="Delivery Cylinder" href="Delivery_Cylinder">delivery cylinder</a>, which may power a delivery chain, each of which contains <a title="Gripper" href="Gripper">gripper</a>s that carry the printed sheet from the last <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a> to the <a title="Delivery Pile" href="Delivery_Pile">delivery pile</a>, a series of <a title="joggers" class="nonexistent" href="http://printwiki.org/joggers">joggers</a> (or similar devices) that keep the sheets in a neat stack, and various add-on devices such as a <a title="Sheet Decurler" href="Sheet_Decurler">sheet decurler</a> and delivery-assist devices such as <a title="Suction Roller" href="Suction_Roller">suction roller</a>s, <a title="Blow-Down" href="Blow-Down">Blow-down</a>s, and <a title="Pile Wedge" href="Pile_Wedge">pile wedge</a>s, all of which work to keep the sheets neatly piled. A variety of different sheet-guiding mechanisms are added to the delivery cylinder or delvery chain to more easily transport the printed sheet without smearing, mudging, or marking the inl. Such devices include <a title="Skeleton Wheels" href="Skeleton_Wheels">skeleton wheels</a>, <a title="Air-Transport Drum" href="Air-Transport_Drum">air-transport drum</a>s, or near-fdrictionless covers such as those found on <a title="Transfer Cylinder" href="Transfer_Cylinder">transfer cylinder</a>s. Add-on devices such as skeleton wheels (or other types of wheels) need to be positioned so that they do not contact the sheet in an image area, to prevent smudging. Proper positioning of the joggers also ensures that the pages are stacked neatly. (See <a title="Delivery Cylinder" href="Delivery_Cylinder">Delivery Cylinder</a>, <a title="Transfer Cylinder" href="Transfer_Cylinder">Transfer Cylinder</a>, and <a title="Jogger" href="Jogger">Jogger</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Color Separation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Color Separation" class="currentChild" href="Color_Separation">Color Separation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A means of dividing a full <a title="Color" href="Color">color</a> photograph into four separate components, corresponding to the four <a title="Primary Colors" href="Primary_Colors">primary colors</a> used in <a title="Process Color" href="Process_Color">process color</a> printing—<a title="Cyan" href="Cyan">cyan</a>, <a title="Magenta" href="Magenta">magenta</a>, <a title="Yellow" href="Yellow">yellow</a>, and <a title="Black" href="Black">black</a>. Process color printing involves overprinting <a title="Halftone Dot" href="Halftone_Dot">halftone dot</a>s of each of these four colors in varying densities, the various combinations producing the wide range of reproducible colors. Consequently, a different printing plate needs to be made of each color and this, in turn, requires separate <a title="Negative" href="Negative">negative</a>s or <a title="Positive" href="Positive">positive</a>s. (The term <em>color separation</em> refers to both the process and the products of that process.) The process of color separation can be accomplished photographically, electronically, or on the desktop. 
+</p>
+<p id="l3">
+'Photographic Color Separation'. Before the adevent of electronic and digital prepress systems, all color separations were made photographically by exposing a full-color <a title="Continuous Tone" href="Continuous_Tone">continuous tone</a> image through a series of <a title="Red" href="Red">red</a>, <a title="Green" href="Green">green</a>, and <a title="Blue" href="Blue">blue</a> filters to sheets of unexposed film. Each filter would expose only that primary color in the image as a film negative, and the resulting film positive would contain the complementary—or opposite—color. The red filter images the red areas of the image on the negative, and the positive will thus contain the complementary—or opposite—color, cyan. The green filter images the green areas of the image on the negative, and the resulting positive will contain its opposite, magenta. And the blue filter images only the blue components of the image and the resulting positive will contain its opposite, yellow. In order to increase <a title="Contrast" href="Contrast">contrast</a>, a fourth separation, black, is made to darken <a title="Shadow" href="Shadow">shadow</a> areas and grays. When black is used, the other three colors are reduced proportionately, so as to effect proper ink transfer on press. Plates can be images from the negatives, the positives being used for proofing purposes. Often, however, <a title="Color Correction" href="Color_Correction">color correction</a> is required, and the process of <a title="Dot Etching" href="Dot_Etching">dot etching</a> is performed to improve specific regions of the image. Often, when using photographic separations, different regions of an image required different color densities, so it was not unusual for many different pieces of color-separated film to be spliced together, each of which had been photographed in a slightly different manner from different regions of the image. 
+</p>
+<p id="l5">
+For this reason, electronic color separation caught on quickly, and little photographic separation is performed any longer. 
+</p>
+<p id="l7">
+'Electronic Color Separation'. In the late 1970s and early 1980s, high-end <a title="Color Electronic Prepress System" href="Color_Electronic_Prepress_System">color electronic prepress system</a>s heralded the age of electronic color separation. In essence, an original (preferably a <a title="Transparency" href="Transparency">transparency</a>) is mounted to the drum of a <a title="Drum Scanner" href="Drum_Scanner">drum scanner</a>, and a light source analyzes the image <a title="Pixel" href="Pixel">pixel</a> by pixel. (In some early scanners, the light source could only detect one of the three RGB elements at any one time, so three passes were required; later scanners were able to split a single light beam into individual RGB signals). All of the red components of an image are stored in the device as a range of gray values, which is essentially the range of reds. Similarly, all the green, and all of the blue elements are also stored as series of grays. 
+</p>
+<p id="l9">
+At this point, one of several things can happen. Since in electronic scanning the RGB images become digital data and are no longer subject to the action of real light, converting them to <a title="CMY" class="nonexistent" href="http://printwiki.org/CMY">CMY</a> is tricky. (Adding the black becomes another issue, as well.) In older scanners, software in the scanner itself converted the RGB data to CMYK data, using algorithms that were proprietary and varied from scanner vendor to scanner vendor. These early scanners also output the color separation film immediately after scanning, utilizing a second drum inside the device. (This "double-action scanner" is rarely used today, except in cases where the film will actually be stripped into <a title="Flat" href="Flat">flat</a>s, a technique which is quicly being replaced by electronic page layout programs.) Alternately, the RGB data can be stored in the prepress system's central computer, and later output as CMYK data to a separate <a title="Film Recorder" href="Film_Recorder">film recorder</a>. Or, the RGB data can be sent to the central computer, and then to a graphics workstation for retouching, manipulation, and incorporation with text and other page elements into a finished page. Then, the color separation can be effected by the page makeup program, and output with the rest of the page. 
+</p>
+<p id="l11">
+In the late 1980s, as desktop computers became more powerful and software made it easier to lay out pages and manipulate scanned images, desktop color separation began to increase in frequency. 
+</p>
+<p id="l13">
+'Desktop Color Separation'. The power and speed of <a title="Microcomputer" href="Microcomputer">microcomputer</a>s, coupled with the strength of off-the-shelf <a title="Page Layout Software" href="Page_Layout_Software">page layout software</a> such as <a title="PageMaker" href="PageMaker">PageMaker</a> and <a title="QuarkXPress" href="QuarkXPress">QuarkXPress</a>, and <a title="PostScript" href="PostScript">PostScript</a>-based <a title="Imagesetter" href="Imagesetter">imagesetter</a>s, enabled high-quality color output at a fraction of the cost of high-end proprietary color prepress systems. Although, at the beginning, color separation algorithms used by these desktop systems couldn't approach the quality of those possible on high-end systems, that is no longer the case. Desktop color separation functions almost identically to the high-end electronic separation, the primary difference being that scanners used on desktop systems cannot perform separations "on-the-fly"; they must be performed after scanning, adding a step to the process. After scanning, the image is imported into an image processing program, such as Photoshop, and any color corrections or further manipulation is performed. The grayscale data for each RGB channel is merged, so a full-color RGB image is displayed, although each channel can often be edited separately. (And using only three channels—rather than four for CMYK images—reduces the file size and processing requirements during editing, which expedites matters considerably. The image can then be imported into a page makeup program. (Often, a <a title="Low-Resolution File" href="Low-Resolution_File">low-resolution file</a> is displayed at this stage. Since the monitor can only display at very low resolutions, there is no real need to use the actual, <a title="High-Resolution File" href="High-Resolution_File">high-resolution file</a>, which would only slow down the system. Later, during output, the high-resolution file will be substituted.) After pages are made up, the application can effect the conversion to CMYK. The use of a <a title="Color Management System" href="Color_Management_System">color management system</a> can help ensure that the colors are remapped from RGB to CMYK effectively; since a computer monitor can only display in RGB mode, what you see may be far removed from what you ultimately get. Various <a title="digital color proof" class="nonexistent" href="http://printwiki.org/digital_color_proof">digital color proof</a>s can be generated before actual output, which can approximate fairly closely the actual colors that will be output. 
+</p>
+<p id="l15">
+Actual separation films are output on an imagesetter (also itself known as a film recorder), where it can then be sent for platemaking, stripping, or other prepress activity. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

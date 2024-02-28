@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Color Proof - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Color Proof" class="currentChild" href="Color_Proof">Color Proof</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Process Color" href="Process_Color">process color</a> printing, a sample of the actual <a title="Substrate" href="Substrate">substrate</a> to be printed using the inks that will be printed, pulled from the press prior to the actual printing of the job as a means of checking the <a title="Color Balance" href="Color_Balance">color balance</a>, <a title="Registration" href="Registration">registration</a>, and other aspects of the job which may need to be corrected prior to printing. 
+</p>
+<span id="head-259ce321a334c5f24e8f4f3f6897aeacb438e1ee"><h2 id="l3">Why are proofs important?</h2></span>
+<p id="l4">
+Proofs are important for ensuring accuracy not just in color reproduction, but in content management and page layout. For example, spelling and type errors, imposition issues, etc. Proofs serve many purposes, and are very important because they serve as what one could relate as the rough draft of an essay. It saves the costs of printing a final document that may contain errors or unexpected color changes. 
+</p>
+<span id="head-70d1f9e8ff9be548fa0259a4828eb8e419f647d6"><h2 id="l6">Types of Proofs</h2></span>
+<p id="l7">
+<strong>Soft Proofs:</strong> Soft proofing is when you view a PDF of your final document on your computer. When soft proofing, one is just looking for page layout, content, and type errors. It is also considered soft proofing when a copy of the document is printed on a regular printer for corrections or notes of things to change that can be written or drawn right on the document. 
+</p>
+<p id="l9">
+<strong>Contract (Hard) Proofs:</strong> Contract proofs are ones that are targeted to be as close as possible to what the final output will look like. The term comes from its use as a "contract" between the printer and the client. If the client likes the proof, they sign off on it and it goes to print. 
+</p>
+<span id="head-3931b59531d0187b24cb18237da2a2c6df8219b4"><h2 id="l11">Regular color proofing where ink is concerned</h2></span>
+<p id="l13">
+Customer orders an ink color for let’s say, for example, a litho press. They order CMYK and a spot color, and let’s say that it’s Pantone 221. 
+</p>
+<p id="l15">
+The ink is mixed either on site (if the company has the facilities for it) or they order it. It is then mixed per order (not in batch) and gets sent to the customer. When a client wants to print let’s say a pretty picture on that litho press with the CMYK and the 221, The color may or may not match exactly (given that no 2 ink mixes are exactly the same, and different ink company’s formulate inks in different ways, they more or less follow a formula). The client is provided with a proof of what the job looks like, and if they like it they sign off on it and the printer tweaks the colors of CMYK and spot on press to match the referenced proof. They do this by adjusting the densities of the ink. 
+</p>
+<p id="l17">
+<strong>Key Points</strong> 
+</p>
+
+                                <ul>
+
+<p id="l19">
+        • There is a reference (the proof) <br/><p id="l20">
+        • There is the ink that is made per request made to a formula where there is a lot of testing to the contents   of the formula to perfect it in some way. <br/><p id="l21">
+        • On press densities are adjusted to match the print to         the proof. 
+</p>
+
+                                </ul>
+
+
+<span id="head-85352d6743e8a57d66c102d4b6657644ed6e2e12"><h2 id="l24">Color Proofing for Hewlett-Packard at RIT</h2></span>
+<p id="l26">
+Customer orders ink for indigo. Could be a specific spot color, could be a custom color. 
+</p>
+<p id="l28">
+If the ink is something we have mixed before, then we pull up the formula that has been documented and mix it and ship (per request) 
+</p>
+<p id="l30">
+If the ink is not, then the color that has been requested (either spot or custom) is scanned into the IMS, and the software determines what it thinks the best formula to achieve that color (using algorithms that are known to the press device.) This color may or may not match what we truly want, which in Indigo’s case is a color that matches to 1ΔE in the L*a*b* color space. 
+</p>
+<p id="l32">
+L*a*b* represents closely how a human perceives color visually, and when ΔE is less than 1, is known to show no visual difference between the 2 colors in question. Delta E is the average of the delta L, a, and b. Delta is the difference between 2 values (in this case, the target value and our resulting value of the print). 
+</p>
+<p id="l34">
+This is where the spectrophotometer comes into play, where we use it scan the target value, and compare it to the resulting value, under certain lighting conditions and degree observe (the angle in which you observe the color) standard for Indigo color proofing is D50 lighting and a 10degree observer. D65 lighting is used when a color is metameric (or can appear as 2 different colors under 2 different lights). 
+</p>
+<p id="l36">
+Now we have 2 plausible things: a pantone reference color, which is a standardize swatch color system, or a custom color, which is a color provided by the customer that they want to print (usually company logo is in it, and it ties into brand identity like Kodak Yellow and Coke Red)- either way, this is your reference. 
+</p>
+<p id="l39">
+Because the formula given by the IMS may not match the color exactly (because it is theoretically produced by computer algorithms), we have to add color and adjust density to the formula in order to match that color. Then when we get it within our standards, we mix and ship it off to the customer. <br/>Now the customer receives it, and on press, the customer can adjust the density of the ink when printing it to their satisfaction. 
+</p>
+<p id="l43">
+<strong>Key Points </strong> 
+</p>
+
+                                <ul>
+
+<p id="l45">
+        • You have your reference: pantone, customer swatch <br/><p id="l46">
+        • You have your formula which is tweaked based off color theory <br/><p id="l47">
+        • You have the ability to adjust density on press. 
+</p>
+
+                                </ul>
+
+
+<p id="l52">
+<strong>Author’s Thoughts</strong> 
+</p>
+<p id="l54">
+The proofing on the Indigo is a little more specific, because digital printing hasn’t been around as long as litho and other processes where the ink formulation is much more mature. In the cases of there being a proof on the Indigo, it is because the pantone color hasn’t been created before with the ink. Therefor when you look at it, you have litho inks being created by a formula (more chemistry based) and for Indigo, a ink being created by a theoretical formula (or known if it’s been made before) which is created out of already produced inks (color mixing). 
+</p>
+<p id="l56">
+Also keep in mind, in both color proofs, the color is achieved is effected by substrate and lighting. In lithography, the ink is usually formulated, and by adjusting the densities and the creation of the plates (by applying plate curves), you can achieve the proper colors needed to reproduce the image. 
+</p>
+<p id="l58">
+In indigo, the necessary corrections are done in the proofing process, so for a given substrate and lighting condition you have one formula, but for a different substrate or lighting condition you will have a different formula. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

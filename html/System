@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>System - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="System" class="currentChild" href="System">System</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A machine or device using various hardware and software to accomplish certain tasks. Commonly composed of a central processor, with one or more input or output devices, and capable of making decisions about the material which is being processed. Various fields of computer technology tend to define "system" in slightly different ways, as follows. 
+</p>
+<p id="l3">
+In hardware terms, the physical components of the machine or machines that are linked together electronically or through telephone lines. 
+</p>
+<p id="l5">
+In software terms, the programs that direct the operation of the machine or machines that work together, or the actual disk or tape that carries the programs. 
+</p>
+<p id="l7">
+In applications terms, the physical machine and the software that directs its use. 
+</p>
+<p id="l9">
+In customer terms, the central portion of the group of machines that produce the end results, or the entire body of machines that are used to produce the end result, including peripheral and remote devices. 
+</p>
+<p id="l11">
+Collection of people, machines, and methods organized to accomplish a set of specific functions. Various fields of computer technology define "system" in different ways as follows: (1) In hardware terms: The physical component of the machine or machines that are linked together electronically or through telephone lines. (2) In software terms: The programs that direct the operation of the machine that work together, or the actual disk or tape that carries the programs. (3) In applications terms: The physical machine and the software that directs its use. (4) In customer terms: The central portion of the group of machine that produce the end results. 
+</p>
+<p id="l13">
+Organized combination of hardware components and software working together to perform some logical process in a systematic manner. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

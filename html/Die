@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Die - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Die" class="currentChild" href="Die">Die</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, any metal plate or block etched with a design, lettering, or other pattern—either <a title="Relief" href="Relief">relief</a> or <a title="Intaglio" href="Intaglio">intaglio</a>—used to stamp or press these designs into a <a title="Substrate" href="Substrate">substrate</a> in finishing operations such as <a title="Embossing" href="Embossing">embossing</a>, <a title="Die-Stamping" href="Die-Stamping">die-stamping</a>, or <a title="Foil Stamping" href="Foil_Stamping">foil stamping</a>. 
+</p>
+<p id="l3">
+Dies for embossing and stamping are made of brass, magnesium, or copper. Brass is especially useful for long runs. A brass die used in the stamping of book covers is called a <a title="Binder's Brass" href="Binder's_Brass">binder's brass</a> or, when made from other metals, a <a title="Binder's Die" href="Binder's_Die">binder's die</a>. The image itself can be chemically etched, machine-cut, or hand-tooled. Increasingly, dies are manufactured using lasers guided by <a title="CAD/CAM" href="CAD/CAM">CAD/CAM</a> computer software. There are five basic configurations of dies. A single-level die is most often machine-cut, and is cut to a single uniform depth. A Multi-level die has several distinct depths, and is most often machine-cut brass and is used to impress images with greater levels of detail than those created with a single-level die. A bevel-edge die has a single uniform depth, but the edges of the image are usually hand-tooled at an angle, commonly 30º:50º. A sculptured die has many varying depths across the image. A stamping die contains a single-level relief image and is used for foil stamping. The non-image area is usually recessed at a depth of 0.060 inch. 
+</p>
+<p id="l5">
+The term <em>die</em> is also used to refer to a pattern of sharp blades or other cutting tools used to cut a particular pattern into a substrate in the finishing process of <a title="Diecutting" href="Diecutting">diecutting</a>. The most common type of die used in diecutting is a <a title="Steel-Rule Die" href="Steel-Rule_Die">steel-rule die</a>. See <a title="Diecutting" href="Diecutting">Diecutting</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Laser Printer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Laser Printer" class="currentChild" href="Laser_Printer">Laser Printer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A computer-driven, plain-paper output device used to generate proofs, masters, or general on-demand output. Most laser printers can output text, photographs, <a title="Halftone" href="Halftone">halftone</a>s, or other images. Laser printers are increasingly the standard output device attached to home and office computers, having replaced in most cases the old dot-matrix printer, especially as laser printers have come down in price and increased in quality. 
+</p>
+<p id="l3">
+A laser printer works generally on the same principle as a photocopier, imaging on paper by means of <a title="Electrophotography" href="Electrophotography">electrophotography</a>. A laser printer contains an electrically-charged, light-sensitive metal drum or cylinder. Controlled by information received from the printer <a title="Driver" href="Driver">driver</a> installed in the computer, the laser exposes the charged drum in those regions corresponding to image areas, forming an image out of many tiny, virtually microscopic dots (more correctly called <a title="Spot" href="Spot">spot</a>s, especially to distinguish them from <a title="Halftone Dot" href="Halftone_Dot">halftone dot</a>s). The areas of drum exposed by the laser become oppositely-charged from the rest of the drum, and will accept oppositely-charged particles of <a title="Toner" href="Toner">toner</a>, a fine, black or colored powder. The toner adheres to the drum in those regions exposed by the laser, and is transferred to the <a title="Substrate" href="Substrate">substrate</a> passing beneath it. Heat and pressure are then used to fuse or "fix" the toner to the substrate, preventing it from being easily rubbed off. 
+</p>
+<p id="l5">
+One of the drawbacks of most laser printers (as of this writing) is that their maximum resolution is 600 <a title="dpi" href="dpi">dpi</a>, which is adequate for most text and line-art output, but inadequate for <a title="Halftone" href="Halftone">halftone</a> output, which usually need—depending upon the screen count—around 1200:1500 dpi. Color laser printers are also increasing in popularity and coming down in price. Laser printers are primarily used to generate galleys, proofs, and general output, while high-end <a title="imagesetters" class="nonexistent" href="http://printwiki.org/imagesetters">imagesetters</a> are typically used to generate high-quality camera-ready output or film. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

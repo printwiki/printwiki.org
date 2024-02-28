@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Carbon Tissue - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Carbon Tissue" class="currentChild" href="Carbon_Tissue">Carbon Tissue</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A gelatin-based emulsion used in the chemical etching of <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a>s. The gelatinous emulsion is applied to a paper backing, and is rendered sensitive to light when immersed in a 3:4% solution of potassium bichromate. After drying, it is ready for use. The carbon tissue is first exposed to a <a title="Film Positive" href="Film_Positive">film positive</a>. In those areas where the carbon tissue has received the most light (i.e., non-image areas and highlights) the emulsion becomes thick and hard, and the thickness and hardness decreases with decreasing exposure to the light source, the emulsion being thinnest and softest in image areas corresponding to shadows and solids. After developing the carbon tissue, it is adhered to the surface of the copper-plated cylinder. A solution of ferric chloride etchant is applied to the surface of the cylinder, where it eats away the copper through the carbon tissue. In the highly exposed areas, where the carbon tissue <a title="Resist" href="Resist">resist</a> is the thickest and hardest, the etchant takes a long period of time to eat through the hard emulsion, while in the least exposed, thinnest regions the etchant eats through the resist into the copper very quickly. Thus, in a given period of etching, the cells etched into the copper will be deepest (and thus will print the darkest) in those regions where the etchant has eaten through the quickest, while the cells etched into the copper will be the shallowest (and thus print the lightest) in those regions where the etchant has eaten through the slowest. 
+</p>
+<p id="l3">
+Carbon tissue resists were the first chemical etching media, but have been replaced by <a title="Photopolymer" href="Photopolymer">photopolymer</a>s, and chemical etching as a whole is being increasingly replaced by <a title="Electromechanical Engraving" href="Electromechanical_Engraving">electromechanical engraving</a> and computer-to-cylinder <a title="Laser-Cutting Process" href="Laser-Cutting_Process">laser-cutting process</a>es. (See <a title="Gravure Engraving" href="Gravure_Engraving">Gravure Engraving</a>.) 
+</p>
+<p id="l5">
+Carbon tissue resists have also been used extensively for the manufacture of <a title="Photostencil" href="Photostencil">photostencil</a>s in <a title="Screen Printing" href="Screen_Printing">screen printing</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

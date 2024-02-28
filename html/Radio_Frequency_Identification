@@ -1,0 +1,265 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Radio Frequency Identification - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Radio Frequency Identification" class="currentChild" href="Radio_Frequency_Identification">Radio Frequency Identification</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<strong>1.What is RFID?</strong> <br/>RFID stands for Radio Frequency Identification. It is an auto ID technology based on radio waves. In its basic form, it is comprised of a tag and a tag reader. The tag contains data. It emits the data using radio waves which are captured by the reader. Some tags support the capability for the reader to both read and write the tags. RFID is sometimes seen as the successor of bar codes. "RFID is a technology that allows a small radio device attached to an item to carry an identity for that item." (Glover, 19) <br/>
+</p>
+
+                                                                <ul>
+
+<p id="l3">
+                Like bar codes, RFID tags contain a sequence of numbers that contain specific information about the object that the tag belongs to. The amount of data that can be stored on the tags depend on the size of the tag itself. This number is transmitted to the reader through radio waves. The reader sends the numbers to a server. The server contains a database of all the objects that have tags on them. When a number is received by the server, it goes through the entire database to match the number to its object. After the number is matched to the object in the database, any number of tasks can be performed. For example, if a reader is placed at the exit of a building, the system can identify any object (with a tag) that enters or leaves the building. 
+</p>
+
+                                                                </ul>
+
+
+<p id="l5">
+<strong>2. History of RFID</strong> <br/>
+</p>
+
+                                                                <ul>
+
+<p id="l6">
+                Before we dive into the inner workings of RFID, it is first important to understand where it came from. RFID has its roots in early military identification systems. In 1948, Harry Stockman identified the use of a reflected radio signal as a way to identify a remote object based on the reflection signature from the object. This came around the same time as research into RADAR technology began to pick up. RFID owes much of its development to the development of radar.  Heinrich Hertz is generally considered the inventor of radar technology. Initially, when he proposed his research to the German Navy, the idea was quickly dismissed as being useless. After the demise of titanic, people began to recognize the value of radar. World War II was the greatest propellant for radar development. Countries began to see the value of being able to detect vessels from a distance. This led to a lot of money and scientific talent being invested in the development of radar. By the end of WWII, radar technology had been greatly improved and implemented. As radar systems increased in complexity, a new use of radar was discovered. To differentiate friend and foe aircrafts, all airplanes were fitted with radio's with a special squawk technology. When those radios received outside radio signals, they were forced to "squawk" a four letter code that was given to every friendly aircraft. This is the connecting point between radar and RFID. In essence, they are both the same things. RFID is a commercial and much smaller (in physical scale) version of the squawk radios. 
+</p>
+
+                                                                </ul>
+
+
+<p id="l8">
+<strong>3. RFID Tags and its types</strong> <br/>
+</p>
+
+                                <ul>
+
+<p id="l9">
+        The RFID tags contains information about the abject that the tag is associated to. Every tags has two basic components. The first is a means to store data and the second is means to communicate that data. Every RFID tag has a coil or antenna of some sort that allows it to relay the information contained in it. 
+</p>
+
+                                </ul>
+
+
+<p id="l11">
+<em>RFID Tag Features:</em> 
+</p>
+<p id="l13">
+1. Attachment: Every tag has to have the ability to be attached to the object. Whether it be in the form of a label or as an implant under the skin. 
+</p>
+<p id="l15">
+2. Reading the tag: RFID tags use radio waves to transmit information. Every tag must have some means to send radio signals. 
+</p>
+<p id="l17">
+3. Kill/Disable: Recently, RFID's have come under the radar as the new  threat to personal privacy. Like with any other technology, there is a security concern with using RFID's too. For these reasons, some RFID's can be embedded with the disable feature. When the tag receives the correct kill code, it permanently ceases to function. 
+</p>
+<p id="l19">
+4. Write once: Tags come in many varieties. Some tags come pre          programmed from the manufacturer. In some cases, the tags can be allowed to be written once by the end user. These tags are generally used by the       military to track inventory and by large retail corporations. 
+</p>
+<p id="l21">
+5. Write many: These kind of tags can be written to an unlimited number of times. These tags are usually more expensive than write once tags. This makes them unsuitable for use in supply chains for inventory management. 
+</p>
+<p id="l23">
+6. Secure and encrypted tags: RFID technology is criticized for security issues posed at most wireless technologies. Some tags can store encrypted information that would be harder to decode without the encryption key, thus making them more secure. 
+</p>
+<p id="l26">
+<em>Physical Characteristics of Tags:</em> 
+</p>
+<p id="l28">
+1. Button tags: These tags are similar in shape to buttons and can be smaller than some coins. They are also durable and reusable. 
+</p>
+<p id="l30">
+2. Contactless smart cards: These RFID tags are shaped like credit cards. They do not require to come in contact with any surface. A good example of these form of tags is Visa PayWave. The cards can be used to pay for merchandise by simply waving the card in front of the detector. The cards have an RFID tag built into them and the detectors have an RFID reader. 
+</p>
+<p id="l32">
+3. RFID labels: These tags are printed using conductive inks onto flexible label stock. This type of tags are generally used by the pharmaceutical industry. 
+</p>
+<p id="l34">
+4. Small tags: These tags are extremely small and can be embedded in    clothing, watches, bracelets, etc. 
+</p>
+<p id="l37">
+<em>Power Source:</em> 
+</p>
+
+                                <ul>
+
+<p id="l39">
+        Tags are generally divided into three main categories, active, passive and semi passive. This generally determines what form of power source is used by the tag. Active tags require a battery to power any of its components, including transmission. Passive tags power all of its functions using power from the reader's radio transmission. Semi-passive tags power from both, an onboard battery and transmission from the reader. 
+</p>
+
+                                </ul>
+
+
+<p id="l42">
+<em>Operating Frequency:</em> 
+</p>
+
+                                <ul>
+
+<p id="l44">
+        RFID works using radio waves. All radio waves are associated to a specific frequency. This is the frequency of the crust and troughs of the waves in the emission. Different frequencies have different properties associated with them. RFID tags use Low, High, Ultra High and Microwave frequencies to transmit data. Radio frequency usage is regulated. RFIDs are not allowed to transmit in frequencies that can interfere with emergency services. Low frequency signals are better able to pass through water. Higher frequencies can carry more information. They are also usually easier to read at a greater distance. 
+</p>
+
+                                </ul>
+
+
+<p id="l49">
+<strong>4. RFID Readers</strong> <br/>
+</p>
+
+                                <ul>
+
+<p id="l50">
+        Every RFID reader is made of three core components: an antenna to to communicate with the tags using radio frequency, A network interface to communicate with a server or other devices, and a micro controller to control the reader. <br/><p id="l51">
+        Readers can have different types of antennas depending on the frequency and the distance which the radio waves will be required to travel. Some readers have one or two antennas built right into the readers. Other more advanced readers can manage two or more antennas that are installed outside the reader (typically 6 meters or less). Other readers have one dedicated antenna to receive signals and another to transmit. The transmitting antenna is placed before the receiving antenna so that the tag can be charged enough to transmit data that can be read by the receiving antenna of the reader. <br/><p id="l52">
+        Another important component of a reader is the controller. This is the computing device in the reader that controls the reader. This can vary in complexity from a small chip to a full microcomputer based server that can hold a database of all the inventory. <br/><p id="l53">
+        Network Interface is a very important component of a reader. After a reader reads a tag, it must send the data to a database stored on a server to make any sense of the data. Some readers can communicate with other readers to do this. Most new readers support wireless ethernet. Some readers use wired ethernet or serial interfaces such as RS232 or RS 422. Some readers even communicate using bluetooth. <br/><p id="l54">
+        Readers come in many different sizes. They range in size from half an inch to as long as a feet. New readers can even be embedded in cell phones. They can be built into walls, forklifts and shelving units. These readers allow automatic inventory management. For instance, readers applied on forklifts can help track the location of inventory in a warehouse. <br/><p id="l55">
+        The layout of readers determines the application that they can be used for. RFID readers can be applied on portals. This means that the reader is applied on a doorway or an entrance. The readers are always kept on in this situation and are used to read any items that enter or leave through the entrance. This setup is generally used in warehouses with loading docks. The readers are placed at the loading docks to scan all items entering and leaving the warehouse. Readers can also be applied in tunnels. A tunnel is a cover placed on top of a conveyor belt. The reader is mounted on the tunnel and reads all the items moving through the conveyor belt. Readers also come in the handheld variety. These are used when it is not possible to move the items to the reader. Another possible layout for readers is to mount them on shelves. Consider a large retail store for instance. If the store can place readers on all of its shelves and tag all of its items, it can track its inventory in real time. It can check expiry dates of items, among other things. 
+</p>
+
+                                </ul>
+
+
+<p id="l57">
+<strong>6. Production of RFID</strong> <br/>
+</p>
+
+                                <ul>
+
+<p id="l58">
+        RFID tag manufacturing is a fast changing process as millions of dollars are spent on research to reduce costs and increase their capabilities. There are now two means of manufacturing RFID tags. The traditional method includes creating the tags using silicone chips. The new method involves printing RFID tags using conductive inks directly on labels and some other substrates. <br/><p id="l59">
+        The traditional process of tag manufacturing involves the following processes: 
+</p>
+
+                                </ul>
+
+
+<p id="l61">
+1. Create the die. <br/>2. Produce the tag antenna. <br/>3. Create the inlet. <br/>4. Convert the inlet. 
+</p>
+
+                                <ul>
+
+<p id="l66">
+        A die is made of individual tag microchips on a silicon wafer. The silicone wafer is what makes traditional tags so expensive. These silicon wafers are similar to circular slices of chips, 2-5 inches in diameter. One silicone wafer can hold thousands of micro chips. The following process occurs in the manufacturing of these tags: 
+</p>
+
+                                </ul>
+
+
+<p id="l68">
+1. The microchips are produced on the silicon wafer. To do this, chemical etching processes are used (photolithographic processes). 
+</p>
+<p id="l70">
+2. The individual microchips are tested to check if they are fully functional. Once the test is done, the test function is disabled by blowing specific fuses on the chip. Dysfunctional chips are color coded so they can be discarded later in the process. 
+</p>
+<p id="l72">
+3. Tags are embedded with unique serial numbers at this stage. This is usually done with the testing. Read only tags are embedded with these serial numbers by blowing certain fuses using focused laser beams. Writeable tags are embedded by using software methods. 
+</p>
+<p id="l74">
+4. Individual micro chips are separated from the silicone wafers at this stage. A diamond saw is used for this process. This process also damages the top layer of the silicon wafer. This prevents the wafer from being used for other microchips. 
+</p>
+
+                                <ul>
+
+<p id="l76">
+        The other method for manufacturing RFID is to print them. This is done by using conductive ink to print on various substrates such as paper and plastic. The most commonly used form for this are labels. RFID tags are printed on label stock and then an applicator machine is used to apply them on objects. This type of RFID tags can generally be found in stores to enhance security measures against shop lifting. The label is applied to all items in the store, and a reader is placed at the exit. When someone tries to remove the object without purchasing it, the reader instructs the buzzer to go off. <br/><p id="l77">
+        Printing RFID tags using conductive inks is very similar to printing any other normal job. The tricky part of the process lies in the pre press work, where every connection between two joints has to be carefully measured to ensure that it will get printed. The printing can be done using almost any form of printing method. Lithographic offset printing is the most widely used for printing RFID tags. 
+</p>
+
+                                </ul>
+
+
+<p id="l79">
+<strong>7. Applications of RFID</strong> 
+</p>
+<p id="l81">
+<em>1. RFID in Supply Chains and Walmart</em> <br/>
+</p>
+
+                                <ul>
+
+<p id="l82">
+        In November 2003, Walmart gave its 100 largest suppliers a deadline of January 2005 to implement the ability to track their products using RFID tags. The deadline made it clear that suppliers that comply will be treated preferentially. This request was later modified to apply RFID tags at the pallet level instead of to every product. This was done because then, RFID tags still cost $ 0.05. If applying them on millions of items, the cost would be very high. <br/><p id="l83">
+        As of now, over 25% of Walmarts targeted 100 suppliers have succeeded in implementing RFID into their products at the individual product level. More than 75% of the suppliers tag their products at the pallet or crate level. This is a significant number. Walmart and its suppliers are already beginning to see the benefits of an improved inventory tracking mechanism. <br/><p id="l84">
+        Every pallet that is tagged, gets read when it enter the loading docks of a Walmart retail store. The data is automatically entered into the store's database, telling it that a new item has now entered its warehouse, and is waiting to be placed on the shelves. After the individual items in the pallet are removed and placed on the shelves, the database gives instructions to system when the items are about to reach their expiry date and must be removed from the shelves. The system can also be used to track pallets within the warehouse to facilitate quick and easy location. If the individual items are tagged, it can assist in preventing theft of the items. A reader is placed at the exit of the store. When an item is removed from the store without being paid for, the reader can instruct the alarm to go off. Another advantage of tagging individual items is to ensure that the shelves have all the items that they are supposed to have. For example, the checkout stations equipped with RFID readers can keep a tab on how many items of a product are sold and the system can cross check how many number of that product were placed on the shelves. This can tell how many items of that product are left on the shelves. When this number reaches a certain threshold, the RFID system can send instructions that the shelves need to be restocked with that product. This can enable every store to maintain 100% of its products on shelves at all times. That application alone is a huge revenue booster. 
+</p>
+
+                                </ul>
+
+
+<p id="l86">
+<em>2. RFID in the Military</em> <br/>
+</p>
+
+                                <ul>
+
+<p id="l87">
+        Like with many other technologies, RFID too was developed specifically keeping military usage in mind. It was later adapted for use in the industry. Initially, RFID technology was used to keep track of the military's expensive inventory such as heavy arms and ammunitions. Now RFID has been implemented in many other areas in the military. For example, a new application for RFID are tags that can be implanted in a soldiers body. The tag can hold vital information about the soldier such as his blood type, etc. This information can be very helpful in case the soldier is wounded or needs medical attendance and it can be retrieved very easily. This application has recently come under a lot of criticism due to its privacy issues and due to the fact that it is implanted under the skin. Due to the criticism, the military now uses tags that are placed outside the soldiers body. These tags can be disabled very easily, and unlike popular belief, the tags cannot be read from distant locations or be tracked down from more than 5 meters away. The biggest use of RFID in the military is similar to the usage of RFID in the supply chain management industry. The military uses RFID tags to track and better manage its inventory. 
+</p>
+
+                                </ul>
+
+
+<p id="l89">
+<em>3. Security Applications</em> <br/>
+</p>
+
+                                <ul>
+
+<p id="l90">
+        One of RFID's greatest advantages is in the field of security applications. The use of RFID is growing exponentially for tackling counterfeiting. Every year, billions of dollars are lost due to counterfeiting. Counterfeit drugs cause hundreds of deaths. RFID is the perfect technology to tackle the problem of counterfeiting. Once an item is tagged with an RFID containing a unique number, it becomes easy to track that item and detect items that do not have a valid number. For instance, if all passports are tagged with an RFID chip containing a unique number, a passport that does not have a number stored on the database would be detected easily when it is scanned. It is very hard to duplicate an RFID tag. 
+</p>
+</ul>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

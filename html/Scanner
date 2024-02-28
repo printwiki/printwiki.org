@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Scanner - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Scanner" class="currentChild" href="Scanner">Scanner</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device used to analyze an original image and either generate <a title="Color Separation" href="Color_Separation">color separation</a>s and/or digitize the image and store it in a computer for later manipulation and output. Essentially, a scanner records one row of the image at a time, and converts the original into an electronic matrix of <a title="Pixel" href="Pixel">pixel</a>s (or <a title="Bit Map" href="Bit_Map">bit map</a>). Each pixel is recorded as some level of gray for each of the <a title="Red" href="Red">red</a>, <a title="Green" href="Green">green</a>, and <a title="Blue" href="Blue">blue</a> components of an image, and the scanner then collates them back into the appropriate (or closely approximating the appropriate) color for each pixel. 
+</p>
+<p id="l3">
+There are a variety of different types of scanners: 
+</p>
+<p id="l5">
+One basic distinction between scanners is whether it is an image scanner or a text scanner. An image scanner images all originals as a bit map, regardless of whether it is text or a photograph. A text scanner—utilizing <a title="Optical Character Recognition" href="Optical_Character_Recognition">optical character recognition</a> software—can scan text material and convert it to <a title="ASCII" class="nonexistent" href="http://printwiki.org/ASCII">ASCII</a> text. Some desktop scanners can function as both, depending on which software is used, while dedicated image or text scanners can only function as one or the other. 
+</p>
+<p id="l7">
+Another important distinction in prepress is <a title="Drum Scanner" href="Drum_Scanner">drum scanner</a> versus <a title="Flatbed Scanner" href="Flatbed_Scanner">flatbed scanner</a>. A drum scanner is a high-end machine that utilizes a highly sensitive <a title="Photomultiplier Tube" href="Photomultiplier_Tube">photomultiplier tube</a> to capture subtle variations in tone, and is capable of digitizing images at very high <a title="Resolution" href="Resolution">resolution</a>s. Flatbed scanners are much less expensive, but their use of <a title="charge-coupled devices" class="nonexistent" href="http://printwiki.org/charge-coupled_devices">charge-coupled devices</a> (CCDs) makes them less sensitive to subtle color variations. Drum scanners are beginning to come down in price, and flatbed scanners are beginning to improve in quality, so at some point the twain shall meet. Some flatbed scanners are also sheetfed scanners, and have automatic stacking and/or document-feeding functions. Some flatbed and most drum scanners can scan transparencies rather than simply <a title="reflective copy" class="nonexistent" href="http://printwiki.org/reflective_copy">reflective copy</a>. (See <a title="Drum Scanner" href="Drum_Scanner">Drum Scanner</a> and <a title="Flatbed Scanner" href="Flatbed_Scanner">Flatbed Scanner</a>.) 
+</p>
+<p id="l9">
+Many scanners have the ability—through software—to display previews and allow color modifications prior to scanning, enabling the operator to optimize the <a title="Contrast" href="Contrast">contrast</a> and color attributes prior to image capture. Post-scanning image manipulation using programs such as Photoshop can be used to further refine and manipulate a scanned image. 
+</p>
+<p id="l11">
+Not all scanners feature <a title="User-Selectable Resolution" href="User-Selectable_Resolution">user-selectable resolution</a>, and thus offer only a handful of fixed resolutions (i.e., 100, 200, 300... dpi) while some allow any resolution to be specified (i.e., 331 dpi). Other functions common to most scanners and scanning software include the ability to scan only a selected portion of image, and the ability to <a title="Scale" href="Scale">scale</a> an image (either enlarging or reducing it) prior to scanning. 
+</p>
+<p id="l13">
+(See <a title="Scanning" href="Scanning">Scanning</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

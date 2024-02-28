@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Quick-Set Ink - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Quick-Set Ink" class="currentChild" href="Quick-Set_Ink">Quick-Set Ink</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A type of printing ink comprising a balanced <a title="Solvent" href="Solvent">solvent</a>-resin-oil <a title="Vehicle" href="Vehicle">vehicle</a>. When quick-set inks are printed, the solvent quickly drains out of the ink film through absorption into the <a title="Substrate" href="Substrate">substrate</a>, leaving behind a film of <a title="Resin" href="Resin">resin</a> and oil, which then quickly hardens by <a title="Oxidation" href="Oxidation">oxidation</a> and <a title="Polymerization" href="Polymerization">polymerization</a>. (See <a title="Resin-Oil Vehicle" href="Resin-Oil_Vehicle">Resin-Oil Vehicle</a>.) Quick-set inks are used frequently in <a title="Letterpress" href="Letterpress">letterpress</a> and <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> for their rapid drying and compatibility with <a title="cast-coated" class="nonexistent" href="http://printwiki.org/cast-coated">cast-coated</a> and <a title="Enamel Paper" href="Enamel_Paper">enamel paper</a>s. Quick-set inks have high gloss. A recent problem with quick-set inks, typically occurring on multi-unit presses, is a printing defect called <a title="Back Trap Mottle" href="Back_Trap_Mottle">back trap mottle</a>. (See <a title="Back Trap Mottle" href="Back_Trap_Mottle">Back Trap Mottle</a>.) A new innovation in quick-set inks is <a title="Super Quick-Set Infrared Ink" href="Super_Quick-Set_Infrared_Ink">super quick-set infrared ink</a> that utilizes the application of heat energy—in the form of infrared radiation—to accelerate the drying process. (See <a title="Super Quick-Set Infrared Ink" href="Super_Quick-Set_Infrared_Ink">Super Quick-Set Infrared Ink</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

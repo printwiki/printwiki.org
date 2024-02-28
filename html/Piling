@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Piling - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Piling" class="currentChild" href="Piling">Piling</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A printing problem characterized by the accumulation of paper fibers (called <a title="Lint" href="Lint">lint</a>), bits of detached <a title="Coating" href="Coating">coating</a> particles, or other debris (such as <a title="Pickout" href="Pickout">pickout</a>s) on the printing plate or blanket, in either image or non-image areas, that affect <a title="Print Quality" href="Print_Quality">print quality</a>. Piling can result from a variety of causes in addition to basic surface debris, such as the use of tackier inks that overcome the paper's <a title="Pick Resistance" href="Pick_Resistance">pick resistance</a>, changes in the blanket's surface stickiness or increased blanket slippage, the chemical composition of the press's dampening system reacting with that of the paper, and various stresses imposed on a paper during feeding. Piling can be classified in a variety of ways, depending on the characteristics of the material. (See <a title="Whitening" href="Whitening">Whitening</a>, <a title="Powdering" href="Powdering">Powdering</a>, <a title="Milking" href="Milking">Milking</a>, and <a title="Image Area Piling" href="Image_Area_Piling">Image Area Piling</a>.) Piling not only affects print quality but can increase the rate of plate or blanket wear. 
+</p>
+<p id="l3">
+The term <em>piling</em> also refers to the accumulation on the plate or blanket of dry particles of ink. Ink piling commonly is caused by the inadequate <a title="Viscosity" href="Viscosity">viscosity</a> of the ink <a title="Vehicle" href="Vehicle">vehicle</a>, or an inadequate amount of vehicle, preventing the pigment from being transferred to the <a title="Substrate" href="Substrate">substrate</a> with the vehicle and remaining behind on the plate or blanket. In some cases, an overly absorbent substrate will drain the vehicle away from the pigment while on the press, leaving the pigment to pile on the plate or blanket. In cases where the paper is to blame, the only solution is to use different paper. If the ink vehicle is inadequate, the addition of <a title="Body Gum" href="Body_Gum">body gum</a> may alleviate the problem, if there is no time for ink reformulation. Ink piling is also called <a title="Caking" href="Caking">caking</a>. 
+</p>
+<p id="l5">
+Piling also refers to dried particles of ink that can collect on the <a title="Impression Roller" href="Impression_Roller">impression roller</a> or other rollers used in <a title="Gravure" href="Gravure">gravure</a> printing. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

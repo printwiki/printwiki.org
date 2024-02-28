@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Italic - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Italic" class="currentChild" href="Italic">Italic</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, a variation in the posture of the characters in a particular <a title="Typeface" href="Typeface">typeface</a>, specifically, a slant to the right ('such as this, for example'). Today, italic type is used for emphasis, or in the setting of the titles of books, movies, etc. 
+</p>
+<p id="l3">
+Italic as a typeface was created in 1500 and was first utilized in books printed by Venetian printer Aldus Manutius. Its use then, however, was strictly one of economy; since italic type is narrower than <a title="Roman" href="Roman">roman</a> type, more characters could be fit on a page, and fewer pages would be required, an important consideration in the days of escalating paper costs. Manutius's books were the first "pocket editions," designed to fit in a horseman's saddlebag. Eventually, roman faces were designed more narrowly, and replaced italic, primarily because italic was too difficult to read at great length. 
+</p>
+<p id="l5">
+There are three kinds of italics. <a title="Unrelated Italic" href="Unrelated_Italic">Unrelated italic</a>s are "pure" styles, based on fifteenth-century hands. <a title="Related Italic" href="Related_Italic">Related italic</a>s are designed to blend with a specific roman typeface, but are still more or less pure italic. <a title="Matching Italic" href="Matching_Italic">Matching italic</a>s are essentially the same design as a particular roman typeface. Digitized typesetting devices that can modify characters electronically create matching italics, although purists will call them <a title="Oblique" href="Oblique">oblique</a>. Only electronically created italics are fully matching, since designed italics differ somewhat from romans. 
+</p>
+<p id="l7">
+The slant of a particular italic will vary, but a good standard is about 78º, or 12º from vertical. Certain characters change form when they make the transition from roman to italic. It's better to use generic (specially drawn) italics instead of electronically created italics due to the latter's proportional distortion of letters. 
+</p>
+<p id="l9">
+Tilting characters to the left (<a title="Back Slant" href="Back_Slant">back slant</a>) or right (oblique) so as to change their posture is called <a title="Slant" href="Slant">slant</a>. This is optical or electronic distortion, and it is different from a true italic. Italics of <a title="Sans Serif" href="Sans_Serif">sans serif</a> designs usually look poor, and electronically italicized sans serifs almost always look bad, since italics were based on handwriting, and sans serifs are far-removed from any handwriting style. Back-slanted type is nonfunctional, as the direction of letters goes against reading flow, and although modern digitized typesetters allow back slanting, there is no real reason to ever use it. 
+</p>
+<p id="l11">
+Typographically speaking, the terms <em>italic</em>, <em>cursive</em>, and <em>oblique</em> are all synonymous. In English-speaking countries, "italic" is the preferred term, although other countries commonly use "cursive" which means "flowing" or "running." The term "oblique" was most commonly associated with the Futura, or sans serif, family of typefaces. In this case, oblique is used rather than italic or cursive because the designer, Paul Renner, felt that the Futura italic was not a true italic and that it should have a name that more accurately described it. So he called it "oblique," which simply means "slanted." 
+</p>
+<p id="l13">
+Modern digitized typesetters can electronically slant characters to create oblique fonts. Oblique often refers to a somewhat mechanical slanting of characters; italic faces, however, are designed along more calligraphic lines. 
+</p>
+<p id="l15">
+In markup, italic is indicated by an underline. Copy that is traditionally put in italic type includes: titles of publications, names of ships, trains, and aircraft, foreign words and phrases, scientific names, mathematical unknowns, protagonists in legal citations, words quoted by name, quotations, names of shows or plays (but quotation marks are used for TV shows), and works of art.  
+</p>
+<p id="l17">
+Alternatives to italic for highlighting or emphasizing are underline, or bold face. All-capital italic lines should be avoided, since the uniform outline shape of all-cap words reduces legibility. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

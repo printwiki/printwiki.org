@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Subtractive Color - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Subtractive Color" class="currentChild" href="Subtractive_Color">Subtractive Color</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-0499154e4637257377c1c702d43ae1c509c8d592"><h2 id="l1">What is Subtractive Color?</h2></span>
+<p id="l3">
+The subtractive color system involves colorants and reflected light (“RGB World”). Subtractive color begins with an object (such as paper) that reflects light and uses colorants to subtract portions of the white light illuminating an object to produce other colors (“RGB World”). If an object reflects white light back to the viewer, that object will appear white. If an object absorbs (subtracts) all the light illuminating it, no light will be reflected back to the viewer and the object will appear black (“RGB World”). This process allows all objects around us to show color. 
+</p>
+<p id="l5">
+Magazines, photographs and any other object of nature creates color by subtracting or absorbing certain wavelengths of color while reflecting other wavelengths back to the viewer (“RGB World”). 
+</p>
+<p id="l7">
+All color printing processes use the subtractive process to reproduce color (“RGB World”). In these cases, the reflective substrate is canvas or paper, which is usually white (“RGB World”). 
+</p>
+<span id="head-9419a5436be70ba3c9b8b40d0307792cbbb76788"><h2 id="l12">CMY in the Printing Press</h2></span>
+<p id="l14">
+Subtractive color in the printing press <br/>Printing presses use color inks, these inks act as filters and subtract portions of the white light striking the image on paper to produce other colors (“RGB World”). 
+</p>
+<p id="l17">
+The offset printing process uses cyan, magenta, and yellow process color inks. A fourth ink, black, is designated K to avoid confusion with B for blue (“RGB World”). 
+</p>
+<span id="head-ae0e5fc76680bba38c5021921dbb884b21e04c2e"><h2 id="l22">CMY/CMYK:The Black Generation</h2></span>
+<p id="l24">
+The CMY color space is subtractive. White is at (0.0,0.0,0.0) and black is at (1.0,1.0,1.0). If one was to start with white, and subtract all colors equally, the result will be black (“ACA Systems “). If neutral amounts of cyan, magenta and yellow are added the result will be gray. A combination of C:7, M:7, Y:7, and K:0 will give the primary colors to make a neutral, it is the primary means of calibration in any color management system. 
+</p>
+<p id="l26">
+The CMYK color space is a variation on the CMY model. This model adds black and closes the gap between theory and practice. In theory, the extra black component is not needed, however when equal components of cyan, magenta and yellow are mixed, the result is usually a dark brown instead of a black (“ACA Systems “). Adding black ink to the mix solves this problem (“ACA Systems “). 
+</p>
+<span id="head-ec3ef95613d6187820c8e4951cf38d5ecb0134fa"><h2 id="l31">RGB, CMY/CMYK Model</h2></span>
+<p id="l33">
+The computer creates colors based on the RGB model. It produced a spectrum of visible light. Monitor can create millions of colors by combining different percentages of three primaries, red, green, and blue (“Inside Graphics”). In RGB, mixing of red and green equally will produce yellow, mixing of green and blue creates cyan, and the mixing of red and blue creates magenta (“Inside Graphics”). When all three colors, red, green and blue are mixed equally they produce white light. The mixing of these colors is why the RGB model is called the additive color model. 
+</p>
+<p id="l35">
+The opposite model of RGB is the CMY color model. Printing inks are based on this model. With the full presence of cyan, magenta, and yellow we get black (“Inside Graphics”). In the printing industry, it is impossible to create black with these three colors, the result of this mixture is actually a muddy brown because of the impurities of printing inks (“Inside Graphics”). In order to fix this problem, black ink is added to get solid black. The outcome of this process is the CMYK model, in which the K stands for the black color, recognized as ‘key’ color (“Inside Graphics”). Because black is full presence of color, in order to produce lighter colors one will have to subtract levels of cyan, magenta, and yellow. For example, if light falls on green surface or green ink, it absorbs (subtracts) all the colors from light except green (“Inside Graphics”).  For this reason, the CMY/CMYK color model is called the subtractive color model. 
+</p>
+<span id="head-d2cdb61c4caa4bda7c593d203cd636f8d927389b"><h2 id="l40">Properties of Ink</h2></span>
+<p id="l42">
+There are four basic properties of inks, length, tack, body, grease content (“StonesCrayons”). 
+</p>
+<p id="l44">
+Length can be measured by putting an ink knife in the ink and then drawing the knife straight. It is a more traditional, but still widely used quantity to describe the viscosity of an ink (“Properties of Printing Inks”). The most simple instrument to assess the length of an ink is a broadblade spatula (“Properties of Printing Inks”). 
+</p>
+<p id="l46">
+Tack can be described as the ability of the ink to act as an adhesive. By definition, it is the force required to split an ink film between two rollers (“Properties of Printing Inks”). Tack can be judged as simply as putting a bit of ink between two fingers. If the ink is more tacky, there will be a greater force pulling the rider roller when printing (“Properties of Printing Inks”). 
+</p>
+<p id="l48">
+Body describes the stiffness of the ink (“StonesCrayons”). In attempting to relate measurements to sensory perceptions of ink body, “body” consists of more than one specific perception; therefore, it is not capable of being represented as a single numerical rating on a single scale (Weisbecker 20-26). 
+</p>
+<p id="l50">
+Grease content refers to the amount of grease, natural or otherwise, in the ink (“StonesCrayons”). 
+</p>
+<span id="head-9f253ff90a1686913b6e427702993052233386b9"><h2 id="l55">Gray Balance</h2></span>
+<p id="l57">
+Gray balancing is a scanner-calibration procedure in which the operator programs specific dot-percent ratios of yellow, magenta and cyan (Cheeseman). 
+</p>
+<p id="l59">
+When film is output to these percentages and proofed or printed, it should reproduce a neutral-gray color (Cheeseman). 
+</p>
+<p id="l61">
+The concept of gray balance is essential for excellent color reproduction in scanning, proofing, and in the pressroom (Remaley). In scanning, images that are not in gray balance are considered “casted” (Remaley). 
+</p>
+<p id="l63">
+Images that are casted show a magenta, cyan, or yellow color appearance in the highlights, midtones, and/or shadows (Remaley). These images require color correction to remove the unwanted colors. 
+</p>
+<span id="head-e8387a6e4a06f927a872e7a6c15932f801cb3a6c"><h2 id="l68">Gamut Volume Relating to RGB</h2></span>
+<p id="l70">
+A color gamut is a delimited region in color space, containing colors that are physically realizable by a given device or that are present in a given device (“Patent Storm”). 
+</p>
+<p id="l72">
+One can use the device’s ICC profile to calculate or graph the full gamut of colors the device can produce. 
+</p>
+<p id="l74">
+Knowledge of the color gamut surface is useful for many color science-related tasks such as visualization, gamut volume calculation, and deciding how colors outside the color gamut should be reproduced (“Patent Storm”). 
+</p>
+<span id="head-98f8d6906714a9e7f4924c54bb75ea20660eb80f"><h2 id="l79">Works Cited</h2></span>
+<p id="l81">
+1. “Understanding Color.” RGB World. Web. 15 Feb 2010. &lt;<a class="external" href="http://www.rgbworld.com/color.php&gt;"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.rgbworld.com/color.php&gt;</a>. 
+</p>
+<p id="l83">
+2. “What is CMY/CMYK Color Space?.” ACA Systems . Web. 15 Feb 2010. &lt;<a class="external" href="http://www.acasystems.com/en/color-picker/faq-cmy-color.htm&gt;"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.acasystems.com/en/color-picker/faq-cmy-color.htm&gt;</a>. 
+</p>
+<p id="l85">
+3. “Properties of Printing Inks.” Properties of Printing Inks. Web. 15 Feb 2010. &lt;<a class="external" href="http://www.hdm-stuttgart.de/projekte/printing-inks/p_gerink.htm&gt;"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.hdm-stuttgart.de/projekte/printing-inks/p_gerink.htm&gt;</a>. 
+</p>
+<p id="l87">
+4. “Ink Modification.” StonesCrayons. Web. 15 Feb 2010. &lt;<a class="external" href="http://www.stonescrayons.com/ink.html&gt;"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.stonescrayons.com/ink.html&gt;</a>. 
+</p>
+<p id="l89">
+5. Weisbecker, Carl. “Lithographic offset ink rheology related to sensory descriptions of appearance and handling.” Chemometrics and Intelligent Laboratory Systems 93.1 (2008): 20-26. Web. 15 Feb 2010. &lt;<a class="external" href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6TFP-4S50K1D-1&amp;_user=47004&amp;_coverDate=08/15/2008&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1200505818&amp;_rerunOrigin=google&amp;_acct=C000005018&amp;_version=1&amp;_urlVersion=0&amp;_userid=47004&amp;md5=e409fcd78ccc9e958dff919004bacb30&gt;"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6TFP-4S50K1D-1&amp;_user=47004&amp;_coverDate=08/15/2008&amp;_rdoc=1&amp;_fmt=high&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1200505818&amp;_rerunOrigin=google&amp;_acct=C000005018&amp;_version=1&amp;_urlVersion=0&amp;_userid=47004&amp;md5=e409fcd78ccc9e958dff919004bacb30&gt;</a>. 
+</p>
+<p id="l91">
+6. Remaley, Dan. “Printing to Gray Balance.” Printing to Gray Balance. Print. 
+</p>
+<p id="l93">
+7. Cheeseman, Dennis. “The Importance of Gray Balance.” Tech News 4.3 (1998): n. pag. Web. 15 Feb 2010. &lt;<a class="external" href="http://www.naa.org/technews/tn980506/p27gray.htm&gt;"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.naa.org/technews/tn980506/p27gray.htm&gt;</a>. 
+</p>
+<p id="l95">
+8. “Color Models.” Inside Graphics. Web. 15 Feb 2010. <a class="external" href="http://www.insidegraphics.com/articles/color_models_rgb.asp"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.insidegraphics.com/articles/color_models_rgb.asp</a> 
+</p>
+<p id="l97">
+9. “US Patent 6480301 - Method and apparatus for gamut boundary determination.” Patent Storm. Web. 15 Feb 2010. <a class="external" href="http://www.patentstorm.us/patents/6480301/description.html"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.patentstorm.us/patents/6480301/description.html</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

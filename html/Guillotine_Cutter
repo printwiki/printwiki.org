@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Guillotine Cutter - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Guillotine Cutter" class="currentChild" href="Guillotine_Cutter">Guillotine Cutter</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An automatic or manual device used to cut and trim paper and other <a title="Substrate" href="Substrate">substrate</a>s. Guillotine cutters are available in a variety of configurations and with varying degrees of automation and computer control, but all essentially comprise the following: a flat <a title="Bed" href="Bed">bed</a> made of metal on which the material to be cut is placed; a long, heavy steel or steel-carbide <a title="Knife" href="Knife">knife</a> which is mounted to a bar located near the front of the machine, which is either mechanically or electronically brought down through the material to be cut; a <a title="Cutting Stick" href="Cutting_Stick">cutting stick</a> imbedded in the bed directly beneath the knife, so as to prevent blade damage; a <a title="Cutter Clamp" href="Cutter_Clamp">cutter clamp</a>, a metal bar or plate that is lowered onto the stack of material to be cut, compressing the air out of it and holding it firmly in place while the knife cuts it; and stationary side guides and a moveable back gauge, which hold the stack of sheets squarely in place in the desired position on the bed to cut the sheets to the desired size. On some cutters, a <a title="Split Gauge" href="Split_Gauge">split gauge</a> is used, which is divided into two or more segments allowing for more than one edge of a stack to be cut without needing the back gauge setting to be changed between cuts. 
+</p>
+<p id="l3">
+Of particular concern with the use of guillotine cutters is the angle at which the knife contacts the sheets. Average weight papers—such as writing paper or common printing papers—are accurately cut with a knife angle of 22º, but thinner or heavier papers may require smaller or larger angles, respectively. The clamp pressure also may be too high or too low, depending upon stock thickness. Experience and experimentation are the best indicators for these materials. 
+</p>
+<p id="l5">
+Although the earliest guillotine cutters were operated simply by pulling a large metal handle to bring the knife down through the stock, a variety of high-tech improvements have made the cutter a remarkably efficient and computerized device. On many models, desired sizes can be programmed into a computer, and the back guide automatically moved to the correct position between cuts. This has the desired effect of eliminating the need for the operator to put his hands under the knife to move the stock into position. 
+</p>
+<p id="l7">
+There are many electronic and mechanical accessories to cutters which have not only improved safety but have also increased production capacity. These include <a title="Low-Pressure Air Table" href="Low-Pressure_Air_Table">low-pressure air table</a>s, which have improved the feeding and flow of materials to the cutter; <a title="Cut-Line Indicator" href="Cut-Line_Indicator">cut-line indicator</a>s use a thin line of light to indicate on the stock where a cut will be made, eliminating the need to tentatively lower the knife to the stock to ensure that an image area will not be cut; <a title="Gripper-Loading System" href="Gripper-Loading_System">gripper-loading system</a>s automatically remove stock from <a title="Jogger" href="Jogger">jogger</a>s and feed it directly to the rear of the cutter bed while <a title="Tilting Transfer Table" href="Tilting_Transfer_Table">tilting transfer table</a>s have enhanced the ability to automatically feed large-size sheets. Cutting information for several jobs can be programmed into a computer off-line, and sent to the cutter via modem or by inserting a diskette, eliminating downtime between jobs. <a title="Lifting table" class="nonexistent" href="http://printwiki.org/Lifting_table">Lifting table</a>s utilize sensors to detect pile height and accurately load it into position on the cutter, and post-cutting <a title="vertical storage system" class="nonexistent" href="http://printwiki.org/vertical_storage_system">vertical storage system</a>s automatically stack cut piles, often utilizing a jogger to ensure that stacks are kept square and straight. 
+</p>
+<p id="l9">
+(See also <a title="Cutting and Trimming" href="Cutting_and_Trimming">Cutting and Trimming</a> and <a title="Binding and Finishing" href="Binding_and_Finishing">Binding and Finishing</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

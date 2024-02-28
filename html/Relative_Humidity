@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Relative Humidity - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Relative Humidity" class="currentChild" href="Relative_Humidity">Relative Humidity</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measure of the amount of water vapor present in the air expressed as a percentage of the total amount of water vapor the air could hold at the same temperature and pressure. 
+</p>
+<p id="l3">
+Relative humidity is an important consideration in printing and in papermaking, as paper's <a title="Hygroscopic" href="Hygroscopic">hygroscopic</a> tendency makes it absorb and lose water readily, which affects several paper properties, not the least of which is its <a title="Dimensional Stability" href="Dimensional_Stability">dimensional stability</a>. (See <a title="Moisture Content" href="Moisture_Content">Moisture Content</a> and <a title="Dimensional Stability" href="Dimensional_Stability">Dimensional Stability</a>.) Most paper produced in North America is manufactured at 35:50% relative humidity. Many pressrooms have humidity control, and maintain the relative humidity within that range, to prevent as much water loss or gain as possible, so the paper remains flat before, during, and after printing. When printing jobs that require more than one pass through the press (such as multi-color work), paper should have a relative humidity 5:8% higher than the relative humidity of the room, so that its rate of moisture loss to the atmosphere will be offset by its rate of water absorption from the press dampening system. 
+</p>
+<p id="l5">
+In some pressrooms, varying levels of <a title="humidification" class="nonexistent" href="http://printwiki.org/humidification">humidification</a>—adding moisture to the atmosphere—or <a title="dehumidification" class="nonexistent" href="http://printwiki.org/dehumidification">dehumidification</a>—removing moisture from the atmosphere—may have to be performed to ensure that paper and pressroom are of congruent moisture content. (See also <a title="Equilibrium Relative Humidity" href="Equilibrium_Relative_Humidity">Equilibrium Relative Humidity</a>, and <a title="Equilibrium Moisture Content" href="Equilibrium_Moisture_Content">Equilibrium Moisture Content</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

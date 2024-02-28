@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Magnetic Tape - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Magnetic Tape" class="currentChild" href="Magnetic_Tape">Magnetic Tape</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A mass storage medium for <a title="Analog" href="Analog">analog</a> and <a title="Digital" href="Digital">digital</a> data. Its most common configuration is its use in audio cassettes, used for distributing music, speech, or for other uses, such as in answering machines. Essentially, magnetic tape is a metallic or plastic strip coated with a magnetic substance such as an <a title="Iron Oxide" href="Iron_Oxide">iron oxide</a> (usually ferric oxide—Fe<sub>2</sub>O3—obtained from hematite or magnetite). The electromagnetic record heads alter the magnetic polarity of different portions of the tape, and the play head converts the pattern of magnetized spots to an electronic signal which can be converted to sound waves or computer data. Magnetic tape is used as a storage medium for computer information, but the ability to only access the tape serially (i.e., from beginning to end, not at random, as with other <a title="Magnetic Media" href="Magnetic_Media">magnetic media</a>) makes it impractical for general use. Magnetic tape is also used for the strips on <a title="Magnetic Card" href="Magnetic_Card">magnetic card</a>s such as credit cards. Magnetic tape stored in a hard plastic cartridge is known as <a title="Tape Cartridge" href="Tape_Cartridge">tape cartridge</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

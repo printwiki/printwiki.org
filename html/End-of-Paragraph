@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>End-of-Paragraph - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.cssprintwiki.org.s3.amazonaws.com//common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="End-of-Paragraph" class="currentChild" href="End-of-Paragraph">End-of-Paragraph</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of the major differences between typing and typing for typesetting input, is the need to end each paragraph with some designator. 
+</p>
+<p id="l3">
+All systems are capable of justifying ever line between the specified margins. Of course, we do not want the last line of a paragraph to be justified so we end it with either: 
+</p>
+<p id="l5">
+1. A Quad Left command 
+</p>
+<p id="l7">
+2. A Quad Left and Return 
+</p>
+<p id="l9">
+3. A special End-Of-Paragraph command. 
+</p>
+<p id="l11">
+The use of the third method allows more sophisticated formatting. Because this unique command comes only at the end of paragraphs, certain formats can be set up: 
+</p>
+<p id="l13">
+1. Indention values can be set up for paragraphs. Thus the command "indent paragraph one pica [ip1]" will indent the first line following the command, and the indent will be cancelled with the first End-Of-Paragraph command that is encountered. 
+</p>
+<p id="l15">
+2. Since the first line of a paragraph is often indented, an automatic format can be set up to indent the first line a certain amount in picas and points for all lines following an end-of-paragraph command. Thus each time the machine senses an end-of-paragraph code it will automatically indent the next line only by the amount programmed. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

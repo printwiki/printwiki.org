@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Polymerization - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Polymerization" class="currentChild" href="Polymerization">Polymerization</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A complex chemical reaction that takes place in drying printing inks in which several relatively simple, low-molecular-weight compounds (called monomers) combine to form a long, high-molecular-weight chainlike molecule (called a polymer). Polymerization commonly takes place in the presence of a <a title="Catalyst" href="Catalyst">catalyst</a>, which can be another compound, or heat or light. Polymerization is responsible for the hardening and drying of printed ink films and commonly occurs following <a title="Oxidation" href="Oxidation">oxidation</a> of components of the ink <a title="Vehicle" href="Vehicle">vehicle</a>. 
+</p>
+<p id="l3">
+Polymerization is also the basis of the creation of several types of plates used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> and <a title="Flexography" href="Flexography">flexography</a>, in which <a title="Photopolymer" href="Photopolymer">photopolymer</a>s (molecules that are polymerized by light) are applied to the surface of a plate, and exposure of these coatings, via light shined through a photographic negative or positive or by lasers, causes the image areas of the original to form hard, durable polymers in the appropriate regions of the plate. Chemical treatment after exposure removes the unexposed coating from non-image areas of the plate. (See <a title="Plate: Offset Lithography" class="nonexistent" href="http://printwiki.org/Plate:_Offset_Lithography">Plate: Offset Lithography</a> and <a title="Plate: Flexography" class="nonexistent" href="http://printwiki.org/Plate:_Flexography">Plate: Flexography</a>.) Polymerization is also involved in the preparation of <a title="Photostencil" href="Photostencil">photostencil</a>s used in <a title="Screen Printing" href="Screen_Printing">screen printing</a>. See <a title="Photostencil" href="Photostencil">Photostencil</a>. 
+</p>
+<p id="l5">
+Polymerization—brought about by exposure to either ultraviolet light or electron beams—is also the basis of the drying of many types of <a title="Coating" href="Coating">coating</a>s used in <a title="Finishing" href="Finishing">finishing</a> operations. See <a title="Binding and Finishing: Finishing: Coating" class="nonexistent" href="http://printwiki.org/Binding_and_Finishing:_Finishing:_Coating">Binding and Finishing: Finishing: Coating</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

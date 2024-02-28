@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Stiffness - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Stiffness" class="currentChild" href="Stiffness">Stiffness</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper property that measures its ability to withstand a bending force. Paper has two basic varieties of stiffness: <a title="Flexural Stiffness" href="Flexural_Stiffness">flexural stiffness</a>, which is a paper's resistance to an externally-applied bending force, and <a title="Handling Stiffness" href="Handling_Stiffness">handling stiffness</a>, which is a paper's ability to support its own weight. Thickness (or <a title="Caliper" href="Caliper">caliper</a>) and <a title="Basis Weight" href="Basis_Weight">basis weight</a> are the chief determinants of a paper's stiffness; generally, a paper's stiffness varies as the cube of thickness (a doubling of caliper produces an eight-fold increase in stiffness). A paper's stiffness is also greater when the bending force is in the <a title="Cross-Grain Direction" href="Cross-Grain_Direction">cross-grain direction</a>, often by a ratio of two-to-one. The degree of stiffness required varies according to end use requirements. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Interpolation - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Interpolation" class="currentChild" href="Interpolation">Interpolation</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In imaging and <a title="Scanning" href="Scanning">scanning</a>, a means of "artificially" increasing the <a title="Resolution" href="Resolution">resolution</a> of a scanned image. The new <a title="Interpolated Resolution" href="Interpolated_Resolution">interpolated resolution</a> supplements the <a title="Scanner" href="Scanner">scanner</a>'s <a title="Optical Resolution" href="Optical_Resolution">optical resolution</a>. Essentially, interpolation works by taking the scanned <a title="Pixel" href="Pixel">pixel</a> values and averaging sets of them, inserting new pixels between the originals. Interpolation generates varying degrees of image quality. Although it doesn't add detail to a scan, it can smooth transitions between gray or color gradations, eliminating such undesirable effects as <a title="Banding" href="Banding">banding</a>. (See <a title="Scanning" href="Scanning">Scanning</a> and <a title="Resolution" href="Resolution">Resolution</a>.) 
+</p>
+<p id="l3">
+[This is the process of re-sizing an image by computing new pixel values as weighted averages of existing pixel values. It is slightly more complex than a simple average. This system uses interpolation, including reducing the size of files to be sent to the host. The host specifies the reduction size with a whole number called an interger interpolation factor. Thus, if the host requests an image with an integer interpolation factor of 2, the system will send the image only after it has reduced it by a factor of 2 from 4 megabytes to 2 megabytes, for example. 
+</p>
+<p id="l5">
+Computers usually store images as numbers that represent the intensity of the image at discrete points. It is frequently necessary to determine the intensity of the image between those discrete points. Interpolation is a mathematical technique that generates those in-between values by looking at the surrounding intensities.] 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Roughness - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Roughness" class="currentChild" href="Roughness">Roughness</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A surface property of a <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a> that describes the uniformity of the copper or chrome plating. The plating and polishing of the copper surface of the gravure cylinder yield a certain degree of minute peaks and valleys which, depending on the <a title="Substrate" href="Substrate">substrate</a>, need to be minimized as much as possible. Coated papers and other substrates with smooth surfaces are susceptible to poor print quality when surface roughness is moderately high; uncoated papers or other rough substrates are less sensitive. A high degree of peaks and valleys on the surface of the copper plating results in ink transfer in non-image areas. However, too smooth a surface results in poor lubrication of the <a title="Doctor Blade" href="Doctor_Blade">doctor blade</a> (a metal blade that scrapes excess ink off non-image areas of the cylinder) and results in blade and cylinder wear and damage. Although the gravure cylinder's copper surface is covered with a layer of chrome following engraving, the combination of the thinness of the chrome layer and the physical principle of <a title="Epitaxy" href="Epitaxy">epitaxy</a> (the tendency for the electroplated chrome to follow the contours of the copper to which it is plated exactly) allow for no correction or smoothing out of irregularities in the copper surface. Consequently, the roughness of the chrome layer is measured in the same way. 
+</p>
+<p id="l3">
+Copper and chrome roughness is measured by moving a diamond across the surface and measuring the peaks and valleys. 
+</p>
+<p id="l5">
+A related property is <a title="Waviness" href="Waviness">waviness</a>, which is similar to roughness but on a larger scale. (See also <a title="Waviness" href="Waviness">Waviness</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

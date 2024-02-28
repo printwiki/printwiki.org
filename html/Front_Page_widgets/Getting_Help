@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Front Page widgets/Getting Help - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Front Page widgets" href="../Front_Page_widgets">Front Page widgets</a>/<a title="Front Page widgets/Getting Help" class="currentChild" href="Getting_Help">Getting Help</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-c41641ae983a7ae691491e8637e28e31240e834e"><h2 id="l2">Wiki Help</h2></span>
+
+    <ul>
+
+    <li>
+<p id="l3">
+ <a title="Help/Help on Editing" href="../Help/Help_on_Editing">Help on Editing</a> - General description of editing functions and features <br/>
+</p>
+</li>
+    <li>
+<p id="l4">
+ <a title="Help/Help on Formatting" href="../Help/Help_on_Formatting">Help on Formatting</a> - general text formatting rules <br/>
+</p>
+</li>
+    <li>
+<p id="l5">
+ <a title="Help/Help on Linking" href="../Help/Help_on_Linking">Help on Linking</a> - external hyperlinks and inline images <br/>
+</p>
+</li>
+    <li>
+<p id="l6">
+ <a title="Help/Help on Headlines" href="../Help/Help_on_Headlines">Help on Headlines</a> - section headings <br/>
+</p>
+</li>
+    <li>
+<p id="l7">
+ <a title="Help/Help on Lists" href="../Help/Help_on_Lists">Help on Lists</a> - lists and indented sections <br/>
+</p>
+</li>
+    <li>
+<p id="l8">
+ <a title="Help/Help on Tables" href="../Help/Help_on_Tables">Help on Tables</a> - using tables for data display <br/>
+</p>
+</li>
+    <li>
+<p id="l9">
+ <a title="Help/Help with Images" href="../Help/Help_with_Images">Help with Images</a> - using images <br/>
+</p>
+</li>
+    <li>
+<p id="l10">
+ <a title="Help/Help with Macros" href="../Help/Help_with_Macros">Help with Macros</a> - using macros to do magic [[LikeThis]] <br/>
+</p>
+</li>
+    <li>
+<p id="l11">
+ <a title="Help/Talk Pages" href="../Help/Talk_Pages">Help on Talk Pages</a> - using a talk page and talk page etiquette 
+</p>
+</li>
+
+    </ul>
+
+
+<span id="head-fbb748f1b9a28cbb16d282df7eb8b5b3dd7649ef"><h3 id="l13">Wiki Users and Accounts</h3></span>
+
+    <ul>
+
+    <li>
+<p id="l14">
+ <a title="Help/Help with Accounts" href="../Help/Help_with_Accounts">Help with Accounts</a> - Creating an account and your first page 
+</p>
+</li>
+</ul>
+
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

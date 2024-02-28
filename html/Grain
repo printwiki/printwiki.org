@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Grain - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Grain" class="currentChild" href="Grain">Grain</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The direction of fibers in a sheet or <a title="Web" href="Web">web</a> of paper, generated during paper formation. As paper moves forward along the <a title="Forming Wire" href="Forming_Wire">forming wire</a> on a papermaking machine, the fibers align themselves in a direction parallel to the direction of wire travel through the machine (also called <a title="Machine Direction" href="Machine_Direction">machine direction</a>). When paper is cut into sheets, it will be either <a title="Long-Grain" href="Long-Grain">long-grain</a> (or <a title="Grain-Long" href="Grain-Long">grain-long</a>) if the fibers are aligned parallel to the sheet's longer dimension, or <a title="Short-Grain" href="Short-Grain">short-grain</a> (or <a title="Grain-Short" href="Grain-Short">grain-short</a>), if the fibers are aligned parallel to the sheet's shorter dimension. Paper will tear and fold more easily <a title="with the grain" class="nonexistent" href="http://printwiki.org/with_the_grain">with the grain</a> and with greater difficulty <a title="against the grain" class="nonexistent" href="http://printwiki.org/against_the_grain">against the grain</a>. 
+</p>
+<p id="l3">
+Grain direction is an important consideration in printing processes such as sheetfed offset lithography (in particular multiple-color work), especially in connection with dimensional stability, or how well a particular sheet of paper will retain its original length and width upon exposure to moisture. When paper fibers absorb water, they will expand in width, but not in length. Therefore, the direction of greater dimensional change will be in the <a title="Cross-Grain Direction" href="Cross-Grain_Direction">cross-grain direction</a>. Long-grain paper is generally preferred to short-grain paper for offset lithography, as the total dimensional change due to moisture will be less if the expansion is in the shorter dimension. This is an important consideration when separate colors in multiple-color jobs need to align properly. In some cases, however (primarily in black-and-white and single-color jobs), short-grain paper is preferred, as register is not a concern. In addition, since paper is stronger against the grain, paper that is fed into the press against its grain will be less likely to suffer from structural deformities such as curling, stretching, or <a title="Waffling" href="Waffling">waffling</a> as a result of tensile forces. When pages are to be bound, as in books and catalogs, the grain should be parallel to the binding edge. Pages bound with the grain perpendicular to the binding edge do not lie flat or turn easily.  
+</p>
+<p id="l5">
+There are a variety of ways of determining the grain direction in a particular sheet of paper. One test is to moisten one side of a paper square. It will curl toward its dry side, and the two opposite edges that curl up will be parallel to the grain direction. Another test is to cut two long, thin strips at right angles to each other from the same sheet. Put one strip on top of the other, align them, and hold them together between the thumb and forefinger from the short edges, letting them dangle. Then, turn them over. When on the bottom, the short-grain strip will bend toward the ground more than the long-grain strip. (See also <a title="Bursting Test" href="Bursting_Test">Bursting Test</a> and <a title="Tensile Test" href="Tensile_Test">Tensile Test</a>.) 
+</p>
+<p id="l7">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, the term <em>grain</em> refers to an artificial or exaggerated grain pattern imparted to binding materials, commonly by <a title="Embossing" href="Embossing">embossing</a>. See <a title="Graining" href="Graining">Graining</a>. 
+</p>
+<p id="l9">
+In photography, <em>grain</em> is used to refer to the size of the particles—or, in other words, the visual texture—forming the exposed image. The size of the grain (be it <a title="Fine Grain" href="Fine_Grain">fine grain</a> or <a title="Coarse Grain" href="Coarse_Grain">coarse grain</a>) determines not only how visible or "grainy" the image ultimately is, but also the smallest size of the image which can be recorded on it. 
+</p>
+<p id="l11">
+In platemaking, the term <em>grain</em> refers to the irregular surface texture of a lithographic <a title="Plate" href="Plate">plate</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

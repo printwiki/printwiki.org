@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Gray Scale - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Gray Scale" class="currentChild" href="Gray_Scale">Gray Scale</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A thin strip of paper or film containing 15:20 shades of gray, increasing in density (typically in a logarithmic, not linear, fashion) from white to black, used to analyze and optimize the <a title="Contrast" href="Contrast">contrast</a> of color and black-and-white images. 
+</p>
+<p id="l3">
+Gray scales come in a variety of different forms, for different types of reproduction. A gray scale can be supplied on film, as either <a title="Continuous Tone" href="Continuous_Tone">continuous tone</a>s or <a title="Halftone Dot" href="Halftone_Dot">halftone dot</a>s. If it is on film and comprises discrete stages of gray, it is called a <a title="Step Tablet" href="Step_Tablet">step tablet</a>. If it is on film and comprises a single continuous strip of progressively dense gray, it is called a <a title="Continuous Wedge" href="Continuous_Wedge">continuous wedge</a>. If it is on film and comprises halftone dots in discrete levels of gray, it is called a <a title="Halftone Scale" href="Halftone_Scale">halftone scale</a>. Gray scales are often printed beyond the trim boundaries of printed pages as a means of ensuring the consistency of the print characteristics. 
+</p>
+<p id="l5">
+On a computer monitor, gray scales are produced by varying the intensity of the <a title="Pixel" href="Pixel">pixel</a>s, on a scale of white to black. Images saved in the <a title="TIFF" class="nonexistent" href="http://printwiki.org/TIFF">TIFF</a> file format convert gray scale information into printer commands, which instruct the printer to construct a <a title="Bit Map" href="Bit_Map">bit map</a> plotting all the levels of gray for each <a title="Spot" href="Spot">spot</a> in the output. The more levels of gray that a computer and printer can discern, the smoother and more realistic the image. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

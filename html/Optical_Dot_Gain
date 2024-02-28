@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Optical Dot Gain - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Optical Dot Gain" class="currentChild" href="Optical_Dot_Gain">Optical Dot Gain</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Contribution to <a title="Dot Gain" href="Dot_Gain">dot gain</a> caused by light scattering and absorbtion in the substrate, and absorbtion of light on the underside of a printed dot, thereby increasing the <a title="Density" href="Density">density</a> in those areas. 
+</p>
+<p id="l3">
+Contrary to widely held opinion, optical dot gain is measurable; it is not an illusion. In principle, optical dot gain varies from 0% (for nonscattering paper) to 100% (for relatively high dot density on highly scattering substrates). In practice, optical dot gain is typically between about 10% and 35%. 
+</p>
+<p id="l5">
+Optical dot gain was first characterized by Yule and Nielsen (Nielsen's name was misspelled in the printed paper): 
+</p>
+<p id="l7">
+Yule, J.A.C. and W.J. Nielsen [<em>sic</em>] (1951), "The penetration of light into paper and its effect on halftone reproduction," in <em>TAGA Proc.:</em> 7-9 and 65-76. 
+</p>
+<p id="l9">
+See also Ruckdeschel, Frederick R. and Hauser, O. G. (1978), "Yule-Nielsen effect in printing: a physical analysis," in <em>Appl. Opt.</em> <strong>17</strong> (21): 3376-3383. 
+</p>
+<p id="l11">
+See also <a title="Physical Dot Gain" href="Physical_Dot_Gain">Physical Dot Gain</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

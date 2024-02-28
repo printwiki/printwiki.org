@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Bar-Code Scanner - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Bar-Code Scanner" class="currentChild" href="Bar-Code_Scanner">Bar-Code Scanner</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device used to read and data encoded on a <a title="Bar Code" href="Bar_Code">bar code</a> and correlate it with the proper information stored in a computer. Bar codes and bar-code scanners are used in a variety of industrial, commercial, and consumer applications, but the most familiar bar code is the <a title="Universal Product Code" href="Universal_Product_Code">Universal Product Code</a> symbol found on just about every retail item someone is likely to purchase. (See <a title="Bar Code: Universal Product Code" class="nonexistent" href="http://printwiki.org/Bar_Code:_Universal_Product_Code">Bar Code: Universal Product Code</a>.) 
+</p>
+<p id="l3">
+Despite the wide variety of standardized bar codes in existence, all bar-code scanners essentially work according to the same principle: light—generated either by a laser, an LED, a lamp, or other source of illumination—is directed at the printed bar code, and reflected light is transferred back into the scanner optics, and the intensity of the reflected light is converted to an electrical signal. Since a bar code consists of alternating light and dark bars of varying thickness, the intensity of the light fluctuates as the light source moves across the bar code. Consequently, the electrical signal oscillates. These oscillations can be converted to digital information, as a microprocessor measures the duration of each electrical signal oscillation. The pattern of oscillations can then be correlated to the information stored in the computer. Although this principle underlies all types of bar-code scanners, they each differ in the means by which they scan the bar code. 
+</p>
+<p id="l5">
+'Hand-Held Scanners'. Hand-held bar-code scanners contain the light source and optics in a small, pen-like housing, which can be moved over the bar code at a constant speed. (These are often found in some retail stores, or are carried by shippers such as Federal Express.) The advantages to these devices are their portability and their low cost. A disadvantage is that unlike with larger scanners, there is a limited number of orientations which are readable to the device. 
+</p>
+<p id="l7">
+'Fixed-Beam Scanners'. These devices are larger than the held-held models (although there are smaller "pistol" configurations which are used in some stores) and use a non-moving beam of light to illuminate a large area in which the bar code to be read is placed. The code is focused into the device's optics, and the bars decoded. As a result of the optical configuration and the fixed beam, the distance between the device and the bar code needs to be very small, and there is little variation in orientation of the bar code allowable. 
+</p>
+<p id="l9">
+'Moving-Beam Scanners'. These are the devices most often found in supermarkets and other large retail outlets. The device moves the light beam back and forth in either a straight line, or in an X-shaped or star-shaped pattern. The advantage to the moving beam is that the bar code can be read regardless of the orientation it is in; backwards, forwards, upside-down, at an angle, etc. So long as the code faces the scanner, it can be read. In fact, in some newer holographic systems the bar code can be read even if it does not directly face the scanner; a three-dimensional scanning pattern is used to read a bar code on the side of a package. These latter devices are quite expensive, however. 
+</p>
+<p id="l11">
+'Video-Image Scanners'. A less costly alternative to moving-beam scanners is a video-image scanner, which uses a device analogous to a video camera (or, in other words, a linear photodiode array) to capture a video signal of the bar code to be read, which can then be decoded. 
+</p>
+<p id="l13">
+Bar-code scanners are also known as <a title="Bar-Code Reader" href="http://printwiki.org/Bar-Code_Reader">bar-code reader</a>s. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

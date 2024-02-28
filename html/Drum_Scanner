@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Drum Scanner - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Drum Scanner" class="currentChild" href="Drum_Scanner">Drum Scanner</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A high-end optical <a title="Scanning" href="Scanning">scanning</a> device used to convert an image—such as a photograph—to digital form, so as to allow later manipulation and output as part of a page, as a color-separated image, or by itself. 
+</p>
+<p id="l3">
+In a drum scanner, the original image (usually a <a title="Color Transparency" href="Color_Transparency">color transparency</a>) is attached to a transparent revolving drum—or cylinder—while a small point of light illuminates the image from within the drum, where this light is split, passed through <a title="red, green and blue" class="nonexistent" href="http://printwiki.org/red%2C_green_and_blue">red, green and blue</a> filters, and picked up by a <a title="Photomultiplier Tube" href="Photomultiplier_Tube">photomultiplier tube</a>, which analyzes each row, <a title="Pixel" href="Pixel">pixel</a> by pixel, storing the particular color or grayscale information for each pixel in a digital file. When one revolution is complete, the light source moves one pixel to the side, and images the next row, continuing this process until the entire picture is imaged. In the photomultiplier tube, the amounts of <a title="Cyan" href="Cyan">cyan</a>, <a title="Magenta" href="Magenta">magenta</a>, and <a title="Yellow" href="Yellow">yellow</a> contained by the image are derived from the amounts of red, green, and blue light hitting it. The device stores the cyan, the magenta, and the yellow values for each pixel as one of 256 shades of gray. Alternatively, and more commonly, the device records the RGB signals for later conversion to CMYK. (The device also analyzes how much black makes up the image, based on the "heaviness" of the other three colors; if all three colors are heavy, then there is a significant amount of black present. If only two of the three colors are heavy, then it is likely that the colors are saturated, and there is thus little black involved.) 
+</p>
+<p id="l5">
+After scanning, the grayscale levels corresponding to each constituent color are "reassembled" either as one large digital file (if the image needs further manipulation) or as individual color-separated films. 
+</p>
+<p id="l7">
+Other types of scanners—such as desktop <a title="Flatbed Scanner" href="Flatbed_Scanner">flatbed scanner</a>s—utilize a <a title="Charge-Coupled Device" href="Charge-Coupled_Device">charge-coupled device</a> rather than a photomultiplier tube. Although these devices are less expensive than high-end drum scanners, they tend to produce lower-quality scans. 
+</p>
+<p id="l9">
+Most high-end drum scanners are both digital and analog scanners; the original scan gleans analog data from the image, which is later converted to digital information to be read by the computer. Strictly digital scanners obtain information in digital form at the outset. (See <a title="Scanner" href="Scanner">Scanner</a> and <a title="Scanning" href="Scanning">Scanning</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

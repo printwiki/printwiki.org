@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Vector Graphics - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Vector Graphics" class="currentChild" href="Vector_Graphics">Vector Graphics</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A type of computer graphics system which describes a computer image as a series of complex mathematical formulas and coordinates that decribe lines, curves, and other geometric shapes, as opposed to <a title="Bit Map Graphics" href="http://printwiki.org/Bit_Map_Graphics">bit map graphics</a>, in which the image is represented as a large grid of variously-colored <a title="Pixel" href="Pixel">pixel</a>s. (Consequently, vector-based graphics are also referred to as <a title="Object-Oriented" href="Object-Oriented">object-oriented</a>, as images or elements within an image can be grouped together and considered by the software as individual "objects.") Vector images take up less disk space and require less processing power and <a title="RAM" class="nonexistent" href="http://printwiki.org/RAM">RAM</a> to create and manipulate. As they are described mathematically, they can be output at as high a <a title="Resolution" href="Resolution">resolution</a> as the output device is capable of generating, so long as the <a title="File Format" href="File_Format">file format</a> in which the file is saved is one that can handle vectors. The most commonly-used file format for vector graphics is <a title="Encapsulated PostScript" href="Encapsulated_PostScript">encapsulated PostScript</a>. <a title="PostScript" href="PostScript">PostScript</a> printer fonts are typically vector-based descriptions of letters, numbers and other characters. A disadvantage to vector graphics is that they can be more difficult to create and manipulate than bit maps, but vector graphics are commonly the only way of producing <a title="Line Art" href="Line_Art">line art</a> that prints out smoothly. 
+</p>
+<p id="l3">
+Despite whether a file is a vector or bit map image, however, a conventional computer monitor can only display an image as a bit map, so a vector graphic will never look as smooth on screen as it does when output, as it will always have to be displayed at the resolution of the monitor, which is much much less than that of <a title="Imagesetter" href="Imagesetter">imagesetter</a>s or even <a title="Laser Printer" href="Laser_Printer">laser printer</a>s. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

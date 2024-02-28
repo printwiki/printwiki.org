@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Roll Stand - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Roll Stand" class="currentChild" href="Roll_Stand">Roll Stand</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device used in <a title="Web Offset Lithography" href="Web_Offset_Lithography">web offset lithography</a> (or on other types of <a title="Web Press" href="Web_Press">web press</a>es) to hold a paper roll and feed it with consistent and controlled tension into the printing unit of the press. Metering rollers and one or more <a title="Dancer Roller" href="Dancer_Roller">dancer roller</a>s are often part of the roll stand. Roll stands may either be <a title="Single-Roll Stand" href="Single-Roll_Stand">single-roll stand</a>s (which hold only one roll of paper at a time) or <a title="Double-Roll Stand" href="Double-Roll_Stand">double-roll stand</a>s (which hold two rolls of paper at a time). An <a title="Auxiliary Roll Stand" href="Auxiliary_Roll_Stand">auxiliary roll stand</a> may also be used. The roll stand is commonly located directly behind the first printing unit of the press, but some configurations use a <a title="Side Roll Stand" href="Side_Roll_Stand">side roll stand</a>, in which the roll stand is located to the side of the press, the web being transferred into the printing unit by angle guides. Such arrangements are useful in pressrooms lacking enough space to keep the roll stand in line with the rest of the press. (See <a title="Web Offset Lithography: Infeed and Web Control" class="nonexistent" href="http://printwiki.org/Web_Offset_Lithography:_Infeed_and_Web_Control">Web Offset Lithography: Infeed and Web Control</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

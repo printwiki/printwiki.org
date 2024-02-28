@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Lens - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Lens" class="currentChild" href="Lens">Lens</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An optical device, usually made of glass or quartz, used, basically, to focus light. The first lens is believed to have been a magnifying glass, evidence suggesting that the ancient Chaldeans in Babylonia knew of rudimentary optics. Essentially, a lens is based on the principle of light <a title="Refraction" href="Refraction">refraction</a>. The curved surface of a convex lens will contain light passing into it at a variuety of angles in relation to a principal axis (i.e., described by a ray of light hitting the exact center of curvature). All the rays passing through this curved surface will converge at a single point along the principal axis, called the <a title="Focal Point" href="Focal_Point">focal point</a>. The distance between the point on the principal axis where it meets the exterior of the curved surface and the focal point is known as the <a title="Focal Length" href="Focal_Length">focal length</a>. Convex lenses with sifferent degrees of curvature will have different refraction effects (and concave lenses also have different effects). The most common examples of lenses are those found in our own eyes; called a crystalline lens (and not made of glass, to be sure), it works to focus light passing through the pupil onto the retina. In many of us, the focal lengths of our eyes have changed over time, the result being that the focal point of our lenses now falls either behind or in front of the retina. As a result, blurry vision occurs. Artificial lenses (i.e., eyeglasses or contact lenses) are used to reposition the focal point of light entering the eye so that it falls directly on the retina, allowing clear vision. 
+</p>
+<p id="l3">
+The lens of a <a title="Camera" href="Camera">camera</a> operates in much the same way, working to focus light rays at a specific point corresponding to the film plane. The ability to adjust the lens allows for the focusing of images at a variety of distances from the camera. (See <a title="Photography" href="Photography">Photography</a>.) 
+</p>
+<p id="l5">
+The principle of the lens is also used for simple magnification, also in some types of cameras, in magnifying glasses, telescopes, microscopes, and a variety of other devices. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Lightfastness - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Lightfastness" class="currentChild" href="Lightfastness">Lightfastness</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A paper property that measures the extent to which a paper will retain its original color, <a title="Brightness" href="Brightness">brightness</a>, and <a title="Whiteness" href="Whiteness">whiteness</a> with exposure to light. Various chemical constituents in paper <a title="Pulp" href="Pulp">pulp</a> reduce its lightfastness, in particular the presence of <a title="Lignin" href="Lignin">lignin</a>, a naturally-occurring chemical found in wood that binds fibers of <a title="Cellulose" href="Cellulose">cellulose</a> together, and is responsible for paper darkening and yellowing upon exposure to light. It is the goal of many <a title="Pulping" href="Pulping">pulping</a> systems to remove as much lignin as possible from the wood pulp before papermaking. Various <a title="Chemical Pulping" href="Chemical_Pulping">chemical pulping</a> procedures, and the use of <a title="Bleaching" href="Bleaching">bleaching</a> agents remove nearly all lignin from wood pulp, but <a title="Groundwood" href="Groundwood">groundwood</a> pulp still contains a high amount of lignin, so paper composed of some quantity of it yellows very quickly (such as newsprint). Bleaching and the use of <a title="fast-to-light dyes" class="nonexistent" href="http://printwiki.org/fast-to-light_dyes">fast-to-light dyes</a> help increase a paper's lightfastness, but no paper can be completely lightfast. 
+</p>
+<p id="l3">
+Tests to gauge lightfastness involve exposing a paper sample to a carefully-controlled light source for a set period of time using a <a title="Fade-Ometer" href="Fade-Ometer">Fade-Ometer</a>. 
+</p>
+<p id="l5">
+The term <em>lightfastness</em> also refers to a printing ink's ability to retain its color strength and resist fading upon exposure to light. Tests to gauge an ink's lightfastness are performed in a manner similar to measures of a paper's lightfastness. Lightfastness is also referred to as <a title="Colorfastness" href="Colorfastness">colorfastness</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

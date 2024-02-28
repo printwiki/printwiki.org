@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Pagination - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Pagination" class="currentChild" href="Pagination">Pagination</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the assembly of type into pages. Typesetting is the process of setting type; pagination is the process of putting pages together with that type and other graphic elements. 
+</p>
+<p id="l3">
+There are a variety of ways that pages can be assembled: 
+</p>
+<p id="l5">
+1. Affixing reproduction-quality typeset printout to a carrier sheet to form a <a title="Camera-Ready" href="Camera-Ready">camera-ready</a> mechanical. Also called <a title="Paste-Up" href="Paste-Up">paste-up</a> or <a title="Keylining" href="Keylining">keylining</a>. This process is being replaced almost entirely by digital techniques (see #3 below). 
+</p>
+<p id="l7">
+2. Assembling <a title="Film Positive" href="Film_Positive">film positive</a> printout on clear acetate carrier sheets to form a master for contact exposure to form a <a title="Negative" href="Negative">negative</a> film. Also known as <a title="Stripping" href="Stripping">stripping</a>. 
+</p>
+<p id="l9">
+3. Electronically reviewing and/or assembling type on a page makeup screen or, more and more commonly, in a <a title="page makeup program" class="nonexistent" href="http://printwiki.org/page_makeup_program">page makeup program</a> such as <a title="PageMaker" href="PageMaker">PageMaker</a> or <a title="QuarkXPress" href="QuarkXPress">QuarkXPress</a>, to create finished pages that will be sent to an output device—or, increasingly, direct-to-plate—in position. (See <a title="Desktop Publishing" href="Desktop_Publishing">Desktop Publishing</a>.) 
+</p>
+<p id="l11">
+The basic building blocks of a page are: text blocks, display lines such as heads, boxes and rules, line illustrations, photographs, captions, footnotes, tabular blocks, and page numbers (called <a title="Folio" href="Folio">folio</a>s). 
+</p>
+<p id="l13">
+A page is usually designed as an image area defined by the margins and/or borders. A grid is created to position blocks consistently within the image area. Columns must align at the top and bottom of the image area. The image area is also known as the <a title="live matter area" class="nonexistent" href="http://printwiki.org/live_matter_area">live matter area</a>. A rough assembly of pages to see how they will look prior to final assembly is called a <a title="Dummy" href="Dummy">dummy</a>. 
+</p>
+<p id="l15">
+The term <em>pagination</em> also refers to the process of numbering the pages, commonly done by <a title="Automatic Pagination" href="Automatic_Pagination">automatic pagination</a> features of a typesetting device or page makeup software. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Blanket - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Blanket" class="currentChild" href="Blanket">Blanket</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A synthetic rubber mat used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> to transfer—or "offset"—an image from a metal plate to the paper or other <a title="Substrate" href="Substrate">substrate</a>. It is the use of a blanket that gives offset lithography its name (see also <a title="Direct Lithography" href="Direct_Lithography">Direct Lithography</a>.) 
+</p>
+<p id="l3">
+The earliest blankets were made from pure rubber which, although producing a much superior image than could be obtained with the lithographic plates in use at the time, imparted a number of problems to the process. The invention of synthetic rubbers in the 1930s eliminated most of the problems inherent in rubber-blanket offset printing. Blankets today are primarily made from synthetic rubbers such as <a title="Buna N" href="Buna_N">Buna N</a> or <a title="Neoprene" href="Neoprene">neoprene</a>. To this basic rubber are added a variety of additives, such as softeners to increase resilience, as well as other materials to toughen the surface. The rubber compound is applied to a fabric backing, which is pre-stretched to simulate the tension it will experience when it is ultimately mounted on the press. The strength of the fabric is typically greater lengthwise than across its width, as it needs to be stronger in its around-the-cylinder direction. A blanket with greater strength across its width will stretch irretrievably when it is mounted, and the resulting bagginess will cause poor image transfer. The direction of greater strength is called the blanket's <a title="Warp" href="Warp">warp</a>, while that of its lesser strength is called its <a title="Weft" href="Weft">weft</a>. Colored threads woven into the back of the blanket indicate its warp direction. Two, three and even four plys of fabric are cemented together, and as many as 80 individual coats of rubber compound are added to its surface. Temperature, humidity, and other environmental factors need to be carefully controlled so as to keep the blanket thickness within the acceptable tolerances (about ±0.0005 inch). The finished blanket is then vulcanized, so as to improve its dimensional stability and its strength. 
+</p>
+<p id="l5">
+Of primary consideration in evaluating a blanket is its <a title="Release" href="Release">release</a>, or how easily the blanket will let go of the press sheet as it leaves the <a title="Impression Nip" href="Impression_Nip">impression nip</a>. In addition to other non-blanket factors such as ink <a title="Tack" href="Tack">tack</a>, the <a title="Squeeze" href="Squeeze">squeeze</a> exerted in the impression nip, and the surface characteristics of the paper, the smoothness and hardness of the blanket surface also contribute to release. A hard blanket with a somewhat rough surface has anecdotally been found to give the best release, although empirical experimentation fails to confirm this. Perhaps the difficulty of accurately quantifying blanket hardness is one reason. As for smoothness, there is some debate on the desired level of smoothness that provides the best printed impressions. Most blankets are slightly grained or textured, which doesn't affect the impression, but, it is claimed, helps drain water from the plate. Others say the graininess should be eliminated as much as possible. Regardless of the proper level of graininess, it should never be pronounced enough to print the texture of the blanket in solids. Blankets containing holes, depressions, pits, or other gross surface irregularities should be replaced. Blankets should also have desirable levels of <a title="Resilience" href="Resilience">resilience</a>, in particular <a title="Smash Resistance" href="Smash_Resistance">smash resistance</a>, the extent to which a blanket will retain its original dimensions following an instance of printing pressure. Similarly, blanket <a title="Durability" href="Durability">durability</a> describes the extent to which the blanket will retain its dimensional characteristics over time. Another important characteristic is a blanket's ability to simultaneously be ink-receptive, yet not absorb the ink <a title="Vehicle" href="Vehicle">vehicle</a> or the blanket-cleaning <a title="Solvent" href="Solvent">solvent</a>s used on it, such absorption causing blanket swelling which distorts and degrades the printed impression. A final consideration of blanket performance is its inability to stretch. New blankets do have an inherent tendency to stretch somewhat over the course of its first few thousand impressions (and consequently will need to be repacked) but any stretching after that point should be minimal, primarily to keep the printing pressure consistent throughout a print run, or between different pressruns. A blanket that needs to be repacked regularly may need to have the printing pressure lessened, its lockup tension increased, or its tension decreased. 
+</p>
+<p id="l7">
+One recent development in blanket manufacture that has become more and more widespread is a <a title="Compressible Blanket" href="Compressible_Blanket">compressible blanket</a>. A compressible blanket is manufactured in a manner similar to the conventional blanket described above, but its backing also includes one layer (or perhaps more) of a soft, resilient material such as foam rubber, cork, or loose fabric fibers. The advantage of a compressible blanket is the ability to increase the <a title=" packing" class="nonexistent" href="_packing"> packing</a> height without generating a corresponding increase in printing pressure, which can lead to a variety of press and print problems, such as plate and blanket wear and/or damage, gear wear and <a title="Gear Streaks" href="Gear_Streaks">gear streaks</a>, <a title="Mottle" href="Mottle">mottle</a>, <a title="Dot Slurring" href="Dot_Slurring">dot slurring</a>, and increased <a title="Picking" href="Picking">picking</a>. Compressible blankets also contribute to the attainment of <a title="True Rolling" href="True_Rolling">true rolling</a>, or a condition of no slippage at the nip between the plate and the blanket cylinders. When a conventional blanket contacts the plate, the rubber deforms somewhat, and as a result the surface speed of the blanket is different than that of the plate, producing a slippage that can cause <a title="Slurring" href="Slurring">slurring</a>. A compressible blanket, on the other hand, displaces less rubber at the nip, and as a result, the difference in surface speeds between the blanket and the plate is reduced. An added advantage is that reduced slippage leads to less plate wear, increasing the lifespan of the plate. Compressible blankets also improve <a title="Smash" href="Smash">smash</a> recovery ("smash" is a undesirable, localized compression of a portion of the blanket caused by a foreign object or multiple sheets of paper passing through the impression nip) since, by design, they compress under increased pressure, with the ability to return to their original dimensions. (Smash recovery may be within 2:10 sheets, if the compression is not overly severe.) There is also a reduced tendency for <a title="Compression Set" href="Compression_Set">compression set</a>, a permanent, unrecoverable decrease in blanket thickness, but another advantage of compressible blankets is their ability to even out any irregularities in blanket thickness. 
+</p>
+<p id="l9">
+Regardless of the variety of blanket, it is necessary to ensure that the thickness of the blanket is accurately known. Manufacturer specifications may only report an average thickness for any particular shipment of blankets. Measurements need to confirm or refute those numbers, in order to properly determine the required amount of packing to add. Uniformity of thickness throughout a single blanket may also be a problem. Micrometer measurements should be made at a variety of different locations to determine an average thickness for the blanket, and any gross irregularities may necessitate blanket replacement. 
+</p>
+<p id="l11">
+Blankets may be shipped from the manufacturer with press mounting bars already attached, or they may need to be added after receipt. When mounting a blanket, both squareness of the blanket and even tension on the cylinder need to be paid attention to. An unsquarely-mounted blanket (either due to improper mounting or a manufacturing defect) will produce uneven tension. Blankets should purchased so that their thickness necessitates the minimum use of packing. Whether one should use two-, three-, or four-ply blankets (mentioned above) depends on the size of the <a title="Undercut" href="Undercut">undercut</a> of the blanket cylinder. Too much packing causes <a title="Packing Creep" href="Packing_Creep">packing creep</a>. When packing the blanket, only prescribed packing paper should be used; mylar packing is fine for use beneath plates, but causes many problems when used under a blanket. (See <a title="Packing" href="Packing">Packing</a>.) 
+</p>
+<p id="l13">
+When a blanket smash occurs, and a visible depression is left in the surface of the blanket, it is typically not the rubber that is damaged, but the less compressible fabric beneath it. If the rubber surface is not cut, the blanket may be recoverable, and the fabric fibers can be returned to their original dimensions by soaking the blanket for a day or so either in water, or in water with a small amount of <a title="Wetting Agent" href="Wetting_Agent">wetting agent</a> added. The blanket is then hung up to dry by the mounting bar. When it is dry, the fabric fibers are likely to have returned to their original size. If the rubber surface or the fabric fibers are torn, however, there is no way to save the blanket. Damaged blankets, although not useful for general printing, are good to use in conjunction with perforating dies attached to the impression cylinder. Perforating dies will damage a new blanket, so it may be wise to use an already damaged, expendable blanket. 
+</p>
+<p id="l15">
+Blankets not on press should be stored in a cool, dark, dry place. Prolonged exposure to sunlight, fluorescent lighting or heat can cause the rubber to crack. Storing blankets with the rubber surface in contact with the fabric backing of an adjacent blanket can cause the rubber to pick up the texture of the fabric, which may be permanent, and will not print well. When cleaning a blanket, a solvent that is compatible with the synthetic rubber should be used, as improper solvents can be absorbed by the blanket, causing it to swell, or can dissolve the rubber surface. Solvent should not come into contact with the edges of the blanket; the sides of a blanket are frequently not sealed, and solvent can destroy the adhesive holding the plys of fabric backing together. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Refining - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Refining" class="currentChild" href="Refining">Refining</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The mechanical treatment of paper <a title="Pulp" href="Pulp">pulp</a> fibers to impart to them the appropriate characteristics for papermaking. A part of the <a title="Stock Preparation" href="Stock_Preparation">stock preparation</a> phase of papermaking, refining is the most important aspect of the process, as it is here that the characteristics of the <a title="Cellulose" href="Cellulose">cellulose</a> fibers and the composition of the papermaking <a title="Furnish" href="Furnish">furnish</a> that comprise paper are determined, which affect how the fibers bind with each other during the formation of the paper <a title="Web" href="Web">web</a> and what the various optical, structural, and chemical properties of the paper will be. 
+</p>
+<p id="l3">
+There are two basic methods for pulp refining. The first, an older batch system, uses an oval tank called a <a title="Beater" href="Beater">beater</a>. The beater is equipped with rotating metal bars that squeeze the fibers between stationary metal bars. The water-suspended fibers are repeatedly passed through the rotating bars, the end result of which is that the fibers become frayed, shortened lengthwise, swollen in diameter and softened. Their surface area is increased to facilitate the binding of fibers in subsequent stages of the papermaking process. <a title="Loading" href="Loading">Loading</a>, or the addition of non-fibrous additives such as <a title="fillers" class="nonexistent" href="http://printwiki.org/fillers">fillers</a>, can take place at this point. The furnish is sent to a <a title="Conical Refiner" href="Conical_Refiner">conical refiner</a> (also called a <a title="Jordan" href="Jordan">jordan</a>) for further refining. The furnish enters at the smaller end of the conical refiner, is swirled between a rotating plug and stationary metal bars and is ejected out the larger end. In larger papermills, the beater/refiner batch system has been replaced by continuous <a title="disk refiners" class="nonexistent" href="http://printwiki.org/disk_refiners">disk refiners</a>, which are rotating disks having serrated or otherwise contoured surfaces. One disk rotates clockwise, while the other rotates counterclockwise, or is stationary. The furnish is pumped through the center of one of the disks and as centrifugal force throws the furnish toward the perimeter of the disks, it is sandwiched between them. The action of the rotating disks rubs, rolls, cuts, frays, and softens the fibers. The space between the disks can be adjusted, depending on the degree of refining desired. In continuous refining systems, the type of pulp, the degree of refining, and the type and quantity of fillers can be altered easily depending on the type of paper that is to be produced. 
+</p>
+<p id="l5">
+There are a variety of paper properties that are a direct result of the refining process. If the fiber length is decreased, the strength and resistance to tearing of the paper produced will decrease, but the surface levelness and smoothness will increase, and the print quality will become better. As the degree of refining is increased, the density, hardness, ink holdout, smoothness, and internal bond strength will increase, but thickness, compressibility, dimensional stability, and porosity will decrease. Complicating matters is the fact that with initial refining, resistance to tearing will increase, due to the enhanced ability of the fibers to bond with each other and resist pulling away, but further refining will work to decrease tearing resistance, as the shortening of the fibers has a deleterious effect on paper strength. In other words, increased refining will work to shorten paper fibers, which enhances smoothness and printability, but diminishes strength and resistance to stresses. (See also <a title="Paper and Papermaking: Paper Properties" class="nonexistent" href="http://printwiki.org/Paper_and_Papermaking:_Paper_Properties">Paper and Papermaking: Paper Properties</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

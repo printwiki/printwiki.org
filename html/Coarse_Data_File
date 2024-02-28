@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Coarse Data File - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Coarse Data File" class="currentChild" href="Coarse_Data_File">Coarse Data File</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In imaging, a low-resolution image (also called a <a title="Low-Resolution File" href="Low-Resolution_File">low-resolution file</a> or a <a title="Viewfile" href="Viewfile">viewfile</a>)—scanned at the resolution of the monitor itself—used to evaluate the scanner setup, the quality of the original image, or other aspects of the image. Since even a <a title="High-Resolution File" href="High-Resolution_File">high-resolution file</a> will be displayed at the resolution of the monitor, evaluations can be accomplished much more quickly by scanning at the lowest viewable resolution. Since such a low-resolution file possesses less image data than a high-resolution file, it is inadequate for high-quality output. 
+</p>
+<p id="l3">
+A coarse data file or low-resolution file is also created along with a high-resolution file and used to view an image imported into a page layout program, as a means of allowing the program to run more efficiently than it would if the entire high-res file were displayed. Since high-resolution files occupy a large amount of disk space and also require a great deal of <a title="RAM" class="nonexistent" href="http://printwiki.org/RAM">RAM</a> and processing power to display—all the while looking no better than a low-resolution file on screen—low-resolution files are used as <a title="FPO" href="FPO">FPO</a> images while working on a page. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

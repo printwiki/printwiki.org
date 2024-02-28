@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Fountain Solution - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Fountain Solution" class="currentChild" href="Fountain_Solution">Fountain Solution</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A mixture of water and other chemicals distributed by the <a title="Dampening System" href="Dampening_System">dampening system</a> on a printing press used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>. Lithographic printing operates on the principle that oil and water do not mix to any great extent; offset presses first treat metal printing plates with a fountain solution, which works to <a title="Desensitize" href="Desensitize">desensitize</a> the non-image areas, rendering them ink-repellent. The fountain solution is applied to the plate through a series of rollers in a variety of configurations. (See <a title="Dampening System" href="Dampening_System">Dampening System</a>.) 
+</p>
+<p id="l3">
+The fountain solution itself can consist solely of water, but such solutions lose their effectiveness on any but the shortest press runs. Other chemicals added to the solution keep the plate desensitized much longer than water alone. In addition to water, fountain solutions typically consist of: 
+</p>
+<p id="l5">
+• an acid or base (depending upon the desired <a title="pH" class="nonexistent" href="http://printwiki.org/pH">pH</a> of the fountain solution) 
+</p>
+<p id="l7">
+•a <a title="Gum" href="Gum">gum</a> (such as <a title="Gum Arabic" href="Gum_Arabic">gum arabic</a>) which desensitizes the non-image areas of the plate 
+</p>
+<p id="l9">
+•a <a title="Corrosion Inhibitor" href="Corrosion_Inhibitor">corrosion inhibitor</a> (such as magnesium nitrate) which prevents <a title="Oxidation" href="Oxidation">oxidation</a> or other chemical reactions which may damage the plate 
+</p>
+<p id="l11">
+•a <a title="Wetting Agent" href="Wetting_Agent">wetting agent</a> (commonly an alcohol such as isopropanol, or an alcohol substitute) which reduces the surface tension of the solution and enables it to flow more easily 
+</p>
+<p id="l13">
+•a fungicide which helps kill any organic growth in the fountain or elsewhere in the dampening system 
+</p>
+<p id="l15">
+•an <a title="Antifoaming Agent" href="Antifoaming_Agent">antifoaming agent</a> which, as its name indicates, reduces the tendency of the solution to foam or bubble, which can cause distribution problems on press. 
+</p>
+<p id="l17">
+The fountain solution may also contain a <a title="Drying Stimulator" href="Drying_Stimulator">drying stimulator</a> (commonly cobalt chloride) which works to enhance the effectiveness of the <a title="Drier" href="Drier">drier</a> in the ink. A drying stimulator is typically added when ink is not drying fast enough to prevent problems such as smudging, <a title="Ink Setoff" href="Ink_Setoff">ink setoff</a>, and/or <a title="Blocking" href="Blocking">blocking</a>. The concentrated fountain solution is known as <a title="Fountain Concentrate" href="Fountain_Concentrate">fountain concentrate</a>, <a title="Fountain Etch" href="Fountain_Etch">fountain etch</a>, or <a title="Etch" href="Etch">etch</a>, and can comprise a variety of different substances, depending upon the ink and <a title="Substrate" href="Substrate">substrate</a> used. For example, a <a title="metallic ink" class="nonexistent" href="http://printwiki.org/metallic_ink">metallic ink</a> or the use of <a title="Alkaline Paper" href="Alkaline_Paper">alkaline paper</a> may require a high-pH fountain solution, in contrast to the typical fountain solution, with a moderately acidic pH of 4.0:5.5. (See <a title="pH" class="nonexistent" href="http://printwiki.org/pH">pH</a>.) 
+</p>
+<p id="l19">
+The primary constituents of fountain solution are: 
+</p>
+<p id="l21">
+'Water'. The largest component of fountain solution is water, and it is important that the water used be as free from impurities as possible. Water with a high concentration of magnesium and calcium ions is known as "hard" water; water free of such substances is known as "soft" water. Water straight from the tap can be fairly unpredictable, especially in a large metropolitan area. Water hardness is measured in terms of the water's electrical conductivity, as a higher ion concentration in the water increases its conductivity. The total dissolved solids (TDS) in parts per million (ppm) is multiplied by 1.5 to yield the conductivity in micromhos per centimeter (µmhos/cm). Local authorities, such as the water department, can provide the water hardness figure for the area. Water with a hardness above 220 ppm (thus a conductivity of greater than 330 µmhos/cm) may need to be purified for better performance on press, as the higher the water hardness, the more it can raise the solution's pH. But more important than actual water hardness is the consistency of water hardness, which many printers ensure by mixing "raw" water with purified water of a predetermined and consistent hardness. 
+</p>
+<p id="l23">
+'Wetting Agents'. An important property of a fountain solution is its ability to quickly form a thin film on the rollers and the plate or, in other words, to rapidly "wet" these surfaces. The wettability of a solution is a function of the surface tension of the liquid, measured in dynes per centimeter. (A dyne is a unit of force, 1 dyne being equal to the force that will produce a one-centimeter-per-second acceleration per second on a mass of one gram.) Pure water has a surface tension of 72 dynes per centimeter, and a 10:25% concentration of wetting agents (commonly isopropyl alcohol or non-alcohol <a title="Surfactant" href="Surfactant">surfactant</a>s) reduce this to about 35:45 dynes per centimeter, suitable for forming a quick, thin film. 
+</p>
+<p id="l25">
+'Alcohol'. The use of alcohol in press fountain solutions has many advantages in addition to reducing surface tension. It is efficient (alcohol concentrations as low as 5% can be used effectively on many presses) and it increases the <a title="Viscosity" href="Viscosity">viscosity</a> of the solution allowing a thicker film to be applied to the rollers and/or the plate. The high <a title="Volatility" href="Volatility">volatility</a> of alcohol means that it will evaporate more quickly before being transferred to the blanket; its tendency to emulsify the ink to a lesser extent than other liquids reduces <a title="Snowflaking" href="Snowflaking">snowflaking</a> (small, white, unprinted specks in printed solids and type), and alcohol tends to allow greater print quality right at startup, which is a cost-effective benefit. However, Environmental Protection Agency (EPA) and Occupational Safety and Health Administration (OSHA) regulations (such as those calling for the reduction of volatile organic compounds) are limiting, if not eliminating, the use of alcohol in dampening solutions. 
+</p>
+<p id="l27">
+Several of the disadvantages of alcohol—such as its expense, toxicity, flammability, and need for adequate ventilation in areas of its use—are causing alcohol substitutes to be more frequently utilized. These substitutes include derivatives of glycol and glycol ethers, frequently in combination with ethylene glycol. These substitutes can either completely replace isopropanol or they can be added as a supplement to it, reducing the total isopropanol concentration. The advantages of these substitutes include a lower volatility, which cuts down on toxic emissions; their effectiveness at lower concentrations than alcohol (5% or less); increased print quality, including less ink and water necessary for good color printing, sharper halftone dots and reduced <a title="Dot Gain" href="Dot_Gain">dot gain</a>; and their lack of odor improves workplace conditions. However, their disadvantages include increased <a title="Piling" href="Piling">piling</a> of paper debris on the blanket; increased amounts of dampening solution transferred to the blanket; inability to mix directly with concentrated amounts of gum; increase of ink drying time; press problems such as <a title="Roller Stripping" href="Roller_Stripping">roller stripping</a>; and incompatibility with non-paper substrates, such as plastic, film, or other nonabsorbent surfaces. They also increase the tendency for the <a title="Metering Roller" href="Metering_Roller">metering roller</a> (in continuous-flow dampening systems) to become ink-receptive. The use of 1:32 <a title="Gum Etch" href="Gum_Etch">gum etch</a> can help eliminate the problem. Another metering-roller problem, namely, <a title="Banding" href="Banding">banding</a> (the formation of light and dark bands on the roller which cause streaks on the plate and print), happens when using alcohol substitutes on a hard roller (i.e., one with a <a title="Durometer" href="Durometer">durometer</a> of 25:30). The use of a lower-durometer roller (18:22) will alleviate the problem, as will using a metering roller with a slightly grained surface, which allows more water to be carried by the roller. The low volatility of alcohol substitutes (which can be lower than that of water) can also result in an increase in substitute concentration over the course of a print run as the water evaporates. As there is no easy way to gauge the concentration of alcohol substitutes on the fly, the only preventive measure that can be taken is to replace the fountain solution at least once a week. Some alcohol substitutes also increase the tendency for <a title="Foaming" href="Foaming">foaming</a>. Antifoaming agents will help alleviate this problem. Some substitutes also require greater amounts of wetting agents to be added, indicated by <a title="Plugging" href="Plugging">plugging</a> of halftone dots or small type. Another roller problem is caused by the deposit of salts (a white solid material) on the metering roller, typically a problem when the press is idle for an extended period of time (such as overnight). The metering roller should be cleaned and desensitized before letting it stand overnight. Alcohol substitutes also have no effect on fountain solution viscosity, which requires higher roller speeds in <a title="Continuous-Flow Dampening System" href="Continuous-Flow_Dampening_System">continuous-flow dampening system</a>s. Refrigerating the solution, however, can help increase the viscosity. 
+</p>
+<p id="l29">
+Refrigeration of dampening solution has other benefits as well. <a title="Hot-Weather Scumming" href="Hot-Weather_Scumming">Hot-weather scumming</a>, more commonly called <a title="Tinting" href="Tinting">tinting</a>, is characterized by the accumulation of ink in non-image areas of the plate, and is caused by the particles of ink <a title="Pigment" href="Pigment">pigment</a> bleeding into the dampening solution, a tendency that increases with temperature. Keeping the temperature of the fountain solution low can reduce this problem. Refrigeration also helps ensure that the fountain solution stays at a constant temperature. As viscosity decreases with increasing temperature, keeping the solution at a constant temperature keeps the viscosity constant, eliminating the need for frequent adjustments of the <a title="Metering Nip" href="Metering_Nip">metering nip</a> in continuous-flow dampening systems. Refrigeration also reduces the evaporation of alcohol in alcohol-based fountain solutions, which helps prolong the fountain solution and cuts down on the concentration of the health-hazards of evaporated alcohol in the pressroom air. However, refrigeration is not without its problems. One such difficulty could arise when the warm press and fountain pan cause condensation of water drops on the bottom of the pan containing cool or cold fountain solution. These drops can drip onto the paper, damaging it. Cold fountain solutions can also increase the ink's <a title="Tack" href="Tack">tack</a>, or its stickiness, increasing such problems as <a title="Picking" href="Picking">picking</a>, <a title="Splitting" href="Splitting">splitting</a>, and <a title="Tearing" href="Tearing">tearing</a> of the paper. 
+</p>
+<p id="l31">
+'pH'. A solution's pH is a measure of how acidic or alkaline (basic) the solution is, measured as the concentration of hydrogen (H<sup>+</sup>) or hydroxyl (OH<sup>-</sup>) ions. A solution with a pH of 7 is described as neutral, with the solution becoming more acidic as the pH decreases, and becoming more alkaline as the pH increases. (See <a title="pH" class="nonexistent" href="http://printwiki.org/pH">pH</a>.) Not only is the fountain solution's initial pH important, but so is consistency of pH over the course of the pressrun. Most fountain solutions are slightly to moderately acidic, as the gum arabic used to desensitize the plate loses its effectiveness if the pH rises above 5 (i.e., becomes less acidic). In this case, it loses its ability to adhere to the plate, and ink begins to adhere to the plate in the non-image areas, a problem known as <a title="Scumming" href="Scumming">scumming</a>. However, excessive acidity can also cause scumming (as the acid eats away the protective plate coating), as well as <a title="Plate Blinding" href="Plate_Blinding">plate blinding</a>, in which the acid eats away the image areas of the plate, causing a lack of ink receptivity. Increased acidity can also cause roller stripping, or the lack of ink receptivity of the ink rollers. Another problem involving pH is the use of alkaline paper, or paper containing <a title="Calcium Carbonate" href="Calcium_Carbonate">calcium carbonate</a> either as a <a title="Filler" href="Filler">filler</a> or a <a title="Coating" href="Coating">coating</a>. Calcium carbonate is an alkaline material, and when particles of it come into contact with an acidic dampening solution, deleterious effects can occur. (When acids and bases come into contact with each other, they react with each other, sometimes quite strongly.) The growing trend away from the use of <a title="Acid Paper" href="Acid_Paper">acid paper</a> in favor of longer-lasting alkaline paper has resulted in the need for alkaline fountain solutions. These solutions do not use gum as a desensitizing agent, and contain sodium carbonate or sodium silicate, which increase the solution's pH. Such solutions require the addition of a <a title="Sequestering Agent" href="Sequestering_Agent">sequestering agent</a> to prevent the <a title="Precipitation" href="Precipitation">precipitation</a> of various compounds (such as those containing magnesium and calcium) out of the solution. Additional wetting agents are also required. A solution's pH can be measured using dyes (which change color depending on the acidity or alkalinity of the solution), litmus paper (which turns red or blue depending on pH), and electronic pH meters, which can determine pH to within 0.01:0.05 pH. 
+</p>
+<p id="l33">
+'Electrical Conductivity'. As was mentioned above, electrical conductivity is used as a measure of water purity, or hardness. Pure water has an electrical conductivity of close to 0 micromhos (µmhos). (A <em>mho</em>, as its name may imply, is a unit of measurement equal to the reciprocal of an <em>ohm</em>, a measure of electrical resistance. A micromho is equal to one-millionth—or 0.000001—of a mho.) As the amount of dissolved solids in water increases, so does its electrical conductivity, in direct proportion to the concentration of total dissolved solids (with slight variations depending on the actual minerals dissolved). So-called "soft water" has a conductivity of 0:225 µmhos, "hard water" having a conductivity greater than 450 µmhos. Average water straight from one's faucet may have a conductivity of 200 µmhos or greater. In order for a dampening solution to be effective and trouble-free, its conductivity must fluctuate by no more than ±50 µmhos. Conductivity fluctuations of at least 200 µmhos are a sign that water purification is necessary. A relationship exists among concentration of the solution, the pH, and the electrical conductivity, all of which need to be in balance when mixing an effective fountain solution.  In countries using the SI system, the printing industry measures conductivity in microSiemens or µS.  The numerical values are identical to µmhos. 
+</p>
+<p id="l37">
+[Graph tk] 
+</p>
+<p id="l41">
+As was indicated above, the conductivity and pH need to be rechecked periodically throughout the press run, as various substances from ink, paper, and elsewhere can contaminate the fountain and alter the pH while on press. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

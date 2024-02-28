@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Modeling - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Modeling" class="currentChild" href="Modeling">Modeling</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In 3D image creation or <a title="CAD" class="nonexistent" href="http://printwiki.org/CAD">CAD</a> graphics, one of several steps in creating an illustration—either as a still image or as part of an animation—that has the illusion of three dimensions, surface texture, and detail. Geometric modeling programs typically use mathematical equations to describe lines, curves, and other aspects of the illustration. The program must also be able to describe various shapes in the proper spatial relationship with other shapes. There are three basic types of modeling: 
+</p>
+<p id="l3">
+'Wireframe'. A <a title="wireframe model" class="nonexistent" href="http://printwiki.org/wireframe_model">wireframe model</a> is the least processor-intensive type of model, consisting solely of connected lines and curves that resemble wires. They are used to provide a rough general shape and detail. Also called a <a title="skeleton" class="nonexistent" href="http://printwiki.org/skeleton">skeleton</a>. 
+</p>
+<p id="l5">
+'Surface'. A <a title="surface model" class="nonexistent" href="http://printwiki.org/surface_model">surface model</a> is used by some graphics programs to provide a 3D image with the illusion of solidity, commonly by "filling in" a wireframe with the specified surface detail, and removing any hidden lines that one would not be able to see if it had been an actual physical object. Unlike <a title="Solid Model" href="Solid_Model">solid model</a>s below, surface models are not solid all the way through; the surface texture is merely a kind of "skin" stretched over the wireframe. 
+</p>
+<p id="l7">
+'Solid'. The most complex and advanced type of 3D modeling in which the object is treated by the program as being completely solid, or having both surface and internal structure. A solid sphere could have a tunnel cut into it, which would resemble a tunnel cut through an actual solid sphere. Solid modeling is the most processor-intensive form of modeling. 
+</p>
+<p id="l9">
+It is primarily the technique of shading—or applying different shades of the primary <a title="Hue" href="Hue">hue</a>—that provide the illusion of three dimensions in both surface and solid modeling. The texture of an orange peel, for example, is rendered by means of applying the least predominant color to selected portions of the image. Too much of such a color, however, will result in an overall darkening of the image. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

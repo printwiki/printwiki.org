@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Bearer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Bearer" class="currentChild" href="Bearer">Bearer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A metal ring attached to both ends of a <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a>, <a title="Blanket Cylinder" href="Blanket_Cylinder">blanket cylinder</a> and <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a> in the printing unit of an offset printing press. On the plate and blanket cylinders, the diameter of the bearers is the true diameter of the cylinder, the main body of the cylinder being <a title="Undercut" href="Undercut">undercut</a>, or possessing a shorter diameter than the bearers, so as to allow varying degrees of cylinder <a title="Packing" href="Packing">packing</a>. In some presses (called <a title="Bearer-Contact Press" href="Bearer-Contact_Press">bearer-contact press</a>es), the bearers of the plate and blanket cylinders are in direct contact with each other, the advantages being easy alignment of the cylinders and reduced gear damage. In other presses (called <a title="Non-Bearer-Contact Press" href="Non-Bearer-Contact_Press">non-bearer-contact press</a>es), the bearers are not in contact, but the manufacturer's recommended gap between plate and blanket cylinder bearers can be used to determine proper cylinder settings. (See <a title="Plate Cylinder" href="Plate_Cylinder">Plate Cylinder</a> and <a title="Blanket Cylinder" href="Blanket_Cylinder">Blanket Cylinder</a>.) On the impression cylinder, it is the bearers that are undercut, the body of the cylinder itself being the essential measure of the cylinder diameter. (See <a title="Impression Cylinder" href="Impression_Cylinder">Impression Cylinder</a>.) The diameter of cylinder bearers is also equal to the diameter of the gears running the cylinder. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Infeed Section - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Infeed Section" class="currentChild" href="Infeed_Section">Infeed Section</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The portion of a sheetfed printing press (especially that used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>) that transfers a properly registered sheet from the <a title="Feedboard" href="Feedboard">feedboard</a> to the <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a> in the printing unit. 
+</p>
+<p id="l3">
+There are three basic configurations of infeed section: 
+</p>
+<p id="l5">
+<em>Swing-Arm System.</em> When the paper stops at the <a title="Front Guides" href="Front_Guides">front guides</a> at the head of the feedboard, it is jogged into positiofn. The front guides move out of the way, and grippers attached to the front of an arm mechanism swing down, clamp onto the front of the sheet, and bring it into contact with the grippers on the impression cylinder. 
+</p>
+<p id="l7">
+'Rotary-Drum System'. A rotary-drum infeed system is configured nearly identically to the swing-arm system, except that instead of a swinging arm, the grippers used to transfer the sheet from the feedboard to the impression cylinder are mounted on a rotating drum, transferring one sheet per revolution. 
+</p>
+<p id="l9">
+'Overfeed System'. After the front guides at the head of the feedboard move out of the way, feed rollers or a vacuum belt force the sheet against a stop on the impression cylinder, causing the paper to buckle slightly. The grippers on the impression cylinder then clamp onto the sheet. The extent of paper buckling can be carefully controlled to retain proper register. 
+</p>
+<p id="l11">
+On some infeed systems, the grippers on the impression cylinder, or on the infeed drum, are bowed (i.e., the center gripper is slightly—up to 0.008 inch—out of alignment with the others) to compensate for sheet <a title="Fan-Out" href="Fan-Out">fan-out</a>, or the expansion of the tail-end of the sheet which causes poor alignment of printed images. Often, a <a title="Gripper-Bowing Device" href="Gripper-Bowing_Device">gripper-bowing device</a> is added to the infeed system. (See <a title="Fan-Out" href="Fan-Out">Fan-Out</a> and <a title="Gripper-Bowing Device" href="Gripper-Bowing_Device">Gripper-Bowing Device</a>.) 
+</p>
+<p id="l13">
+The grippers themselves need to be properly adjusted for paper thickness, and to ensure that the <a title="Gripper Bite" href="Gripper_Bite">gripper bite</a> is consistent across the press. Uneven gripper bite can cause sheet wrinkling and poor registration of the printed image. Grippers that are set too tightly can distort, damage, and/or tear the sheet, and cause transfer and delivery problems. 
+</p>
+<p id="l15">
+The infeed on a <a title="Web Press" href="Web_Press">web press</a> involves unwinding a roll of paper (or other substrate) into the press, ensuring that <a title="Web Tension" href="Web_Tension">web tension</a> remains consistent throughout the press run. See <a title="Web Offset Lithography: Infeed and Web Control" class="nonexistent" href="http://printwiki.org/Web_Offset_Lithography:_Infeed_and_Web_Control">Web Offset Lithography: Infeed and Web Control</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

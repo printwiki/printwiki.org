@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Flatbed Scanner - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Flatbed Scanner" class="currentChild" href="Flatbed_Scanner">Flatbed Scanner</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+An optical scanning device used to convert an image—such as a photograph—to digital form, in order to allow later manipulation and output as part of a page, as a color-separated image, or by itself. 
+</p>
+<p id="l3">
+In a flatbed scanner, the original image (either a print or transparency) is placed face-down on a glass platen. A light source illuminates the image line by line from beneath the platen and moves across or down the image. The light is picked up by an array of <a title="charge-coupled devices" class="nonexistent" href="http://printwiki.org/charge-coupled_devices">charge-coupled devices</a>, which analyzes the image <a title="Pixel" href="Pixel">pixel</a> by pixel and stores the particular <a title="Color" href="Color">color</a> or <a title="grayscale" class="nonexistent" href="http://printwiki.org/grayscale">grayscale</a> information for each pixel in a digital file, commonly by use of colored filters that pass over the CCD array. (Some newer CCD scanners have multiple arrays of CCDs, each of which is responsible for a particular color.) When one line is complete, the light source moves and images the next one, continuing this process until the entire picture is imaged. Scanners that have multiple CCD arrays are faster than those that have only one array, as the scanner needs to only make one pass (rather than three) to glean all the color information it needs. 
+</p>
+<p id="l5">
+After scanning, the image is processed as one large digital file (if the image needs further manipulation) or as separate color-separated films. 
+</p>
+<p id="l7">
+Other types of scanners—such as high-end <a title="Drum Scanner" href="Drum_Scanner">drum scanner</a>s—utilize <a title="Photomultiplier Tube" href="Photomultiplier_Tube">photomultiplier tube</a>s rather than CCD arrays. Although these devices produce much higher-quality scans than flatbed scanners, they are far more expensive. Flatbed scanners—due to the fixed, flat copyboard—also allow scanning images from books and other sources that would be hard to image on a drum scanner. See <a title="Scanner" href="Scanner">Scanner</a> and <a title="Scanning" href="Scanning">Scanning</a>. See also <a title="CCD Scanner" href="CCD_Scanner">CCD Scanner</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

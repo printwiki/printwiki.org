@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Drier - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Drier" class="currentChild" href="Drier">Drier</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A substance, or <a title="Catalyst" href="Catalyst">catalyst</a>, added to a printing ink to increase the speed at which the ink dries, typically by speeding up the rate at which the vehicle undergoes <a title="Oxidation" href="Oxidation">oxidation</a> and <a title="Polymerization" href="Polymerization">polymerization</a>. There are two basic types of driers: liquid driers and paste driers. 
+</p>
+<p id="l3">
+Liquid driers are produced by the conversion of certain types of organic acids to heavy metal salts and soaps (commonly called <a title="Metallic Soaps" href="Metallic_Soaps">metallic soaps</a>), which are soluble in oils or other <a title="Solvent" href="Solvent">solvent</a>s and can then be mixed into the ink. The amount of metal used in a drier varies; typical metal composition of liquid driers is from 3:18%, although lead and zirconium-based driers can be 24:36% metal. Liquid driers typically make up about 0.5:4% of an ink. Other factors such as paper <a title="pH" class="nonexistent" href="http://printwiki.org/pH">pH</a>, surface characteristics and porosity of the paper, temperature, and humidity all affect drying time of an ink. Typically, inks dry faster at higher temperatures, but slower at high relative humidities. 
+</p>
+<p id="l5">
+The most popular drier is cobalt, which is also the most powerful drier. Cobalt-based driers are violet in color, but turn brown following oxidation. As a result, a drawback of cobalt driers is their tendency to discolor white images and tints. Cobalt driers are also soluble in organic acids, and can be removed easily from the ink by the <a title="Fountain Solution" href="Fountain_Solution">fountain solution</a> and contaminate the water fountain. Cobalt acetate, however, can be added to the fountain solution as a <a title="Drying Stimulator" href="Drying_Stimulator">drying stimulator</a>. 
+</p>
+<p id="l7">
+Other metals used as driers in printing inks include manganese, which has less of a catalytic effect than does cobalt, but is less likely to tint or leach into the fountain solution than is cobalt. However, manganese driers typically work only in the presence of increased heat. Lead is used only sparingly, as it is slow-acting, and the use of lead is becoming increasingly restricted. Lead is commonly used in combination with manganese soaps, but has primarily been replaced by lithium, zirconium, and cerium soaps. Calcium and zinc, which are relatively ineffective as drying catalysts, are used infrequently, and then only in some white inks. Calcium is used to modify the catalytic action of other metallic soaps. Iron-based driers are used in <a title="Tung Oil" href="Tung_Oil">tung oil</a> varnishes. 
+</p>
+<p id="l9">
+Paste driers commonly comprise <a title="Linseed Oil" href="Linseed_Oil">linseed oil</a> varnishes in which are dispersed ground organic lead and manganese salts, the most common being lead acetate and manganese borate (typical composition being about 40% lead acetate and 8% manganese borate). Cobalt is rarely, if ever, used in paste driers. Paste driers are slower drying than liquid driers, and improve <a title="Trapping" href="Trapping">trapping</a> in multi-color printing, as they allow the overprinting of successive colors to a much greater degree than does cobalt. Inorganic peroxides are occasionally used as driers, particularly in lithographic inks. 
+</p>
+<p id="l11">
+A drier can either be a <a title="Through Drier" href="Through_Drier">through drier</a> or a <a title="Top Drier" href="Top_Drier">top drier</a>, which will either dry the ink throughout the interior of the ink film, or on the surface of the ink film, respectively. 
+</p>
+<p id="l13">
+The addition of an excessive amount of drier produces ink skin and causes it to dry while it is still on the press. In some cases, the addition of too much drier can actually impede ink drying, and cause problems like <a title="Ink Setoff" href="Ink_Setoff">ink setoff</a>. <a title="Greasing" href="Greasing">Greasing</a> and <a title="Scumming" href="Scumming">scumming</a> are symptoms of excessive drier in lithographic inks, and the addition of water to counteract it can result in excessive water absorption by the paper and hampered drying of the ink off-press. The enhanced absorption of the drier by the <a title="Substrate" href="Substrate">substrate</a> or chemical reaction with a <a title="Pigment" href="Pigment">pigment</a> can deprive a particular chemical of its drying power, a problem called <a title="Drier Dissipation" href="Drier_Dissipation">drier dissipation</a>. On occasion, <a title="antioxidants" class="nonexistent" href="http://printwiki.org/antioxidants">antioxidants</a> and <a title="antiskinning agents" class="nonexistent" href="http://printwiki.org/antiskinning_agents">antiskinning agents</a> are added to the ink to prevent excessive drying. 
+</p>
+<p id="l15">
+An ink drier (or other means of expediting the drying time of an ink) is also known as an <a title="Accelerator" href="Accelerator">accelerator</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

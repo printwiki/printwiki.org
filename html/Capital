@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Capital - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Capital" class="currentChild" href="Capital">Capital</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of the letters <em>A</em> through <em>Z</em>, or <a title="Uppercase" href="Uppercase">uppercase</a>) letters of the alphabet (as opposed to the <a title="Lowercase" href="Lowercase">lowercase</a> letters <em>a</em> through <em>z</em>). 
+</p>
+<p id="l3">
+All-capitalized (or "all-cap" for short) words or acronyms should be set in <a title="Small Caps" href="Small_Caps">small caps</a> so they do not appear disproportionately large. In heads, caps are usually set with minimum word spacing and, optionally, letterspaced slightly to equalize the space between the letters. The space between words should not be greater than the space between lines. Mechanical lineup of caps on the left usually results in uneven <a title="Alignment" href="Alignment">alignment</a>. <a title="Optical Alignment" href="Optical_Alignment">Optical alignment</a> requires some <a title="Kerning" href="Kerning">kerning</a> to achieve better-looking alignment. 
+</p>
+<p id="l5">
+Type set in all caps has proven to be harder to read than type set in lowercase, due to the fact that the perception of words is often accomplished by means of their outline or silhouette, rather than merely the sequence of letters. Most words in lowercase have a unique outline, while those in all caps do not. Words composed in all caps, therefore, need to be deciphered letter by letter, rather than "sight-read" by outline, which makes reading all caps take longer. Proofreading type set in all caps is also more difficult, and informal studies have turned up more <a title="Typo" href="Typo">typo</a>s in all-cap type than in upper- and lowercase type. 
+</p>
+<p id="l7">
+Capital letters are also known as <em>uppercase</em> due to their location in early typecases. Historically, capitals were known as <a title="Majuscule" href="Majuscule">majuscule</a>s and were the dominant form of lettering until the advent of the <a title="Miniscule" href="Miniscule">miniscule</a>—or lowercase—letters during the reign of Charlemagne. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

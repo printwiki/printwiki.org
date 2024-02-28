@@ -1,0 +1,318 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Delta E - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Delta E" class="currentChild" href="Delta_E">Delta E</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-0efc2e6be4c23b9a513d7ce0dcff8ed80e8912e7"><h3 id="l1">Overview</h3></span>
+<p id="l3">
+The term Delta E or ∆E is used to describe color differences in the <a title="CIELAB" href="CIELAB">CIELAB</a> color space. The term stems from the greek letter delta which is used in science to denote difference. The E stands Empfindung, a german wording meaning feeling. Put them together and you get different feeling. <table class="tableOfContents"><tr><td><ol>
+<ol>
+<li>
+<a href="Delta_E#head-0efc2e6be4c23b9a513d7ce0dcff8ed80e8912e7">Overview</a></li>
+<li>
+<a href="Delta_E#head-80b77815ba6f27186cac424229383ed7e03f4a84">The History of Delta E</a></li>
+<ol>
+<li>
+<a href="Delta_E#head-4bf420149642e31589651eea1688376c4f4cfcb7">Early Theories of Color Vision</a></li>
+<li>
+<a href="Delta_E#head-eb2a3304b8f911618f98ef1259ada7bde16ebfaa">Munsell</a></li>
+<li>
+<a href="Delta_E#head-cfdb2b571e20f3dac70b259464cad745334ee779">1931 CIE Standard Observer</a></li>
+<li>
+<a href="Delta_E#head-220ffc73b6f25815d459ad16fa0cd84c67cbaae5">Color Differences</a></li>
+<li>
+<a href="Delta_E#head-2e5f51181d93b7f2b55b49ee18150161c88fcd46">OSA System, HunterLAB, ANLAB, &amp; CIELAB</a></li>
+<li>
+<a href="Delta_E#head-74da6a3afbb2c20dadc6fa0ced675560b42b1656">Color Difference Revisions</a></li>
+<ol>
+<li>
+<a href="Delta_E#head-a29fafe0ddf702fbe9db4b92765e00f92cae224f">CIE94</a></li>
+<li>
+<a href="Delta_E#head-1679dc88a33c09fecbfc3f97af1ffb1c1487eec6">CIEDE2000</a></li>
+</ol>
+
+<li>
+<a href="Delta_E#head-825ef424aef65ce8ec1a76780896986932421198">Work Cited</a></li>
+<li>
+<a href="Delta_E#head-5d20d0fee3b91643dd8d272ac33d01ca95179d82">References</a></li>
+</ol>
+
+</ol>
+
+</ol>
+
+</td></tr></table> 
+</p>
+<span id="head-80b77815ba6f27186cac424229383ed7e03f4a84"><h3 id="l5">The History of Delta E</h3></span>
+<p id="l7">
+The scientific community and color application industries have spent a great deal of time and resources developing methods for quantifying the visual perception of color. Even before industrial applications existed to utilize such knowledge, people explored human vision and hypothesized how color is perceived. In the later half of the twenty-first century, the Commission Internationale De L'Eclairage (International Commission on Illumination, denoted CIE) made two formal recommendations for perceptual color spaces and color difference formulas that could be utilized in industry to quantify and judge color. These color spaces became known as CIELAB and CIELUV. 
+</p>
+<p id="l9">
+What led to the creation of these two color spaces and associated color difference formulas? Its a long interesting history that began with Isaac Newton hypothesizing the origin of white light. 
+</p>
+<span id="head-4bf420149642e31589651eea1688376c4f4cfcb7"><h4 id="l11">Early Theories of Color Vision</h4></span>
+<p id="l13">
+The science of color can be traced back to the times of Isaac Newton. Newton had hypothesized that white light was made up of 'rays of colored light.' [1] The nineteenth century saw an increased pace in research and the development of theory in color vision. Thomas Young, James Clark Maxwell, Herman von Helmholtz, and Ewald Hering reported major theories during this time. In 1807 Young described a trichromatic color theory in his Lectures on Natural Philosophy and Mechanical Arts. Young's theory stated that all colors could be created with three wavelengths. With red, green, and blue making up the dominant color of the wavelengths. Maxwell further quantified Young's theory in empirical studies. 
+</p>
+<p id="l15">
+In 1855 Helmholtz published his Manual of Psychological Optics, in it he introduced the concepts of hue, saturation, and brightness. Helmholtz was also a proponent of Young's three-color theory. In 1878 Hering published On the Theory of Sensibility to Light in which he proposed in opposition to the work of Young, Maxwell, and Helmhotz a theory of opposing colors. Hering's opponent color theory stated that some color primaries oppose each other and cannot be combined to produce a perceivable color. These color are red &amp; green, yellow &amp; blue, and white &amp; black. [1] 
+</p>
+<p id="l17">
+It is known today that both Helmholtz and Hering were correct in their theories of human color vision. The human vision system is complex and starts with receptors that are sensitive to the long (L), medium (M), and short (S) wavelengths of the electromagnetic region that make up visible light. The vision system then transforms these visual stimuli into opponent color signals and sends them to the brain for processing. <br/>
+</p>
+<span id="head-eb2a3304b8f911618f98ef1259ada7bde16ebfaa"><h4 id="l18">Munsell</h4></span>
+<p id="l20">
+In 1905 Albert Henry Munsell, a painter and art teacher, published A Color Notation which proposed a "perceptually measured equidistant" colors system. Ten years later, he published the Color Atlas, in which he introduced a tree like model of colors. The Color Atlas consisted of ten segments that made up the Value (lightness scale) and five Hues. Each Value and Hue location had an associated chroma set. The beauty of the Munsell system is that was created before accurate color measurements devices were readily available, though Munsell did have a homemade photometer. In 1929, a new version of the Color Atlas was published post-mortem and was called the Munsell Book of Color.[1] In 1940, Sidney Newhall of John Hopkins University, published a preliminary report on work being carried out by the Optical Society of America subcommittee on the Spacing of the Munsell Colors. This work became know as the Munsell Renotation. 
+</p>
+<span id="head-cfdb2b571e20f3dac70b259464cad745334ee779"><h4 id="l22">1931 CIE Standard Observer</h4></span>
+<p id="l24">
+In his article 50 Years of the 1931 CIE Standard Observer for Colorimetry, William David Wright states "I would personally credit Dr. L.T. Troland, a brilliant American scientist of wide ranging interests, with the conception of the 1931 Observer." These words of honor were bestowed on Troland due to his work with the Colorimetry Committee of the Optical Society of America. In 1922 the committee published a report on colorimetry that included information on naming and terminology, psychophysical data, and standards and methods of colorimetry. The report also included a data table containing Average Normal Visibility Values which were standard values utilized by the American Illuminating Engineering Society. A few years later, the CIE recommended a standard visibility curve (Vλ). In 1926 John Guild presented A Survey of Modern Developments in Colorimetry at a conference held in London at Imperial College. In his presentation, Guild discussed the need for data that could be used to derive an average of what the human eye could see. After the conference, in the same year, the Medical Research College gave a grant to Wright to fund the development of a colorimeter and re-determination of spectral mixture curves. [2] 
+</p>
+<p id="l26">
+The CIE formally created a committee to guide its colorimetry research agenda in 1928. The United Kingdom was assigned the secretariat and was given the task to collect and summarize all the research activity carried out between 1928 and 1931. They were to then present their compilation at the 1931 CIE meeting. The only countries to submitted contributions to the report were Czechoslovakia, the United States, and the United Kingdom. Each country having their own agenda. In September of 1931, the CIE Colorimetry Committee submitted their data set to the CIE for approval as standard. This data became known as the 1931 Standard Observer.[2] With the standardization of the Standard Observer, industry now had a tool they could utilize in color specification. By 1935 the CIE promoted the use of the Standard Observer to specify the color of signal lights in the transportation industry.[2] 
+</p>
+<span id="head-220ffc73b6f25815d459ad16fa0cd84c67cbaae5"><h4 id="l28">Color Differences</h4></span>
+<p id="l30">
+With the CIE standardizing a Standard Observer, an industrial need emerged for the quantification of color differences. Some research was carried out that proposed using the Munsell Color System, while other research focused on using the CIE chromaticity values. [3] 
+</p>
+<p id="l32">
+In 1936 Nickerson published a color difference formula that utilized the Munsell Color system. The equation is shown below. According to Berns, "The earliest weighted color difference formula was the Nickerson index of fading."[3] 
+</p>
+<p id="l34">
+ΔE = 2/5CΔH + 6ΔV + 3ΔC 
+</p>
+<p id="l36">
+Where H/V/C are Munsell coordinates. 
+</p>
+<p id="l38">
+Richard Hunter published a color difference formula in 1942 based on work he did in creation of uniform chromaticity scale. His formula derived its values from chromaticity values.[3] Further discussion can be found in Berns' Principles of Color Technology. 
+</p>
+<p id="l40">
+In the early 1940's David MacAdams and others started to question the uniformity of the CIE chromaticity diagram. In 1942 MacAdams published a paper in which the 'MacAdams ellipses' were introduced. The ellipses showed areas of where color discrimination was not as uniform as once thought. [1][3] Further research was carried out by MacAdams, Brown, Friele, Chikering, among others that extended the theory of ellipsoidal regions. The research also resulted in the FMC-1 and FMC-2 color difference formulas. [3] The research by MacAdams lead to the creation of the CIE u, v diagram. [3] <br/>
+</p>
+<span id="head-2e5f51181d93b7f2b55b49ee18150161c88fcd46"><h4 id="l41">OSA System, HunterLAB, ANLAB, &amp; CIELAB</h4></span>
+<p id="l43">
+With the shortcomings of CIE Chromaticity diagram well known, researchers started to look for other uniform color spaces that could be used to describe color differences. [1][3] 
+</p>
+<p id="l45">
+The Optical Society of America was the first to introduce a color space that aimed at being perceptually uniform. The OSA system used three coordinates to define color. The first coordinate being L for Lightness. The range of L is from -7 to 5, with L = 0 being 30% reflectance of a neutral gray. The second coordinate was denoted J and represented the yellowness of a color. The range of j is from -6 to 11. Positive j numbers are yellow, while negative numbers are blue. The third coordinate was represented with a g, which was used to define greenness of a color. The range of g is from -10 to 6. Positive g numbers are green, while negative numbers are red.[4] 
+</p>
+<p id="l47">
+The OSA system also introduced a color difference formula, but as stated by Hunt in Measuring Color, " the judgments on which the OSA system was based were not pairs of colours exhibiting very small differences, so it is not necessarily applicable to colors that almost match" (Hunter 1987, p100). 
+</p>
+<p id="l49">
+The OSA color difference formula: 
+</p>
+<p id="l51">
+[2(ΔL)2 + (Δg)2 + (Δj2)2]1/2 
+</p>
+<p id="l53">
+As shown in the equation above, the OSA system's color difference formula produced a Euclidean distance that described the color difference. 
+</p>
+<p id="l55">
+Richard Hunt created the HunterLAB system, which was step further in creating a uniform color space. In 1966 Hunter released his formulas for converting CIE XYZ values to Hunter L, a, b coordinates. The goal of Hunter was to create a more visually uniform color space, but to keep a relationship with the CIE XYZ numbers used to derive the coordinates.[4][5] 
+</p>
+<p id="l57">
+Hunter set the lightness scale (L) to range from 0 to 100, with 0 being black and 100 being a reflecting diffuser. The a coordinate represented the location of the color on the red-green axis, with positive a values being red and negative being green. The b coordinate represented the location of the color on the blue-yellow axis, with positive b values being yellow and negative values being blue.[5] 
+</p>
+<p id="l59">
+While the HunterLAB system resembles Hering's Opponent Theory, this was not the intention of Hunter.[3] 
+</p>
+<p id="l61">
+The HunterLAB system derived its L, a, b coordinates from the following formulas[5]: 
+</p>
+<p id="l63">
+L = 10Y1/2 
+</p>
+<p id="l65">
+a = [17.5(1.02X-Y)]/Y1/2 
+</p>
+<p id="l67">
+b = [7.0(Y - 0.847Z)]/Y1/2 
+</p>
+<p id="l69">
+and color differences where calculated using: 
+</p>
+<p id="l71">
+ΔE = [ΔL2 + Δa2 + Δb2]1/2 
+</p>
+<p id="l73">
+The ANLAB system was the result of a combination of research being conducted by E. Q. Adams and D. Nickerson. Adams created a chromatic-value scale in 1942 that took Hering's Opponent Theory into account. He subtract Y from both X and Z which created opponent color planes. He later added a compression factors to the CIE XYZ coordinates, which created the VX, VY, VZ coordinates. Nickerson further tweaked Adams compression factors based on her research. In 1971, ANLAB became a ISO standard for the textile industry.[7] 
+</p>
+<p id="l75">
+At the CIE meeting in 1973 it was recommend that the CIE recommend the ANLAB system for color difference calculations. From this meeting came the creation of a CIE subcommittee to work on the creation a CIE L, a, b from the ANLAB system.[3] 
+</p>
+<p id="l77">
+The ANLAB system derived its L, a, b coordinates from the following formulas[3] : 
+</p>
+<p id="l79">
+L = 9.2VY 
+</p>
+<p id="l81">
+a = 40(VX-VY) 
+</p>
+<p id="l83">
+b = 16(VY - VZ) 
+</p>
+<p id="l85">
+At the 1976 CIE meeting the CIELAB and CIELUV color spaces were recommended as standards by the CIE. While the CIELAB space was a modification of ANLAB, the CIELUV space was created based on the needs of lighting engineers and is based on a the chromaticity u' v' diagram. [3] 
+</p>
+<p id="l87">
+The CIELAB system derived its L, a, b coordinates from the following formulas[3]: 
+</p>
+<p id="l89">
+L = 116[f(Y/Yn) - 16/116] 
+</p>
+<p id="l91">
+a = 500[f(X/Xn) - f(Y/Yn)] 
+</p>
+<p id="l93">
+b = 200[f(Y/Yn) - f(Z/Zn)] 
+</p>
+<p id="l95">
+Where: 
+</p>
+<p id="l97">
+f(Y/Yn) = f(Y/Yn)1/3 for (Y/Yn) &gt; .008856 
+</p>
+<p id="l99">
+f(Y/Yn) = 7.787(Y/Yn)+16/116 for (Y/Yn) ≤ .008856 
+</p>
+<p id="l101">
+f(X/Xn) = f(X/Xn)1/3 for (X/Xn) &gt; .008856 
+</p>
+<p id="l103">
+f(X/Xn) = 7.787(X/Xn)+16/116 for (X/Xn) ≤ .008856 
+</p>
+<p id="l105">
+f(Z/Zn) = f(Z/Zn)1/3for (Z/Zn) &gt; .008856 
+</p>
+<p id="l107">
+f(Z/Zn) = 7.787(Z/Zn)+16/116 for (Z/Zn) ≤ .008856 
+</p>
+<p id="l109">
+As shown in the equations above, the CIE tried to remove some of the non-uniformities in the ANLAB system, by creating the CIELAB system with dynamic weighting factors. 
+</p>
+<p id="l111">
+Color differences where calculated using[4]: 
+</p>
+<p id="l113">
+ΔE =[ΔL2 + Δa2 + Δb2]1/2 
+</p>
+<p id="l115">
+Where the Δs are the difference between the reference and a sample. <br/>
+</p>
+<span id="head-74da6a3afbb2c20dadc6fa0ced675560b42b1656"><h4 id="l116">Color Difference Revisions</h4></span>
+<p id="l118">
+While the goal of CIELAB was create a perceptually uniform color space that could be used for specifying color differences, it was found that some non-uniformities in the space caused color match problems in industrial applications of the color space. <br/>CMC Color Difference formula 
+</p>
+<p id="l121">
+The Color Measurement Committee of the Society of Dyers and Colorists published a new equation for determining color differences in 1986. This equation became known as the ∆ECMC color difference formula. The CMC's work was to derive a formula that better handled small color differences found in the colorant industries.[4] This was accomplished by adding weighting factors to the equations that made correlate better with what the eye senses. The equation used ellipsoids to create weighting factors for the lightness and chroma factors.[6] 
+</p>
+<p id="l123">
+It is know that changes in lightness are hard to perceive than changes in chroma. The ∆ECMC takes this into account by induction of a lightness to chroma factor. This factor is traditionally set to 2:1. Hue is a constant defined as 1. [6] The CMC color difference equation has been adopted by the colorant industry and by graphic arts as a more accurate color difference equation. The CMC equation became an ISO standard for the textile industry in 1995.[7] <br/>
+</p>
+<span id="head-a29fafe0ddf702fbe9db4b92765e00f92cae224f"><h5 id="l124">CIE94</h5></span>
+<p id="l126">
+During the 1980's the CIE created two technical committees to explore the shortcomings of the CIELAB color difference equation. These committees were known as TC1-28 and TC1-29. TC1-28 was given the given the task of to report on the parametric effects in color difference equations. TC1-29 was given the task to report on the industrial color difference evaluation.[3] Like the CMC equation discussed above, the CIE09 equation developed in accordance to the findings of TC1-28 and TC1-29 used weighting factors to give lightness, chroma, and hue different proportional weights in determining the color difference. The data used to determine the weighting factors was a result of research by Witt, Luo, and RIT-DuPont (Alam &amp; Berns). [3] <br/>
+</p>
+<span id="head-1679dc88a33c09fecbfc3f97af1ffb1c1487eec6"><h5 id="l127">CIEDE2000</h5></span>
+<p id="l129">
+Research conducted by Witt, Kim, Komatsubara, Qaio, and Melgosa led the forming of the CIE TC1-47 Hue and Lightness Dependent Correction to Industrial Color Difference Evaluation.[3] 
+</p>
+<p id="l131">
+Like the color difference equations developed before it, the CIEDE2000 equation is based on the CIELAB color space. Like the CMC and CIE94 equations, the CIEDE2000 equation includes weighting factors for lightness, chroma, and hue. CIEDE2000 also includes factors to handle the relationship between chroma and hue.[7] <br/>Closing Thoughts 
+</p>
+<p id="l134">
+The CIELAB color space and associated color difference formulas play a vital role in color critical industries. They allow manufactures of paint, dye, ink, print, and among others to specify color and to set aim points and tolerances for quality control. CIELAB allows for device independent color to be used between designers and manufacturers and allows today color management systems to perform predictable color transformation. In the last 30 years, research into color difference formulas based on CIELAB has continued refine the accuracy of the metric. 
+</p>
+<span id="head-825ef424aef65ce8ec1a76780896986932421198"><h4 id="l137">Work Cited</h4></span>
+<p id="l139">
+1. Stomer, K (1999). Color Systems in Art and Science. Golden Artist Colors 
+</p>
+<p id="l141">
+2. Wright, W.D. (1981) 50 Years of the 1931 CIE Standard Observer for Colorimetry. AIC Color 81 
+</p>
+<p id="l143">
+3. Berns, R. (2000) Principles of Color Technology 3rd Edition. New York:Wiley 
+</p>
+<p id="l145">
+4. Hunt, W.G. (1987) Measuring Color. England: Wiley 
+</p>
+<p id="l147">
+5. HunterLAB. Application Notes, Insight on Color August 1-15, 1996, Vol. 8, No. 9 
+</p>
+<p id="l149">
+6. HunterLAB. Application Notes, Insight on Color October 1-15, 1996, Vol. 8, No. 13 (Rev. 01/04) 
+</p>
+<p id="l151">
+7. Luo, M.R., Cui, G., Rigg, B. (200) The Development of the CIE 2000 Colour-Difference Formula: CIEDE2000. Color Research and Application, 26, 340-350. 
+</p>
+<p id="l153">
+8. CGATS/SC3 (2001). CGATS.5 Graphic technology — Spectral measurement and colorimetric computation for graphic arts images. 
+</p>
+<p id="l155">
+9. A Top Down Description of S-CIELAB and CIEDE2000. Color Research and Application, 28, 425-435. <br/>
+</p>
+<span id="head-5d20d0fee3b91643dd8d272ac33d01ca95179d82"><h4 id="l156">References</h4></span>
+<p id="l158">
+Fairchild, M.D. (2005) Color Appearance Models. NJ:Wiley 
+</p>
+<p id="l160">
+Kuehni, RG., (1998) Hue Uniformity and the CIELAB Space and Color Difference Formula. Color Research and Application, 23, 412-322. 
+</p>
+<p id="l162">
+Moroney, N. (2003). A Hypothossi Regarding the Poor Blue Constancy of CIELAB. Color Research and Application, 28, 371-378. 
+</p>
+<p id="l164">
+Melgosa, M. (2000) Testing CIELAB-Based Color-Difference Formulas. Color Research and Application, 25, 49-55. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

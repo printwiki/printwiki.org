@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Cylinder Machine - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Cylinder Machine" class="currentChild" href="Cylinder_Machine">Cylinder Machine</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A papermaking machine utilizing a rotating wire-belt-covered cylinder. As the cylinder rotates, it passes through a tank containing the papermaking <a title="Furnish" href="Furnish">furnish</a>. As the water drains though the wire toward the inside of the cylinder, the fibers form the paper <a title="Web" href="Web">web</a> on the wire belt. The fibers are then transferred to the underside of a moving felt belt. As the fiber mat travels along this belt, additional cylinders add further layers of fibrous mats. Papermaking systems employing cylinder machine are somewhat slow compared to the traditional <a title="Fourdrinier" href="Fourdrinier">fourdrinier</a> machine and newer <a title="twin-wire formers" class="nonexistent" href="http://printwiki.org/twin-wire_formers">twin-wire formers</a>, but are useful in making thick, inexpensive paperboard, and the ease of adjusting the composition and number of plys has high cost advantages. Printing and writing papers, however, are rarely produced on a cylinder machine, and many cylinder machines are being replaced by twin-wire formers. 
+</p>
+<p id="l3">
+The first automated papermaking machine in the United States was a cylinder machine, built by Delaware papermaker Thomas Gilpin and first put into use in 1817. The first fourdrinier papermaking machine didn't appear in the United States until 1827, although it had been in operation in England since around 1803. (See <a title="Fourdrinier" href="Fourdrinier">Fourdrinier</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

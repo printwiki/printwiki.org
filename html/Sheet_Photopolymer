@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Sheet Photopolymer - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Sheet Photopolymer" class="currentChild" href="Sheet_Photopolymer">Sheet Photopolymer</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of two types of <a title="Photopolymer" href="Photopolymer">photopolymer</a> plates used in <a title="Flexography" href="Flexography">flexography</a>, in contrast to a <a title="Liquid Photopolymer" href="Liquid_Photopolymer">liquid photopolymer</a>. 
+</p>
+<p id="l3">
+A photopolymer plate is supplied in a variety of thicknesses, depending upon the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a> undercut. Both sides of the plate are sensitive to ultraviolet light. Before exposing the image to the plate, the "back" side is exposed to UV light, which hardens the material, allowing it to be suitable as the base of the plate. Variations in the power of the UV lamp used (which declines over time) and variations in photosensitivity among different batches of plate material require the careful determination of proper exposure time. Test strips of plate material can be exposed beforehand, as a means of gauging the correct dose of UV light needed to cure a strong backing and provide the necessary relief depth. The plate is turned over, and a negative of the image to be printed is placed on top of it. Occasionally, <a title="Bleeder Strip" href="Bleeder_Strip">bleeder strip</a>s (made of foil or plastic) are placed over the areas of the plate that exceed the dimensions of the negative. A second dose of UV light only exposes the photopolymer in the image areas, which renders them hard and insoluble. The amount of exposure varies according to the nature of the image to be exposed; halftone screens and fine type require more exposure to bring out detail than do by solids. After exposure, the plate is washed to remove the unhardened polymeric material, leaving the exposed image areas in relief on the plate surface. As with exposure time, the required degree of washing may vary. Too little washing results in a relief image that is not well pronounced, as well as an uneven "floor" (the unraised portions of the plate) and scum produced by residual polymeric material. Too <em>much</em> washing, however, can produce damaged and missing type, a loss of detail, as well as plate swelling and uneven surface characteristics. 
+</p>
+<p id="l5">
+After washing, the plates may appear swollen, as a result of the flexible material absorbing some of the processing solvent. Drying the plates in an oven after washing removes excess solvent and provides clean, sharp images. A post-exposure of UV light ensures that the floor of the plate is effectively cured and hardened, and a variety of finishing techniques—including chemical treatment with solutions of chlorine, bromine, or iodine, additional exposure to high-energy UV lamps, or spraying or dusting with a variety of powders—can remove any additional tackiness of the plate surface. 
+</p>
+<p id="l7">
+See also <a title="Liquid Photpolymer" class="nonexistent" href="http://printwiki.org/Liquid_Photpolymer">Liquid Photpolymer</a>, <a title="Plate: Flexography" class="nonexistent" href="http://printwiki.org/Plate:_Flexography">Plate: Flexography</a>, <a title="Photopolymer" href="Photopolymer">Photopolymer</a>, and <a title="Flexography" href="Flexography">Flexography</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

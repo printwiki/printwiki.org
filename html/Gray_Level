@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Gray Level - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Gray Level" class="currentChild" href="Gray_Level">Gray Level</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In describing color image input (scanning) and processing, a discrete shade of gray as viewed through a <a title="Color Separation" href="Color_Separation">color separation</a> filter. During scanning, the device's optics read each of the three <a title="Primary Colors" href="Primary_Colors">primary colors</a> (<a title="Red, Green, and Blue" href="Red,_Green,_and_Blue">red, green, and blue</a>) during successive passes of the light source, an appropriate color filter being used to read only the color the device is scanning during any one pass. All the various shades and gradations of one of these colors are stored in the device as a series of gray levels, which are then translated back into the appropriate shades during output or subsequent digital manipulation. The more gray levels the device can detect and store, the greater the color range (and the greater the smoothness of the color transitions) of the ultimate reproduction. Early scanners were only capable of storing 64 discrete shades of gray; 256 is the common number now, which is usually sufficient for most color work. Some high-end scanners are now able to detect and store up to 1,024 gray levels. 
+</p>
+<p id="l3">
+In terms of output, the term <em>gray levels</em> refers to the total number of discrete tonal variations that can be recorded on film or paper. In this case, the number of gray levels depends on the <a title="Resolution" href="Resolution">resolution</a> of the output device and the type of <a title="Halftone Screen" href="Halftone_Screen">halftone screen</a> used. An insufficent number of gray levels can cause the problem known as <a title="Banding" href="Banding">banding</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

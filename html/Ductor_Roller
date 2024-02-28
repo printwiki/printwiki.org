@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Ductor Roller - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Ductor Roller" class="currentChild" href="Ductor_Roller">Ductor Roller</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A roller found in the <a title="Inking System" href="Inking_System">inking system</a> or <a title="dampening systerm" class="nonexistent" href="http://printwiki.org/dampening_systerm">dampening systerm</a> of a press used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>. 
+</p>
+<p id="l3">
+In a press inking system, the ductor roller is the first roller in the <a title="Roller Train" href="Roller_Train">roller train</a>, and is the roller that alternately is in direct contact with the <a title="Fountain Roller" href="Fountain_Roller">fountain roller</a> and with the first <a title="Oscillator" href="Oscillator">oscillator</a>. The ductor roller's rate of movement between the fountain roller and the oscillator can usually be adjusted, and is commonly timed to the revolution of the plate cylinder, either contacting the oscillator once for every revolution of the plate cylinder, or once every three or four revolutions. Regardless of the rate at which the ductor roller moves, an effectively-timed ductor roller only contacts the oscillator while the <a title="Form Roller" href="Form_Roller">form roller</a>s—the ink rollers that directly contact the printing plate—are over the <a title="Cylinder Gap" href="Cylinder_Gap">cylinder gap</a>, especially during the initial contact of the ductor and the oscillator, which sends a vibration through the press known as <a title="Ductor Shock" href="Ductor_Shock">ductor shock</a>. The length of time that the ductor roller is in contact with the fountain roller—known as <a title="Dwell" href="Dwell">dwell</a>—can also be adjusted, and controls the quantity of ink that flows through the rest of the system. Dwell is also related to the rate at which the fountain roller turns; the faster it turns (or the greater the arc it turns through—or sweep—the more surface area of the ductor roller that is covered with ink and, consequently, the more ink that flows ultimately to the plate. The ductor roller may also have the tendency to skid when making contact with the oscillator, which results in uneven ink flow through the system, and can be corrected by using a lighter-weight roller or a special braking device appended to the inking system. (Some <a title="Web Press" href="Web_Press">web press</a>es use a variation on the ductor roller called an <a title="Aller Undulating Ductor Roller" href="Aller_Undulating_Ductor_Roller">Aller undulating ductor roller</a>. See <a title="Aller Undulating Ductor Roller" href="Aller_Undulating_Ductor_Roller">Aller Undulating Ductor Roller</a>.) 
+</p>
+<p id="l5">
+The proper setting of the ductor roller is crucial. Ductor rollers can be set (or, in other words, the pressure between the ductor and the oscillator adjusted) using the <a title="Strip Method" href="Strip_Method">strip method</a> (which can be either the <a title="Three-Strip Method" href="Three-Strip_Method">three-strip method</a> or the <a title="Folded-Strip Method" href="Folded-Strip_Method">folded-strip method</a>), in which specially-cut strips of paper, plastic, or <a title="Packing" href="Packing">packing</a> material are inserted between the rollers, and pulled out, the extent of the drag experienced being a determination of not only the general pressure existing between the rollers, but also a gauge of the uniformity of the pressure between the rollers across their width. (See also <a title="Inking System: Offset Lithography" class="nonexistent" href="http://printwiki.org/Inking_System:_Offset_Lithography">Inking System: Offset Lithography</a>, and <a title="Offset Lithography" href="Offset_Lithography">Offset Lithography</a>.) 
+</p>
+<p id="l7">
+In the dampening system of an offset lithographic press, the ductor roller has a similar function; it alternately contacts the <a title="Fountain Pan Roller" href="Fountain_Pan_Roller">fountain pan roller</a>, which is located in the <a title="Water Pan" href="Water_Pan">water pan</a>, and an oscillator, which is in contact with the dampening form rollers. The amount of <a title="Fountain Solution" href="Fountain_Solution">fountain solution</a> that is ultimately transferred to the plate can be controlled by adjusting the amount of time the dampening ductor roller is in contact with the fountain pan roller. The dampening ductor roller is made of a rubber compound and covered with a molleton fabric, which increases the amount of fountain solution it can hold. The proper setting of the dampening ductor roller is also very important, so as to ensure uniform and adequate distribution of fountain solution. The setting of the ductor roller to the oscillator can be evaluated using the same strip methods indicated above. Dampening systems utilizing ductor rollers are called <a title="Intermittent-Flow Dampening System" href="Intermittent-Flow_Dampening_System">intermittent-flow dampening system</a>s, in contrast to <a title="Continuous-Flow Dampening System" href="Continuous-Flow_Dampening_System">continuous-flow dampening system</a>s, which do away with the alternating ductor roller. (See <a title="Dampening System" href="Dampening_System">Dampening System</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

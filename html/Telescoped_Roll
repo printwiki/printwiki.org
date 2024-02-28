@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Telescoped Roll - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Telescoped Roll" class="currentChild" href="Telescoped_Roll">Telescoped Roll</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A defect in paper roll winding that results in a roll with progressively misaligned edges due to slippage of the paper layers. Telescoped rolls (and other roll defects) are the result of inconsistencies in moisture content and thickness produced during the papermaking process. Thicker portions of the paper <a title="Web" href="Web">web</a> will wind "harder" than thinner portions, and the differential tension will result in telescoping of the roll when a force acts on the roll. Advanced <a title="Cross-Machine Direction" href="Cross-Machine_Direction">cross-machine direction</a> monitoring procedures in the <a title="Forming Section" href="Forming_Section">forming section</a> of the papermaking machine can ensure that the papermaking <a title="Furnish" href="Furnish">furnish</a> delivered across the <a title="Forming Wire" href="Forming_Wire">forming wire</a> is consistent in thickness and moisture content, so as not to present problems when building the final paper roll. Variations in the forming of the paper web can also be rectified in subsequent stages of the papermaking process, such as <a title="Calendering" href="Calendering">calendering</a>.  
+</p>
+<p id="l3">
+Defects in the paper roll have serious consequences for printers utilizing web presses. Rolls that do not unwind into the machine with uniform tension across the web stretch and deform, often beyond their ability to return to their original dimensions, causing various printing distortions. Problems with paper rolls can also cause web breaks. A telescoped roll is called a <a title="Dished Roll" href="Dished_Roll">dished roll</a> when the edge misalignment is generated during roll winding. (See also <a title="Starred Roll" href="Starred_Roll">Starred Roll</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

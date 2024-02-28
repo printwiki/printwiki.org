@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Gravure Cylinder - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Gravure Cylinder" class="currentChild" href="Gravure_Cylinder">Gravure Cylinder</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The engraved image carrier used in <a title="Gravure" href="Gravure">gravure</a> printing. Unlike <a title="Letterpress" href="Letterpress">letterpress</a> or <a title="lithographic" class="nonexistent" href="http://printwiki.org/lithographic">lithographic</a> printing processes (which use raised and flat printing surfaces, respectively) gravure prints from cells or depressions etched in a metal cylinder which are filled with ink and transferred to the <a title="Substrate" href="Substrate">substrate</a>. 
+</p>
+<p id="l3">
+A gravure cylinder comprises a (typically) steel <a title="Cylinder Base" href="Cylinder_Base">cylinder base</a>, or an underlying metal structure that supports the engraved image-carrying layer. There are two primary types of cylinder bases: <a title="Sleeve Cylinder" href="Sleeve_Cylinder">sleeve cylinder</a>s and <a title="Shaft Cylinder" href="Shaft_Cylinder">shaft cylinder</a>s. A sleeve cylinder differs from a shaft cylinder in that it needs to have shafts attached prior to installing it on the press, whereas a shaft cylinder, as its name indicates, comes with shafts attached. The disadvantages of a sleeve cylinder include the fact that different shafts (with their own peculiar inaccuracies) are used during different stages of production—engraving, preparing, and printing—which create inaccuracies in the engraved image and, ultimately, in the printed image. Shaft cylinders, utilizing the same shafts at each stage of production, are remarkably accurate and, not surprisingly, are the most widely-used cylinder bases. Although steel is the most-often used material for cylinder bases, aluminum bases are utilized occasionally, primarily for their light weight (making shipping less costly, and handling easier), but aluminum is more difficult to electroplate the image-carrying copper to, and is less resistant to wear than steel. New plastic materials are also starting to be utilized in gravure cylinder manufacture, which can be modified to facilitate electroplating, and are also much lighter and less expensive than conventional steel. As the cylinder is for the most part hollow, <a title="Deflection" href="Deflection">deflection</a> needs to be taken into consideration. Deflection is defined as the deformation of the circumference of the cylinder (also referred to as <a title="Out-of-Roundness" href="Out-of-Roundness">out-of-roundness</a>) due to the pressure exerted by the <a title="Impression Roller" href="Impression_Roller">impression roller</a> during printing. Wider cylinders are more prone to deflection than shorter ones, and frequently the walls of the cylinder are reinforced to increase structural rigidity. Cylinders that become out-of-round produce a variety of printing defects. Defects are also caused by cylinders that are not perfectly balanced, or in which the center of gravity does not lie along its rotational axis. The result of an imbalanced cylinder is the generation of vibrations as it rotates. Holes and metal plugs are added to various portions of the cylinder as a means of redistributing the mass and bringing it back into balance. 
+</p>
+<p id="l5">
+Onto the gravure cylinder base is electroplated a layer of copper, into which the image will be etched. Copper has been used as the image-carrying layer since the earliest days of intaglio printing, and it provides the highest degree of predictable, structural, and functional results. It is easy enough to electroplate and to engrave, and it also withstands increased printing pressure without causing breakdowns in the walls of the cells comprising the image. (See <a title="Electroplating" href="Electroplating">Electroplating</a>.) After plating the copper to the cylinder base, the copperplated surface is ground down to a reduced size, if necessary. Polishing and finishing operations ensure that inaccuracies inherent in the copperplating procedure are compensated for. 
+</p>
+<p id="l7">
+After copperplating and polishing, the gravure cylinder is engraved in one of the several different engraving methods in use today. Gravure engraving etches the image into the copper surface, the image comprising many tiny cells, the distribution and depth of which determine the lightness/darkness of a particular image area. The unengraved portions of a gravure cylinder are known collectively as the <a title="Land Area" href="Land_Area">land area</a>. (See <a title="Gravure Engraving" href="Gravure_Engraving">Gravure Engraving</a>.) 
+</p>
+<p id="l9">
+To impart an added degree of protection and lower the coefficient of friction (thus increasing the run length of the cylinder) a thin (about 0.00023 inch) layer of chrome is electroplated on top of the engraved cylinder. Chrome polishing is the final stage of gravure cylinder production. A crucial measurement prior to printing is the <a title="Total Indicated Runout" href="Total_Indicated_Runout">total indicated runout</a> of the cylinder, which means that a cross-section of the cylinder must be as close to a perfect circle as possible, to avoid generating any "bumps" or printing distortions. The <a title="Roughness" href="Roughness">roughness</a> of the surface—or, in other words, minute surface irregularities—is important to prevent doctor blade wear; too smooth a surface doesn't provide enough doctor blade lubrication, and causes chrome wear. A related but different property of the cylinder surface is <a title="Waviness" href="Waviness">waviness</a>, which describes much more pronounced surface irregularities, and too much waviness can result in an inability of the doctor blade to effectively remove excess ink, causing printing in undesirable areas. Prior to engraving, the hardness of the copper surface needs to be determined, to ensure that the copper layer is ductile enough to allow effective image etching. After chrome-plating, similar measurements are made, and it should be cautioned that due to the thinness of the chrome layer, any undesirable aspects of the copper layer cannot be compensated for during chroming. Proper doctor blade lubrication is the result of extremely thin cracks in the chrome layer, a cracks-per-inch count of around 150 being the most effective. 
+</p>
+<p id="l11">
+After engraving and chrome-plating, a test proof is printed, and any corrections are carefully made, which involves either re-etching or replating problematic areas. 
+</p>
+<p id="l13">
+After printing, the cylinder can be re-used, but not before the chrome and copper layers are removed and replated. (See also <a title="Gravure" href="Gravure">Gravure</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Bit Map - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Bit Map" class="currentChild" href="Bit_Map">Bit Map</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In computer graphics, the collection of individual dots—or <a title="Pixel" href="Pixel">pixel</a>s—that make up a screen image. <a title="Bitmapped" href="http://printwiki.org/Bitmapped">Bitmapped</a>, or <a title="Raster" href="Raster">raster</a>, images are defined as a series of dots. At the lowest <a title="Color Depth" href="Color_Depth">color depth</a>, <a title="1-Bit Color" href="1-Bit_Color">1-Bit color</a>, each dot is either black or white, "on" or "off." At higher color depths, increasing numbers of <a title="Bit" href="Bit">bit</a>s describe each pixel which allows for the display of a greater number of different colors. 
+</p>
+<p id="l3">
+The computer display memory keeps a "map" of which pixels are on and off, and subsequent manipulation of screen images (such as erasures of picture elements in Adobe Photoshop, for example) involves registering changes on this bit map. Various <a title="Paint Program" href="Paint_Program">paint program</a>s deal with all images as bit maps. But although the manipulation of bitmapped images is simple (most paint and graphics manipulation programs let you alter images pixel by pixel), their output <a title="Resolution" href="Resolution">resolution</a> is limited by the size of the pixel matrix. On a standard computer monitor, that resolution is 72 pixels per inch, which is far below what is sufficient for high-quality output; the edges of bitmapped graphics tend to exhibit the stair-step pattern known as <a title="Aliasing" href="Aliasing">aliasing</a>. Although <a title="Anti-Aliasing" href="Anti-Aliasing">anti-aliasing</a> functions can reduce this problem on the computer display, it's almost impossible to eliminate on even laser-printer output. Images, however, can be input into a computer (via a scanner, Photo CD, or other means) at resolutions sufficient for high-quality output. Although displayed on the screen at the maximum resolution of the monitor, they will nonetheless be output at the higher resolution. 
+</p>
+<p id="l5">
+An alternative to bitmapped images are known as <a title="Vector" href="Vector">vector</a> graphics; although displayed as bit maps on the display (for there is no way to display anything on a conventional computer monitor except as a bit map), they are actually defined by the computer as a series of mathematical formulas, which describe circles, curves, lines, and other graphical objects which, when output as a <a title="PostScript" href="PostScript">PostScript</a> (or ["encapsulated PostScript [EPS]"]) file, print smoothly and at as high a resolution as the output device is capable of. Sophisticated graphics programs can convert bitmapped images to vector images, and vice versa. Photographs and <a title="Halftone" href="Halftone">halftone</a>s, however, will always need to be output as bit maps; line art, however, should always be vector images so as to ensure the fidelity of lines and curves. Vector images are also processed faster than bitmapped images, and take up less disk space and <a title="RAM" class="nonexistent" href="http://printwiki.org/RAM">RAM</a>. 
+</p>
+<p id="l7">
+'Bit map<em> is occasionally written as one word ('bitmap'), while its adjective ('bitmapped') is occasionally written as one word, two words ('bit mapped'), or is hyphenated ('bit-mapped'). 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

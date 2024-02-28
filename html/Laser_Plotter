@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Laser Plotter - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Laser Plotter" class="currentChild" href="Laser_Plotter">Laser Plotter</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Many types of printers and plotters use a scanning laser beam as an integral part of their system. Usually, any system that has a laser gun is referred to as a "laser printer" (or "plotter"), regardless of the actuall role played by the laser. The role, and indeed the particular type of laser used, can vary considerably. 
+</p>
+<p id="l3">
+Scanning lasers are most often used for "reading" (analyzing) photographic or electronically generated images. However, they can also "write" an image directly onto film (in film recorders) or onto the surface of a photosensitive drum (in the electrostatic process). 
+</p>
+<p id="l5">
+In laser-driven film recorders, the intensity of the laser is modulated in proportion to the intensity of each pixel, and is then directed to the film through a complex opticall system. Separate passes with color filters are used for making color reproductions. Exceptionally high resolution (typically 1,000 dots/inch horizontally) can be obtained by this method. 
+</p>
+<p id="l7">
+In conjunction with the electrostatic process (in which dry toner is made to cling to a paper substrate and then sealed by applying heat), lasers also help to produce high-volume graphics printing. For example, a helium-neon laser can be focused onto a photoreceptor by a rotating mirror system. The resulting image is then transferred to paper as a charge pattern to which particles of toner adhere. 
+</p>
+<p id="l9">
+Plotter that uses a laser to produce images on photographic film in raster or vector format. 
+</p>
+<p id="l11">
+A printer that uses a laser to generate the character image. A laser printer is sometimes called an intelligent copier/printer, as it uses some of the same methods to produce the final image as does a copier. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

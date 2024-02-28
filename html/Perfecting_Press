@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Perfecting Press - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Perfecting Press" class="currentChild" href="Perfecting_Press">Perfecting Press</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A printing press, especially one used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>, that allows the simultaneous printing on both sides of a sheet of paper in one pass through the press. There are two basic configurations of offset perfecting presses. In a <a title="Convertible Perfector" href="Convertible_Perfector">convertible perfector</a>, special <a title="Transfer Cylinder" href="Transfer_Cylinder">transfer cylinder</a>s between successive printing units flip the paper over after it leaves the first <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a>, allowing the second unit to print on the reverse side of the sheet. Such presses have the advantage of being able to be used for single-side multi-color printing, simply by adjusting the transfer cylinders to keep them from flipping the sheet over. A second type of perfecting press, used primarily in <a title="Web Offset Lithography" href="Web_Offset_Lithography">web offset lithography</a>, is called a <a title="Blanket-to-Blanket Press" href="Blanket-to-Blanket_Press">blanket-to-blanket press</a>, and utilizes one printing unit in which the impression cylinder is replaced by a second <a title="Blanket Cylinder" href="Blanket_Cylinder">blanket cylinder</a> directly below the first. As the sheet or paper web passes between the two blankets, images are printed on both sides at the same time. (See also <a title="Offset Lithography" href="Offset_Lithography">Offset Lithography</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

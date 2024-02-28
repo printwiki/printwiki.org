@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Screen Ruling - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Screen Ruling" class="currentChild" href="Screen_Ruling">Screen Ruling</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In <a title="Halftone" href="Halftone">halftone</a> photography, the number of lines of <a title="Dots Per Inch" href="Dots_Per_Inch">dots per inch</a> on a <a title="Halftone Screen" href="Halftone_Screen">halftone screen</a>. Each line (or row) and each column contain a certain number of dots at a particular density. For example, a 150-line screen contains horizontal rows of 150 dots per inch and vertical columns of 150 lines per inch, for a total of 22,500 dots per square inch. The screen ruling is also measured in <a title="Lines Per Inch" href="Lines_Per_Inch">lines per inch</a>. Halftone screens are used to break a <a title="continuous-tone" class="nonexistent" href="http://printwiki.org/continuous-tone">continuous-tone</a> image into many tiny dots of varying color or gray, necessary for most forms of printing. The smaller the dots (or, in other words, the higher the screen ruling), the less discernible the individual dots are and the more closely the printed image approximates a continuous-tone image. Although the more dots the better, the screen ruling which can be implemented is limited by the intended printing process and <a title="Substrate" href="Substrate">substrate</a>. Black-and-white <a title="web offset" class="nonexistent" href="http://printwiki.org/web_offset">web offset</a> printing on newsprint typically prints with 75-line screens, while color newspaper printing often uses 90-to-100-line screens. Although some processes allow for very high screen rulings (<a title="Waterless Lithography" href="Waterless_Lithography">waterless lithography</a>, for example, allows screen rulings as high as 600 lpi), 150:200 lpi is the most commonly used screen ruling for commercial printing. 
+</p>
+<p id="l3">
+In digital halftoning, the screen ruling that can be obtained is dependent upon the <a title="Resolution" href="Resolution">resolution</a> of the output device. On <a title="imagesetters" class="nonexistent" href="http://printwiki.org/imagesetters">imagesetters</a> and other digital output devices, each halftone dot is created of much smaller printer <a title="Spot" href="Spot">spot</a>s (and in this case halftone dots are known as halftone <a title="Cell" href="Cell">cell</a>s) inserted into a matrix. This matrix thus describes the number of spots that can make up a cell, and this determines the screen ruling. For example, an imagesetter with a resolution of 2,400 dpi can produce a 16-spot by 16-spot halftone cell. Dividing 2,400 by 16 yields 150; thus this imagesetter can output films with a screen ruling of 150 lpi. On the other hand, a 300-dpi laser printer, capable of only a 5 x 5 cell matrix, can only output a screen ruling of 60 lpi. Related to these resolution numbers is the number of gray levels each cell matrix can produce, which is determined by the number of spots in the matrix, which affects the dot density. The 16 x 16 matrix can produce 256 levels of gray (16 x 16 = 256), while the 5 x 5 matrix can only display 25 shades of gray (plus white, for 26 total). The human eye can detect slightly more than 100 different shades of gray. 
+</p>
+<p id="l5">
+Screen ruling is also known as <a title="Screen Frequency" href="Screen_Frequency">screen frequency</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

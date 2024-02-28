@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Small Caps - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Small Caps" class="currentChild" href="Small_Caps">Small Caps</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, capital letters designed to match the <a title="x-Height" href="x-Height">x-height</a> of a particular <a title="Typeface" href="Typeface">typeface</a> and size. 
+</p>
+<p id="l3">
+These are small caps."] 
+</p>
+<p id="l7">
+Since many fonts today do not have small caps, they are created by reducing the <a title="Point Size" href="Point_Size">point size</a> by two sizes (or 80%), setting capital letters, and then returning to the original size. These are not true small caps, however, and may be lighter than the caps and look out of place. True-cut small caps are the same height as the x-height and are usually equal to the normal cap width: they are slightly expanded because they were on the same hot-metal matrix as the capital character and had to have the same width as the wider character. Digitized typesetting devices have the advantages of being able to reduce size in smaller increments and to electronically expand characters horizontally to form small caps. 
+</p>
+<p id="l9">
+Words in text that are specified as all caps could look better (in terms of the <a title="Typographic Color" href="Typographic_Color">typographic color</a> of the page) in small caps. This is also true of lining figures: they look best slightly smaller. Old Style figures look best with small caps. Also, the use of full-cap initial letters with small caps is not advised. All small caps is better. Small caps should be used for abbreviations of awards, decorations, honors, titles, etc., following a person's name. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

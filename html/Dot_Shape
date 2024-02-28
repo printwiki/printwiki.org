@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Dot Shape - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Dot Shape" class="currentChild" href="Dot_Shape">Dot Shape</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The geometric appearance of a <a title="Halftone Dot" href="Halftone_Dot">halftone dot</a>, which may vary from elliptical to perfectly round to square. Depending on the application, the shape of halftone dots can be varied to eliminate such problems as <a title="Moiré" href="Moiré">moiré</a> and <a title="Dot Gain" href="Dot_Gain">dot gain</a>. Dot gain is commonly a problem where dots join each other; elliptical dots are particularly effective in reducing that problem, as the existence of long and short directions connects dots to each other in varying ways—in the long direction, they may not connect until the <a title="Dot Area" href="Dot_Area">dot area</a> has reached 60%; in the short direction, they may not join until the dot area has reached 40%. When using perfectly round dots, areas of high <a title="Dot Density" href="Dot_Density">dot density</a>—or areas where the dots are tightly packed together—generate little star-shaped white spaces between dots which can fill in with ink, causing shadow areas to print darker than they should. As for square dots, a problem arises when the corners of the dots start to connect, which creates a similar darkening effect in shadow areas (an optical illusion called <a title="Optical Jump" href="Optical_Jump">optical jump</a>). (See also <a title="Elliptical Dot" href="Elliptical_Dot">Elliptical Dot</a>.) 
+</p>
+<p id="l3">
+In digital halftoning, the <a title="PostScript" href="PostScript">PostScript</a> page description language allows for the creation of different dot shapes; as a halftone <a title="Cell" href="Cell">cell</a> (or a halftone dot when created digitally) is composed of much smaller printer <a title="Spot" href="Spot">spot</a>s, these spots can be oriented in a variety of ways to produce different dot shapes. One particular PostScript function uses round dots for <a title="Highlight" href="Highlight">highlight</a>s and <a title="Shadow" href="Shadow">shadow</a>, but switches to square dots in the <a title="Middle Tone" href="Middle_Tone">middle tone</a>s. This solves both the problems of optical jump in square-dot shadows and <a title="Plugging" href="Plugging">plugging</a> up of the shadows. PostScript can even allow for the use of customized dot shapes for special effects, such as halftone cells in the shape of bowties or other whimsical shapes. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

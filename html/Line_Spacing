@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Line Spacing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Line Spacing" class="currentChild" href="Line_Spacing">Line Spacing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In typography, the space between lines of type, also called <a title="Leading" href="Leading">leading</a> (pronounced "ledding"), <a title="Vertical Spacing" href="Vertical_Spacing">vertical spacing</a>, or <a title="film advance" class="nonexistent" href="http://printwiki.org/film_advance">film advance</a>. The term <em>leading</em> dates back to metal typesetting, when thin strips of lead were inserted by hand between lines (i.e., lines were leaded). In linecasting, the line was one unit of metal called a <em>slug</em>. The slug could be cast with an amount of leading "built-in" or added by hand later. If no leading was present at all, the lines were said to be set solid (for example, 10/10). 
+</p>
+<p id="l3">
+Leading should be in proportion to line length and point size—about 20% of the point size—or it should be slightly larger than the optimum word space. Very fine spacing was called <em>carding</em> in hot metal, because pieces of card paper, instead of lead, were inserted; trouble resulted when liquid (i.e., type wash) hit paper slices: columns would suddenly "grow" (expand in depth). 
+</p>
+<p id="l5">
+One of the capabilities that modern typesetting techniques make available is called <a title="Minus Leading" href="Minus_Leading">minus leading</a>. This means that the type is set with a leading value less than the point size, for example, 9 on 8H. Usually, this can be done only with faces that are small on body (small <a title="x-Height" href="x-Height">x-height</a>), have short <a title="Ascender" href="Ascender">ascender</a>s and/or <a title="Descender" href="Descender">descender</a>s, or for all caps. 
+</p>
+<p id="l7">
+Small x-height faces and some sans serifs should have minimal or minus leading. Large x-heights and bold type need more leading. To calculate the minimum amount of leading required between two type lines when changing point sizes, take one-third of the present point size and add it to two-thirds of the point size to be used on the next line. If the leading is not properly set, the lines could overlap one another. 
+</p>
+<p id="l9">
+The most important point to remember is that all leading is measured from <a title="Baseline" href="Baseline">baseline</a> to baseline. In hot metal, it was merely the incremental space between slugs. Today, it is the total space between lines, which is defined by the baseline. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

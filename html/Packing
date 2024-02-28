@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Packing - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Packing" class="currentChild" href="Packing">Packing</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Paper, plastic, or other material inserted underneath an offset press plate or <a title="Blanket" href="Blanket">blanket</a> while on the press so as to raise the printing surface or increase the circumference of either the <a title="Plate Cylinder" href="Plate_Cylinder">plate cylinder</a> or <a title="Blanket Cylinder" href="Blanket_Cylinder">blanket cylinder</a>. (The process of inserting these materials is also referred to as "packing.") Each of these cylinders is <a title="Undercut" href="Undercut">undercut</a>, or possesses a difference between the radius of the cylinder body and the cylinder <a title="Bearer" href="Bearer">bearer</a>s, to allow varying degrees of packing. Packing is frequently necessary when the printing pressure is too light to produce a good image, either on the blanket or on the <a title="Substrate" href="Substrate">substrate</a>, or when the printing length needs to be adjusted. 
+</p>
+<p id="l3">
+The reasons for packing are threefold: it allows for a wide use of different plate and blanket thicknesses, it enables the printing pressure to be varied, depending upon the desired print density, and it allows for compensation of paper stretching or expansion during multi-color printing (by varying the ratio of plate to blanket diameter, a print that has expanded can be accurately matched). The packing materials themselves need to be manufactured with accurate and consistent thicknesses, and must be able to retain their thickness under printing pressure, and retain dimensional stability. <a title="Kraft" href="Kraft">Kraft</a> paper has traditionally been used for packing in the past, but the use of plastic—especially polyester—is becoming more frequent, due to its increased toughness. Paper designed primarily for printing should not be used as packing; the thickness can vary considerably from sheet to sheet, and its compressibility, although important for printing, makes it unsuitable for packing. Packing can be as wide as the plate or blanket, but due to seepage from the <a title="Dampening Solution" href="Dampening_Solution">dampening solution</a> which causes the packing to swell, many press operators leave a small amount of space (anywhere from one-sixteenth to one-half an inch) between the edge of the blanket and the packing. 
+</p>
+<p id="l5">
+There is no specific or practical measure of the pressure existing between the plate and blanket cylinders, so the term <a title="Squeeze" href="Squeeze">squeeze</a> (measured in inches) is commonly used. If each cylinder is packed so that their diameters are the same size and exactly equal to the size the undercut (so that each surface is just touching), there is no squeeze. If a 0.002-inch sheet of paper is added to the packing of one cylinder, the squeeze then becomes 0.002 inch. Each thickness of packing material subsequently added increases the squeeze by the thickness of the sheet added. In addition to squeeze, the pressure exerted by a squeeze is also important. An equal amount of squeeze will exert differing amounts of pressure, depending on the resiliency of the two surfaces being squeezed. For example, the squeeze between the plate and the blanket (a hard surface meeting a resilient surface) will exert more pressure than an equal squeeze between the blanket and the paper (where two resilient surfaces are meeting). Consequently, it is generally recommended that blankets generate a squeeze of 0.002:0.004 inch, although this can vary. A rule of thumb is generally to overpack the blanket by 0.001 inch, as blanket compression tends to occur during printing. The type of blanket used—whether a <a title="Conventional Blanket" href="Conventional_Blanket">conventional blanket</a> or a <a title="Compressible Blanket" href="Compressible_Blanket">compressible blanket</a>—also affects the degree of packing. (See <a title="Blanket" href="Blanket">Blanket</a>.) 
+</p>
+<p id="l7">
+Another hurdle involved in the packing question is compression of the metal bearers on the cylinder. Especially on older presses, the steel bearers can deform under pressure, changing the size of the undercut by as much as 0.002 inch. The actual packing height can be measured using a <a title="Packing Gauge" href="Packing_Gauge">packing gauge</a> which will account for any bearer compression (or other pressure-generated packing anomalies), but quantitative measurements are no comparison for experiential observation of print quality and packing height. A good qualitative test involves packing the press to a working height, and a plate containing solids and halftones is printed so that a good, solid image is printed. Then, packing is removed until the solids will no longer print. At that point, packing material is replaced 0.001 inch at a time until the solids once again print well. This, then, is the minimum pressure the press requires. The packing gauge can be used to quantitatively measure what has just been achieved, the aim being to reproduce it consistently for other print jobs. 
+</p>
+<p id="l9">
+The thickness of packing material, plates, and blankets tends to vary, although plates and blankets obtained from the same manufacturer will probably not vary by very much, if at all. Still it is always a good idea to carefully measure the thicknesses of all these elements—using a <a title="Micrometer" href="Micrometer">micrometer</a>—just to be on the safe side. Blankets especially can vary, and it is best to take up to nine separate readings in various locations on the blanket surface, an average thickness being computed for the entire surface. When measuring the thickness of paper packing, it is best to allow the material to reach equilibrium with the relative humidity of the pressroom, as paper thickness changes with increased or decreased moisture content. 
+</p>
+<p id="l11">
+Determining the amount of packing to use is a case of simple arithmetic. If the plate needs to be 0.005 inch above the bearers, and it is known that the undercut is 0.020 inch, then the plate-plus-packing height needs to be the sum of those two numbers, or 0.025 inch. If it is then known that the plate is 0.015 inch thick, subtracting that from the plate-plus-packing height yields 0.010 inch, which is the total thickness of the packing required. Similar calculations can be done to determine the packing required for the blanket. 
+</p>
+<p id="l13">
+Determining the squeeze generated between the plate and blanket on a particular <a title="Bearer-Contact Press" href="Bearer-Contact_Press">bearer-contact press</a> is also a case of simple math, and is simply the height of the plate above the bearers added to the height of the blanket above the bearers. (If the blanket is packed below the height of the bearers, its height is subtracted from the height of the plate above the bearers.) In determining the squeeze on a <a title="Non-Bearer-Contact Press" href="Non-Bearer-Contact_Press">non-bearer-contact press</a>, the math proceeds in two stages. First, the height of the plate above the bearers is added to the height of the blanket above the bearers, and from this total is then subtracted the distance between the bearers, yielding the squeeze. 
+</p>
+<p id="l15">
+Improper packing and inadequate or excessive amounts of squeeze can have many deleterious effects on both print quality, and the integrity of the plate and/or blanket. Squeeze in excess of 0.004 inch while using a conventional blanket (or in excess of 0.008 inch if using a compressible blanket) causes <a title="Dot Gain" href="Dot_Gain">dot gain</a>, streaking, as well as plate wear, <a title="Scumming" href="Scumming">scumming</a>, and <a title="Plate Blinding" href="Plate_Blinding">plate blinding</a>, as the excessive friction of the blanket on the plate abrades the surface of the plate, removing the desensitizing film of dampening solution from non-image areas, and rubbing off the image(s). Too much squeeze between the impression cylinder and the blanket contributes to paper deformations and increased <a title="Picking" href="Picking">picking</a>. (Too much squeeze can also be caused by damaged press cylinders, such as cylinders that have had low spots impressed into them, perhaps by a wad of towel or other lumpy foreign substance passing through the nip of press cylinders.) As might be expected, squeeze generally less than 0.002:0.003 inch results in light, faded images. A cause of this is not taking into account compression of the blanket, bearers, etc., when determining packing. A common but incorrect solution is to increase ink flow, which generates a variety of printing defects, such as <a title="Snowflaking" href="Snowflaking">snowflaking</a>, <a title="Dot Slurring" href="Dot_Slurring">dot slurring</a>, excessively thick printing, and a variety of other defects. In nearly all of these cases, problems of inadequate or excessive squeeze can be avoided by carefully measuring all the various elements that contribute to plate and blanket height and squeeze and understanding the degree to which various elements can be compressed during the increased pressures generated during printing. 
+</p>
+<p id="l17">
+Another advantage of packing is the ability to adjust the length of the print by varying the diameters of the plate and blanket cylinders. When paper is stretched, or comes into contact with moisture (such as offset press dampening systems), it changes its dimensions. (Since paper changes direction primarily in the <a title="Cross-Grain Direction" href="Cross-Grain_Direction">cross-grain direction</a>, image-size adjustment is typically effective only on paper whose grain runs perpendicular to the direction of transport through the press; if, for example, 8H x 11 paper is run through the press with its longer direction parallel to the direction of travel, the grain should be parallel to the shorter dimension. Such paper is called <a title="Grain-Short" href="Grain-Short">grain-short</a>. Conversely, if the paper is run through the press with its <em>shorter</em> direction parallel to the direction of travel, the grain should be parallel to the <em>longer</em> dimension. Such paper is called <a title="Grain-Long" href="Grain-Long">grain-long</a>.) When paper changes its dimensions, the image changes size, and additional colors or images will print out of register. One way to rectify this is using variations in packing height to enlarge or reduce a printed image. Adding more packing to the blanket cylinder, thus increasing its circumference, lengthens an image, while adding more packing to the plate cylinder shortens an image. The procedure varies slightly depending on whether the press is a bearer-contact press or a non-bearer-contact press. 
+</p>
+<p id="l19">
+<strong>Image Enlargement</strong>. <em>Bearer-Contact Press</em>. Remove packing from the plate cylinder, decreasing its height, and add it to the blanket cylinder, increasing <em>its</em> height by the same amount. Decrease the squeeze between the impression and blanket cylinders by an amount equal to the change in packing. Increase inking and dampening settings, if necessary. <em>Non-Bearer-Contact Press</em>. Remove packing from the plate cylinder, reducing its height. Increase the squeeze between the plate and blanket cylinders and between the blanket and impression cylinders by an amount equal to the packing removed. Increase the inking and dampening settings, if necessary. 
+</p>
+<p id="l21">
+<strong>Image Reduction</strong>. <em>Bearer-Contact Press'. Remove packing from the blanket cylinder, reducing its height, and add it to the plate cylinder. Increase the squeeze between the impression and blanket cylinders by an amount equal to the change in packing. Decrease inking and dampening settings, if necessary. </em>Non-Bearer-Contact Press<em>. Add packing to the plate cylinder, raising its height. Decrease the squeeze between the plate and blanket cylinders by an amount equal to the change in packing. Increase the squeeze between the blanket and impression cylinders by an amount equal to the packing change. Decrease the inking and dampening settings, if necessary. 
+</p>
+<p id="l23">
+It may have been observed that on non-bearer-contact presses only one cylinder—the plate—needs to have the packing adjusted. The extent of image enlargement possible depends on the packing conditions at the start of the job. If there is slippage between the plate and blanket initially, any adjustment of packing beyond 0.004 inch could cause further slippage and print distortions such as <a title="Slurring" href="Slurring">slurring</a>. With no slippage initially, packing changes beyond 0.004 inch may cause no problems. If the paper is expected to stretch, it may be best to print a slightly shorter image the first time, then restore the packing to normal for successive colors. 
+</p>
+<p id="l25">
+There is no substitute for experience in determining possible print length increases due to paper dimensional instability, but there is a quick way to approximately predict any dimensional changes: On a flat plate, etch four lines on the plate, one in either corner, ensuring that they fall within the print area of a press sheet. Measure the distance between the lines. Put the plate on the press and print a few sheets. Measure the distance between the lines on the print, and subtract from it the distance between the lines on the plate. Then, divide the difference in total print size by the distance between the lines on the plate. The result will be the average size of the length gain per inch. 
+</p>
+<p id="l27">
+In computer graphics, the term </em>packing<em> also refers to the instructions used to effect <a title="Data Compression" href="Data_Compression">data compression</a>, or the reduction in size of a computer file. See <a title="Data Compression" href="Data_Compression">Data Compression</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>boardmaking - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="boardmaking" class="currentChild" href="boardmaking">boardmaking</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<strong>Board</strong> <br/>Board is usually defined as paper above an agreed substance (220– <br/>225g/m2 in UK, 250g/m2 in many other countries). It can be single-ply or <br/>multi-ply. The multi-ply structure consists of top liner, under liner, middle <br/>and back liner. Much of the making process is similar to paper. Points <br/>to note include: <br/><strong>Furnish</strong> <br/>Basically the same as for paper, ranging from high-quality bleached pulps <br/>down to recycled waste paper. Stock treatment is basically the same as for <br/>paper. If waste paper is used, more cleaning and screening may be <br/>required. Board is generally given a lesser degree of beating/refining in <br/>order to ensure efficient drainage. <br/>The liner plies are often given conventional beating and refining to <br/>develop their strength while the middle stock is hardly given any mechanical <br/>treatment, just simply broken then lightly refined. <br/><strong>Manufacture</strong> <br/>In multi-ply board, the plies may be combined on-machine or off-machine. <br/>In the case of on-machine boards, either Fourdrinier or vat process <br/>machines may be used. <br/>In the case of the Fourdrinier manufacturing process, the board is built <br/>up on the wire from a series of Inverform units, each of which contains a <br/>head box depositing successive layers on each other. <br/>The vat boardmaker, on the other hand, consists of a number of vats or <br/>cylinder units, in-line, in each of which revolves a large hollow cylinder. <br/>Each cylinder picks up a layer of stock and deposits it on the underside of <br/>a moving felt which carries the first ply of board. The layers are built up <br/>progressively; and at the end of the wire the board is removed for drying. <br/>In the case of off-line finishing, the resulting boards are known as <br/>pasted boards to distinguish them from the homogenous product which <br/>comes off a single machine. A number of webs of board are unreeled in <br/>parallel to each other; adhesive is applied to the top surface of all but the <br/>top sheet; and a pressing cylinder finally brings all the reels together, joining <br/>them to create a single reel of thicker board. The edges are slit to provide <br/>flush edges to the new reel. <br/><strong>Finishing</strong> <br/>The range of operations in finishing corresponds to those for paper and can <br/>include: calendering, supercalendering, coating, slitting, sheeting, conditioning <br/>and, finally, packing for despatch. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

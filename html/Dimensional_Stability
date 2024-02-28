@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Dimensional Stability - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Dimensional Stability" class="currentChild" href="Dimensional_Stability">Dimensional Stability</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measure of the extent to which a paper will resist a change in size as the result of a change in moisture content or the application of a compressing force, as during printing. The <a title="Cellulose" href="Cellulose">cellulose</a> fibers comprising a sheet or <a title="Web" href="Web">web</a> of paper have an affinity for water, which means that they readily absorb water from the atmosphere (or lose water to the atmosphere, depending on the <a title="Relative Humidity" href="Relative_Humidity">relative humidity</a> and the <a title="Equilibrium Moisture Content" href="Equilibrium_Moisture_Content">equilibrium moisture content</a> of the paper). When paper fibers absorb water, they expand primarily in width, but only slightly in length. (Similarly, when a paper <em>loses</em> moisture to the atmosphere, the fibers will shrink primarily in width, but only slightly in length.) Therefore, when a paper undergoes a dimensional change, it will primarily be in the <a title="Cross-Grain Direction" href="Cross-Grain_Direction">cross-grain direction</a>. (See <a title="Grain" href="Grain">Grain</a> and <a title="Moisture Content" href="Moisture_Content">Moisture Content</a>.) The percent change in size, either by expansion or reduction, is called the paper's <a title="Hygroexpansivity" href="Hygroexpansivity">hygroexpansivity</a>. The addition of <a title="fillers" class="nonexistent" href="http://printwiki.org/fillers">fillers</a> to the papermaking <a title="Furnish" href="Furnish">furnish</a> helps increase a paper's dimensional stability, as fillers do not absorb or lose moisture. The extent to which a paper's fibers have been refined (i.e., how short and how closely bonded the fibers are in the paper) also affects its dimensional stability; the less refined the fibers are the greater the dimensional stability. (But less refining also compromises other paper qualities.) Paper has the highest degree of dimensional stability in relative humidities of 35:50%. 
+</p>
+<p id="l3">
+Paper and printing defects such as <a title="Waffling" href="Waffling">waffling</a> result from paper's being stretched past its ability to retain its original dimensions. (A paper's ability to return to its original dimensions after a stretching force is removed is called its <a title="Visoelasticity" href="Visoelasticity">visoelasticity</a>; stretching beyond a certain point, however, destroys the paper's ability to "snap back" to its original size.) Paper is generally stronger in its grain direction, and stretching that occurs in <a title="Long-Grain" href="Long-Grain">long-grain</a> paper in the cross-grain direction usually can be compensatzed for by other press procedures. 
+</p>
+<p id="l5">
+Some papers, depending on their end use, don't require a high degree of dimensional stability. Those that do include papers to be used for multicolor offset work, where proper registration is important, and forms that are going to be collated into a bound or padded set. Dimensional stability of a paper can be measured with an <a title="Expansimeter" href="Expansimeter">expansimeter</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

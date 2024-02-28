@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PlanetPress - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PlanetPress" class="currentChild" href="PlanetPress">PlanetPress</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+PlanetPress is a VDP application  suite produced by Objectif Lune. 
+</p>
+<p id="l3">
+PlanetPress Suite is a suite of software modules that enables easy creation, printing and distribution of transactional documents and business forms integrating variable data as well as offering advanced automated workflow management capabilities. Documents created with PlanetPress Suite can be printed in high-volume, archived, emailed and/or faxed as part of a sophisticated output management application.<sup><a href="PlanetPress#fndef-2e762d78736beab097cfcd3b88e998beb6d55edf-0" id="fnref-2e762d78736beab097cfcd3b88e998beb6d55edf-0">1</a></sup> 
+</p>
+<p id="l5">
+The PlanetPress Suite consists of several modules, which can be purchased separately depending on the needs of the client, detailed below: 
+</p>
+<span id="head-27296bd48a531903fbd133184a04d0b4d12419c2"><h4 id="l7">The Software</h4></span>
+<p id="l10">
+<strong>PlanetPress</strong>. The designer module. 
+</p>
+<p id="l12">
+<strong>PlanetPress Watch</strong>. A process automation tool, used to design automated transactional workflows. Watch can initiate a process in a variety of ways, for example, by receiving an email, an FTP transmission, or a file arriving in a specific folder. Processes can also be scheduled. Watch can perform a variety of so-called "Actions" on the incoming file, including splitting the file, performing a database lookup of fields/data in the file, and so on. Watch has several built-in Actions, but can also call external applications or extend its functionality through a plugin system. 
+</p>
+<p id="l14">
+<strong>PlanetPress Fax</strong>. A Watch plugin to automate conditional faxing of documents. 
+</p>
+<p id="l16">
+<strong>PlanetPress Image</strong>. A Watch plugin to automate the conversion of documents to a variety of image formats, including JPG, TIFF, BMP, and PDF. Primarily used for document archival. 
+</p>
+<p id="l18">
+<strong>PlanetPress Search</strong>. An Adobe Acrobat plugin. Works with Watch and Image to provide indexed search of PDF documents. 
+</p>
+<p id="l20">
+<strong>PlanetPress iWatch</strong>. Similar to Watch, but for the iSeries and AS400 platforms. 
+</p>
+<p id="l22">
+The core strength of PlanetPress is in transactional VDP and process automation. PlanetPress is designed to work with a very wide array of legacy data sources, including line printer data, LPD data, any manner of text file, ODBC-compliant data sources, as well as completely unique, "user defined" datasources. PlanetPress is primarily used for transactional document production, such as invoices and billing statements, financial and business documents, barcoded labels, and similar transcation-based, scheduled documents. PlanetPress is often used as a tool to eliminate multi-part preprinted forms from a document workflow, without requiring changes to the underlying datasource. 
+</p>
+<span id="head-aad80575cc06f519a094f9962481b443b6385cc4"><h4 id="l25">The Company</h4></span>
+<p id="l27">
+"Objectif Lune" translates to "Objective Moon". Our company name recalls the era of the lunar- landing missions. It captures the spirit of adventure that harnesses the potential of existing technologies to reach unprecedented, revolutionary objectives without compromise. 
+</p>
+<p id="l29">
+In 1993, in Montreal, Canada, PostScript programming pioneers, stumbled across a better way to help businesses address their high-volume printing needs. The result of this entrepreneurial drive is the successful, worldwide operation that Objectif Lune is today. 
+</p>
+<p id="l31">
+Our products are sold in several regions of the world. Objectif Lune has gradually increased its worldwide presence by opening branches or signing distribution agreements in Europe, North America, South America, Australia, Asia and Africa. The user-interface of PlanetPress Suite applications is multi-lingual, with new languages being added regularly. Support for multi-byte and regional encodings ensures the applications can be used anywhere.<sup><a href="PlanetPress#fndef-a9b2297bdbb510251ed972d47fd9c47dcab17d32-1" id="fnref-a9b2297bdbb510251ed972d47fd9c47dcab17d32-1">2</a></sup> 
+</p>
+<span id="head-4d57eab2982917a09762907ac77e408c3ca66fc9"><h4 id="l34">External Links</h4></span>
+<p id="l35">
+<a class="external" href="http://www.objectiflune.com"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.objectiflune.com</a> 
+</p>
+<div class="footnotes"><div></div><ul><li><span><a href="PlanetPress#fnref-2e762d78736beab097cfcd3b88e998beb6d55edf-0" id="fndef-2e762d78736beab097cfcd3b88e998beb6d55edf-0">1</a></span>Objectif Lune website  <a class="external" href="http://www.objectiflune.com"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.objectiflune.com</a></li><li><span><a href="PlanetPress#fnref-a9b2297bdbb510251ed972d47fd9c47dcab17d32-1" id="fndef-a9b2297bdbb510251ed972d47fd9c47dcab17d32-1">2</a></span>Objectif Lune website <a class="external" href="http://www.objectiflune.com"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://www.objectiflune.com</a></li></ul></div><div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

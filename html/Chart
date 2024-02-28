@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Chart - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Chart" class="currentChild" href="Chart">Chart</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Any graphical display of information. There are four basic types of charts: a <a title="Bar Chart" href="Bar_Chart">bar chart</a>, in which information is represented as bars (either vertical or horizontal) on an x-y <a title="Coordinate System" href="Coordinate_System">coordinate system</a>, the respective heights of which are in proportion to the values they represent. A <a title="Pie Chart" href="Pie_Chart">pie chart</a> represents fractional divisions of a whole as pieces of a circle, the size of each "slice" being in proportion to its percehtage of the whole. A <a title="Scatter Plot" href="Scatter_Plot">scatter plot</a> simply plots a number of points on an x-y coordinate system and is used occasionally to illustrate trends or groupings. A <a title="Line Graph" href="Line_Graph">line graph</a> is a type of scatter plot in which points are connected by lines to emphasize the progression of a particular trend. The usefulness of a line graph depends upon the linearity of the plotted data. 
+</p>
+<p id="l3">
+The above charts may also be referred to as <a title="Graph" href="Graph">graph</a>s, especially when data is plotted in a coordinate system. Many spreadsheet, desktop publishing, or other programs automatically generate charts from raw data entered into them. 
+</p>
+<p id="l5">
+A type of chart unrelated to the above is called a <a title="Flowchart" href="Flowchart">flowchart</a>. (See <a title="Flowchart" href="Flowchart">Flowchart</a>.) Strictly tabular data is sometimes also referred to as a chart. (See <a title="Tabular Composition" class="nonexistent" href="http://printwiki.org/Tabular_Composition">Tabular Composition</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

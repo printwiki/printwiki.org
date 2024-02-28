@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Electrostatic Assist - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.cssprintwiki.org.s3.amazonaws.com//common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Electrostatic Assist" class="currentChild" href="Electrostatic_Assist">Electrostatic Assist</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A device used on <a title="Gravure" href="Gravure">gravure</a> printing presses to overcome some of the limitations inherent in gravure printing. Since gravure prints from depressed, ink-filled cells engraved in the surface of a metal cylinder, a recurring problem is the incomplete transfer of ink from the cells to the substrate passing above it. Although a resilient <a title="Impression Roller" href="Impression_Roller">impression roller</a> works to force the substrate down into the cells, where capillary action completes the ink transfer, there are limitations to the efficacy of this process, and printing defects such as <a title="Snowflaking" href="Snowflaking">snowflaking</a>, <a title="Skips" href="Skips">skips</a>, and other voids and missing halftone dots tend to recur. 
+</p>
+<p id="l3">
+Since it is impractical to further force the substrate into the cells, the Gravure Research Institute (now the ["Gravure Association of America [GAA])"] developed the concept of the Electrostatic Assist unit which attempts to bring the ink to the substrate. The principle of ESA is to generate an electric field in the region of the nip between the impression roller and the <a title="Gravure Cylinder" href="Gravure_Cylinder">gravure cylinder</a> (where ink transfer takes place). Electrostatic repulsion generated between the ink and the gravure cylinder is alleviated by electrostatic attraction between the ink and the impression roller (which lies just beyond the substrate). The ink is then pulled electrostatically onto the substrate. Although the process works most effectively with polarized inks (inks and ink solvents containing molecules and atoms that ionize readily), non-polar inks have also been used successfully. 
+</p>
+<p id="l5">
+ESA works by imparting a charge to the impression roller, either using a back-up roller connected to an electrical source that runs in contact with the impression roller and transfers the charge to it, electrodes that transfer a charge to the impression roller by brushes or fingers, or by charging the core of the impression roller itself. Common ESA systems in use today include the Hurletron ESA (which uses a separate power source that transfers the charge by either an applicator or a core-charging mechanism), the Crosfield Heliostat ESA (which uses a charged back-up roller configuration), and the Eltex ESA (which also uses an external electrode conveying the charge via an applicator). 
+</p>
+<p id="l7">
+The benefits of ESA have included spectacular improvements in print quality, especially on less expensive stock, less waste, reduced need for high impression pressures, faster press speeds, decreased impression roller heat build-up, and a resultant increase in roller life. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

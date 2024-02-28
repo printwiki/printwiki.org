@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Water Pan - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Water Pan" class="currentChild" href="Water_Pan">Water Pan</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A metal trough at the end of the <a title="Dampening System" href="Dampening_System">dampening system</a> on a printing press used in <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a> in which the <a title="Fountain Solution" href="Fountain_Solution">fountain solution</a> is kept. In <a title="Intermittent-Flow Dampening System" href="Intermittent-Flow_Dampening_System">intermittent-flow dampening system</a>s, a <a title="Fountain Pan Roller" href="Fountain_Pan_Roller">fountain pan roller</a> picks up the fountain solution from the water pan and transfers it to a <a title="Ductor Roller" href="Ductor_Roller">ductor roller</a> which alternately contacts the fountain pan roller and an <a title="Oscillator" href="Oscillator">oscillator</a>. In <a title="Continuous-Flow Dampening System" href="Continuous-Flow_Dampening_System">continuous-flow dampening system</a>s, a rotating <a title="Metering Roller" href="Metering_Roller">metering roller</a> transfers the fountain solution from the water pan directly and continuously to a <a title="Transfer Roller" href="Transfer_Roller">transfer roller</a>. <a title="Water Stops" href="Water_Stops">Water stops</a> can be added to the water pan, which squeeze set amounts of fountain solution from the fountain pan roller, allowing greater control over the amount of dampening solution transferred to the plate. (See <a title="Dampening System" href="Dampening_System">Dampening System</a>.) The water pan is also called the <a title="fountain pan" class="nonexistent" href="http://printwiki.org/fountain_pan">fountain pan</a>, the <a title="Water Fountain" href="Water_Fountain">water fountain</a>, or, generically, the <a title="Fountain" href="Fountain">fountain</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

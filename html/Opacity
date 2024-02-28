@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Opacity - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Opacity" class="currentChild" href="Opacity">Opacity</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In optics, the extent to which an object or surface will impede the transmission of light through it. A completely <a title="Opaque" href="Opaque">opaque</a> object is one which allows no light to pass through it. See also <a title="Translucency" href="Translucency">Translucency</a> and <a title="Transparency" href="Transparency">Transparency</a>. 
+</p>
+<p id="l3">
+In papermaking, <em>opacity</em> is a property of paper that describes the amount of light which is transmitted through it. Paper that has a high degree of opacity does not let much light pass through it, while paper that has a low degree of opacity is more translucent, or allows much light to pass through it. A paper's opacity determines the extent to which printing on a particular side of paper will be visible from the reverse side (called <a title="Show-Through" href="Show-Through">show-through</a>). 
+</p>
+<p id="l5">
+<a title="Cellulose" href="Cellulose">Cellulose</a> fibers, the primary constituents of paper, are transparent, but the piling up of them in a paper <a title="Web" href="Web">web</a> diffuses the light passing through the sheet, imparting a paper's opacity. <a title="Fillers" class="nonexistent" href="http://printwiki.org/Fillers">Fillers</a> such as <a title="Clay" href="Clay">clay</a>, <a title="Titanium Dioxide" href="Titanium_Dioxide">titanium dioxide</a>, and <a title="Calcium Carbonate" href="Calcium_Carbonate">calcium carbonate</a> are added to increase the diffusion of light through a paper, thereby increasing its opacity. The best opacifiers, however, tend to be the most expensive, so the majority of papers are at best translucent. Tinting and dyeing of papers also increase their opacity, as does increasing a paper's <a title="Basis Weight" href="Basis_Weight">basis weight</a>, <a title="Bulk" href="Bulk">bulk</a>, or <a title="Coating" href="Coating">coating</a>. Increasing a paper's <a title="Whiteness" href="Whiteness">whiteness</a> tends to decrease its opacity, as does increasing its degree of <a title="Calendering" href="Calendering">calendering</a>, <a title="Supercalendering" href="Supercalendering">supercalendering</a>, or fiber <a title="Refining" href="Refining">refining</a>. 
+</p>
+<p id="l7">
+The measurement of a paper's opacity is accomplished utilizing an <a title="Opacimeter" href="Opacimeter">opacimeter</a> employing either the <a title="Contrast Ratio Method" href="Contrast_Ratio_Method">contrast ratio method</a> or the <a title="Diffuse Opacity Method" href="Diffuse_Opacity_Method">diffuse opacity method</a>. The contrast ratio method compares the amount of light reflected back through a paper when it is backed by a black sheet of paper to the amount reflected back though a paper when it is backed by a white surface. The diffuse opacity method differs from the contrast ratio method in that the white surface is replaced by a stack of the paper being tested.  
+</p>
+<p id="l9">
+The degree to which printing will show through to the reverse side of a sheet of paper may be the result not of diminished opacity but of an increase in ink absorption and penetration through the paper, being not an optical problem but a structural one. 
+</p>
+<p id="l11">
+The term <em>opacity</em> also refers to the extent to which a printed ink will permit or prevent the transmission of light through it, either blotting out or allowing to be seen what is beneath it. <a title="Opaque pigments" class="nonexistent" href="http://printwiki.org/Opaque_pigments">Opaque pigments</a> do not allow light to pass through them, instead reflect it back, and are used to print solid colors. <a title="Transparent pigments" class="nonexistent" href="http://printwiki.org/Transparent_pigments">Transparent pigments</a> allow varying amounts of light to pass through them, revealing the background printing or substrate. Transparent pigments are used to reduce color strength of more opaque inks, aid dispersion of color pigments, and "extend" a quantity of more expensive pigments. (See <a title="Pigment" href="Pigment">Pigment</a>.) Ink opacity is also referred to as its <a title="Covering Power" href="Covering_Power">covering power</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Grammage - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Grammage" class="currentChild" href="Grammage">Grammage</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Metric system equivalent of a paper's <a title="Basis Weight" href="Basis_Weight">basis weight</a>. Basis weight, expressed in pounds, is typically the weight of one ream (500 sheets) of a paper cut to its <a title="Basic Size" href="Basic_Size">basic size</a>, which can vary by paper <a title="Grade" href="Grade">grade</a>. Grammage is defined as the weight (in grams) of a square meter of paper, and is expressed in grams per square meters (g/m<sup>2</sup>). To convert from a known basis weight and basic size to g/m<sup>2</sup>: 
+</p>
+<p id="l5">
+'Trade Size'g/m<sup>2</sup> to lbs.lbs. to g/m<sup>2</sup> 
+</p>
+<p id="l7">
+17 x 220.2663.760 
+</p>
+<p id="l9">
+20 x 260.3702.704 
+</p>
+<p id="l11">
+24 x 360.6141.627 
+</p>
+<p id="l13">
+25 x 380.6751.480 
+</p>
+<p id="l15">
+1000 ft.<sup>2</sup>0.2054.831 
+</p>
+<p id="l19">
+So, to find the grammage of a 20-lb. 17 x 22 bond paper, multiply the basis weight (20 lbs.) by 3.760 to get 75.2 g/m<sup>2</sup>. Similarly, to find the basis weight of a 103.6 g/m<sup>2</sup> book paper, multiply the grammage by the conversion factor corresponding to the basic size of a book paper (25 x 38) to get 103.6 x 0.675 = 69.93, or approximately 70-pound paper. 
+</p>
+<p id="l21">
+The metric system also has its own basic sizes. (See <a title="A Series" href="A_Series">A Series</a> and <a title="B Series" href="B_Series">B Series</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

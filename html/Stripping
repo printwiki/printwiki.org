@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Stripping - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Stripping" class="currentChild" href="Stripping">Stripping</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In prepress, the attaching of film <a title="Negative" href="Negative">negative</a>s of a page—which can either be a single negative or the combination of one or more additional negatives exposed separately (such as <a title="Halftone" href="Halftone">halftone</a>s or other types of <a title="Strip-In" href="Strip-In">strip-in</a>)—on the back of a carrier sheet such as goldenrod. All the pages must be assembled on a single sheet of goldenrod in the correct <a title="Imposition" href="Imposition">imposition</a>. Holes are then cut in the front of the carrier sheet over the image areas of the negative, and extraneous pinholes or other undesired images are blotted out with a thick red or black fluid or pen (a process called <a title="Opaquing" href="Opaquing">opaquing</a>). The process of stripping produces a <a title="Flat" href="Flat">flat</a> which is then used to expose a plate prior to printing. (See <a title="Prepress: Graphic Arts Photography and Flat Assembly" class="nonexistent" href="http://printwiki.org/Prepress:_Graphic_Arts_Photography_and_Flat_Assembly">Prepress: Graphic Arts Photography and Flat Assembly</a>.) 
+</p>
+<p id="l3">
+In electronic publishing systems, a type of electronic stripping places all the page elements and pages in the proper position and imposition on the digital layout. 
+</p>
+<p id="l5">
+In ink terminology, the term <em>stripping</em> is a shortened term for <a title="Roller Stripping" href="Roller_Stripping">roller stripping</a>. See <a title="Roller Stripping" href="Roller_Stripping">Roller Stripping</a>. 
+</p>
+<p id="l7">
+In <a title="Binding and Finishing" href="Binding_and_Finishing">binding and finishing</a>, <em>stripping</em> refers to the affixing of muslin or other cloth reinforcements to <a title="Signature" href="Signature">signature</a>s, linings, or <a title="Insert" href="Insert">insert</a>s to impart added strength in <a title="Case Binding" href="Case_Binding">case binding</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

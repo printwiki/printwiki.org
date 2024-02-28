@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Internal Bond Strength - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Internal Bond Strength" class="currentChild" href="Internal_Bond_Strength">Internal Bond Strength</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measure of the strength of a paper to resist rupturing in the direction perpendicular to the plane of the paper surface. Paper strength is measured in three dimensions: the <a title="Grain Direction" href="Grain_Direction">grain direction</a> (or "X-direction"), the <a title="Cross-Grain Direction" href="Cross-Grain_Direction">cross-grain direction</a> (or "Y-direction"), and the direction at right angles to the paper (or "Z-direction"). When paper fibers are deposited on the <a title="Forming Wire" href="Forming_Wire">forming wire</a> during papermaking, successive layers of fibers are placed on top of each other. The internal bond strength refers to the strength of the bonding of these separate fibrous layers, and the <a title="Plybond Strength" href="Plybond_Strength">plybond strength</a> refers to the force needed to "delaminate," or separate, these layers. The internal bond strength is an important consideration in offset printing, to ensure that the paper sheet will not delaminate when subjected to the Z-directional force caused by the peeling of the sheet from a press blanket containing tacky ink. Low internal bond strength of coated paper is also a factor in <a title="Blistering" href="Blistering">blistering</a> during <a title="Heatset Drying" href="Heatset_Drying">heatset drying</a>.  
+</p>
+<p id="l3">
+Internal bond strength of paper is tested in a variety of ways, all of which gauge the amount of force needed to delaminate a paper sample. In one test, the sample is sandwiched between and adhered to two metal plates. A force is applied at right angles to the sample, and the force required to pull the sample apart is recorded, usually in pounds per square inch (psi) or kilopascals. Another test (utilizing an internal-bond impact tester) adheres a paper sample to the underside of an L-shaped metal anvil. A swinging pendulum contacts the side of the anvil, which applies a force at right angles to the paper sample. The force needed to delaminate the sample is recorded as its internal bond strength. Internal bond strength is also known as its <a title="Z-Directional Tensile Strength" href="Z-Directional_Tensile_Strength">Z-directional tensile strength</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

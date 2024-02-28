@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Tags Cheat-Sheet - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Tags Cheat-Sheet" class="currentChild" href="Tags_Cheat-Sheet">Tags Cheat-Sheet</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-22536247a533b37e779635b5ca87ac4ecef15600"><h3 id="l1">Tags by Example</h3></span>
+
+<div class="wikitable">
+<table>
+<tr id="l2">
+<td>
+<strong> Name </strong></td>
+<td>
+<strong> Tagging </strong></td>
+<td>
+<strong> Result </strong></td>
+</tr>
+<tr id="l3">
+<td>
+Superscript</td>
+<td>
+<tt>&nbsp;Super^script^&nbsp;</tt></td>
+<td>
+Super<sup>script</sup></td>
+</tr>
+<tr id="l4">
+<td>
+Subscript</td>
+<td>
+<tt>&nbsp;Sub,,script,,&nbsp;</tt></td>
+<td>
+Sub<sub>script</sub></td>
+</tr>
+<tr id="l5">
+<td>
+Strike-through</td>
+<td>
+<tt>&nbsp;X--&nbsp;strikeout&nbsp;--X&nbsp;</tt></td>
+<td>
+<s> strikeout </s></td>
+</tr>
+<tr id="l6">
+<td>
+Bold (3 single-quotes)</td>
+<td>
+<tt>&nbsp;'''Bold'''&nbsp;</tt></td>
+<td>
+<strong>Bold</strong></td>
+</tr>
+<tr id="l7">
+<td>
+Italic (2 single-quotes)</td>
+<td>
+<tt>&nbsp;''Italic''&nbsp;</tt></td>
+<td>
+<em>Italic</em></td>
+</tr>
+<tr id="l8">
+<td>
+Underline</td>
+<td>
+<tt>&nbsp;__Underline__&nbsp;</tt></td>
+<td>
+<u>Underline</u></td>
+</tr>
+<tr id="l9">
+<td>
+Footnote</td>
+<td>
+<tt>&nbsp;[[FootNote(Some&nbsp;Info&nbsp;you&nbsp;want&nbsp;to&nbsp;footnote.)]]</tt></td>
+<td>
+<sup><a href="Tags_Cheat-Sheet#fndef-efdc3576d5e70960d87d8aaaa2d2953f634f09d0-0" id="fnref-efdc3576d5e70960d87d8aaaa2d2953f634f09d0-0">1</a></sup></td>
+</tr>
+<tr id="l10">
+<td>
+Link to an http URL automatically.</td>
+<td>
+<tt>&nbsp;http://PrintWiki.org&nbsp;</tt></td>
+<td>
+<a class="external" href="index.html"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://PrintWiki.org</a></td>
+</tr>
+<tr id="l11">
+<td>
+Link to a URL manually (preferred)</td>
+<td>
+<tt>&nbsp;[http://PrintWiki.org]&nbsp;</tt></td>
+<td>
+<a class="external" href="index.html"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">http://PrintWiki.org</a></td>
+</tr>
+<tr id="l12">
+<td>
+Link to a URL with text</td>
+<td>
+<tt>&nbsp;[http://PrintWiki.org&nbsp;PrintWiki&nbsp;the&nbsp;Website]&nbsp;</tt></td>
+<td>
+<a class="external" href="index.html"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">PrintWiki the Website</a></td>
+</tr>
+<tr id="l13">
+<td>
+Link to a PrintWiki page</td>
+<td>
+<tt>&nbsp;["Title&nbsp;of&nbsp;PrintWiki&nbsp;Page"]&nbsp;</tt></td>
+<td>
+<a title="Title of PrintWiki Page" class="nonexistent" href="http://printwiki.org/Title_of_PrintWiki_Page">Title of PrintWiki Page</a></td>
+</tr>
+<tr id="l14">
+<td>
+Link to a PrintWiki page with alternate text</td>
+<td>
+<tt>&nbsp;["Title&nbsp;of&nbsp;PrintWiki&nbsp;Page"&nbsp;Some&nbsp;other&nbsp;Title]&nbsp;</tt></td>
+<td>
+<a title="Title of PrintWiki Page" class="nonexistent" href="http://printwiki.org/Title_of_PrintWiki_Page">Some other Title</a></td>
+</tr>
+<tr id="l15">
+<td>
+Link to an e-mail address automatically</td>
+<td>
+<tt>&nbsp;nobody@PrintWiki.org&nbsp;</tt></td>
+<td>
+<a href="mailto:nobody@PrintWiki.org">nobody@PrintWiki.org</a></td>
+</tr>
+<tr id="l16">
+<td>
+Link to an e-mail address manually</td>
+<td>
+<tt>&nbsp;[mailto:nobody@PrintWiki.org]&nbsp;</tt></td>
+<td>
+<a class="external" href="mailto:nobody@PrintWiki.org"><img class="borderless" src="wiki/eggheadbeta/img/email.png" alt="[MAILTO]" height="10" width="14">mailto:nobody@PrintWiki.org</a></td>
+</tr>
+<tr id="l17">
+<td>
+Link to an HTML anchor</td>
+<td>
+<tt>&nbsp;[#anchorname&nbsp;Anchor&nbsp;Link]&nbsp;</tt></td>
+<td>
+<a href="Tags_Cheat-Sheet#anchorname">Anchor Link</a></td>
+</tr>
+</table>
+</div>
+<span id="head-9a76e8182941d5bbd0d8055fc1538665ac2cfe04"><h3 id="l19">Tags by Description</h3></span>
+
+<div class="wikitable">
+<table>
+<tr id="l20">
+<td>
+<strong>Description</strong></td>
+<td>
+<strong>Tagging</strong></td>
+</tr>
+<tr id="l21">
+<td>
+Main heading</td>
+<td>
+<tt>&nbsp;=&nbsp;Heading&nbsp;=&nbsp;</tt></td>
+</tr>
+<tr id="l22">
+<td>
+Subheading</td>
+<td>
+<tt>&nbsp;==&nbsp;Subheading&nbsp;==&nbsp;</tt></td>
+</tr>
+<tr id="l23">
+<td>
+Subheading 2</td>
+<td>
+<tt>&nbsp;===&nbsp;Subheading&nbsp;===&nbsp;</tt></td>
+</tr>
+<tr id="l24">
+<td>
+Subheading 3</td>
+<td>
+<tt>&nbsp;====&nbsp;Subheading&nbsp;====&nbsp;</tt></td>
+</tr>
+<tr id="l25">
+<td>
+Subheading 4</td>
+<td>
+<tt>&nbsp;=====&nbsp;Subheading&nbsp;=====&nbsp;</tt></td>
+</tr>
+<tr id="l26">
+<td>
+Text formatted literally</td>
+<td>
+Enclose "code" use three braces in a row ({) then close with three in a pair (})</td>
+</tr>
+<tr id="l27">
+<td>
+Comment area</td>
+<td>
+<tt>&nbsp;[[Comments()]]&nbsp;</tt></td>
+</tr>
+<tr id="l28">
+<td>
+Comment area with title</td>
+<td>
+<tt>&nbsp;[[Comments("Title&nbsp;Above&nbsp;Comment&nbsp;Area")]]&nbsp;</tt></td>
+</tr>
+<tr id="l29">
+<td>
+Table-of-contents automatically generated from headings</td>
+<td>
+<tt>&nbsp;[[TableOfContents]]&nbsp;</tt></td>
+</tr>
+<tr id="l30">
+<td>
+Hidden text (text shown only during editing)</td>
+<td>
+<tt>&nbsp;##&nbsp;at&nbsp;the&nbsp;beginning&nbsp;of&nbsp;a&nbsp;line&nbsp;</tt></td>
+</tr>
+</table>
+</div>
+<div class="footnotes"><div></div><ul><li><span><a href="Tags_Cheat-Sheet#fnref-efdc3576d5e70960d87d8aaaa2d2953f634f09d0-0" id="fndef-efdc3576d5e70960d87d8aaaa2d2953f634f09d0-0">1</a></span>Some Info you want to footnote.</li></ul></div><div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

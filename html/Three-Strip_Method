@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Three-Strip Method - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Three-Strip Method" class="currentChild" href="Three-Strip_Method">Three-Strip Method</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+One of the varieties of <a title="Strip Method" href="Strip_Method">strip method</a> (or <a title="Sandwich Method" href="Sandwich_Method">sandwich method</a>) of testing the <a title="Roller Setting" href="Roller_Setting">roller setting</a> of offset printing ink and dampening rollers. In the three-strip method, nine strips of 0.004-inch-thick packing paper are cut, three of which are 12 x 1 inches, the other six being 12 x 2 inches. Three "sandwiches" are made, inserting one 12 x 1 strip between two 12 x 2 strips. The sandwiches are then inserted into the nip of the two rollers to be tested, one at the left end, one in the center, and one at the right end. The size of the nip is then adjusted to the proper setting, or so that the paper sandwiches are gripped firmly but not excessively tightly. Beginning with the center sandwich, the inner strip of paper is pulled out evenly with one hand, in a straight line. With the same hand and with the same amount of force, the other two inner strips are also pulled out. They should pull out easily, without excessive drag, and each strip should pull out with the same force. If the setting is too tight, or if the strips pull out with unequal force across the rollers, the setting needs to be adjusted, and the test tried again. This method can be used to test the setting between either the <a title="Ductor Roller" href="Ductor_Roller">ductor roller</a> and its adjacent <a title="Oscillator" href="Oscillator">oscillator</a>, the first <a title="Form Roller" href="Form_Roller">form roller</a> and <em>its</em> adjacent oscillator, or the last form roller and the plate cylinder. 
+</p>
+<p id="l3">
+A slight variation of this procedure is the <a title="folded-paper method" class="nonexistent" href="http://printwiki.org/folded-paper_method">folded-paper method</a>, in which instead of six 12 x 2-inch strips, three 24 x 2-inch strips are cut, and folded in half lengthwise, the three 12 x 1-inch strips then placed in the center. 
+</p>
+<p id="l5">
+A perhaps more objective and quantitative measurement can be made utilizing a <a title="Roller-Setting Gauge" href="Roller-Setting_Gauge">roller-setting gauge</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>PrintWiki Guide - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="PrintWiki Guide" class="currentChild" href="PrintWiki_Guide">PrintWiki Guide</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+<table class="tableOfContents"><tr><td><ol>
+<li>
+<a href="PrintWiki_Guide#head-2473e96bc614a911821242119918a241a41836d6">Introduction</a></li>
+<li>
+<a href="PrintWiki_Guide#head-550b1813cd3c819511c4480e0095156ab6eff036">Making an Account</a></li>
+<li>
+<a href="PrintWiki_Guide#head-16022a7fa911c58c407e34872a8c1b39701a8b30">Creating your first page</a></li>
+<li>
+<a href="PrintWiki_Guide#head-ac2102e0f563fe69ddb9d4c52fe4016890ef78ec">The Edit, Info and Talk Icons</a></li>
+<ol>
+<li>
+<a href="PrintWiki_Guide#head-5301648dcf6b53cefc9ed52999aaa92d4603cae0">Edit</a></li>
+<li>
+<a href="PrintWiki_Guide#head-4b631f69842530d659306c8f06dbad594a6b1807">Info</a></li>
+<li>
+<a href="PrintWiki_Guide#head-4e6a710d7f8571d8af578697436aef0e7bd40998">Talk</a></li>
+</ol>
+
+<li>
+<a href="PrintWiki_Guide#head-f951e1ba14e318af50d5a938f7325e9f2f8903bd">The tabs</a></li>
+<ol>
+<li>
+<a href="PrintWiki_Guide#head-4e812745e052b933f273b27b05f78a2614ad505e">Front Page</a></li>
+<li>
+<a href="PrintWiki_Guide#head-ca3cddd25bd8f6bc4ce35a262e2e1398541ecf3d">Bookmarks</a></li>
+<li>
+<a href="PrintWiki_Guide#head-00d1e8f3b7e617bbce21544e5388a56b668d8dcd">Recent Changes</a></li>
+<li>
+<a href="PrintWiki_Guide#head-a3e956264d8b5af19a8fc76dad6c2866d917081b">Current Page</a></li>
+</ol>
+
+<li>
+<a href="PrintWiki_Guide#head-4cf1b54b003a59c279d1ba0b615a8a5f3459ca8c">Tips</a></li>
+<li>
+<a href="PrintWiki_Guide#head-d790b402d79ac1a723c790313bcd679999474630">Frequently Asked Questions</a></li>
+<li>
+<a href="PrintWiki_Guide#head-fba3e8bb535b664038b852a5a3e305888a080d75">Additional Questions?</a></li>
+<li>
+<a href="PrintWiki_Guide#head-6ce778b63a57813f4e2d7ba5788970b5be64f2e6">Policies and Guidelines</a></li>
+</ol>
+
+</td></tr></table> 
+</p>
+<span id="head-2473e96bc614a911821242119918a241a41836d6"><h2 id="l3">Introduction</h2></span>
+<p id="l4">
+A wiki is a set of web-pages which anyone can easily edit and expand. This freedom allows for unique expression and helps foster interesting and new ideas in an organic and very dynamic way. Creating or editing content doesn't require programming skills or knowledge of HTML. 
+</p>
+<p id="l6">
+What is the benefit of this? In the case of a community-based site like PrintWiki: <br/>
+</p>
+
+    <ul>
+
+    <li>
+<p id="l7">
+ You can share your knowledge with everyone else. <br/>
+</p>
+</li>
+    <li>
+<p id="l8">
+ If you see something you think is inaccurate or incorrect, you have the power to change it. <br/>
+</p>
+</li>
+    <li>
+<p id="l9">
+ If you see that something is incomplete, you can add more information. <br/>
+</p>
+</li>
+    <li>
+<p id="l10">
+ If you think someone missed the point on, you can add to the information on a page. 
+</p>
+</li>
+
+    </ul>
+
+
+<p id="l12">
+You can also create completely new content and tie it into the rest of the site. Likewise, others have the power to veto your changes and edit pages you have created. The goal is to participate in a project that ultimately leaves the users with the content they most want. Never be afraid to change something or try something new! 
+</p>
+<span id="head-550b1813cd3c819511c4480e0095156ab6eff036"><h2 id="l14">Making an Account</h2></span>
+<p id="l16">
+Before you get started adding to the website, you must first create an account. While some large wikis like <a class="external" href="http://wikipedia.org"><img class="borderless" src="wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">WikiPedia</a> do not require users to log in before editing, PrintWiki exists with the desire to build connections between those that use, make or consume print. So take a few minutes to read this section, log in, and start writing! 
+</p>
+<p id="l18">
+To make an account: 
+</p>
+
+    <ol type="1">
+
+    <li>
+<p id="l20">
+First go up to the top right corner of this webpage, and click the 'New User' button. <br/>
+</p>
+</li>
+    <li>
+<p id="l21">
+You will then be asked for some very basic information, including your User Name. Your user name is your first name then last name with no spaces (like RobertSmith). <br/>
+</p>
+</li>
+    <li>
+<p id="l22">
+Fill in your password and a valid e-mail address, and you are ready to edit! 
+</p>
+</li>
+
+    </ol>
+
+
+<span id="head-16022a7fa911c58c407e34872a8c1b39701a8b30"><h2 id="l24">Creating your first page</h2></span>
+<p id="l26">
+When you are creating a new page, always start by searching for your proposed page name using the "Search" box on the upper right side of each page. This will turn up any pre-existing pages with the same or similar names, or any pre-existing pages with the search term in their page text, in which case you can decide if you should create a new page or edit an existing one. Always edit an existing page when appropriate! 
+</p>
+<p id="l28">
+In this case, enter your own User Name in the search box (for example, "RobertSmith"). If you are a new user, the search is likely to turn up 'No full text matches' as a result (unless of course there is already a page in the wiki with your username for a title). You will have the option to click on the words "create a new page with this title," which will take you directly to a new, blank page titled with your very own User Name. 
+</p>
+<p id="l30">
+Once you are at your blank user page, you can either click on the words 'Create this Page' to start from scratch. Add some text to your new page. Click preview to view your work, and when you are satisified click 'Save Changes' underneath the text editing area. Your page will instantly be added to PrintWiki! 
+</p>
+<span id="head-ac2102e0f563fe69ddb9d4c52fe4016890ef78ec"><h2 id="l32">The Edit, Info and Talk Icons</h2></span>
+<p id="l33">
+<span class="floatRight"><a href="http://printwiki.org/PrintWiki_Guide?action=Files&amp;do=view&amp;target=edit-info-talk.png"><img class="border" src="http://printwiki.org/PrintWiki_Guide?sendfile=true&amp;file=edit-info-talk.png" alt="edit-info-talk.png"/></a><div style="width: 113px;"><p class="normalCaption">The edit Info and Talk icons</p></div></span>After you create an account you will see three new icons. These icons will help you create or edit the pages in the PrintWiki. <span id="head-5301648dcf6b53cefc9ed52999aaa92d4603cae0"><h3 id="l35">Edit</h3></span>
+<p id="l37">
+Nearly all PrintWiki pages can be edited by clicking the "Edit" icon located next to the page name (top left side of page). Clicking on "Edit" presents you with a text editing field and several basic editing options. See the [Help] pages for help on PrintWiki editing. 
+</p>
+<span id="head-4b631f69842530d659306c8f06dbad594a6b1807"><h3 id="l39">Info</h3></span>
+<p id="l41">
+Clicking the "Info" icon will show all the changes made to all the pages. Every edit of a page accounts for a new version and is stored in the Revision History. Links will show you what pages link to the page and what links out of the page. Files will show you any info about files uploaded for this page if their are any. 
+</p>
+<span id="head-4e6a710d7f8571d8af578697436aef0e7bd40998"><h3 id="l43">Talk</h3></span>
+<p id="l45">
+All conversations about a page should be put on its Talk page, and never in the article itself. 
+</p>
+<p id="l47">
+The "Talk" icon creates a new page named "Talk" as a subdirectory of the page from which "Talk" was called. For example, clicking on the "Talk" icon for this page would create a new page named "PrintWiki_Guide/Talk." 
+</p>
+<p id="l49">
+The "Talk" feature allows users to move discussions about a page off the main page. It provides a forum for discussion of page content that is conceptually separate from the page itself, giving users an area in which to work out conflicts, ask questions, or generally talk with other users who have similar interest in the page subject. Some possible reasons for creating a "Talk" page: 
+</p>
+
+    <ul>
+
+    <li>
+<p id="l51">
+ The veracity of some content on a page is disputed. A "Talk" page could be created to discuss the page's content. <br/>
+</p>
+</li>
+    <li>
+<p id="l52">
+ A user has a question about something on a page, but does not want to ask the question on the page itself. <br/>
+</p>
+</li>
+    <li>
+<p id="l53">
+ A user wants to communicate with other wiki users about the subject of a page, for example: "Is the content on this page true?" <br/>
+</p>
+</li>
+    <li>
+<p id="l54">
+ A user is desperately lonely, and wants to "Talk" 
+</p>
+</li>
+
+    </ul>
+
+
+<p id="l56">
+All of these and more are valid reasons to create a talk page! It's a part of what builds the wiki community, and what helps keep the information on this site relevant, correct, and up-to-date. 
+</p>
+<span id="head-f951e1ba14e318af50d5a938f7325e9f2f8903bd"><h2 id="l59">The tabs</h2></span>
+<p id="l61">
+The tabs help you navigate around the PrintWiki site and allow you to save some topics of interest to you. 
+</p>
+<span id="head-4e812745e052b933f273b27b05f78a2614ad505e"><h3 id="l63">Front Page</h3></span>
+<p id="l65">
+This tab takes you to the PrintWiki.org home page. Nothing too clever here. 
+</p>
+<span id="head-ca3cddd25bd8f6bc4ce35a262e2e1398541ecf3d"><h3 id="l67">Bookmarks</h3></span>
+<p id="l69">
+If you are logged in a "Bookmarks" tabs is available to you. When you find a page you are interested in, or when you edit a page you may wish to bookmark it to watch if it gets changed. To bookmark a page click the "Bookmark" link at the bottom of any page. 
+</p>
+<span id="head-00d1e8f3b7e617bbce21544e5388a56b668d8dcd"><h3 id="l71">Recent Changes</h3></span>
+<p id="l73">
+The "Recent Changes" tab contains a list of recent changes in this wiki. 
+</p>
+<span id="head-a3e956264d8b5af19a8fc76dad6c2866d917081b"><h3 id="l75">Current Page</h3></span>
+<p id="l77">
+The last tab will show the name of the page you are viewing. Right now it should show "PrintWiki Guide" because that is what you are viewing. 
+</p>
+<span id="head-4cf1b54b003a59c279d1ba0b615a8a5f3459ca8c"><h2 id="l79">Tips</h2></span>
+
+    <ul>
+
+    <li>
+<p id="l81">
+ Use Bookmarks! You can mark pages as bookmarks by clicking the "bookmark" link at the botom of any page. When a page is bookmarked you'll be able to remember it later on, and also see if it's changed (without having to check [Recent Changes]). <br/>
+</p>
+</li>
+    <li>
+<p id="l82">
+ Link link link! After you've made a page you should search the wiki looking for places to add links to your new page. After all, if you make a page, shouldn't you make sure everyone else can see it? Occurrences of the page name are immediately candidates for links. Beyond this, you can get creative and link relevant text accordingly. <br/>
+</p>
+</li>
+    <li>
+<p id="l83">
+ Preview! Always click the "Preview" button before you click "Save Changes" in order to make sure everything looks right, etc! Even the best of us forget this all too often. 
+</p>
+</li>
+
+    </ul>
+
+
+<span id="head-d790b402d79ac1a723c790313bcd679999474630"><h2 id="l85">Frequently Asked Questions</h2></span>
+<p id="l87">
+See the complete <a title="FAQ" href="FAQ">FAQ</a>. 
+</p>
+<span id="head-fba3e8bb535b664038b852a5a3e305888a080d75"><h2 id="l89">Additional Questions?</h2></span>
+<p id="l91">
+Did you read through here, look over at the <a title="Help" href="Help">Help</a> pages, and play with the Wiki <a title="Sandbox" href="Sandbox">Sandbox</a>? Do you have a question? Then ask it! Go to the <a title="FAQ" href="FAQ">FAQ</a> and press Edit. Just scroll to the bottom, ignore anything that's written (but leave it there), and ask your question (don't worry about anything — just type!) Then hold tight and you'll get your question answered and help us improve! 
+</p>
+<span id="head-6ce778b63a57813f4e2d7ba5788970b5be64f2e6"><h2 id="l93">Policies and Guidelines</h2></span>
+<p id="l95">
+PrintWiki is not an anarchistic community of ink sniffers. We do have some basic <a title="PrintWiki" href="PrintWiki">policies and guidelines</a>. Mostly they involve common sense, respect and an unbiased point-of-view. Odds are that if you read this far down you may fit those needs, but check them out anyways. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Transfer Cylinder - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Transfer Cylinder" class="currentChild" href="Transfer_Cylinder">Transfer Cylinder</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+The part of an offset printing press that transfers the printed paper from the <a title="Impression Cylinder" href="Impression_Cylinder">impression cylinder</a> to the delivery tray, or to additional printing units. The last transfer cylinder in a press before the delivery tray is more commonly known as a <a title="Delivery Cylinder" href="Delivery_Cylinder">delivery cylinder</a>. In multi-color presses (i.e., those with more than one printing unit), an odd number of transfer cylinders is located between printing units. Transfer sections have three basic configurations. (See <a title="Chain Transfer" href="Chain_Transfer">Chain Transfer</a>, <a title="Single-Drum Transfer" href="Single-Drum_Transfer">Single-Drum Transfer</a>, and <a title="Three-Drum Transfer" href="Three-Drum_Transfer">Three-Drum Transfer</a>.) 
+</p>
+<p id="l3">
+An important concern with respect to transfer cylinders is ensuring that they do not smudge or mark the wet ink. Consequently, transport rollers are covered with a variety of surfaces or substances to eliminate this problem, such as a near-frictionless ink-repellent coating, which is then covered with a near-frictionless cloth, which moves unimpeded over the surface of the cylinder, preventing a rubbing action which can damage the inked image. Some transfer cylinders also contain a thin bit of adhesive-backed foam rubber on the portions of the cylinder that correspond to non-image areas of the printed sheets, which prevent the inked image areas from contacting the surface of the cylinder at all. Needless to say, the foam needs to be replaced and customized for each job. 
+</p>
+<p id="l5">
+Some presses replace the transfer cylinder with an <a title="Air-Transport Drum" href="Air-Transport_Drum">air-transport drum</a> which transfers the printed sheets on a cushion of air. 
+</p>
+<p id="l7">
+Transfer cylinders or drums are also used to transfer sheets through sheetfed gravure presses. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

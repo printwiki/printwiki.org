@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Front Page widgets/Getting Started - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="../Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="../Front_Page" class="tab">Front Page</a><a href="../Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Front Page widgets" href="../Front_Page_widgets">Front Page widgets</a>/<a title="Front Page widgets/Getting Started" class="currentChild" href="Getting_Started">Getting Started</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<span id="head-010b85ad56b34c34c7c2a3b2436c740e30428ed5"><h2 id="l1">Getting Started</h2></span>
+<p id="l2">
+First, check out the <a title="PrintWiki Guide" href="../PrintWiki_Guide">PrintWiki Guide</a> and <a title="Help/Help with Accounts" href="../Help/Help_with_Accounts">Help with Accounts</a>&mdash; these are a good place to start! 
+</p>
+<p id="l4">
+A Wiki is a linked set of pages that <em>anybody can edit and contribute to</em> <strong>without knowing anything about websites</strong>.  <a class="external" href="http://www.wikipedia.org/"><img class="borderless" src="../wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">Wikipedia</a> is the prime example of a successful wiki project.  Also, check out <a class="external" href="http://c2.com/cgi/wiki?WhyWikiWorks"><img class="borderless" src="../wiki/eggheadbeta/img/sycamore-www.png" alt="[WWW]" height="7" width="13">Why Wiki Works</a> for some information on the philosophy of wiki. 
+</p>
+
+    <ul>
+
+    <li>
+<p id="l6">
+ If you see something you think is inaccurate or incorrect, you have the power to change it. <br/>
+</p>
+</li>
+    <li>
+<p id="l7">
+ If you see that something is incomplete, you can add more information. <br/>
+</p>
+</li>
+    <li>
+<p id="l8">
+ If you think someone missed the point or slacked off, you can add to the information on a page. <br/>
+</p>
+</li>
+    <li>
+<p id="l9">
+ You can use the wiki as a forum for discussion on a topic. 
+</p>
+</li>
+
+    </ul>
+
+
+<p id="l11">
+After you get familiar read over the <a title="PrintWiki" href="../PrintWiki">Policies and Guidelines</a> then play around in the <a title="Sandbox" href="../Sandbox">Sandbox</a>. Still have questions, check out our <a title="FAQ" href="../FAQ">FAQ</a>. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. (See <a href="../Copyrights">Copyrights</a> for details.)<br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> <a href="../PrintWiki_Project">About</a> &nbsp;&nbsp; Hosted by <a href="http://whattheythink.com/">WhatTheyThink</a> <br/> <br /><br /></div></div></body>
+</html>
+

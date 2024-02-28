@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Bar Code - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Bar Code" class="currentChild" href="Bar_Code">Bar Code</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+In packaging and <a title="Optical Character Recognition" href="Optical_Character_Recognition">optical character recognition</a>, a series of black and white bars used to encode product and price information in a form that can quickly and accurately be read by a scanning device (called a <a title="Bar-Code Scanner" href="Bar-Code_Scanner">bar-code scanner</a>). Bar codes of various types are used in many different applications, from grocery and other retail pricing, to stock and inventory, to tracking shipments, to Department of Defense stock tracking. The basic principle of the bar code is that the alternating white and black bars stand for certain binary digits which, when read by a computer, correspond to whatever the bar code symbol has been encoded to represent, such as product, inventory, and price information. Depending upon the system used to encode information, bar codes may either be discrete (in which each individual set of black bars in a larger code stand for individual characters) or continuous (in which the entire bar code encodes one set of data). There is also usually enough redundant information encoded in a bar code to ensure that data is interpreted correctly by the computer. Many bar code systems also allow the code to be scanned in any direction or orientation, thus expediting check-out procedures, for example. Despite the ubiquity and seeming homogeneity of the bar code, there are actually many different, mutually incompatible bar code systems in use. 
+</p>
+<p id="l3">
+'UPC'. Perhaps the most familiar bar code is the <a title="Universal Product Code" href="Universal_Product_Code">Universal Product Code</a>, adopted in 1973 by the grocery industry. Although originally devised as a means of expediting grocery store checkouts and stock management, the UPC symbol eventually made its way to many other forms of consumer goods, from pharmaceuticals to books to records (or CDs) to computer equipment and liquor. UPC symbols are designed to be printed on packages at a specific size. If the symbol, however, is too large for the package meant to contain it, the top may be cut off. Although in most cases a "shaved off" bar code can be scanned, it eliminates the number of orientations in which the scanner can read the symbol. 
+</p>
+<p id="l5">
+'Code 39'. Code 39 is the standard bar code for the United States Government, having been initially designed and adopted in 1975 by the Department of Defense to track parts and inventory supplied by contractors. Other industries—such as the automotive and health-care industries—have adopted Code 39. (The "39", by the way, refers to the fact that three of every nine bars will be wide ones.) 
+</p>
+<p id="l7">
+'Two of Five'. The Two of Five bar code was developed in 1968 and is used in warehouses for the tracking of inventory, in the airline industry for ticketing, baggage handling and cargo tracking, in photographic development for the tracking of jobs, and in other such in-house data processing. A revised and expanded version of the Two of Five bar code is used in shipping industries. 
+</p>
+<p id="l9">
+'Codabar'. Developed by a division of Pitney Bowes for retail price coding, it was supplanted by the UPC system. Codabar is now used primarily in libraries to keep track of which books have been checked out and in hospitals to code blood bags by blood type (and other information). Especially in this latter use, it is fortuitous that the Codabar system contains much redundant information to facilitate self-checking. 
+</p>
+<p id="l11">
+'Plessey Code'. Developed in the United Kingdom, the Plessey Code has limited use and is primarily used in the labeling of grocery store shelves. 
+</p>
+<p id="l13">
+'Scanning Systems'. There are a variety of scanning systems available for the reading of bar codes, ranging from small, pen-like hand-held units, to the large, moving beam scanners built into grocery store checkout counters. (See <a title="Bar-Code Scanner" href="Bar-Code_Scanner">Bar-Code Scanner</a>.) 
+</p>
+<p id="l15">
+'Bar-Code Printing'. One crucial yet often overlooked aspect of printing on packaging is the accurate reproduction of the bar code. Inaccurately sized or printed bar codes will not scan properly (or at all), which can lead to a great deal of frustration, especially in crowded supermarkets, a situation which no doubt goes without saying. Since most packaging is printed by means of <a title="Flexography" href="Flexography">flexography</a>, certain conditions in the prepress process need to be addressed. Since flexography prints from rubber or other types of elastomeric plates, there is some degree of image elongation which occurs when the plate is mounted to the plate cylinder. (Also, in the preparation of rubber flexo plates, there is also some degree of image reduction when the plate cools and hardens.) As a result, these dimensional changes need to be accounted for in the imaging of flexo plates. (See <a title="Prepress: Printing Processes: Flexography" class="nonexistent" href="http://printwiki.org/Prepress:_Printing_Processes:_Flexography">Prepress: Printing Processes: Flexography</a>.) Regardless of the printing process used (some materials containing bar codes may be printed by <a title="Gravure" href="Gravure">gravure</a>, <a title="Offset Lithography" href="Offset_Lithography">offset lithography</a>, or <a title="Screen Printing" href="Screen_Printing">screen printing</a>), it is important that the film master from which the plates will be prepared be exposed within very strict tolerances. Special photocomposing devices are used to prepare master films of bar codes. Since every printing process has some degree of dimensional change from film master to press print, the film master must take into account these variations in size. Often, bar codes are printed separately at special bar-code printing sites onto labels, and these labels are then attached to the product they are meant to identify. 
+</p>
+<p id="l17">
+An alternative to including a bar code on a package is on-site bar-code printing. Often, the data to be encoded in a symbol cannot be predicted or "programmed" in advance, or needs to be changed or generated "on the fly." (For example, some stores use bar codes to identify lot number, weight, and other site-specific information.) As a result, bar codes can be printed on-site, using any configuration of computer printer, such as <a title="Laser Printer" href="Laser_Printer">laser printer</a>s, <a title="Dot-Matrix Printer" href="Dot-Matrix_Printer">dot-matrix printer</a>s, <a title="Ink-Jet Printer" href="Ink-Jet_Printer">ink-jet printer</a>s, etc. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

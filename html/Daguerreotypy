@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Daguerreotypy - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Daguerreotypy" class="currentChild" href="Daguerreotypy">Daguerreotypy</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A nascent method of photography, invented in large part by French painter Louis Jacques Mandé Daguerre (but largely based on the work of French chemist Joseph Nicéphore Niepce, with whom Daguerre was a partner). Daguerre was originally a theatrical scenery painter, who had created a diorama in the 1820s. Seeking a means of quickly and efficiently reproducing the various images in his dioramas, he hooked up with Niepce, who had been working on photographic reproduction since 1814. Niepce and Daguerre worked on developing a means of capturing photographic images by means of sunlight, but when Niepce died in 1833, Daguerre abandoned Niepce's process and devised one of his own. In the resulting daguerreotypy, announced in 1839, a polished silver plate was exposed to iodine vapors, which resulted in a light-sensitive layer of silver iodide on thje plate. This plate was then exposed to light using a camera, and the <a title="Latent Image" href="Latent_Image">latent image</a> was developed using mercury vapor. The remaining unexposed silver iodide was removed using a solution of common salt (sodium chloride), which acted as a <a title="Fixing" href="Fixing">fixing</a> solution. Eventually, it was discovered that sodium thiosulfate was a better fixer than was salt. Daguerre's photographs were (and still are) known as <em>daguerreotypes</em>, which are among some of the oldest photographic images still in existence. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Point System - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Point System" class="currentChild" href="Point_System">Point System</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A measurement system used in typography. The system dates from early handset metal type, where the sizes of type cast by type founders were graduated on a uniform "point" scale. Each size is described by its number of points (called its <a title="Point Size" href="Point_Size">point size</a>; see <a title="Point Size" href="Point_Size">Point Size</a>), which referred to the height of the body on which it is cast. Calculations are simplified by assuming each point is one-seventy-second of an inch. At one time, there were three point systems in use worldwide: 
+</p>
+<p id="l3">
+<strong>American-British System</strong>. This is the point system used throughout North America and Great Britain. The standard of measurement is the 0.166-inch <a title="Pica" href="Pica">pica</a> and the 0.01383-inch point. One point is equal to one-twelfth of a pica. Thus, 1,000 lines of pica—or 12-point—matter measure 166 inches, and 1,000 lines of 6-point matter measure 83 inches. Point is abbreviated <a title="pt" class="nonexistent" href="http://printwiki.org/pt">pt</a>. 
+</p>
+<p id="l5">
+<strong>Didot System</strong>. Used primarily in Europe, the Didot system uses the <a title="Cicero" href="Cicero">cicero</a> as its basic unit, which is equal to 12 <a title="corp" class="nonexistent" href="http://printwiki.org/corp">corp</a>s, or 0.178 inch. The Didot corps (or <a title="Didot Point" href="Didot_Point">Didot point</a>) measures 0.0148 inch. 
+</p>
+<p id="l7">
+<strong>Mediaan System</strong>. Once used principally in Belgium, the Mediaan system has a corps (or point) equal to 0.01374 inch. The Mediaan em, or cicero, measures 0.165 inch. The Mediaan system, however, has largely been replaced by the Didot system. 
+</p>
+<p id="l9">
+For general, practical measurement purposes, three decimal places (thousandths of an inch) are deemed sufficient significant digits. 
+</p>
+<p id="l11">
+In the American-British system, it is convenient to remember 6 picas equal one inch, 12 points equal one pica, and 72 points equal one inch—but it's not exactly true. Picas and points do not have an exact relationship to inches. Thus, 30 picas—or approximately 5 inches—actually equal 4.98 inches. 
+</p>
+<p id="l13">
+It should be noted, however, that much of Europe is moving to purely metric measurements. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Curl - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Curl" class="currentChild" href="Curl">Curl</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+A distortion of paper characterized by a lack of flatness. Curl can have a number of different causes: differences in structure between a paper's <a title="Wire Side" href="Wire_Side">wire side</a> and <a title="Felt Side" href="Felt_Side">felt side</a> cause each side to expand and contract in different ways when moisture is gained and lost, producing a curl; paper that is wrapped very near the core of a paper roll and then sheeted, will have a curl, if it has not been decurled properly (called <a title="Roll-Set Curl" href="Roll-Set_Curl">roll-set curl</a>); dimensional changes caused by the addition of moisture to a paper's surface during offset printing causes a curl. Curl is usually more apparent in lower-basis weight papers. Curl can possibly be counteracted by running the paper through a press with a blank plate and merely applying moisture to the side of the sheet opposite the curl. Failing that, two-sided offset print jobs typically print better if the first side is printed curl down. Adding moisture to this side during printing may help neutralize the curl. 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+

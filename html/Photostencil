@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index,follow">
+
+
+
+<title>Photostencil - PrintWiki</title>
+
+                <link rel="stylesheet" type="text/css" media="all" href="static/common.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/layout.css">
+                <link rel="stylesheet" type="text/css" media="screen" href="static/style.css">
+                
+
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div id="banner">
+<table class="logo">
+<tr>
+<td class="logo_banner">
+<a class="nostyle" href="Front_Page"><img align="middle" src="static/printwiki-logo.png" alt="PrintWiki Logo" style="" height="58px" width="192px"></a>
+</td>
+</tr>
+</table>
+<div class="tabArea"><a href="Front_Page" class="tab">Front Page</a><a href="Title_Index" class="tab">Title Index</a></div>
+</div>
+<div id="title">
+<table id="title_area_table">
+<tr>
+<td>
+<table id="title_table">
+<tr id="iconRow">
+<td id="title_text"><h1><a title="Photostencil" class="currentChild" href="Photostencil">Photostencil</a></h1></td>
+
+
+
+</tr></table>
+</td>
+</tr></table></div>
+
+
+
+<div id="content" class="content wikipage" lang="en" dir="ltr">
+<p id="l1">
+Any type of stencil used in <a title="Screen Printing" href="Screen_Printing">screen printing</a> which is coated with a photosensitive <a title="Emulsion" href="Emulsion">emulsion</a> and exposed to the original artwork to be printed, in contrast to a <a title="Hand-Cut Stencil" href="Hand-Cut_Stencil">hand-cut stencil</a>. 
+</p>
+<p id="l3">
+There are three processes used to prepare photostencils: 
+</p>
+<p id="l5">
+<strong>Indirect Process</strong>. The <a title="Indirect Process" href="Indirect_Process">indirect process</a> employs a dry photosensitive emulsion which has been coated onto a clear plastic backing sheet. A film positive is placed in contact with the transparent backing sheet and exposed to ultraviolet light. The UV light shines through the positive and the base in the non-image areas hitting the emulsion beneath, and post-exposure development (utilizing either hydrogen peroxide or water, depending upon the exact nature of the emulsion) hardens those portions of the photostencil emulsion. The light does not penetrate the image areas of the posituve, and consequently the corresponding portions of the emulsion remain soft and insoluble and can consequently be washed away with water (or other fluid) after exposure and developing, forming the open regions of the stencil. This washout procedure also varies according to the stencil material, and can utilize either hot water (95:105ºF) or cooler water (about 70ºF). The stencil is washed until a clear, sharp stencil image appears, and the development process can usually be stopped (or, in other words, the image "fixed") with cold water. The stencil is then applied to the bottom of the screen, typically using only the water from the washout process, and, when dry, the plastic backing sheet is removed. <a title="Blockout Solution" href="Blockout_Solution">Blockout solution</a> is then applied to the open portions of the screen fabric beyond the edges of the stencil, and the solution is also used to touch up any pinholes that turned up in the stencil during exposure. Once the blockout solution is dry, the stencil is ready to print. 
+</p>
+<p id="l7">
+<strong>Direct Process</strong>. In the <a title="Direct Process" href="Direct_Process">direct process</a>, a liquid emulsion—often composed of <a title="Polyvinyl Chloride" href="Polyvinyl_Chloride">polyvinyl chloride</a>, a <a title="Gelatin" href="Gelatin">gelatin</a>-based substance, or some combination thereof plus a <a title="Bichromate" href="Bichromate">bichromate</a>-based photosensitizer—is applied directly to the surface of the screen fabric (commonly by means of a <a title="Scoop Coater" href="Scoop_Coater">scoop coater</a>). Similar to the indirect process, a film positive of the image to be printed is placed in contact with the wet emulsion and exposed to ultraviolet light, which, as aove, hardens the non-image areas and leaves the image areas soft and soluble. The image areas are then washed away after exposure, producing the openings in the stencil. When the emulsion is dry, the screen is ready for printing. A printing screen prepared in this manner is known as a <a title="Photoscreen" href="Photoscreen">photoscreen</a>. 
+</p>
+<p id="l9">
+<strong>Direct/Indirect Process</strong>. As its name implies, the <a title="Direct/Indirect Process" href="Direct/Indirect_Process">direct/indirect process</a> is a combination of the previous two processes. An unsensitized film backing is placed on the stencil side of the screen fabric. On the top side of the screen, a liquid emulsion and a photosensitizing agent are applied, and seep through the screen to coat the backing film. When the emulsion/sensitizer mixture are dry, the film backing is removed, leaving the emulsion on the screen. At this point, a similar exposure as outlined above is performed. The primary advantage of this process is the ability to produce a uniform emulsion thickness throughout the stencil. 
+</p>
+<p id="l11">
+There is no simple formula for determining proper exposure times for photostencil emulsions. Each manufacturer has specific recommendations, but these can vary according to the application. The use of a <a title="Step Wedge" href="Step_Wedge">step wedge</a> is often used to calibrate photostencil emulsion times. (See <a title="Step Wedge" href="Step_Wedge">Step Wedge</a>.) 
+</p>
+<div style="clear: both;"></div></div>
+
+
+<div id="footer"><table width="100%%" border="0" cellspacing="0" cellpadding="0"><tr><td align="left" width="20%"></tr></table></div>
+
+<div class="wikiGlobalFooter" align="center"><div class="wikiSpotFooter">All text and images are licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons License</a><br/> permitting sharing and adaptation with attribution. <br /><br /><strong>PrintWiki – the Free Encyclopedia of Print</strong> <br/> </div></div></body>
+</html>
+
